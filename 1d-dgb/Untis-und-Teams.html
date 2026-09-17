@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Untis und Teams / Untis and Teams</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+  <script src="../assets/language.js" defer></script>
+  <style>
+    .goals {
+      margin: 0 0 1.25rem;
+      padding: 1rem 1.25rem 1rem 2.5rem;
+      border: 1px solid var(--line);
+      border-radius: 1rem;
+      background: var(--paper);
+    }
+    .goals li + li { margin-top: 0.35rem; }
+    .mini-table {
+      width: 100%;
+      margin-top: 0.9rem;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+    .mini-table th, .mini-table td {
+      padding: 0.65rem;
+      border: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+    .mini-table th { background: #f4f8fc; }
+    .message-model {
+      margin-top: 0.8rem;
+      padding: 0.9rem 1rem;
+      border-radius: 0.7rem;
+      background: #f4f8fc;
+      white-space: pre-line;
+    }
+    .warning {
+      margin-top: 0.8rem;
+      padding: 0.85rem 1rem;
+      border-left: 0.35rem solid #ff633f;
+      background: #fff5f2;
+      font-weight: 700;
+    }
+    .bonus {
+      border: 2px solid var(--green);
+    }
+    .action-link {
+      display: inline-block;
+      margin-top: 0.85rem;
+      padding: 0.65rem 0.9rem;
+      border-radius: 0.6rem;
+      background: var(--navy);
+      color: white;
+      font-weight: 800;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="language-switch" role="group" aria-label="Sprache / Language">
+    <button type="button" data-set-lang="de" aria-pressed="true">DE</button>
+    <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
+  </div>
+
+  <main class="site-shell">
+    <p class="breadcrumb">
+      <a href="index.html">
+        <span data-lang="de">← Zurück zu 1D</span>
+        <span data-lang="en">← Back to 1D</span>
+      </a>
+    </p>
+
+    <header class="site-header">
+      <h1 data-lang="de">Untis und Teams</h1>
+      <h1 data-lang="en">Untis and Teams</h1>
+      <p data-lang="de">Stundenplan lesen, Informationen finden und höflich schreiben</p>
+      <p data-lang="en">Read your timetable, find information and write politely</p>
+    </header>
+
+    <h2 data-lang="de">Heute lernst du:</h2>
+    <h2 data-lang="en">Today you will learn to:</h2>
+    <ul class="goals">
+      <li data-lang="de">dich an einem anderen Schulcomputer und in Edge anzumelden;</li>
+      <li data-lang="en">sign in on a different school computer and in Edge;</li>
+      <li data-lang="de">Untis zu öffnen, dein Kennwort zu ändern und deinen Stundenplan zu verstehen;</li>
+      <li data-lang="en">open Untis, change your password and understand your timetable;</li>
+      <li data-lang="de">dich in Teams anzumelden und eine höfliche Nachricht zu senden;</li>
+      <li data-lang="en">sign in to Teams and send a polite message;</li>
+      <li data-lang="de">eine Teams-Aufgabe abzugeben.</li>
+      <li data-lang="en">hand in a Teams assignment.</li>
+    </ul>
+
+    <section class="tutorial">
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">1. An einem neuen Computer anmelden</h2>
+          <h2 data-lang="en">1. Sign in on a new computer</h2>
+          <p data-lang="de">Wähle <strong>Anderer Benutzer</strong>. Gib <strong>firstname.lastname</strong> und dein Windows-Kennwort ein.</p>
+          <p data-lang="en">Select <strong>Other user</strong>. Enter <strong>firstname.lastname</strong> and your Windows password.</p>
+          <div class="note">
+            <span data-lang="de">Benutze denselben Benutzernamen und dasselbe Kennwort wie in der letzten Stunde.</span>
+            <span data-lang="en">Use the same username and password as in the last lesson.</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">2. In Edge anmelden</h2>
+          <h2 data-lang="en">2. Sign in to Edge</h2>
+          <p data-lang="de">Öffne Edge, klicke oben rechts auf das Personen-Symbol und melde dich mit deinem Schulkonto an.</p>
+          <p data-lang="en">Open Edge, click the person icon at the top right and sign in with your school account.</p>
+          <div class="note"><strong>firstname.lastname@grg23vbs.ac.at</strong></div>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">3. WebUntis öffnen</h2>
+          <h2 data-lang="en">3. Open WebUntis</h2>
+          <p data-lang="de">Klicke in die Adresszeile und gib <strong>grg23vbs.webuntis.com</strong> ein. Drücke Enter.</p>
+          <p data-lang="en">Click the address bar and enter <strong>grg23vbs.webuntis.com</strong>. Press Enter.</p>
+        </div>
+        <img class="screenshot" src="images/untis-teams/05-webuntis-url-bar.webp" alt="WebUntis-Adresse in Edge / WebUntis address in Edge">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">4. Zum ersten Mal in Untis anmelden</h2>
+          <h2 data-lang="en">4. Sign in to Untis for the first time</h2>
+          <p data-lang="de">Benutze deinen Untis-Benutzernamen. Dein erstes Kennwort ist dein Geburtsdatum. Ändere es danach auf dein Windows-Kennwort.</p>
+          <p data-lang="en">Use your Untis username. Your first password is your date of birth. Then change it to your Windows password.</p>
+          <div class="note">
+            <span data-lang="de">Wenn Edge fragt, ob das neue Kennwort gespeichert werden soll, wähle <strong>Speichern</strong>.</span>
+            <span data-lang="en">When Edge asks whether it should save the new password, select <strong>Save</strong>.</span>
+          </div>
+          <div class="warning">
+            <span data-lang="de">Zeige dein Kennwort niemandem.</span>
+            <span data-lang="en">Do not show your password to anyone.</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">5. „My timetable“ öffnen</h2>
+          <h2 data-lang="en">5. Open “My timetable”</h2>
+          <p data-lang="de">Klicke links auf <strong>My timetable</strong>. So siehst du deinen eigenen Stundenplan.</p>
+          <p data-lang="en">Click <strong>My timetable</strong> on the left. This shows your own timetable.</p>
+        </div>
+        <img class="screenshot" src="images/untis-teams/02-untis-my-timetable.webp" alt="My timetable in WebUntis">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">6. Schüler- oder Standardansicht wählen</h2>
+          <h2 data-lang="en">6. Choose the student or standard view</h2>
+          <p data-lang="de">Klicke unten auf die drei Punkte. Wähle bei <strong>Timetable Format</strong> entweder <strong>Schueler</strong> oder <strong>Standard</strong>.</p>
+          <p data-lang="en">Click the three dots at the bottom. Under <strong>Timetable Format</strong>, choose either <strong>Schueler</strong> or <strong>Standard</strong>.</p>
+        </div>
+        <img class="screenshot" src="images/untis-teams/01-untis-schueler-standard-view.webp" alt="Schüler- oder Standardansicht auswählen / Selecting the student or standard timetable view">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">7. Den Stundenplan benutzen</h2>
+          <h2 data-lang="en">7. Use the timetable</h2>
+          <p data-lang="de">Mit den Pfeilen oben gehst du eine Woche vor oder zurück. Mit <strong>Today</strong> kommst du zur aktuellen Woche zurück.</p>
+          <p data-lang="en">Use the arrows at the top to move one week backwards or forwards. Select <strong>Today</strong> to return to the current week.</p>
+          <div class="note">
+            <span data-lang="de">Klicke auf eine Unterrichtsstunde. Prüfe die Details: Fach, Lehrperson, Raum und Hausübung.</span>
+            <span data-lang="en">Click a lesson. Check the details: subject, teacher, room and homework.</span>
+          </div>
+        </div>
+        <img class="screenshot" src="images/untis-teams/03-untis-1a-timetable.webp" alt="Wochenstundenplan der 1A / Weekly timetable for class 1A">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">8. Abkürzungen verstehen</h2>
+          <h2 data-lang="en">8. Understand the abbreviations</h2>
+          <p data-lang="de">In einer Unterrichtsstunde findest du meist drei wichtige Informationen:</p>
+          <p data-lang="en">A lesson usually shows three important pieces of information:</p>
+          <table class="mini-table">
+            <thead>
+              <tr><th>COURSE</th><th>TEACHERS</th><th>ROOM</th></tr>
+            </thead>
+            <tbody>
+              <tr data-lang="de"><td>Kurs, Klasse oder Fach</td><td>Name oder Kürzel der Lehrperson</td><td>Raumnummer oder Raumname</td></tr>
+              <tr data-lang="en"><td>Course, class or subject</td><td>Teacher’s name or short code</td><td>Room number or room name</td></tr>
+            </tbody>
+          </table>
+          <div class="note">
+            <span data-lang="de">Die bewegliche orange-schwarze Linie zeigt: <strong>Das ist jetzt.</strong></span>
+            <span data-lang="en">The moving orange-and-black line shows: <strong>This is now.</strong></span>
+          </div>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">9. Nachrichten in Untis finden</h2>
+          <h2 data-lang="en">9. Find messages in Untis</h2>
+          <p data-lang="de">Öffne den Bereich <strong>Messages</strong>. Dort findest du deinen Posteingang und oben rechts die Schaltfläche <strong>+ New</strong>.</p>
+          <p data-lang="en">Open <strong>Messages</strong>. You will see your inbox and the <strong>+ New</strong> button at the top right.</p>
+          <div class="warning">
+            <span data-lang="de">Heute nur anschauen: Sende keine Nachricht in Untis.</span>
+            <span data-lang="en">Look only today: do not send a message in Untis.</span>
+          </div>
+        </div>
+        <img class="screenshot" src="images/untis-teams/04-untis-new-message.webp" alt="Nachrichtenbereich in Untis / Messages area in Untis">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">10. Höflich schreiben</h2>
+          <h2 data-lang="en">10. Write politely</h2>
+          <p data-lang="de">Eine gute Nachricht hat eine Begrüßung, eine klare Information oder Frage und einen freundlichen Schluss.</p>
+          <p data-lang="en">A good message has a greeting, one clear piece of information or a question, and a friendly ending.</p>
+          <div class="message-model" data-lang="de"><strong>Beispiel:</strong>
+Guten Tag Herr Northup,
+ich hatte heute keine Probleme.
+Viele Grüße
+Mina</div>
+          <div class="message-model" data-lang="en"><strong>Example:</strong>
+Hello Mr Northup,
+I did not have any problems today.
+Best wishes,
+Mina</div>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">11. In Teams anmelden</h2>
+          <h2 data-lang="en">11. Sign in to Teams</h2>
+          <p data-lang="de">Öffne <strong>teams.microsoft.com</strong>. Melde dich mit deiner Schul-E-Mail und deinem Windows-Kennwort an.</p>
+          <p data-lang="en">Open <strong>teams.microsoft.com</strong>. Sign in with your school email address and Windows password.</p>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">12. Eine Nachricht in Teams senden</h2>
+          <h2 data-lang="en">12. Send a message in Teams</h2>
+          <p data-lang="de">Schreibe einem von uns eine höfliche Nachricht. Sage, ob du Probleme hattest. Wenn ja, beschreibe das Problem kurz.</p>
+          <p data-lang="en">Send one of us a polite message. Say whether you had any problems. If you did, describe the problem briefly.</p>
+          <div class="message-model" data-lang="de"><strong>Du kannst dieses Muster benutzen:</strong>
+Guten Tag Herr ________,
+ich hatte heute [keine Probleme / ein Problem mit ________].
+Viele Grüße
+[dein Vorname]</div>
+          <div class="message-model" data-lang="en"><strong>You can use this model:</strong>
+Hello Mr ________,
+today I had [no problems / a problem with ________].
+Best wishes,
+[your first name]</div>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">13. Eine Aufgabe in Teams abgeben</h2>
+          <h2 data-lang="en">13. Hand in an assignment in Teams</h2>
+          <ol data-lang="de">
+            <li>Öffne dein Klassenteam und wähle <strong>Assignments</strong>.</li>
+            <li>Öffne die Aufgabe.</li>
+            <li>Füge deine Datei bei <strong>Attach</strong> oder <strong>Add work</strong> hinzu.</li>
+            <li>Prüfe, ob die richtige Datei angezeigt wird.</li>
+            <li>Klicke auf <strong>Turn in</strong>.</li>
+          </ol>
+          <ol data-lang="en">
+            <li>Open your class team and select <strong>Assignments</strong>.</li>
+            <li>Open the assignment.</li>
+            <li>Add your file using <strong>Attach</strong> or <strong>Add work</strong>.</li>
+            <li>Check that the correct file is shown.</li>
+            <li>Click <strong>Turn in</strong>.</li>
+          </ol>
+          <div class="warning">
+            <span data-lang="de">Nur Hochladen reicht nicht: Du musst am Ende auf <strong>Turn in</strong> klicken.</span>
+            <span data-lang="en">Uploading is not enough: you must click <strong>Turn in</strong> at the end.</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="tutorial-step bonus">
+        <div class="step-copy">
+          <h2 data-lang="de">Bonus: Tippen mit DigBi</h2>
+          <h2 data-lang="en">Bonus: Typing with DigBi</h2>
+          <p data-lang="de">Nur wenn du mit allem fertig bist: Öffne das Tastaturtraining. Arbeite die Teile <strong>in der Reihenfolge 1, 2, 3 …</strong> durch.</p>
+          <p data-lang="en">Only when you have finished everything else: open the keyboard course. Complete the parts <strong>in order: 1, 2, 3 …</strong>.</p>
+          <div class="warning">
+            <span data-lang="de">Nicht vorspringen zu „Flizzy’s Zeichenchaos“.</span>
+            <span data-lang="en">Do not skip ahead to “Flizzy’s Zeichenchaos”.</span>
+          </div>
+          <a class="action-link" href="https://s.42l.fr/tastatur" target="_blank" rel="noopener">
+            <span data-lang="de">Tastaturtraining öffnen</span>
+            <span data-lang="en">Open the keyboard course</span>
+          </a>
+        </div>
+        <img class="screenshot" src="images/untis-teams/06-digbi-tastatur-in-order.webp" alt="DigBi-Aufgaben in der richtigen Reihenfolge / DigBi tasks in the correct order">
+      </article>
+    </section>
+  </main>
+</body>
+</html>
