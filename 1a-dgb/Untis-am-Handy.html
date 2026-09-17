@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Untis und Teams am Handy / Untis and Teams on your phone</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+  <script src="../assets/language.js" defer></script>
+  <style>
+    .goals, .task-list {
+      margin: 0 0 1.25rem;
+      padding: 1rem 1.25rem 1rem 2.5rem;
+      border: 1px solid var(--line);
+      border-radius: 1rem;
+      background: var(--paper);
+    }
+    .goals li + li, .task-list li + li { margin-top: 0.45rem; }
+    .warning {
+      margin-top: 0.9rem;
+      padding: 0.85rem 1rem;
+      border-left: 0.35rem solid #ff633f;
+      background: #fff5f2;
+      font-weight: 700;
+    }
+    .login-box {
+      display: grid;
+      gap: 0.35rem;
+      margin-top: 0.9rem;
+      padding: 0.9rem 1rem;
+      border-radius: 0.7rem;
+      background: #f4f8fc;
+      overflow-wrap: anywhere;
+    }
+    .mini-table {
+      width: 100%;
+      margin-top: 0.9rem;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+    .mini-table th, .mini-table td {
+      padding: 0.65rem;
+      border: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+    .mini-table th { background: #f4f8fc; }
+    .task-card { border: 2px solid var(--blue); }
+    .bonus { border: 2px solid var(--green); }
+    .action-link {
+      display: inline-block;
+      margin-top: 0.85rem;
+      padding: 0.65rem 0.9rem;
+      border-radius: 0.6rem;
+      background: var(--navy);
+      color: white;
+      font-weight: 800;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="language-switch" role="group" aria-label="Sprache / Language">
+    <button type="button" data-set-lang="de" aria-pressed="true">DE</button>
+    <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
+  </div>
+
+  <main class="site-shell">
+    <p class="breadcrumb">
+      <a href="index.html">
+        <span data-lang="de">← Zurück zu 1A</span>
+        <span data-lang="en">← Back to 1A</span>
+      </a>
+    </p>
+
+    <header class="site-header">
+      <h1 data-lang="de">Untis und Teams am Handy</h1>
+      <h1 data-lang="en">Untis and Teams on your phone</h1>
+      <p data-lang="de">Schul-WLAN, Mobile Untis und Teams einrichten</p>
+      <p data-lang="en">Set up the school Wi-Fi, Mobile Untis and Teams</p>
+    </header>
+
+    <h2 data-lang="de">Heute lernst du:</h2>
+    <h2 data-lang="en">Today you will learn to:</h2>
+    <ul class="goals">
+      <li data-lang="de">dein Handy mit dem Schul-WLAN zu verbinden;</li>
+      <li data-lang="en">connect your phone to the school Wi-Fi;</li>
+      <li data-lang="de">Mobile Untis herunterzuladen, dich anzumelden und den Stundenplan zu benutzen;</li>
+      <li data-lang="en">download Mobile Untis, sign in and use the timetable;</li>
+      <li data-lang="de">Hausübungen, Räume und Unterrichtsdetails zu finden;</li>
+      <li data-lang="en">find homework, rooms and lesson details;</li>
+      <li data-lang="de">Teams auf deinem Handy einzurichten.</li>
+      <li data-lang="en">set up Teams on your phone.</li>
+    </ul>
+
+    <section class="tutorial">
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">1. Sofortaufgabe: Melde dich an</h2>
+          <h2 data-lang="en">1. Do now: Sign in</h2>
+          <ol data-lang="de">
+            <li>Melde dich am Computer an.</li>
+            <li>Öffne Edge und melde dich in <strong>Teams</strong> an.</li>
+            <li>Melde dich in <strong>WebUntis</strong> an.</li>
+          </ol>
+          <ol data-lang="en">
+            <li>Sign in to the computer.</li>
+            <li>Open Edge and sign in to <strong>Teams</strong>.</li>
+            <li>Sign in to <strong>WebUntis</strong>.</li>
+          </ol>
+          <div class="warning">
+            <span data-lang="de">Wenn etwas nicht funktioniert: Hand heben und warten.</span>
+            <span data-lang="en">If something does not work: raise your hand and wait.</span>
+          </div>
+        </div>
+        <img class="screenshot" src="images/untis-mobile/01-wichtige-daten.webp" alt="Wichtige Anmeldedaten für Computer, E-Mail und WebUntis / Important sign-in details for the computer, email and WebUntis">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">2. Mit dem Schul-WLAN verbinden</h2>
+          <h2 data-lang="en">2. Connect to the school Wi-Fi</h2>
+          <p data-lang="de">Öffne auf deinem Handy die WLAN-Einstellungen und wähle <strong>Public</strong>.</p>
+          <p data-lang="en">Open the Wi-Fi settings on your phone and select <strong>Public</strong>.</p>
+          <div class="login-box">
+            <div><strong>Login:</strong> vorname.nachname@grg23vbs.ac.at</div>
+            <div><strong><span data-lang="de">Passwort:</span><span data-lang="en">Password:</span></strong> <span data-lang="de">dein PC-Passwort</span><span data-lang="en">your computer password</span></div>
+          </div>
+        </div>
+        <img class="screenshot" src="images/untis-mobile/02-computer-und-handy-start.webp" alt="Erste Schritte am Computer und am Handy / First steps on the computer and phone">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">3. Mobile Untis installieren</h2>
+          <h2 data-lang="en">3. Install Mobile Untis</h2>
+          <p data-lang="de">Öffne den <strong>App Store</strong> oder <strong>Play Store</strong>. Suche nach <strong>Untis Mobile</strong>, lade die App herunter und öffne sie.</p>
+          <p data-lang="en">Open the <strong>App Store</strong> or <strong>Play Store</strong>. Search for <strong>Untis Mobile</strong>, download the app and open it.</p>
+        </div>
+        <img class="screenshot" src="images/untis-mobile/03-untis-installieren.webp" alt="Untis Mobile im App Store oder Play Store installieren / Installing Untis Mobile from the App Store or Play Store">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">4. In Mobile Untis anmelden</h2>
+          <h2 data-lang="en">4. Sign in to Mobile Untis</h2>
+          <ol data-lang="de">
+            <li>Suche nach der Schule <strong>Draschestraße</strong>.</li>
+            <li>Wähle <strong>GRG WIEN 23</strong>.</li>
+            <li>Gib deinen Untis-Benutzernamen und dein Passwort ein.</li>
+          </ol>
+          <ol data-lang="en">
+            <li>Search for the school <strong>Draschestraße</strong>.</li>
+            <li>Select <strong>GRG WIEN 23</strong>.</li>
+            <li>Enter your Untis username and password.</li>
+          </ol>
+          <div class="login-box">
+            <div data-lang="de"><strong>Untis-Benutzername:</strong> die ersten 3 Buchstaben deines Nachnamens + die ersten 3 Buchstaben deines Vornamens.<br>Beispiel: Leidinger Paulus → <strong>LeiPau</strong></div>
+            <div data-lang="en"><strong>Untis username:</strong> the first 3 letters of your surname + the first 3 letters of your first name.<br>Example: Leidinger Paulus → <strong>LeiPau</strong></div>
+          </div>
+          <div class="note">
+            <span data-lang="de">Nur falls du dich noch nie in WebUntis angemeldet hast: Dein <strong>vorläufiges Passwort</strong> ist dein Geburtsdatum als <strong>JJJJMMTT</strong>, zum Beispiel 20140723. Ändere es sofort auf dein PC-Passwort.</span>
+            <span data-lang="en">Only if you have never signed in to WebUntis: your <strong>temporary password</strong> is your date of birth as <strong>YYYYMMDD</strong>, for example 20140723. Change it immediately to your computer password.</span>
+          </div>
+        </div>
+        <img class="screenshot" src="images/untis-mobile/04-untis-anmelden.webp" alt="Schule suchen und bei Untis anmelden / Searching for the school and signing in to Untis">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">5. Mobile Untis erkunden</h2>
+          <h2 data-lang="en">5. Explore Mobile Untis</h2>
+          <ul data-lang="de">
+            <li>Finde die <strong>Nachrichten</strong>, aber sende heute keine.</li>
+            <li>Gehe im Stundenplan vor und zurück.</li>
+            <li>Tippe auf eine Stunde und prüfe Fach, Lehrperson, Raum und Hausübung.</li>
+            <li>Öffne als Beispiel Mathematik am <strong>21.09</strong> und prüfe die Hausübung.</li>
+          </ul>
+          <ul data-lang="en">
+            <li>Find <strong>Messages</strong>, but do not send one today.</li>
+            <li>Move backwards and forwards in the timetable.</li>
+            <li>Tap a lesson and check the subject, teacher, room and homework.</li>
+            <li>As an example, open Maths on <strong>21 September</strong> and check the homework.</li>
+          </ul>
+          <table class="mini-table">
+            <thead><tr><th>COURSE</th><th>TEACHERS</th><th>ROOM</th></tr></thead>
+            <tbody>
+              <tr data-lang="de"><td>Kurs, Klasse oder Fach</td><td>Name oder Kürzel der Lehrperson</td><td>Raumnummer oder Raumname</td></tr>
+              <tr data-lang="en"><td>Course, class or subject</td><td>Teacher’s name or short code</td><td>Room number or room name</td></tr>
+            </tbody>
+          </table>
+          <div class="note">
+            <span data-lang="de">Die bewegliche orange-schwarze Linie zeigt: <strong>Das ist jetzt.</strong></span>
+            <span data-lang="en">The moving orange-and-black line shows: <strong>This is now.</strong></span>
+          </div>
+        </div>
+      </article>
+
+      <article class="tutorial-step task-card">
+        <div class="step-copy">
+          <h2 data-lang="de">6. Aufgabe in WebUntis</h2>
+          <h2 data-lang="en">6. WebUntis task</h2>
+          <p data-lang="de"><strong>Löse diese Aufgaben und schreibe die Antworten auf ein Blatt Papier.</strong></p>
+          <p data-lang="en"><strong>Complete these tasks and write your answers on a sheet of paper.</strong></p>
+          <ol class="task-list" data-lang="de">
+            <li>Finde in WebUntis heraus, was am Montag (21.09) in den ersten 3 Stunden passiert.</li>
+            <li>Was bedeuten die grünen Balken am Mittwoch, 30.09?</li>
+            <li>Welche Hausaufgabe habt ihr bis zum Dienstag, 22.09 in DGB?</li>
+            <li>Wie viele Wochen sind es laut Stundenplan bis zu den Herbstferien?</li>
+          </ol>
+          <ol class="task-list" data-lang="en">
+            <li>Use WebUntis to find out what happens in the first three lessons on Monday, 21 September.</li>
+            <li>What do the green bars on Wednesday, 30 September mean?</li>
+            <li>What DGB homework do you have for Tuesday, 22 September?</li>
+            <li>According to the timetable, how many weeks are there until the autumn holidays?</li>
+          </ol>
+        </div>
+        <img class="screenshot" src="images/untis-mobile/05-aufgabe-in-webuntis.webp" alt="Die vier verbindlichen WebUntis-Aufgaben / The four required WebUntis tasks">
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">7. Teams auf dem Handy installieren</h2>
+          <h2 data-lang="en">7. Install Teams on your phone</h2>
+          <ol data-lang="de">
+            <li>Öffne den App Store oder Play Store.</li>
+            <li>Suche nach <strong>Microsoft Teams</strong> und installiere die App.</li>
+            <li>Melde dich mit <strong>vorname.nachname@grg23vbs.ac.at</strong> und deinem PC-Passwort an.</li>
+          </ol>
+          <ol data-lang="en">
+            <li>Open the App Store or Play Store.</li>
+            <li>Search for <strong>Microsoft Teams</strong> and install the app.</li>
+            <li>Sign in with <strong>firstname.lastname@grg23vbs.ac.at</strong> and your computer password.</li>
+          </ol>
+        </div>
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">8. Exit Ticket und Hausübung</h2>
+          <h2 data-lang="en">8. Exit ticket and homework</h2>
+          <p data-lang="de">Zeige vor dem Gehen, dass Mobile Untis und Teams auf deinem Handy funktionieren.</p>
+          <p data-lang="en">Before you leave, show that Mobile Untis and Teams work on your phone.</p>
+          <div class="warning">
+            <span data-lang="de">Hausübung: Frage deine Eltern, ob sie sich in Untis anmelden können. Falls nicht, sagt uns in der nächsten Stunde Bescheid.</span>
+            <span data-lang="en">Homework: Ask your parents whether they can sign in to Untis. If they cannot, tell us in the next lesson.</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="tutorial-step bonus">
+        <div class="step-copy">
+          <h2 data-lang="de">Bonus: Tippen mit DigBi</h2>
+          <h2 data-lang="en">Bonus: Typing with DigBi</h2>
+          <p data-lang="de">Nur wenn du fertig bist: Bearbeite das Tastaturtraining <strong>in der Reihenfolge 1, 2, 3 …</strong>.</p>
+          <p data-lang="en">Only when you have finished: complete the keyboard course <strong>in order: 1, 2, 3 …</strong>.</p>
+          <div class="warning">
+            <span data-lang="de">Nicht zu „Flizzy’s Zeichenchaos“ vorspringen.</span>
+            <span data-lang="en">Do not skip ahead to “Flizzy’s Zeichenchaos”.</span>
+          </div>
+          <a class="action-link" href="https://s.42l.fr/tastatur" target="_blank" rel="noopener">
+            <span data-lang="de">Tastaturtraining öffnen</span>
+            <span data-lang="en">Open the keyboard course</span>
+          </a>
+        </div>
+        <img class="screenshot" src="images/untis-mobile/06-digbi-tastatur-in-order.webp" alt="DigBi-Aufgaben in der richtigen Reihenfolge / DigBi tasks in the correct order">
+      </article>
+    </section>
+  </main>
+</body>
+</html>
