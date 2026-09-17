@@ -80,29 +80,29 @@ a:hover { text-decoration-thickness: 2px; }
 .language-switch {
   position: fixed;
   z-index: 10;
-  top: max(0.75rem, env(safe-area-inset-top));
-  right: max(0.75rem, env(safe-area-inset-right));
+  top: max(0.4rem, env(safe-area-inset-top));
+  right: max(0.4rem, env(safe-area-inset-right));
   display: flex;
-  gap: 0.2rem;
-  padding: 0.25rem;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: rgba(255,255,255,0.96);
-  box-shadow: var(--shadow);
+  gap: 0.1rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
 }
 .language-switch button {
-  min-width: 2.75rem;
-  min-height: 2.75rem;
+  min-width: 2rem;
+  min-height: 2rem;
+  padding: 0.25rem 0.4rem;
   border: 0;
-  border-radius: 999px;
-  background: transparent;
+  border-radius: 0.4rem;
+  background: rgba(255, 255, 255, 0.28);
   color: var(--navy);
   font: inherit;
+  font-size: 0.72rem;
   font-weight: 800;
   cursor: pointer;
 }
 .language-switch button[aria-pressed="true"] {
-  background: var(--navy);
+  background: rgba(17, 36, 61, 0.72);
   color: white;
 }
 html[lang="de"] [data-lang="en"],
