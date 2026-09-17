@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Titel der Anleitung / Tutorial title</title>
+  <!-- Beim Kopieren in einen Klassenordner funktionieren diese Pfade unverändert. -->
+  <link rel="stylesheet" href="../assets/styles.css">
+  <script src="../assets/language.js" defer></script>
+</head>
+<body>
+  <div class="language-switch" role="group" aria-label="Sprache / Language">
+    <button type="button" data-set-lang="de" aria-pressed="true">DE</button>
+    <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
+  </div>
+  <main class="site-shell">
+    <p class="breadcrumb"><a href="index.html"><span data-lang="de">← Zurück zur Klasse</span><span data-lang="en">← Back to class</span></a></p>
+    <header class="site-header">
+      <h1 data-lang="de">Titel der Anleitung</h1>
+      <h1 data-lang="en">Tutorial title</h1>
+      <p data-lang="de">Kurze Erklärung des Ziels</p>
+      <p data-lang="en">A short explanation of the goal</p>
+    </header>
+
+    <section class="tutorial">
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">1. Erster Schritt</h2>
+          <h2 data-lang="en">1. First step</h2>
+          <p data-lang="de">Schreibe hier eine kurze, klare Anweisung.</p>
+          <p data-lang="en">Write a short, clear instruction here.</p>
+          <div class="note">
+            <span data-lang="de">Hinweise können so hervorgehoben werden.</span>
+            <span data-lang="en">Notes can be highlighted like this.</span>
+          </div>
+        </div>
+        <!-- Screenshot ergänzen:
+        <img class="screenshot" src="images/dateiname.png"
+             alt="Kurze Bildbeschreibung / Short image description">
+        -->
+      </article>
+
+      <article class="tutorial-step">
+        <div class="step-copy">
+          <h2 data-lang="de">2. Nächster Schritt</h2>
+          <h2 data-lang="en">2. Next step</h2>
+          <p data-lang="de">Weitere Schritte einfach untereinander kopieren.</p>
+          <p data-lang="en">Copy more steps underneath as needed.</p>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
