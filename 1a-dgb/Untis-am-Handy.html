@@ -46,6 +46,38 @@
     .mini-table th { background: #f4f8fc; }
     .task-card { border: 2px solid var(--blue); }
     .bonus { border: 2px solid var(--green); }
+    .guide-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(240px, 0.95fr);
+      align-items: start;
+    }
+    .guide-row + .guide-row { border-top: 1px solid var(--line); }
+    .guide-copy { padding: 1.15rem 1.25rem; }
+    .guide-copy h2, .guide-copy h3 { margin: 0 0 0.55rem; }
+    .guide-copy h3 { font-size: 1.2rem; }
+    .guide-image, .step-images {
+      min-width: 0;
+      border-left: 1px solid var(--line);
+      background: #f8fafc;
+    }
+    .guide-image img, .step-images img { width: 100%; }
+    .step-images img + img { border-top: 1px solid var(--line); }
+    .source {
+      margin: 0;
+      padding: 0.5rem 0.7rem 0.7rem;
+      color: var(--muted);
+      font-size: 0.75rem;
+      line-height: 1.35;
+    }
+    .certificate-prompt {
+      margin-top: 0.9rem;
+      padding: 0.85rem 1rem;
+      border: 1px solid var(--line);
+      border-radius: 0.7rem;
+      background: #f4f8fc;
+    }
+    .certificate-prompt strong { display: block; margin-bottom: 0.25rem; }
+    .tutorial-step > .warning { margin: 1rem 1.25rem; }
     .action-link {
       display: inline-block;
       margin-top: 0.85rem;
@@ -55,6 +87,13 @@
       color: white;
       font-weight: 800;
       text-decoration: none;
+    }
+    @media (max-width: 680px) {
+      .guide-row { grid-template-columns: 1fr; }
+      .guide-image, .step-images {
+        border-top: 1px solid var(--line);
+        border-left: 0;
+      }
     }
   </style>
 </head>
@@ -94,7 +133,8 @@
 
     <section class="tutorial">
       <article class="tutorial-step">
-        <div class="step-copy">
+        <div class="guide-row">
+          <div class="guide-copy">
           <h2 data-lang="de">1. Sofortaufgabe: Melde dich an</h2>
           <h2 data-lang="en">1. Do now: Sign in</h2>
           <ol data-lang="de">
@@ -111,36 +151,102 @@
             <span data-lang="de">Wenn etwas nicht funktioniert: Hand heben und warten.</span>
             <span data-lang="en">If something does not work: raise your hand and wait.</span>
           </div>
+          </div>
+          <div class="step-images">
+            <img src="images/untis-mobile/01-computer-start.webp" alt="Anleitung am Computer: anmelden, Edge öffnen und WebUntis suchen / Computer instructions: sign in, open Edge and search for WebUntis">
+            <img src="images/untis-mobile/02-computer-untis-login.webp" alt="Anleitung am Computer: Schule suchen und in WebUntis anmelden / Computer instructions: find the school and sign in to WebUntis">
+          </div>
         </div>
-        <img class="screenshot" src="images/untis-mobile/01-wichtige-daten.webp" alt="Wichtige Anmeldedaten für Computer, E-Mail und WebUntis / Important sign-in details for the computer, email and WebUntis">
       </article>
 
       <article class="tutorial-step">
-        <div class="step-copy">
+        <div class="guide-row">
+          <div class="guide-copy">
           <h2 data-lang="de">2. Mit dem Schul-WLAN verbinden</h2>
           <h2 data-lang="en">2. Connect to the school Wi-Fi</h2>
-          <p data-lang="de">Öffne auf deinem Handy die WLAN-Einstellungen und wähle <strong>Public</strong>.</p>
-          <p data-lang="en">Open the Wi-Fi settings on your phone and select <strong>Public</strong>.</p>
+          <ol data-lang="de">
+            <li>Öffne <strong>Einstellungen → WLAN</strong> (iPhone) oder <strong>Einstellungen → Verbindungen/Netzwerk → WLAN</strong> (Android).</li>
+            <li>Schalte WLAN ein und tippe auf <strong>Public</strong>.</li>
+            <li>Gib deine Schul-E-Mail-Adresse und dein PC-Passwort ein.</li>
+            <li>Bestätige danach das Zertifikat wie unten beschrieben.</li>
+          </ol>
+          <ol data-lang="en">
+            <li>Open <strong>Settings → Wi-Fi</strong> (iPhone) or <strong>Settings → Connections/Network → Wi-Fi</strong> (Android).</li>
+            <li>Turn on Wi-Fi and tap <strong>Public</strong>.</li>
+            <li>Enter your school email address and computer password.</li>
+            <li>Then accept the certificate as described below.</li>
+          </ol>
           <div class="login-box">
             <div><strong>Login:</strong> vorname.nachname@grg23vbs.ac.at</div>
             <div><strong><span data-lang="de">Passwort:</span><span data-lang="en">Password:</span></strong> <span data-lang="de">dein PC-Passwort</span><span data-lang="en">your computer password</span></div>
           </div>
+          </div>
+          <div class="guide-image">
+            <img src="images/untis-mobile/03-handy-wlan-start.webp" alt="Handy-Anleitung für Public-WLAN und App Store / Phone instructions for Public Wi-Fi and the app store">
+          </div>
         </div>
-        <img class="screenshot" src="images/untis-mobile/02-computer-und-handy-start.webp" alt="Erste Schritte am Computer und am Handy / First steps on the computer and phone">
+
+        <div class="guide-row">
+          <div class="guide-copy">
+            <h3 data-lang="de">Android: Zertifikat bestätigen</h3>
+            <h3 data-lang="en">Android: Confirm the certificate</h3>
+            <p data-lang="de">Auf neueren Android-Handys erscheint nach der Anmeldung eine Frage wie <strong>„Ist dieses Netzwerk vertrauenswürdig?“</strong> Tippe auf <strong>„Ja, verbinden“</strong>.</p>
+            <p data-lang="en">On newer Android phones, a question such as <strong>“Is this network trusted?”</strong> appears after sign-in. Tap <strong>“Yes, connect.”</strong></p>
+            <div class="certificate-prompt">
+              <strong data-lang="de">Ist dieses Netzwerk vertrauenswürdig?</strong>
+              <strong data-lang="en">Is this network trusted?</strong>
+              <span data-lang="de">→ Ja, verbinden</span>
+              <span data-lang="en">→ Yes, connect</span>
+            </div>
+            <p data-lang="de">Bei Samsung oder älteren Android-Versionen kann die Ansicht anders aussehen und nach einem CA- oder Netzwerkzertifikat fragen. Hebe die Hand, falls du zusätzliche Felder siehst.</p>
+            <p data-lang="en">On Samsung or older Android versions, the screen may look different and may ask about a CA or network certificate. Raise your hand if you see extra fields.</p>
+          </div>
+          <div class="guide-image">
+            <img src="images/untis-mobile/08-android-wlan.webp" alt="Deutsche Android-WLAN-Einstellungen mit einer Liste verfügbarer Netzwerke / German Android Wi-Fi settings with a list of available networks">
+            <p class="source"><span data-lang="de">WLAN-Beispiel: TU Dortmund. Tippe bei uns auf <strong>Public</strong>.</span><span data-lang="en">Wi-Fi example: TU Dortmund. At our school, tap <strong>Public</strong>.</span> <a href="https://service.tu-dortmund.de/android-ab-version-7.0-wlan" target="_blank" rel="noopener">Quelle / Source</a></p>
+            <img src="images/untis-mobile/04-android-zertifikat.webp" alt="Deutsche Android- und Samsung-Ansicht zum Installieren eines WLAN-Zertifikats / German Android and Samsung screens for installing a Wi-Fi certificate">
+            <p class="source"><span data-lang="de">Beispielbild: BOKU-IT. Die Namen auf deinem Handy sind anders.</span><span data-lang="en">Example image: BOKU IT. The names on your phone will be different.</span> <a href="https://boku.ac.at/boku-it/themen/get-connected/bokunet-wlan-pc-raeume/mobile-devices/eduroam-fuer-mobile-devices/eduroam-einrichten-unter-android" target="_blank" rel="noopener">Quelle / Source</a></p>
+          </div>
+        </div>
+
+        <div class="guide-row">
+          <div class="guide-copy">
+            <h3 data-lang="de">iPhone: Zertifikat bestätigen</h3>
+            <h3 data-lang="en">iPhone: Confirm the certificate</h3>
+            <p data-lang="de">Nach der Anmeldung erscheint die Seite <strong>Zertifikat</strong>. Tippe oben rechts auf <strong>Vertrauen</strong>.</p>
+            <p data-lang="en">After signing in, the <strong>Certificate</strong> page appears. Tap <strong>Trust</strong> at the top right.</p>
+          </div>
+          <div class="guide-image">
+            <img src="images/untis-mobile/09-iphone-wlan.webp" alt="Deutsche iPhone-WLAN-Einstellungen mit der Netzwerkliste / German iPhone Wi-Fi settings showing the network list">
+            <p class="source"><span data-lang="de">WLAN-Beispiel: Universität Zürich. Tippe bei uns auf <strong>Public</strong>.</span><span data-lang="en">Wi-Fi example: University of Zurich. At our school, tap <strong>Public</strong>.</span> <a href="https://www.zi.uzh.ch/en/support/network/wireless/mobileswlan.html" target="_blank" rel="noopener">Quelle / Source</a></p>
+            <img src="images/untis-mobile/05-iphone-zertifikat.webp" alt="Deutsche iPhone-Ansicht mit der Schaltfläche Vertrauen / German iPhone certificate screen with the Trust button">
+            <p class="source"><span data-lang="de">Beispielbild: BOKU-IT. Der Zertifikatsname an unserer Schule ist anders.</span><span data-lang="en">Example image: BOKU IT. Our school’s certificate name will be different.</span> <a href="https://boku.ac.at/boku-it/themen/get-connected/bokunet-wlan-pc-raeume/mobile-devices/eduroam-fuer-mobile-devices/eduroam-einrichten-unter-ios" target="_blank" rel="noopener">Quelle / Source</a></p>
+          </div>
+        </div>
+
+        <div class="warning">
+          <span data-lang="de">Bestätige das Zertifikat nur für <strong>Public</strong> und nur während dieser Unterrichtsstunde. Wenn Name oder Ansicht unerwartet sind: nicht bestätigen, sondern Hand heben.</span>
+          <span data-lang="en">Confirm the certificate only for <strong>Public</strong> and only during this lesson. If the name or screen is unexpected, do not confirm it—raise your hand.</span>
+        </div>
       </article>
 
       <article class="tutorial-step">
-        <div class="step-copy">
+        <div class="guide-row">
+          <div class="guide-copy">
           <h2 data-lang="de">3. Mobile Untis installieren</h2>
           <h2 data-lang="en">3. Install Mobile Untis</h2>
           <p data-lang="de">Öffne den <strong>App Store</strong> oder <strong>Play Store</strong>. Suche nach <strong>Untis Mobile</strong>, lade die App herunter und öffne sie.</p>
           <p data-lang="en">Open the <strong>App Store</strong> or <strong>Play Store</strong>. Search for <strong>Untis Mobile</strong>, download the app and open it.</p>
+          </div>
+          <div class="guide-image">
+            <img src="images/untis-mobile/06-handy-untis-install.webp" alt="Untis Mobile im App Store oder Play Store installieren / Installing Untis Mobile from the App Store or Play Store">
+          </div>
         </div>
-        <img class="screenshot" src="images/untis-mobile/03-untis-installieren.webp" alt="Untis Mobile im App Store oder Play Store installieren / Installing Untis Mobile from the App Store or Play Store">
       </article>
 
       <article class="tutorial-step">
-        <div class="step-copy">
+        <div class="guide-row">
+          <div class="guide-copy">
           <h2 data-lang="de">4. In Mobile Untis anmelden</h2>
           <h2 data-lang="en">4. Sign in to Mobile Untis</h2>
           <ol data-lang="de">
@@ -161,8 +267,11 @@
             <span data-lang="de">Nur falls du dich noch nie in WebUntis angemeldet hast: Dein <strong>vorläufiges Passwort</strong> ist dein Geburtsdatum als <strong>JJJJMMTT</strong>, zum Beispiel 20140723. Ändere es sofort auf dein PC-Passwort.</span>
             <span data-lang="en">Only if you have never signed in to WebUntis: your <strong>temporary password</strong> is your date of birth as <strong>YYYYMMDD</strong>, for example 20140723. Change it immediately to your computer password.</span>
           </div>
+          </div>
+          <div class="guide-image">
+            <img src="images/untis-mobile/07-untis-anmelden.webp" alt="Schule suchen und bei Untis anmelden / Searching for the school and signing in to Untis">
+          </div>
         </div>
-        <img class="screenshot" src="images/untis-mobile/04-untis-anmelden.webp" alt="Schule suchen und bei Untis anmelden / Searching for the school and signing in to Untis">
       </article>
 
       <article class="tutorial-step">
