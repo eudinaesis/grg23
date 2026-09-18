@@ -77,6 +77,26 @@
       background: #f4f8fc;
     }
     .certificate-prompt strong { display: block; margin-bottom: 0.25rem; }
+    .certificate-prompt dl {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 0.25rem 0.65rem;
+      margin: 0.75rem 0;
+      font-size: 0.9rem;
+      overflow-wrap: anywhere;
+    }
+    .certificate-prompt dt { color: var(--muted); }
+    .certificate-prompt dd { margin: 0; font-weight: 700; }
+    .prompt-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 0.5rem;
+      margin-top: 0.75rem;
+      padding-top: 0.65rem;
+      border-top: 1px solid var(--line);
+      font-weight: 800;
+    }
+    .prompt-actions .accept { color: var(--blue); }
     .tutorial-step > .warning { margin: 1rem 1.25rem; }
     .action-link {
       display: inline-block;
@@ -166,13 +186,13 @@
           <h2 data-lang="en">2. Connect to the school Wi-Fi</h2>
           <ol data-lang="de">
             <li>Öffne <strong>Einstellungen → WLAN</strong> (iPhone) oder <strong>Einstellungen → Verbindungen/Netzwerk → WLAN</strong> (Android).</li>
-            <li>Schalte WLAN ein und tippe auf <strong>Public</strong>.</li>
+            <li>Schalte WLAN ein und tippe auf <strong>public</strong>.</li>
             <li>Gib deine Schul-E-Mail-Adresse und dein PC-Passwort ein.</li>
             <li>Bestätige danach das Zertifikat wie unten beschrieben.</li>
           </ol>
           <ol data-lang="en">
             <li>Open <strong>Settings → Wi-Fi</strong> (iPhone) or <strong>Settings → Connections/Network → Wi-Fi</strong> (Android).</li>
-            <li>Turn on Wi-Fi and tap <strong>Public</strong>.</li>
+            <li>Turn on Wi-Fi and tap <strong>public</strong>.</li>
             <li>Enter your school email address and computer password.</li>
             <li>Then accept the certificate as described below.</li>
           </ol>
@@ -182,7 +202,8 @@
           </div>
           </div>
           <div class="guide-image">
-            <img src="images/untis-mobile/03-handy-wlan-start.webp" alt="Handy-Anleitung für Public-WLAN und App Store / Phone instructions for Public Wi-Fi and the app store">
+            <img src="images/untis-mobile/10-ios-public.webp" alt="Auf dem iPhone das WLAN public auswählen / Selecting the public Wi-Fi network on an iPhone">
+            <p class="source"><span data-lang="de">Auf Android sieht die WLAN-Liste anders aus. Wähle dort ebenfalls <strong>public</strong>.</span><span data-lang="en">The Wi-Fi list looks different on Android. Select <strong>public</strong> there too.</span></p>
           </div>
         </div>
 
@@ -190,22 +211,36 @@
           <div class="guide-copy">
             <h3 data-lang="de">Android: Zertifikat bestätigen</h3>
             <h3 data-lang="en">Android: Confirm the certificate</h3>
-            <p data-lang="de">Auf neueren Android-Handys erscheint nach der Anmeldung eine Frage wie <strong>„Ist dieses Netzwerk vertrauenswürdig?“</strong> Tippe auf <strong>„Ja, verbinden“</strong>.</p>
-            <p data-lang="en">On newer Android phones, a question such as <strong>“Is this network trusted?”</strong> appears after sign-in. Tap <strong>“Yes, connect.”</strong></p>
-            <div class="certificate-prompt">
-              <strong data-lang="de">Ist dieses Netzwerk vertrauenswürdig?</strong>
-              <strong data-lang="en">Is this network trusted?</strong>
-              <span data-lang="de">→ Ja, verbinden</span>
-              <span data-lang="en">→ Yes, connect</span>
-            </div>
+            <ol data-lang="de">
+              <li>Tippe in der WLAN-Liste auf <strong>public</strong>.</li>
+              <li>Gib deine Schul-E-Mail-Adresse und dein PC-Passwort ein.</li>
+              <li>Prüfe die Namen rechts.</li>
+              <li>Tippe auf <strong>Ja, verbinden</strong>.</li>
+            </ol>
+            <ol data-lang="en">
+              <li>Tap <strong>public</strong> in the Wi-Fi list.</li>
+              <li>Enter your school email address and computer password.</li>
+              <li>Check the names shown on the right.</li>
+              <li>Tap <strong>Yes, connect</strong>.</li>
+            </ol>
             <p data-lang="de">Bei Samsung oder älteren Android-Versionen kann die Ansicht anders aussehen und nach einem CA- oder Netzwerkzertifikat fragen. Hebe die Hand, falls du zusätzliche Felder siehst.</p>
             <p data-lang="en">On Samsung or older Android versions, the screen may look different and may ask about a CA or network certificate. Raise your hand if you see extra fields.</p>
           </div>
           <div class="guide-image">
-            <img src="images/untis-mobile/08-android-wlan.webp" alt="Deutsche Android-WLAN-Einstellungen mit einer Liste verfügbarer Netzwerke / German Android Wi-Fi settings with a list of available networks">
-            <p class="source"><span data-lang="de">WLAN-Beispiel: TU Dortmund. Tippe bei uns auf <strong>Public</strong>.</span><span data-lang="en">Wi-Fi example: TU Dortmund. At our school, tap <strong>Public</strong>.</span> <a href="https://service.tu-dortmund.de/android-ab-version-7.0-wlan" target="_blank" rel="noopener">Quelle / Source</a></p>
-            <img src="images/untis-mobile/04-android-zertifikat.webp" alt="Deutsche Android- und Samsung-Ansicht zum Installieren eines WLAN-Zertifikats / German Android and Samsung screens for installing a Wi-Fi certificate">
-            <p class="source"><span data-lang="de">Beispielbild: BOKU-IT. Die Namen auf deinem Handy sind anders.</span><span data-lang="en">Example image: BOKU IT. The names on your phone will be different.</span> <a href="https://boku.ac.at/boku-it/themen/get-connected/bokunet-wlan-pc-raeume/mobile-devices/eduroam-fuer-mobile-devices/eduroam-einrichten-unter-android" target="_blank" rel="noopener">Quelle / Source</a></p>
+            <div class="certificate-prompt">
+              <strong data-lang="de">Ist dieses Netzwerk vertrauenswürdig?</strong>
+              <strong data-lang="en">Is this network trusted?</strong>
+              <dl>
+                <dt data-lang="de">Netzwerk</dt><dt data-lang="en">Network</dt><dd>public</dd>
+                <dt>Server</dt><dd>UDC1.grg23vbs.ac.at</dd>
+                <dt data-lang="de">Aussteller</dt><dt data-lang="en">Issuer</dt><dd>grg23vbs-UDC1-CA</dd>
+              </dl>
+              <div class="prompt-actions">
+                <span data-lang="de">Nein, nicht verbinden</span><span data-lang="en">No, don’t connect</span>
+                <span class="accept" data-lang="de">Ja, verbinden</span><span class="accept" data-lang="en">Yes, connect</span>
+              </div>
+            </div>
+            <p class="source"><span data-lang="de">Android 13+ Beispielansicht. Das Aussehen kann je nach Handy abweichen.</span><span data-lang="en">Android 13+ example. The layout may differ between phones.</span></p>
           </div>
         </div>
 
@@ -213,20 +248,30 @@
           <div class="guide-copy">
             <h3 data-lang="de">iPhone: Zertifikat bestätigen</h3>
             <h3 data-lang="en">iPhone: Confirm the certificate</h3>
-            <p data-lang="de">Nach der Anmeldung erscheint die Seite <strong>Zertifikat</strong>. Tippe oben rechts auf <strong>Vertrauen</strong>.</p>
-            <p data-lang="en">After signing in, the <strong>Certificate</strong> page appears. Tap <strong>Trust</strong> at the top right.</p>
+            <ol data-lang="de">
+              <li>Tippe in der WLAN-Liste auf <strong>public</strong>.</li>
+              <li>Gib <strong>deine eigene</strong> Schul-E-Mail-Adresse und dein PC-Passwort ein. Kopiere nicht die Adresse im Bild.</li>
+              <li>Tippe oben rechts auf den blauen Haken.</li>
+              <li>Prüfe: <strong>UDC1.grg23vbs.ac.at</strong>, ausgestellt von <strong>grg23vbs-UDC1-CA</strong>.</li>
+              <li>Tippe oben rechts auf <strong>Trust</strong> (auf einem deutschen iPhone: <strong>Vertrauen</strong>).</li>
+            </ol>
+            <ol data-lang="en">
+              <li>Tap <strong>public</strong> in the Wi-Fi list.</li>
+              <li>Enter <strong>your own</strong> school email address and computer password. Do not copy the address shown in the picture.</li>
+              <li>Tap the blue tick at the top right.</li>
+              <li>Check: <strong>UDC1.grg23vbs.ac.at</strong>, issued by <strong>grg23vbs-UDC1-CA</strong>.</li>
+              <li>Tap <strong>Trust</strong> at the top right.</li>
+            </ol>
           </div>
           <div class="guide-image">
-            <img src="images/untis-mobile/09-iphone-wlan.webp" alt="Deutsche iPhone-WLAN-Einstellungen mit der Netzwerkliste / German iPhone Wi-Fi settings showing the network list">
-            <p class="source"><span data-lang="de">WLAN-Beispiel: Universität Zürich. Tippe bei uns auf <strong>Public</strong>.</span><span data-lang="en">Wi-Fi example: University of Zurich. At our school, tap <strong>Public</strong>.</span> <a href="https://www.zi.uzh.ch/en/support/network/wireless/mobileswlan.html" target="_blank" rel="noopener">Quelle / Source</a></p>
-            <img src="images/untis-mobile/05-iphone-zertifikat.webp" alt="Deutsche iPhone-Ansicht mit der Schaltfläche Vertrauen / German iPhone certificate screen with the Trust button">
-            <p class="source"><span data-lang="de">Beispielbild: BOKU-IT. Der Zertifikatsname an unserer Schule ist anders.</span><span data-lang="en">Example image: BOKU IT. Our school’s certificate name will be different.</span> <a href="https://boku.ac.at/boku-it/themen/get-connected/bokunet-wlan-pc-raeume/mobile-devices/eduroam-fuer-mobile-devices/eduroam-einrichten-unter-ios" target="_blank" rel="noopener">Quelle / Source</a></p>
+            <img src="images/untis-mobile/11-ios-login.webp" alt="Auf dem iPhone die Schul-E-Mail-Adresse und das Passwort für public eingeben / Entering a school email address and password for public on an iPhone">
+            <img src="images/untis-mobile/12-ios-certificate.webp" alt="Auf dem iPhone dem Zertifikat UDC1.grg23vbs.ac.at vertrauen / Trusting the UDC1.grg23vbs.ac.at certificate on an iPhone">
           </div>
         </div>
 
         <div class="warning">
-          <span data-lang="de">Bestätige das Zertifikat nur für <strong>Public</strong> und nur während dieser Unterrichtsstunde. Wenn Name oder Ansicht unerwartet sind: nicht bestätigen, sondern Hand heben.</span>
-          <span data-lang="en">Confirm the certificate only for <strong>Public</strong> and only during this lesson. If the name or screen is unexpected, do not confirm it—raise your hand.</span>
+          <span data-lang="de">Bestätige nur das Zertifikat für <strong>public</strong> mit dem Server <strong>UDC1.grg23vbs.ac.at</strong> und dem Aussteller <strong>grg23vbs-UDC1-CA</strong>. Wenn die Namen anders sind: nicht bestätigen, sondern Hand heben.</span>
+          <span data-lang="en">Confirm only the certificate for <strong>public</strong> with server <strong>UDC1.grg23vbs.ac.at</strong> and issuer <strong>grg23vbs-UDC1-CA</strong>. If the names are different, do not confirm it—raise your hand.</span>
         </div>
       </article>
 
