@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 5,
+    "en": {
+      "title": "Who should be protected when energy prices rise?",
+      "question": "How can a government protect people now while changing the conditions that make them vulnerable?",
+      "intro": "You are advising a fictional government during a sharp rise in energy prices. Every option has costs, beneficiaries, and limits. Your task is to recommend a policy and defend it with evidence, not to find a perfect solution.",
+      "goals": [
+        "Explain how an energy price shock can affect households, firms, and public budgets.",
+        "Compare targeted cash support, a price cap, and efficiency investment.",
+        "Write and defend an evidence-based policy recommendation that names a trade-off."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Three households",
+          "task": "Read the Household cards in the material Three households and mark who faces the greatest risk from a sudden bill increase. Write one reason for your choice."
+        },
+        {
+          "minutes": 12,
+          "title": "How policy tools work",
+          "task": "Read the case reader Energy prices and public choices and the Policy tool cards. In the comparison table, note who receives help, who pays, and one limitation for each tool."
+        },
+        {
+          "minutes": 18,
+          "title": "Evidence check",
+          "task": "Use the Evidence cards and the Recommendation worksheet. In groups, select two pieces of evidence and complete the worksheet's claim, mechanism, beneficiary, cost, and uncertainty boxes."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 25,
+          "title": "Policy hearing",
+          "task": "Use the Role cards and Hearing rules. Each group presents a two-minute recommendation, answers one challenge, and records one change it would make after hearing others."
+        },
+        {
+          "minutes": 20,
+          "title": "Individual portfolio entry 1",
+          "task": "Complete the Individual policy memo worksheet using the evidence and hearing. Submit on the teacher's assignment platform or on paper; the website does not collect work."
+        },
+        {
+          "minutes": 10,
+          "title": "Exit and reflection",
+          "task": "Answer both Exit questions individually. Add one sentence to your portfolio memo explaining what evidence might change your recommendation."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Energy prices and public choices",
+          "html": "<h3>Case reader: Energy prices and public choices</h3><p>Energy is used directly for heating, cooking and transport, and indirectly to make and move many goods. If the price of gas or electricity rises, a household may face a larger bill. A factory, shop or farm may also pay more to operate. Some businesses pass part of the extra cost to customers; others reduce production, delay investment or accept lower profits. The effect travels through linked systems.</p><p>In 2021–22, Europe faced unusually high wholesale gas and electricity prices. The European Commission described the emergency measures adopted in 2022 as responses to high prices and supply concerns. Its later review says measures included lower electricity demand, temporary limits on some producers' market revenues, and rules allowing public intervention in retail prices. The Commission judged that the interventions contributed to calmer markets alongside other changes. This is an institutional assessment, not proof that one measure alone caused the improvement.</p><p>Governments must make choices under uncertainty. A targeted cash payment can help households with low incomes while leaving the market price visible. It requires a way to identify eligible people and may arrive too late. A broad price cap can limit bills quickly, but it can also subsidise high consumption and transfer costs to taxpayers or energy suppliers. Efficiency support—such as insulation or efficient heating—can reduce future energy use, but renovations take time and people who rent may not control the building.</p><p>These tools distribute costs differently. A policy can protect people from immediate hardship and still preserve an incentive to save energy. It can also create new problems: public borrowing, unfair access, weaker conservation signals, or delays in investment. A fair comparison asks who is protected, who pays, how quickly help arrives, what happens to energy use, and what the policy cannot solve. There is no automatic answer. Evidence about incomes, housing, energy use and the public budget matters, as do values about fairness and responsibility.</p><p>For this class, the fictional country and household cases are teaching models. The historical description of EU action is based on a European Commission review published in June 2023.</p>"
+        },
+        {
+          "title": "Three households",
+          "html": "<h3>Three households (fictional)</h3><p>Assume each household's energy bill rises by 40% for one year. These numbers are made for this classroom exercise; they are not Austrian statistics.</p><table><caption>Monthly household situations</caption><thead><tr><th>Household</th><th>Monthly income</th><th>Old energy bill</th><th>Housing situation</th><th>Other detail</th></tr></thead><tbody><tr><td>A: Mira and her child</td><td>€1,500</td><td>€150</td><td>Rents a poorly insulated flat</td><td>Cannot choose the heating system</td></tr><tr><td>B: Leon and Sam</td><td>€4,800</td><td>€240</td><td>Own a large detached house</td><td>Can afford insulation but have not arranged it</td></tr><tr><td>C: Amira, her partner and two children</td><td>€2,700</td><td>€300</td><td>Rents a larger older flat</td><td>One adult works shifts; household needs regular heating</td></tr></tbody></table><p>Calculate each new bill and its share of monthly income. Discuss what this simple table cannot tell you (for example, health needs, savings, household size, or how long the price rise lasts).</p>"
+        },
+        {
+          "title": "Policy tool cards and comparison table",
+          "html": "<h3>Policy tool cards</h3><ul><li><strong>Targeted cash support:</strong> The government pays eligible households a fixed amount. Possible strength: directs money to people with less ability to absorb a shock. Possible limit: eligibility rules miss some people; money does not directly lower the energy price.</li><li><strong>Retail price cap:</strong> The government limits the price charged up to a defined level or quantity. Possible strength: quick, visible bill protection. Possible limit: if the state reimburses suppliers, public cost can rise; a lower price can weaken the incentive to conserve.</li><li><strong>Efficiency investment:</strong> Grants or public works reduce heat loss or improve equipment. Possible strength: can lower future energy needs. Possible limit: slower effect; renters may depend on landlords; supply of workers and materials may constrain delivery.</li></ul><table><caption>Complete this comparison</caption><thead><tr><th>Tool</th><th>Who gets help?</th><th>Who pays?</th><th>How fast?</th><th>Effect on saving energy?</th><th>One uncertainty</th></tr></thead><tbody><tr><td>Targeted cash</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Price cap</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Efficiency investment</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Evidence cards",
+          "html": "<h3>Evidence cards: read the date and the limits</h3><ul><li><strong>EU emergency review:</strong> The European Commission's 5 June 2023 review says EU countries used electricity-demand reduction, a cap on certain inframarginal revenues, and retail price-setting interventions. The Commission assessed these measures as contributing to calmer energy markets alongside other measures adopted in 2022. Use this to establish what measures existed and how the Commission assessed them; do not claim it proves which single measure caused lower prices.</li><li><strong>Austrian household energy:</strong> Statistics Austria publishes household energy-use data and a 2021/22 report on dimensions of energy poverty. The data describe patterns and measured hardship; they do not tell us automatically which policy is best. For this exercise, no numerical Austrian statistic is supplied, so do not invent one.</li><li><strong>Reasoned inference:</strong> If a household has low income and cannot change its heating system, an immediate payment may be more usable than a renovation grant. This is a plausible inference from the fictional card, not a measured finding about all households.</li></ul><p>Use at least one historical evidence card and one household-card detail. Label each statement as a fact, inference, or value judgement.</p>"
+        },
+        {
+          "title": "Role cards and hearing rules",
+          "html": "<h3>Role cards (fictional perspectives)</h3><ul><li><strong>Low-income renter representative:</strong> Prioritise quick help that reaches tenants. Ask how people are identified and whether heating remains affordable.</li><li><strong>Small business association:</strong> Prioritise predictable bills and keeping local employers open. Ask who pays if suppliers are reimbursed.</li><li><strong>Climate and energy-efficiency adviser:</strong> Prioritise lasting reductions in energy demand. Ask how immediate hardship is covered while work is planned.</li><li><strong>Finance ministry analyst:</strong> Prioritise a policy the public budget can sustain. Ask what happens if high prices last longer than expected.</li><li><strong>Energy supplier:</strong> Prioritise reliable supply and clear rules. Ask whether the policy covers costs and supports conservation.</li></ul><h3>Hearing rules</h3><ol><li>Groups choose or receive one role. Roles are fictional and do not represent every person in a group.</li><li>Prepare a recommendation using one or more tools. You may combine them, but say how the combination is funded.</li><li>Give a two-minute statement: name the problem, the tool, the intended beneficiaries, the payer, and one limitation.</li><li>Another group asks one evidence-based challenge. Reply by clarifying, qualifying, or revising your proposal.</li><li>Do not disclose anyone's actual household finances. Critique policies, not classmates.</li></ol>"
+        },
+        {
+          "title": "Recommendation and individual memo worksheets",
+          "html": "<h3>Group recommendation worksheet</h3><ol><li>Our claim: What should the fictional government do in the next year?</li><li>Mechanism: How does the measure change bills, income, energy use, or investment?</li><li>Beneficiaries: Who gains first? Who might be missed?</li><li>Cost and payer: Who funds or bears the cost?</li><li>Evidence: What two pieces support our reasoning?</li><li>Uncertainty and trade-off: What might not work as planned?</li><li>Revision: What did we change after the hearing?</li></ol><h3>Individual policy memo (180–220 words)</h3><p>Write a memo to the fictional energy minister. Recommend one tool or a clearly funded combination. Explain the mechanism, cite two supplied evidence items by title, identify who benefits and who bears a cost, and state one uncertainty. End with a sentence describing evidence that could change your view. You may argue for a different option from your group.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "European Commission, Commission report: Emergency energy measures facilitated market improvement",
+          "url": "https://energy.ec.europa.eu/news/commission-report-emergency-energy-measures-facilitated-market-improvement-2023-06-05_en",
+          "date": "5 June 2023",
+          "use": "Historical description and the Commission's assessment of EU emergency measures; attributed in the reader and evidence card."
+        },
+        {
+          "title": "Statistics Austria, Energy consumption of households",
+          "url": "https://www.statistik.at/en/statistics/energy-and-environment/energy/energy-consumption-of-households",
+          "date": "Undated page; checked 6 October 2026",
+          "use": "Austrian connection and recommended teacher extension; no unsupported numerical claim is made."
+        },
+        {
+          "title": "Statistics Austria, Dimensions of Energy Poverty in Austria 2021/22",
+          "url": "https://www.statistik.at/fileadmin/user_upload/Energy-poverty_2021-22.pdf",
+          "date": "2023",
+          "use": "Official Austrian evidence reference for energy-poverty dimensions; students are told to distinguish descriptive evidence from policy judgement."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Use the English reader and cards as the main text. Connect the case to Austria by opening Statistics Austria's household energy page and the 2021/22 energy-poverty report. Find one chart or definition that could help a minister decide whom to support; record its title, unit, date and one limitation. For an original-reading extension, read the European Commission page titled “Commission report: Emergency energy measures facilitated market improvement” (5 June 2023), focusing only on the paragraph beginning “In a report on the review of emergency interventions…” and the following examples. In two sentences, distinguish the Commission's account of measures from its judgement about their effects. Glossary: price cap = Preisobergrenze; targeted = gezielt; energy poverty = Energiearmut; efficiency = Effizienz; trade-off = Zielkonflikt.</p>",
+      "submission": "Individual portfolio memo, 180–220 words, written on paper or submitted through the teacher's assignment platform. Success criteria: a clear recommendation; a correct mechanism; two supplied evidence items; named beneficiaries and cost bearers; one limitation or uncertainty; a sentence saying what evidence could change the recommendation.",
+      "exit": [
+        "Which policy tool did you recommend, and through what mechanism should it help?",
+        "Who might still be left out, and what evidence would help you notice that?"
+      ],
+      "homework": "Spend no more than 20 minutes. Re-read the Evidence cards and revise your individual memo by adding one sentence that distinguishes a fact, an inference, and a value judgement. Bring the revised memo to the next class.",
+      "teacher": {
+        "preparation": [
+          "Print or display all material cards and worksheets; assign roles so each group can hear different interests.",
+          "Remind students that the three household profiles and the 40% price rise are fictional teaching data, not Austrian measurements.",
+          "If using the linked Austrian report in class, select one chart in advance and check its definition, population and period."
+        ],
+        "facilitation": [
+          "Keep the hearing focused on mechanisms and distribution: ask who receives money, who pays, how fast it works, and what changes energy use.",
+          "Require groups to identify whether a statement is directly evidenced, inferred, or a value judgement.",
+          "Invite students to combine tools only if they identify funding and explain implementation.",
+          "Do not ask students to reveal family income, bills, housing quality or energy insecurity."
+        ],
+        "answers": [
+          "New monthly bills: A €210, B €336, C €420. Shares of monthly income: A 14%; B 7%; C about 15.6%. Calculation: old bill × 1.40; divide by monthly income × 100. The fictional data suggest C has the highest burden share, but do not establish all vulnerability dimensions.",
+          "There is no single correct recommendation. A defensible answer may favour targeted support plus efficiency investment, explaining eligibility, delivery time, financing and protection for renters. A price cap may also be defended if the student addresses fiscal cost, scope and conservation incentives.",
+          "Evidence card claim: the Commission reported a package of measures and judged that these contributed alongside other measures. It does not establish a single causal effect."
+        ],
+        "misconceptions": [
+          "A falling inflation rate means prices have returned to their old level; it usually means prices are rising more slowly.",
+          "A price cap makes energy costless; somebody bears the difference or supply/investment may be affected.",
+          "An efficiency grant automatically helps renters; the owner may control the building work.",
+          "A household's bill alone measures hardship; income, household needs, building conditions and ability to adjust matter."
+        ],
+        "differentiation": [
+          "Offer sentence stems: “This helps ___ because ___”; “The cost may fall on ___”; “The evidence shows ___ but does not show ___.”",
+          "For extension, ask students to design eligibility criteria and test who is missed, or compare universal and targeted support using the fictional households.",
+          "Allow a student to act as rapporteur or evidence checker while still completing the individual memo."
+        ],
+        "extension": "Compare one Austrian energy-support instrument with the three classroom tools. Use an official Austrian source, identify its date and eligibility rules, then assess one distributional consequence. Treat this as a source investigation, not as proof of effectiveness."
+      }
+    },
+    "de": {
+      "title": "Wer soll geschützt werden, wenn Energie teurer wird?",
+      "question": "Wie kann eine Regierung Menschen jetzt schützen und zugleich ihre Verletzlichkeit langfristig verringern?",
+      "intro": "Du berätst eine erfundene Regierung während stark steigender Energiepreise. Jede Möglichkeit hat Kosten, Gewinnerinnen und Gewinner sowie Grenzen. Du sollst eine Maßnahme empfehlen und mit Belegen begründen.",
+      "goals": [
+        "Erklären, wie ein Energieschock Haushalte, Betriebe und öffentliche Budgets betrifft.",
+        "Gezielte Geldhilfe, Preisobergrenze und Investitionen in Effizienz vergleichen.",
+        "Eine begründete Empfehlung schreiben und einen Zielkonflikt benennen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Drei Haushalte",
+          "task": "Lies das Material Drei Haushalte und markiere, wer durch eine plötzliche Rechnungserhöhung am stärksten gefährdet sein könnte. Notiere einen Grund."
+        },
+        {
+          "minutes": 12,
+          "title": "Wie wirken politische Maßnahmen?",
+          "task": "Lies den Falltext Energiepreise und politische Entscheidungen sowie die Karten zu Maßnahmen. Trage in die Vergleichstabelle ein, wer Hilfe erhält, wer bezahlt und welche Grenze jede Maßnahme hat."
+        },
+        {
+          "minutes": 18,
+          "title": "Belege prüfen",
+          "task": "Nutze die Belegkarten und das Empfehlungsblatt. Wählt in der Gruppe zwei Belege und füllt die Felder Aussage, Wirkungsweg, Begünstigte, Kosten und Unsicherheit aus."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 25,
+          "title": "Anhörung zur Energiepolitik",
+          "task": "Nutzt die Rollenkarten und Regeln. Jede Gruppe stellt ihre Empfehlung zwei Minuten lang vor, beantwortet eine Rückfrage und notiert eine mögliche Änderung nach der Anhörung."
+        },
+        {
+          "minutes": 20,
+          "title": "Individueller Portfolio-Beitrag 1",
+          "task": "Schreibe mit den Belegen und der Anhörung die persönliche politische Empfehlung. Gib sie über die Aufgabenplattform der Lehrkraft oder auf Papier ab. Die Website sammelt keine Antworten."
+        },
+        {
+          "minutes": 10,
+          "title": "Abschluss",
+          "task": "Beantworte beide Abschlussfragen allein. Ergänze im Portfolio-Text einen Satz dazu, welcher Beleg deine Empfehlung ändern könnte."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Energiepreise und politische Entscheidungen",
+          "html": "<h3>Falltext: Energiepreise und politische Entscheidungen</h3><p>Energie wird direkt zum Heizen, Kochen und für Verkehr verwendet. Sie wird auch gebraucht, um viele Waren herzustellen und zu transportieren. Wenn Gas oder Strom teurer wird, steigt möglicherweise die Rechnung eines Haushalts. Auch ein Betrieb, Geschäft oder Bauernhof kann höhere Kosten haben. Manche Unternehmen geben einen Teil davon an Kundinnen und Kunden weiter. Andere stellen weniger her, verschieben Investitionen oder nehmen weniger Gewinn. So wirken Veränderungen durch miteinander verbundene Bereiche.</p><p>2021 und 2022 waren die Großhandelspreise für Gas und Strom in Europa ungewöhnlich hoch. Die Europäische Kommission beschrieb die 2022 beschlossenen Maßnahmen als Antworten auf hohe Preise und Sorgen um die Versorgung. In einer späteren Prüfung nennt sie zum Beispiel eine Senkung der Stromnachfrage, eine zeitweise Begrenzung bestimmter Einnahmen von Stromerzeugern und Eingriffe in Endkundenpreise. Die Kommission urteilte, die Maßnahmen hätten gemeinsam mit anderen Veränderungen zu ruhigeren Märkten beigetragen. Das ist eine Einschätzung der Institution, kein Beweis, dass eine einzelne Maßnahme allein die Preise senkte.</p><p>Regierungen müssen unter Unsicherheit entscheiden. Eine gezielte Geldzahlung kann Haushalten mit wenig Einkommen helfen, während der Marktpreis sichtbar bleibt. Dafür muss die Regierung berechtigte Personen erkennen; die Hilfe kommt vielleicht spät. Eine allgemeine Preisobergrenze kann Rechnungen rasch begrenzen. Sie kann aber auch hohen Verbrauch fördern und Kosten an Steuerzahlende oder Energieunternehmen weitergeben. Investitionen in Dämmung oder bessere Heizungen können den Energiebedarf später senken. Eine Sanierung dauert jedoch. Mietende entscheiden oft nicht selbst über das Gebäude.</p><p>Die Maßnahmen verteilen Kosten unterschiedlich. Schutz vor unmittelbarer Not kann mit einem Anreiz zum Energiesparen verbunden werden, aber auch neue Probleme schaffen: höhere Staatsschulden, ungerechter Zugang, ein schwächeres Preissignal oder zu wenig Investitionen. Für einen fairen Vergleich fragen wir: Wer wird geschützt? Wer bezahlt? Wie schnell kommt die Hilfe? Was geschieht mit dem Energieverbrauch? Was kann die Maßnahme nicht lösen? Es gibt keine automatische Antwort. Daten zu Einkommen, Wohnen, Verbrauch und Staatsbudget sind wichtig. Auch Vorstellungen von Fairness und Verantwortung spielen eine Rolle.</p><p>Das erfundene Land und die Haushalte sind Unterrichtsmodelle. Die Angaben zu EU-Maßnahmen beruhen auf einer Prüfung der Europäischen Kommission vom Juni 2023.</p>"
+        },
+        {
+          "title": "Drei Haushalte",
+          "html": "<h3>Drei Haushalte (erfunden)</h3><p>Angenommen, die Energierechnung jedes Haushalts steigt ein Jahr lang um 40 Prozent. Die Zahlen sind für diese Übung erfunden und keine österreichischen Statistiken.</p><table><caption>Monatliche Situationen</caption><thead><tr><th>Haushalt</th><th>Monatseinkommen</th><th>Alte Energierechnung</th><th>Wohnsituation</th><th>Zusatzinformation</th></tr></thead><tbody><tr><td>A: Mira und ihr Kind</td><td>1.500 €</td><td>150 €</td><td>Mietet eine schlecht gedämmte Wohnung</td><td>Kann die Heizung nicht auswählen</td></tr><tr><td>B: Leon und Sam</td><td>4.800 €</td><td>240 €</td><td>Besitzen ein großes Einfamilienhaus</td><td>Könnten dämmen, haben es aber noch nicht organisiert</td></tr><tr><td>C: Amira, Partner und zwei Kinder</td><td>2.700 €</td><td>300 €</td><td>Mieten eine größere ältere Wohnung</td><td>Ein Erwachsener arbeitet im Schichtdienst; regelmäßiges Heizen ist nötig</td></tr></tbody></table><p>Berechne die neue Rechnung und ihren Anteil am Monatseinkommen. Besprecht, was die Tabelle nicht zeigt: etwa Gesundheit, Ersparnisse, Haushaltsgröße oder Dauer des Preisanstiegs.</p>"
+        },
+        {
+          "title": "Maßnahmenkarten und Vergleichstabelle",
+          "html": "<h3>Maßnahmenkarten</h3><ul><li><strong>Gezielte Geldhilfe:</strong> Die Regierung zahlt berechtigten Haushalten einen festen Betrag. Stärke: Sie kann Menschen helfen, die einen Schock schwerer abfedern können. Grenze: Regeln können Menschen übersehen; der Energiepreis selbst sinkt nicht.</li><li><strong>Preisobergrenze:</strong> Die Regierung begrenzt den Preis bis zu einer festgelegten Menge. Stärke: Rechnungen können rasch und sichtbar sinken. Grenze: Wenn der Staat Unternehmen entschädigt, können hohe Kosten entstehen; ein niedrigerer Preis kann den Sparanreiz schwächen.</li><li><strong>Investition in Effizienz:</strong> Zuschüsse oder Bauarbeiten verringern Wärmeverlust oder verbessern Geräte. Stärke: Der künftige Energiebedarf kann sinken. Grenze: Die Wirkung kommt langsamer; Mietende sind von Vermietenden abhängig; Arbeitskräfte oder Material können fehlen.</li></ul><table><caption>Füllt den Vergleich aus</caption><thead><tr><th>Maßnahme</th><th>Wer erhält Hilfe?</th><th>Wer bezahlt?</th><th>Wie schnell?</th><th>Wirkung aufs Energiesparen?</th><th>Eine Unsicherheit</th></tr></thead><tbody><tr><td>Gezielte Geldhilfe</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Preisobergrenze</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Effizienzinvestition</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Belegkarten",
+          "html": "<h3>Belegkarten: Datum und Grenzen beachten</h3><ul><li><strong>Prüfung der EU-Maßnahmen:</strong> Die Europäische Kommission berichtet am 5. Juni 2023 über geringere Stromnachfrage, eine Begrenzung bestimmter Einnahmen und Eingriffe in Endkundenpreise. Sie bewertet diese Maßnahmen gemeinsam mit anderen Veränderungen als Beitrag zu ruhigeren Energiemärkten. Das belegt, welche Maßnahmen es gab und wie die Kommission sie bewertete. Es beweist nicht, welche einzelne Maßnahme niedrigere Preise verursachte.</li><li><strong>Österreichische Haushaltsenergie:</strong> Statistik Austria veröffentlicht Daten zum Energieverbrauch der Haushalte und einen Bericht zu verschiedenen Dimensionen von Energiearmut 2021/22. Diese Daten beschreiben Muster und gemessene Belastungen. Sie sagen nicht automatisch, welche Maßnahme am besten ist. In dieser Übung gibt es keine konkrete österreichische Kennzahl; erfinde keine.</li><li><strong>Begründete Schlussfolgerung:</strong> Wenn ein Haushalt wenig Einkommen hat und die Heizung nicht wechseln kann, ist eine sofortige Zahlung vielleicht leichter nutzbar als ein Sanierungszuschuss. Das ist eine plausible Schlussfolgerung aus der erfundenen Karte, kein Messwert über alle Haushalte.</li></ul><p>Verwende mindestens einen historischen Beleg und ein Detail einer Haushaltskarte. Kennzeichne Aussagen als Tatsache, Schlussfolgerung oder Werturteil.</p>"
+        },
+        {
+          "title": "Rollenkarten und Regeln der Anhörung",
+          "html": "<h3>Rollenkarten (erfundene Perspektiven)</h3><ul><li><strong>Vertretung von Mietenden mit geringem Einkommen:</strong> Rasche Hilfe für Mietende ist wichtig. Frage, wie Betroffene erkannt werden und ob Heizen leistbar bleibt.</li><li><strong>Vertretung kleiner Betriebe:</strong> Planbare Rechnungen und offene Betriebe sind wichtig. Frage, wer bezahlt, wenn Energieanbieter entschädigt werden.</li><li><strong>Beratung für Klima und Energieeffizienz:</strong> Dauerhafte Senkung des Energiebedarfs ist wichtig. Frage, wie akute Not überbrückt wird.</li><li><strong>Analyse des Finanzministeriums:</strong> Die Maßnahme muss langfristig leistbar sein. Frage, was passiert, wenn hohe Preise länger dauern.</li><li><strong>Energieanbieter:</strong> Verlässliche Versorgung und klare Regeln sind wichtig. Frage, ob Kosten gedeckt sind und Energiesparen unterstützt wird.</li></ul><h3>Regeln</h3><ol><li>Jede Gruppe erhält eine Rolle. Die Rollen sind erfunden und stehen nicht für alle Menschen einer Gruppe.</li><li>Bereitet eine Empfehlung mit einer oder mehreren Maßnahmen vor. Bei einer Kombination erklärt ihr die Finanzierung.</li><li>Stellt die Empfehlung zwei Minuten vor: Problem, Maßnahme, Begünstigte, Kostenträger und eine Grenze.</li><li>Eine andere Gruppe stellt eine belegbezogene Rückfrage. Antwortet, indem ihr erklärt, einschränkt oder eure Idee ändert.</li><li>Niemand muss echte Familienfinanzen nennen. Bewertet politische Maßnahmen, nicht Mitschülerinnen und Mitschüler.</li></ol>"
+        },
+        {
+          "title": "Arbeitsblätter: Empfehlung und persönlicher Text",
+          "html": "<h3>Arbeitsblatt für die Gruppe</h3><ol><li>Unsere Aussage: Was soll die erfundene Regierung im nächsten Jahr tun?</li><li>Wirkungsweg: Wie verändert die Maßnahme Rechnung, Einkommen, Verbrauch oder Investitionen?</li><li>Begünstigte: Wer gewinnt zuerst? Wer könnte übersehen werden?</li><li>Kosten und Kostenträger: Wer finanziert oder trägt die Kosten?</li><li>Belege: Welche zwei Belege stützen unsere Überlegung?</li><li>Unsicherheit und Zielkonflikt: Was könnte anders laufen als geplant?</li><li>Änderung: Was haben wir nach der Anhörung geändert?</li></ol><h3>Persönliche Empfehlung (180–220 Wörter)</h3><p>Schreibe an die erfundene Energieministerin oder den Energieminister. Empfiehl eine Maßnahme oder eine klar finanzierte Kombination. Erkläre den Wirkungsweg, nenne zwei Belege mit ihrem Titel, nenne Begünstigte und Kostenträger und beschreibe eine Unsicherheit. Schließe mit einem Satz: Welcher Beleg könnte deine Meinung ändern? Du darfst anders entscheiden als deine Gruppe.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "European Commission, Commission report: Emergency energy measures facilitated market improvement",
+          "url": "https://energy.ec.europa.eu/news/commission-report-emergency-energy-measures-facilitated-market-improvement-2023-06-05_en",
+          "date": "5 June 2023",
+          "use": "Historische Beschreibung und Bewertung der EU-Maßnahmen; im Falltext und auf der Belegkarte zugeschrieben."
+        },
+        {
+          "title": "Statistik Austria, Energieeinsatz der Haushalte",
+          "url": "https://www.statistik.at/statistiken/energie-und-umwelt/energie/energieeinsatz-der-haushalte",
+          "date": "Undatierte Seite; geprüft am 6. Oktober 2026",
+          "use": "Österreich-Bezug und mögliche Vertiefung; keine unbelegte Zahl wird behauptet."
+        },
+        {
+          "title": "Statistik Austria, Dimensions of Energy Poverty in Austria 2021/22",
+          "url": "https://www.statistik.at/fileadmin/user_upload/Energy-poverty_2021-22.pdf",
+          "date": "2023",
+          "use": "Amtliche Quelle zu Dimensionen von Energiearmut; beschreibende Daten werden von politischen Werturteilen getrennt."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschsprachiger Weg:</strong> Der Unterricht und die Abgabe sind auf Deutsch. Als kurze englische Brücke (von der Lehrkraft geschrieben, kein Zitat): <em>“A government can help people in different ways. A cash payment gives a household money. A price cap limits the price people pay. Better insulation can reduce energy use later. Each policy has a cost. We should ask who receives help, who pays, and what happens to energy use.”</em> Beantworte dazu auf Deutsch: Welche drei Maßnahmen werden genannt? Welche wirkt möglicherweise schneller? Wer trägt Kosten? Was bleibt unklar? Wörter: cash payment = Geldzahlung; price cap = Preisobergrenze; insulation = Dämmung; energy use = Energieverbrauch; trade-off = Zielkonflikt. Nutze für Österreich die Seiten von Statistik Austria zu Haushaltsenergie und Energiearmut. Notiere Titel, Einheit, Datum und eine Grenze eines Diagramms.</p>",
+      "submission": "Persönliche politische Empfehlung, 180–220 Wörter, auf Papier oder über die Aufgabenplattform der Lehrkraft. Kriterien: klare Empfehlung; richtiger Wirkungsweg; zwei Belege aus dem Material; Begünstigte und Kostenträger; eine Grenze oder Unsicherheit; ein Satz zu einem Beleg, der die Meinung ändern könnte.",
+      "exit": [
+        "Welche Maßnahme empfiehlst du und über welchen Wirkungsweg soll sie helfen?",
+        "Wer könnte trotzdem übersehen werden und welcher Beleg würde dir helfen, das zu erkennen?"
+      ],
+      "homework": "Arbeite höchstens 20 Minuten. Lies die Belegkarten noch einmal und ergänze in deiner Empfehlung einen Satz, der Tatsache, Schlussfolgerung und Werturteil unterscheidet. Bring die überarbeitete Fassung zur nächsten Stunde mit.",
+      "teacher": {
+        "preparation": [
+          "Alle Karten und Arbeitsblätter ausdrucken oder anzeigen; Rollen so verteilen, dass verschiedene Interessen vorkommen.",
+          "Erklären, dass Haushaltsprofile und Preissteigerung von 40 Prozent erfundene Unterrichtsdaten sind.",
+          "Bei Nutzung des österreichischen Berichts ein Diagramm auswählen und Definition, Bevölkerung und Zeitraum prüfen."
+        ],
+        "facilitation": [
+          "Die Anhörung auf Wirkungswege und Verteilung lenken: Wer erhält Geld? Wer bezahlt? Wie rasch wirkt es? Was geschieht mit dem Verbrauch?",
+          "Gruppen markieren lassen, ob eine Aussage direkt belegt, eine Schlussfolgerung oder ein Werturteil ist.",
+          "Kombinationen nur akzeptieren, wenn Finanzierung und Umsetzung benannt sind.",
+          "Niemand soll echtes Einkommen, Rechnungen, Wohnqualität oder Energiearmut in der Familie offenlegen müssen."
+        ],
+        "answers": [
+          "Neue Monatsrechnungen: A 210 €, B 336 €, C 420 €. Anteile am Einkommen: A 14 %, B 7 %, C etwa 15,6 %. Rechnung: alte Rechnung × 1,40; durch Monatseinkommen teilen × 100. Die erfundenen Daten legen nahe, dass C den höchsten Rechnungsanteil hat, messen aber nicht alle Aspekte von Belastung.",
+          "Es gibt keine einzig richtige Empfehlung. Eine gut begründete Antwort kann gezielte Hilfe plus Effizienzinvestition wählen und Anspruchsregeln, Zeit, Finanzierung und Mieterschutz erklären. Eine Preisobergrenze kann ebenfalls begründet werden, wenn Kosten für das Budget, Reichweite und Sparanreiz behandelt werden.",
+          "Die EU-Karte belegt, dass ein Maßnahmenpaket existierte und die Kommission ihm neben anderen Veränderungen eine Wirkung zuschrieb. Sie beweist keine Einzelursache."
+        ],
+        "misconceptions": [
+          "Sinkende Inflation bedeutet nicht, dass Preise auf das frühere Niveau zurückkehren; Preise steigen dann meist langsamer.",
+          "Eine Preisobergrenze macht Energie nicht kostenlos; jemand trägt die Differenz oder Versorgung und Investitionen können betroffen sein.",
+          "Ein Sanierungszuschuss hilft Mietenden nicht automatisch; oft entscheidet die Eigentümerin oder der Eigentümer.",
+          "Eine Rechnung allein misst keine Notlage; Einkommen, Bedarf, Gebäude und Anpassungsmöglichkeiten sind ebenfalls wichtig."
+        ],
+        "differentiation": [
+          "Satzanfänge anbieten: „Das hilft ___, weil ___.“; „Die Kosten könnten ___ tragen.“; „Der Beleg zeigt ___, aber nicht ___.“",
+          "Vertiefung: Anspruchsregeln entwerfen und prüfen, wer übersehen wird; allgemeine und gezielte Hilfe an den erfundenen Haushalten vergleichen.",
+          "Rollen als Gesprächsleitung oder Belegprüfung vergeben; trotzdem schreibt jede Person den eigenen Text."
+        ],
+        "extension": "Vergleiche ein österreichisches Instrument zur Energieunterstützung mit den drei Unterrichtsmaßnahmen. Nutze eine österreichische amtliche Quelle, nenne Datum und Anspruchsregeln und prüfe eine Verteilungswirkung. Das ist eine Quellenprüfung und kein Beweis für die Wirksamkeit."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "en": {
+      "title": "When the world competes for gas",
+      "question": "What happens when countries with different purchasing power compete for a limited energy supply?",
+      "intro": "In this fictional simulation, a global supply disruption forces three regions to compete for liquefied natural gas (LNG). The rules make price and need visible, but deliberately simplify real markets. Your job is to understand who can bid, who goes without, and what cooperation could change.",
+      "goals": [
+        "Explain how a shared supply shock can transmit across regions through trade and prices.",
+        "Compare ability to pay with social need and identify who bears consequences.",
+        "Use simulation evidence while identifying what the simplified model leaves out."
+      ],
+      "agenda": [
+        {
+          "minutes": 12,
+          "title": "LNG in the chain",
+          "task": "Read the case reader What LNG can and cannot do and complete the first two boxes of the Supply chain worksheet."
+        },
+        {
+          "minutes": 13,
+          "title": "Understand the game",
+          "task": "Read the complete Simulation rules, Region cards, and Event card. Each team records its starting budget, need, and bid ceiling before play."
+        },
+        {
+          "minutes": 20,
+          "title": "Round 1: compete",
+          "task": "Run Round 1 using the Auction sheet. Record units awarded, prices, unmet needs, and remaining budget for every region."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Round 2: cooperate",
+          "task": "Apply the new-round supply and budget rules. Negotiate one voluntary cooperation agreement, then allocate units using the same auction procedure."
+        },
+        {
+          "minutes": 20,
+          "title": "Debrief and map",
+          "task": "Use the Results table, Causal map worksheet, and Polycrisis newsletter argument card. Compare rounds and the authors’ claim; draw at least four labelled arrows, including one cross-region connection, and write one question that would test the claim."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual explanation",
+          "task": "Write a 120–160-word explanation: who went without, why, what cooperation changed, and one limitation of this model. Submit to the teacher's assignment platform or on paper."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: What LNG can and cannot do",
+          "html": "<h3>Case reader: What LNG can and cannot do</h3><p>Natural gas can be transported through pipelines or shipped as liquefied natural gas. LNG is cooled until it becomes liquid, loaded onto specialised ships, then warmed back into gas at a terminal. This can connect buyers and sellers that a pipeline does not join. It does not make gas instantly available everywhere: liquefaction plants, ships, terminals, pipelines, contracts and time all matter.</p><p>When buyers seek more gas than sellers can provide quickly, competition can raise prices. A buyer with more money may offer a higher price, reserve cargoes through contracts, or pay for infrastructure. A poorer buyer may be unable to match that offer even if households or hospitals need fuel. This is one way that purchasing power and human need can diverge. It is also possible for high prices to encourage conservation, production or investment, but those responses take time and can impose serious costs.</p><p>After Russia's full-scale invasion of Ukraine in 2022, European countries sought alternatives to Russian pipeline gas, including LNG. The European Commission described joint purchasing, demand reduction and solidarity between member states as parts of its response. These measures operate within a world market: a purchase can improve one region's security while affecting the opportunities or prices faced by other buyers. That does not mean every European purchase directly caused a shortage elsewhere; the effects depend on supply, timing, infrastructure, contracts, and other buyers' choices.</p><p>This class game isolates one mechanism: unequal purchasing power under a limited supply. Its numbers, regions and bids are fictional. Real gas markets include long-term contracts, traders, storage, pipeline networks, technical constraints, different gas qualities, state-owned firms, and many suppliers and consumers. Real governments also face questions of fairness, emissions and energy alternatives. Therefore, the game can help us ask questions, but it cannot predict actual prices or establish what happened in a particular country.</p><p>As you play, watch both price and allocation. Ask whether a high bid represents greater need, greater ability to pay, or both. Then consider whether a rule for sharing supply could protect essential services without pretending that cooperation has no cost.</p>"
+        },
+        {
+          "title": "Supply chain worksheet",
+          "html": "<h3>Complete the chain using the reader</h3><table><caption>LNG journey</caption><thead><tr><th>Stage</th><th>What happens?</th><th>What could limit it?</th></tr></thead><tbody><tr><td>Gas source</td><td></td><td></td></tr><tr><td>Liquefaction</td><td></td><td></td></tr><tr><td>Ship and route</td><td></td><td></td></tr><tr><td>Terminal and regasification</td><td></td><td></td></tr><tr><td>Pipeline to users</td><td></td><td></td></tr></tbody></table><p>Then complete: “A buyer can have high need but low purchasing power because …”</p>"
+        },
+        {
+          "title": "Simulation rules: fictional LNG market",
+          "html": "<h3>All game data are fictional teaching data</h3><p><strong>Goal:</strong> Observe how bidding allocates scarce energy and how one cooperation agreement changes outcomes. There is no individual winner; the class compares collective and unequal results.</p><p><strong>Teams and starting cards:</strong> Make three teams. If the class is larger, split each region into subteams that share one region card and make one joint bid. Region A (High-income importers): need 5 units; budget 30 tokens; value essential services 4 points per unit. Region B (Middle-income importers): need 5; budget 18 tokens; 4 points per unit. Region C (Low-income importers): need 5; budget 9 tokens; 4 points per unit. One energy unit is a fictional block of supply; tokens are fictional budget points.</p><p><strong>Supply and prices:</strong> Round 1 has 9 units available. The auctioneer sells units one at a time, beginning with a minimum bid of 1 token per unit. Each region secretly writes its maximum affordable bid per unit and its desired number of units, then reveals both. Each unit goes to the highest remaining bid; ties are settled by a drawn team order. Winning teams pay their bid for each unit. No team may exceed its budget. Bidding stops when all 9 units are sold or all teams pass. Unsatisfied need equals 5 minus units received.</p><p><strong>Round 2:</strong> A fictional shipping interruption reduces supply to 8 units. Each region's remaining budget is its start budget minus Round 1 spending, plus 6 tokens for a new budget period. Teams may negotiate one agreement for three minutes: (a) reserve 2 units for essential services across regions, allocating one each to two named regions; (b) transfer up to 3 tokens from one region to another; or (c) jointly set a maximum price of 2 tokens per unit. The agreement must be written and accepted by all teams. Then each team receives its own Round 2 need card: 4 units each. Follow the same bidding process for remaining supply, with reserved units allocated first and counted against each recipient's Round 2 need. Teams pay auction price for auctioned units; reserved units cost 1 token each.</p><p><strong>Scoring:</strong> Each unit received earns 4 service points, up to the round's need. Each unmet unit costs 3 hardship points. Subtract tokens spent from the region's service points. Net model score = service points − hardship points − tokens spent. Record the three components as well as the net; scores are a model, not a moral measure of lives.</p><p><strong>Procedure:</strong> 1) Assign auctioneer/timekeeper and region teams. 2) Play Round 1 in 8 minutes. 3) Record every allocation and payment. 4) Apply interruption, budget reset and need cards. 5) Negotiate for 3 minutes; the agreement expires after Round 2. 6) Play and record Round 2 in 8 minutes. 7) Debrief with the questions below. No borrowing, side payments, or hidden deals. If a budget is insufficient, that bid is invalid. If a team passes, the next highest valid bid wins.</p><h3>Auction clarification</h3><p>Submit one fixed whole-token price per unit for each round, and a desired quantity no larger than your unmet need. This is the actual price paid for every unit won, not an instruction to the auctioneer to bid on your behalf. Keep the price fixed during that round. Award units in descending bid order until each bidder reaches its desired quantity or can no longer afford its next unit; then move to the next valid bidder. Use the drawn tie order throughout the round. Record scores separately for each round: service points and hardship reset at the start of Round 2; only money carries over under the stated budget rule. Compare the two round scores and allocations separately; do not add them into a course grade or a moral ranking.</p>"
+        },
+        {
+          "title": "Region cards, auction sheet and debrief",
+          "html": "<h3>Cut or assign region cards</h3><ul><li><strong>Region A — high-income importers:</strong> Round 1 need 5 units; budget 30 tokens; Round 2 need 4; new-period addition +6. You may bid up to your current budget, divided by desired units. Ask whether a strong budget should determine access to all supply.</li><li><strong>Region B — middle-income importers:</strong> Round 1 need 5; budget 18; Round 2 need 4; new-period addition +6. Your need is as large as A's, but your budget is smaller. Ask what alternative rules could recognise need.</li><li><strong>Region C — low-income importers:</strong> Round 1 need 5; budget 9; Round 2 need 4; new-period addition +6. Your budget is limited. Explain how unmet energy need could affect households and services, without treating the card as a real country's data.</li></ul><h3>Auction record</h3><table><caption>Record per round (fictional units and tokens)</caption><thead><tr><th>Region</th><th>Need</th><th>Units received</th><th>Unmet need</th><th>Price per auction unit</th><th>Total spent</th><th>Remaining budget</th><th>Service points</th></tr></thead><tbody><tr><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h3>Debrief questions</h3><ol><li>Did the auction allocate by need, ability to pay, or a mixture? Point to the result table.</li><li>Who paid most? Who had unmet need? What could not be inferred from those facts?</li><li>What did the agreement change, and who paid its cost?</li><li>Which real features were absent: contracts, storage, infrastructure, time, emissions, or alternatives?</li></ol><h3>Causal map</h3><p>Draw at least four arrows. Label each with a mechanism, such as “higher bid wins cargo” or “terminal capacity limits delivery.” Include one arrow crossing regions and mark any uncertain connection with a question mark.</p>"
+        },
+        {
+          "title": "Polycrisis newsletter argument card: gas bidding and unequal purchasing power",
+          "html": "<h3>Authors’ argument (teacher-written paraphrase; not a quotation)</h3><p>In their October 2022 introduction, Kate Mackenzie and Tim Sahay argue that Europe and richer East Asian economies competed for limited gas supplies while poorer countries faced fuel shortages and difficulty affording US-dollar-priced imports. Their point is that energy security in one region can connect to financial and human hardship elsewhere. This is an argument about linked mechanisms, not proof that any one buyer caused a particular shortage.</p><p><strong>Compare with the official evidence:</strong> The European Commission page describes proposed European measures, including joint purchasing, solidarity and demand reduction. It documents a policy agenda; it does not establish the newsletter authors’ distributional claim by itself.</p><ol><li>What link do Mackenzie and Sahay propose between wealthy buyers and hardship elsewhere?</li><li>What additional data would show whether a particular buyer changed prices or availability for another country?</li><li>Does the simulation model need, ability to pay, or both? What does it leave out?</li></ol>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "European Commission, Commission makes additional proposals to fight high energy prices and ensure security of supply",
+          "url": "https://finance.ec.europa.eu/news/commission-makes-additional-proposals-fight-high-energy-prices-and-ensure-security-supply-2022-10-18_en",
+          "date": "18 October 2022",
+          "use": "Historical account of proposed joint gas purchasing, solidarity and demand measures; not used to claim a direct effect on third-country prices."
+        },
+        {
+          "title": "European Commission, Commission report: Emergency energy measures facilitated market improvement",
+          "url": "https://energy.ec.europa.eu/news/commission-report-emergency-energy-measures-facilitated-market-improvement-2023-06-05_en",
+          "date": "5 June 2023",
+          "use": "Context on EU emergency energy measures."
+        },
+        {
+          "title": "Kate Mackenzie and Tim Sahay, An Introduction (The Polycrisis newsletter)",
+          "url": "https://archive.phenomenalworld.org/analysis/an-introduction/",
+          "date": "20 October 2022",
+          "use": "Authors’ argument about richer economies bidding for limited gas and poorer importers struggling to afford dollar-priced commodities; paraphrased in under 100 words and labelled as an argument, not proof of a specific causal effect."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Use the case reader and game rules in English. Make the Austrian connection by finding one official Austrian source about gas supply, storage or energy consumption; note the source date and explain why an Austrian buyer is connected to a regional market. For an original-reading extension, read the European Commission page “Commission makes additional proposals to fight high energy prices and ensure security of supply” (18 October 2022), focusing on the paragraph beginning “The Commission is proposing today a new emergency regulation…” and the following list of measures. Identify one cooperation measure and one demand measure. Glossary: liquefied natural gas (LNG) = Flüssigerdgas; purchasing power = Kaufkraft; supply = Angebot/Versorgung; unmet need = ungedeckter Bedarf; allocation = Zuteilung.</p>",
+      "submission": "Individual explanation, 120–160 words, paper or teacher's assignment platform. It must cite one recorded result from each round, explain ability to pay versus need, state what cooperation changed, and name one important limit of the simulation.",
+      "exit": [
+        "What determined access to supply in Round 1? Use one result as evidence.",
+        "What one rule would you change to make the outcome fairer, and what trade-off might that create?"
+      ],
+      "homework": "Spend up to 20 minutes. Re-read the simulation results and write two alternative rules for distributing scarce supply. For each, state who benefits and one possible cost or unintended effect.",
+      "teacher": {
+        "preparation": [
+          "Prepare three region cards, tokens or paper counters, auction record sheets, and a visible timer.",
+          "Appoint auctioneer and timekeeper; if the class is large, make subteams within each region that must agree on one bid.",
+          "Stress that the regions, quantities, budgets and points are all fictional and do not represent actual states."
+        ],
+        "facilitation": [
+          "Do not force the auction toward a predetermined result. Let budgets and bids determine allocation under stated rules.",
+          "If students make a mathematically impossible bid, explain why and allow a correction before revealing bids.",
+          "Keep debrief questions on the model's mechanism and limits; avoid claims that the game predicts real LNG prices.",
+          "Ask who is missing from the model: consumers within regions, exporters, workers, climate effects, and people without a voice in government."
+        ],
+        "answers": [
+          "Worked example for a possible Round 1: if A bids 5 tokens/unit, B 3, C 1, A can win up to 5 units for 25 tokens; the next four units can be won by B at 3 each, spending 12, leaving C with no units. This is only one possible result; bids are team choices.",
+          "If the Round 2 agreement reserves two units for B and C, each receives one at 1 token. The remaining six units are auctioned. A transfer can change what a team can bid; a price ceiling may lead to pass/shortage if bids exceed 2. Teams should calculate actual outcomes from their table.",
+          "Scoring: service points = 4 × units received (up to need); hardship penalty = 3 × unmet units; net model points = service points − tokens spent. Explain that this formula is intentionally crude and not a valuation of wellbeing.",
+          "A fairer rule may reserve essential-use quantities, use needs-based allocation, or combine a price auction with a safety floor. Each has trade-offs, such as weaker price signals, disputes about measuring need, or administration."
+        ],
+        "misconceptions": [
+          "LNG is instantly available wherever a buyer wants it; liquefaction, shipping and terminal capacity constrain delivery.",
+          "A higher price always means greater social need; it may instead reflect greater ability to pay.",
+          "The simulation proves European LNG buying caused shortages elsewhere; it models a mechanism but does not establish historical causation.",
+          "Cooperation has no cost; reserved supply, transfers and price limits distribute costs and can affect incentives."
+        ],
+        "differentiation": [
+          "Provide a worked bid example: budget 9 tokens, desire 3 units, maximum affordable average is 3 tokens per unit; remind teams a total bid cannot exceed budget.",
+          "Offer a recorder role and a bid calculator role; all students contribute to the individual explanation.",
+          "Extension: ask students to add storage or a long-term contract rule and predict how it changes bargaining power."
+        ],
+        "extension": "Compare the game with one dated official account of a real energy-market response. Identify one mechanism the game captures and at least two real mechanisms it omits. Do not infer a historical causal effect from the game."
+      }
+    },
+    "de": {
+      "title": "Wenn die Welt um Gas konkurriert",
+      "question": "Was geschieht, wenn Länder mit unterschiedlicher Kaufkraft um begrenzte Energie konkurrieren?",
+      "intro": "In dieser erfundenen Simulation konkurrieren drei Regionen nach einer Lieferstörung um Flüssigerdgas (LNG). Die Regeln zeigen Preis und Bedarf, vereinfachen echte Märkte aber stark. Untersucht, wer bieten kann, wer leer ausgeht und was Zusammenarbeit verändert.",
+      "goals": [
+        "Erklären, wie ein gemeinsamer Versorgungsschock durch Handel und Preise Regionen verbindet.",
+        "Zahlungsfähigkeit mit gesellschaftlichem Bedarf vergleichen und Folgen sichtbar machen.",
+        "Ergebnisse der Simulation verwenden und Grenzen des Modells nennen."
+      ],
+      "agenda": [
+        {
+          "minutes": 12,
+          "title": "Die LNG-Lieferkette",
+          "task": "Lies den Falltext Was LNG kann und was nicht und fülle die ersten beiden Felder des Arbeitsblatts Lieferkette aus."
+        },
+        {
+          "minutes": 13,
+          "title": "Spielregeln verstehen",
+          "task": "Lies alle Simulationsregeln, Regionskarten und die Ereigniskarte. Jede Gruppe notiert Startbudget, Bedarf und mögliche Höchstgebote."
+        },
+        {
+          "minutes": 20,
+          "title": "Runde 1: Konkurrenz",
+          "task": "Spielt Runde 1 mit dem Auktionsblatt. Notiert für jede Region Zuteilung, Preise, ungedeckten Bedarf und Restbudget."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Runde 2: Zusammenarbeit",
+          "task": "Wendet die neuen Regeln für Angebot und Budget an. Verhandelt ein freiwilliges Abkommen und teilt danach das Angebot mit derselben Auktion zu."
+        },
+        {
+          "minutes": 20,
+          "title": "Auswertung und Karte",
+          "task": "Nutzt Ergebnistabelle, Wirkungsdiagramm und die Karte Argument des Polycrisis-Newsletters. Vergleicht beide Runden mit der These der Autorinnen und Autoren; zeichnet mindestens vier beschriftete Pfeile, darunter eine Verbindung zwischen Regionen, und formuliert eine Frage, mit der sich die These prüfen ließe."
+        },
+        {
+          "minutes": 10,
+          "title": "Einzelne Erklärung",
+          "task": "Schreibe 120–160 Wörter: Wer ging leer aus, warum, was änderte Zusammenarbeit und welche Grenze hat das Modell? Abgabe auf Papier oder über die Aufgabenplattform der Lehrkraft."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Was LNG kann und was nicht",
+          "html": "<h3>Falltext: Was LNG kann und was nicht</h3><p>Erdgas kommt durch Pipelines oder als Flüssigerdgas per Schiff. Für LNG wird Gas so stark gekühlt, dass es flüssig wird. Es wird auf besondere Schiffe geladen und am Ziel wieder erwärmt. So können Käufer und Verkäufer verbunden werden, die keine Pipeline verbindet. Gas ist dadurch aber nicht überall sofort verfügbar: Verflüssigungsanlagen, Schiffe, Terminals, Pipelines, Verträge und Zeit sind wichtig.</p><p>Wenn Käufer rasch mehr Gas suchen, als Verkäufer liefern können, kann Konkurrenz die Preise erhöhen. Ein Käufer mit mehr Geld kann mehr bieten, Lieferungen mit Verträgen sichern oder Infrastruktur bezahlen. Ein ärmerer Käufer kann vielleicht nicht mithalten, selbst wenn Haushalte oder Krankenhäuser Treibstoff benötigen. So können Kaufkraft und menschlicher Bedarf auseinanderfallen. Hohe Preise können auch zum Sparen, zur Produktion oder zu Investitionen anregen. Das braucht Zeit und kann schwere Kosten verursachen.</p><p>Nach dem russischen Großangriff auf die Ukraine 2022 suchten europäische Länder Alternativen zu russischem Pipelinegas, darunter LNG. Die Europäische Kommission nannte gemeinsame Beschaffung, geringere Nachfrage und Solidarität zwischen Mitgliedstaaten als Teile der Antwort. Diese Maßnahmen wirken in einem Weltmarkt. Ein Einkauf kann die Versorgung einer Region verbessern und zugleich Möglichkeiten oder Preise anderer Käufer beeinflussen. Daraus folgt nicht, dass jeder europäische Einkauf direkt eine Knappheit anderswo verursachte. Entscheidend sind Angebot, Zeitpunkt, Infrastruktur, Verträge und Entscheidungen anderer Käufer.</p><p>Das Klassenspiel isoliert einen Mechanismus: ungleiche Kaufkraft bei begrenztem Angebot. Zahlen, Regionen und Gebote sind erfunden. Echte Gasmärkte umfassen langfristige Verträge, Händler, Speicher, Pipelines, technische Grenzen, unterschiedliche Gasqualitäten, staatliche Firmen sowie viele Anbieter und Kundinnen. Regierungen müssen auch Fairness, Emissionen und Alternativen beachten. Das Spiel kann Fragen sichtbar machen, aber keine echten Preise vorhersagen und nicht beweisen, was in einem bestimmten Land geschah.</p><p>Achte beim Spielen auf Preis und Verteilung. Bedeutet ein hohes Gebot größeren Bedarf, höhere Zahlungsfähigkeit oder beides? Überlege danach, ob eine Verteilungsregel wichtige Dienste schützen kann, ohne so zu tun, als sei Zusammenarbeit kostenlos.</p>"
+        },
+        {
+          "title": "Arbeitsblatt Lieferkette",
+          "html": "<h3>Ergänze die Lieferkette mit Hilfe des Falltexts</h3><table><caption>Weg von LNG</caption><thead><tr><th>Schritt</th><th>Was geschieht?</th><th>Was kann es begrenzen?</th></tr></thead><tbody><tr><td>Gasquelle</td><td></td><td></td></tr><tr><td>Verflüssigung</td><td></td><td></td></tr><tr><td>Schiff und Route</td><td></td><td></td></tr><tr><td>Terminal und Rückvergasung</td><td></td><td></td></tr><tr><td>Pipeline zu den Nutzenden</td><td></td><td></td></tr></tbody></table><p>Ergänze: „Ein Käufer kann großen Bedarf, aber wenig Kaufkraft haben, weil …“</p>"
+        },
+        {
+          "title": "Simulationsregeln: erfundener LNG-Markt",
+          "html": "<h3>Alle Spieldaten sind erfundene Unterrichtsdaten</h3><p><strong>Ziel:</strong> Beobachte, wie Gebote knappe Energie verteilen und wie ein Abkommen das Ergebnis ändert. Es gibt keine einzelne Siegergruppe; die Klasse vergleicht gemeinsame und ungleiche Ergebnisse.</p><p><strong>Teams und Startkarten:</strong> Bildet drei Teams. Bei einer größeren Klasse arbeiten Unterteams mit derselben Regionskarte und vereinbaren ein gemeinsames Gebot. Region A (Importländer mit hohem Einkommen): Bedarf 5 Einheiten; Budget 30 Marken; wichtige Dienste erhalten 4 Punkte je Einheit. Region B (Importländer mit mittlerem Einkommen): Bedarf 5; Budget 18; 4 Punkte je Einheit. Region C (Importländer mit niedrigem Einkommen): Bedarf 5; Budget 9; 4 Punkte je Einheit. Eine Energieeinheit und eine Marke sind erfundene Budgetpunkte.</p><p><strong>Angebot und Preis:</strong> Runde 1 hat 9 Einheiten. Die Auktion verkauft Einheit für Einheit, Mindestgebot 1 Marke. Jede Region schreibt geheim ihr höchstes leistbares Gebot je Einheit und die gewünschte Menge auf. Danach werden beide Angaben gezeigt. Jede Einheit erhält die Region mit dem höchsten noch gültigen Gebot; bei Gleichstand entscheidet eine gezogene Reihenfolge. Gewinner bezahlen ihr Gebot je Einheit. Niemand darf das Budget überschreiten. Die Auktion endet nach 9 Einheiten oder wenn alle passen. Ungedeckter Bedarf ist 5 minus erhaltene Einheiten.</p><p><strong>Runde 2:</strong> Eine erfundene Schiffsunterbrechung senkt das Angebot auf 8 Einheiten. Das Restbudget wird berechnet: Startbudget minus Ausgaben in Runde 1, plus 6 Marken für eine neue Budgetperiode. Die Regionen dürfen drei Minuten ein Abkommen verhandeln: (a) zwei Einheiten für wichtige Dienste reservieren und je eine an zwei benannte Regionen geben; (b) bis zu 3 Marken von einer Region an eine andere übertragen; oder (c) gemeinsam einen Höchstpreis von 2 Marken je Einheit festlegen. Alle Teams müssen das Abkommen aufschreiben und annehmen. Dann gilt der Bedarf in Runde 2: je 4 Einheiten. Reservierte Einheiten werden zuerst vergeben und vom Bedarf der empfangenden Region in Runde 2 abgezogen. Die übrige Menge wird gleich versteigert. Auktionseinheiten kosten den Auktionspreis; reservierte kosten je 1 Marke.</p><p><strong>Punkte:</strong> Jede erhaltene Einheit bringt 4 Punkte für wichtige Dienste, höchstens bis zum Bedarf. Jede fehlende Einheit kostet 3 Härtepunkte. Zieht die ausgegebenen Marken von den Dienstepunkten ab. Modell-Nettopunkte = Dienstepunkte − Härtepunkte − ausgegebene Marken. Notiert auch die drei Einzelwerte. Punkte sind ein Modell, kein moralisches Maß für Menschenleben.</p><p><strong>Ablauf:</strong> 1) Auktionatorin/Auktionator und Zeitwächter bestimmen. 2) Runde 1 in 8 Minuten spielen. 3) Zuteilung und Zahlung eintragen. 4) Unterbrechung, neues Budget und neuen Bedarf anwenden. 5) Drei Minuten verhandeln; Abkommen gilt nur in Runde 2. 6) Runde 2 in 8 Minuten spielen. 7) Mit den Fragen auswerten. Keine Kredite, Nebenabsprachen oder geheimen Zahlungen. Ein Gebot über dem Budget ist ungültig. Passt ein Team, gewinnt das nächsthöchste gültige Gebot.</p><h3>Auktionsregel zur Klarstellung</h3><p>Gebt für jede Runde einen festen Preis je Einheit in ganzen Spielmarken und eine gewünschte Menge an. Die Menge darf euren noch offenen Bedarf nicht übersteigen. Für jede gewonnene Einheit zahlt ihr diesen Preis; die Auktionsleitung bietet nicht für euch. Der Preis bleibt während der Runde gleich. Verteilt die Einheiten nach absteigenden Geboten, bis eine Gruppe ihre gewünschte Menge erreicht oder die nächste Einheit nicht mehr bezahlen kann. Danach kommt das nächste gültige Gebot. Bei gleichen Geboten gilt die ausgeloste Reihenfolge während der ganzen Runde. Berechnet die Punktzahlen für jede Runde getrennt. Versorgungs- und Härtepunkte beginnen in Runde 2 neu; nur das Budget wird nach der genannten Regel übertragen. Vergleicht die Ergebnisse getrennt. Addiert sie nicht zu einer Schulnote oder moralischen Rangliste.</p>"
+        },
+        {
+          "title": "Regionskarten, Auktionsblatt und Auswertung",
+          "html": "<h3>Regionskarten</h3><ul><li><strong>Region A — Importländer mit hohem Einkommen:</strong> Bedarf Runde 1: 5; Budget: 30; Bedarf Runde 2: 4; neues Budget +6. Du darfst höchstens dein aktuelles Budget geteilt durch die gewünschte Anzahl bieten. Frage: Soll ein großes Budget über den Zugang zur gesamten Menge entscheiden?</li><li><strong>Region B — Importländer mit mittlerem Einkommen:</strong> Bedarf Runde 1: 5; Budget: 18; Bedarf Runde 2: 4; neues Budget +6. Dein Bedarf ist so groß wie bei A, dein Budget kleiner. Frage, welche andere Regel den Bedarf berücksichtigen könnte.</li><li><strong>Region C — Importländer mit niedrigem Einkommen:</strong> Bedarf Runde 1: 5; Budget: 9; Bedarf Runde 2: 4; neues Budget +6. Dein Budget ist knapp. Erkläre mögliche Folgen ungedeckten Energiebedarfs für Haushalte und Dienste, ohne die Karte als Daten eines echten Landes zu behandeln.</li></ul><h3>Auktionsprotokoll</h3><table><caption>Eintrag pro Runde (erfundene Einheiten und Marken)</caption><thead><tr><th>Region</th><th>Bedarf</th><th>Erhaltene Einheiten</th><th>Fehlender Bedarf</th><th>Preis je Auktionseinheit</th><th>Ausgaben</th><th>Restbudget</th><th>Dienstepunkte</th></tr></thead><tbody><tr><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h3>Auswertung</h3><ol><li>Verteilte die Auktion nach Bedarf, Kaufkraft oder beidem? Belege es mit euren Ergebnissen.</li><li>Wer zahlte am meisten? Wer hatte ungedeckten Bedarf? Was kann man daraus nicht folgern?</li><li>Was änderte das Abkommen? Wer trug die Kosten?</li><li>Welche echten Aspekte fehlten: Verträge, Speicher, Infrastruktur, Zeit, Emissionen oder Alternativen?</li></ol><h3>Wirkungsdiagramm</h3><p>Zeichne mindestens vier Pfeile. Beschrifte jeden mit einem Wirkungsweg, zum Beispiel „höheres Gebot gewinnt Ladung“ oder „Terminal begrenzt Lieferung“. Zeige eine Verbindung über Regionsgrenzen und markiere unsichere Zusammenhänge mit einem Fragezeichen.</p>"
+        },
+        {
+          "title": "Karte: Argument des Polycrisis-Newsletters zu Gaskonkurrenz und Kaufkraft",
+          "html": "<h3>Argument der Autorinnen und Autoren (sinngemäß von der Lehrkraft formuliert; kein Zitat)</h3><p>In ihrer Einführung vom Oktober 2022 argumentieren Kate Mackenzie und Tim Sahay, dass Europa und reichere ostasiatische Volkswirtschaften um begrenzte Gasangebote konkurrierten, während ärmere Länder Treibstoffmangel erlebten und Schwierigkeiten hatten, Importe in US-Dollar zu bezahlen. Ihr Punkt: Energiesicherheit einer Region kann mit finanzieller und menschlicher Not anderswo verbunden sein. Das ist ein Argument über mögliche Wirkungswege und kein Beweis, dass ein einzelner Käufer einen bestimmten Mangel verursachte.</p><p><strong>Vergleich mit amtlichen Belegen:</strong> Die Seite der Europäischen Kommission beschreibt vorgeschlagene Maßnahmen Europas, darunter gemeinsame Beschaffung, Solidarität und geringere Nachfrage. Sie dokumentiert politische Vorhaben. Sie belegt für sich allein nicht die Verteilungsbehauptung der Newsletter-Autorinnen und -Autoren.</p><ol><li>Welche Verbindung zwischen reichen Käufern und Belastungen anderswo schlagen Mackenzie und Sahay vor?</li><li>Welche Daten bräuchte man, um zu prüfen, ob ein bestimmter Käufer Preise oder Verfügbarkeit für ein anderes Land veränderte?</li><li>Zeigt die Simulation Bedarf, Kaufkraft oder beides? Was fehlt?</li></ol>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "European Commission, Commission makes additional proposals to fight high energy prices and ensure security of supply",
+          "url": "https://finance.ec.europa.eu/news/commission-makes-additional-proposals-fight-high-energy-prices-and-ensure-security-supply-2022-10-18_en",
+          "date": "18 October 2022",
+          "use": "Historischer Bericht zu gemeinsamer Beschaffung, Solidarität und Nachfragemaßnahmen; wird nicht als Beleg einer direkten Wirkung auf Drittstaaten verwendet."
+        },
+        {
+          "title": "European Commission, Commission report: Emergency energy measures facilitated market improvement",
+          "url": "https://energy.ec.europa.eu/news/commission-report-emergency-energy-measures-facilitated-market-improvement-2023-06-05_en",
+          "date": "5 June 2023",
+          "use": "Kontext zu den europäischen Energiemaßnahmen."
+        },
+        {
+          "title": "Kate Mackenzie and Tim Sahay, An Introduction (The Polycrisis newsletter)",
+          "url": "https://archive.phenomenalworld.org/analysis/an-introduction/",
+          "date": "20 October 2022",
+          "use": "Argument der Autorinnen und Autoren zu Gaskonkurrenz reicher Volkswirtschaften und Schwierigkeiten ärmerer Importländer, in Dollar bepreiste Waren zu bezahlen; unter 100 Wörtern sinngemäß wiedergegeben und als Argument, nicht als Beweis eines bestimmten Kausalzusammenhangs gekennzeichnet."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschsprachiger Weg:</strong> Nutze den deutschen Falltext und die Spielregeln. Kurze englische Brücke (von der Lehrkraft geschrieben, kein Zitat): <em>“LNG is gas that is cooled into a liquid and carried by ship. Countries can compete to buy it. A country with more money can often make a higher bid. This does not always mean it has greater need. Ships, terminals and pipelines also limit delivery. Cooperation can change who receives the supply, but it can have costs.”</em> Beantworte auf Deutsch: Was ist LNG? Warum gewinnt Kaufkraft nicht immer den Bedarf ab? Welche drei Arten von Infrastruktur begrenzen die Lieferung? Was könnte Zusammenarbeit verändern? Wörter: liquefied natural gas = Flüssigerdgas; purchasing power = Kaufkraft; supply = Angebot/Versorgung; unmet need = ungedeckter Bedarf; allocation = Zuteilung. Ergänze einen österreichischen Bezug mit einer amtlichen Quelle zu Gas, Speichern oder Energieverbrauch; notiere Datum und erkläre, warum Österreich mit einem regionalen Markt verbunden ist.</p>",
+      "submission": "Einzelerklärung, 120–160 Wörter, auf Papier oder über die Aufgabenplattform der Lehrkraft. Sie belegt je ein Ergebnis aus beiden Runden, erklärt Kaufkraft und Bedarf, beschreibt die Änderung durch Zusammenarbeit und nennt eine wichtige Grenze der Simulation.",
+      "exit": [
+        "Was bestimmte in Runde 1 den Zugang zur Energie? Verwende ein Ergebnis als Beleg.",
+        "Welche Regel würdest du ändern, um die Verteilung gerechter zu machen, und welchen Zielkonflikt könnte das erzeugen?"
+      ],
+      "homework": "Arbeite höchstens 20 Minuten. Lies eure Ergebnisse noch einmal und schreibe zwei andere Regeln zur Verteilung knapper Energie auf. Nenne bei jeder, wer profitiert und welche Kosten oder Nebenwirkung entstehen könnte.",
+      "teacher": {
+        "preparation": [
+          "Drei Regionskarten, Marken oder Papierstücke, Auktionsprotokolle und eine sichtbare Uhr vorbereiten.",
+          "Auktionator und Zeitwächter bestimmen; größere Gruppen in Unterteams teilen, die ein gemeinsames Gebot vereinbaren.",
+          "Deutlich sagen, dass Regionen, Mengen, Budgets und Punkte erfunden sind und keine echten Staaten darstellen."
+        ],
+        "facilitation": [
+          "Die Auktion nicht auf ein gewünschtes Ergebnis hin lenken. Verteilung folgt den angegebenen Regeln und Geboten.",
+          "Mathematisch unmögliche Gebote vor der Offenlegung erklären und korrigieren lassen.",
+          "Auswertung auf Mechanismus und Modellgrenzen konzentrieren; keine Prognose realer LNG-Preise behaupten.",
+          "Fragen, wer im Modell fehlt: Kundinnen, Exportländer, Beschäftigte, Klimaauswirkungen und Menschen ohne politische Stimme."
+        ],
+        "answers": [
+          "Mögliches Rechenbeispiel Runde 1: Bietet A 5 Marken je Einheit, B 3 und C 1, kann A bis zu 5 Einheiten für 25 Marken gewinnen; die nächsten vier gewinnt B zu je 3 Marken und gibt 12 aus; C erhält nichts. Das ist nur ein mögliches Ergebnis; die Teams entscheiden über Gebote.",
+          "Reserviert ein Abkommen zwei Einheiten für B und C, erhält jede Region eine zum Preis von 1 Marke. Sechs Einheiten bleiben für die Auktion. Ein Transfer verändert mögliche Gebote; eine Preisgrenze kann zu Verzicht und Knappheit führen, wenn Gebote über 2 liegen. Tatsächliche Resultate aus der eigenen Tabelle berechnen.",
+          "Punkte: Dienstepunkte = 4 × erhaltene Einheiten (höchstens bis zum Bedarf); Härteabzug = 3 × fehlende Einheiten; Nettopunkte = Dienstepunkte minus Ausgaben. Die Formel ist bewusst grob und kein Wertmaß für Wohlbefinden.",
+          "Eine gerechtere Regel kann Grundmengen für wichtige Dienste reservieren, Bedarf berücksichtigen oder Auktion mit einem Mindestschutz kombinieren. Zielkonflikte: schwächeres Preissignal, Streit über Bedarfsmessung oder Verwaltungsaufwand."
+        ],
+        "misconceptions": [
+          "LNG ist an jedem gewünschten Ort sofort verfügbar; Verflüssigung, Schiffe und Terminals begrenzen die Lieferung.",
+          "Ein hoher Preis beweist größeren gesellschaftlichen Bedarf; er kann größere Zahlungsfähigkeit anzeigen.",
+          "Das Spiel beweist, dass Europas LNG-Käufe andernorts Knappheit verursachten; es zeigt einen Mechanismus, aber keine historische Ursache.",
+          "Zusammenarbeit hat keine Kosten; Reservierungen, Transfers und Preisgrenzen verteilen Kosten und verändern Anreize."
+        ],
+        "differentiation": [
+          "Ein Gebotsbeispiel geben: Budget 9 Marken, Wunsch 3 Einheiten, höchster Durchschnitt 3 Marken je Einheit. Gesamtgebot darf das Budget nicht überschreiten.",
+          "Rollen für Protokoll und Rechnung anbieten; jede Person verfasst trotzdem die Einzelerklärung.",
+          "Vertiefung: Speicher- oder Langfristvertrag-Regel ergänzen und ihre Wirkung auf Verhandlungsmacht vorhersagen lassen."
+        ],
+        "extension": "Vergleiche das Spiel mit einem datierten amtlichen Bericht zu einer echten Reaktion auf den Energiemarkt. Nenne einen erfassten Mechanismus und mindestens zwei ausgelassene Faktoren. Leite aus dem Spiel keine historische Ursache ab."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "en": {
+      "title": "Sri Lanka 2022: reconstructing a crisis",
+      "question": "How did shocks, earlier vulnerabilities, and government choices combine to produce a severe crisis?",
+      "intro": "You are a team of investigators assembling a multi-causal explanation of Sri Lanka's 2022 crisis. Your task is to connect international pressures and domestic decisions without reducing the story to one cause or treating a crisis as inevitable.",
+      "goals": [
+        "Build a time-ordered account using multiple interacting causes.",
+        "Distinguish shocks, pre-existing vulnerabilities, policy choices, transmission mechanisms, and outcomes.",
+        "Compare an institutional explanation with another perspective and identify uncertainty."
+      ],
+      "agenda": [
+        {
+          "minutes": 12,
+          "title": "Read the case",
+          "task": "Read the case reader Sri Lanka: several causes, one crisis and underline one external shock, one earlier vulnerability and one domestic decision."
+        },
+        {
+          "minutes": 15,
+          "title": "Source stations",
+          "task": "Read the four Source cards. Complete the Evidence and perspective table, recording claim, source type, date, and what it does not establish."
+        },
+        {
+          "minutes": 18,
+          "title": "Reconstruction cards",
+          "task": "Use the Event cards and Timeline worksheet. Put the cards in chronological order and draw mechanism arrows between them."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Causal explanation",
+          "task": "In groups, complete the Causal-chain worksheet. Include at least two domestic policy decisions and one global shock; mark disputed or uncertain arrows."
+        },
+        {
+          "minutes": 20,
+          "title": "Competing explanations",
+          "task": "Use the Perspective cards and Claim test. Compare the IMF staff account and the Sri Lankan executive director's statement; identify shared facts, different emphasis, and a question requiring another source."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual reconstruction",
+          "task": "Write 150–180 words explaining the crisis as an interaction of causes. Cite two source cards and include one qualified or uncertain connection. Submit on the teacher's assignment platform or on paper."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Sri Lanka—several causes, one crisis",
+          "html": "<h3>Case reader: Sri Lanka—several causes, one crisis</h3><p>Sri Lanka's economic crisis reached a dramatic point in 2022, when shortages of fuel, food and other imports, high inflation, power cuts and political upheaval affected daily life. No single event explains the outcome. A useful reconstruction separates long-standing vulnerabilities, outside shocks, decisions by national leaders, and the ways these forces travelled through the economy.</p><p>Before the pandemic, the government had already cut several taxes in late 2019. In its February 2022 assessment, the International Monetary Fund (IMF) said that the tax cuts and the pandemic contributed to large fiscal deficits in 2020 and 2021. Tourism had been hit after the 2019 Easter attacks and then by COVID-19. Tourism receipts are foreign currency income; fewer visitors can mean fewer dollars available for imports and debt payments. Remittances and exports are other sources of foreign currency, but they do not necessarily replace lost tourism quickly.</p><p>There were also domestic choices and vulnerabilities. The 2023 IMF programme report described low revenue, monetary financing of deficits, an effectively fixed exchange rate from April 2021, continued repayment of external debt, and a poorly timed ban on chemical fertiliser as part of the crisis context. These were decisions made under political and economic pressures, but they were not simply natural disasters. They can be investigated: what goal did a policy claim to serve, what mechanism did it use, and what consequences were foreseeable?</p><p>Then global conditions made the situation harder. The war in Ukraine contributed to higher world prices for fuel and food in 2022. Sri Lanka needed foreign currency to buy imports while its reserves were already low and borrowing access was constrained. Defending an exchange rate can use reserves; if reserves fall, importers may struggle to obtain dollars. A depreciating currency makes imported goods more expensive in local money and can raise the local-currency burden of foreign-currency debt. In April 2022, Sri Lanka announced a suspension of external debt service.</p><p>Sources emphasise different parts of this story. IMF staff reports combine data with the institution's analysis and policy recommendations. A statement by Sri Lanka's IMF executive director accepts that shocks mattered but gives stronger emphasis to policy missteps. Those perspectives should be compared, not collapsed into a single unquestioned account. This class uses them to build a causal explanation and to ask which links are well supported, which are interpretations, and what further evidence would help.</p>"
+        },
+        {
+          "title": "Source cards: evidence and perspective",
+          "html": "<h3>Source card A — IMF staff, February 2022 (before the acute crisis)</h3><p>The IMF's 2021 Article IV staff report said pre-pandemic tax cuts and COVID-19 contributed to fiscal deficits above 10% of GDP in 2020 and 2021, and public debt rose to 119% of GDP in 2021. It also described critically low reserves, lost access to international capital markets, external debt repayments, and foreign-exchange shortages. This is an institutional analysis published before the full crisis; it identifies vulnerabilities and risks, not a complete retrospective verdict.</p><h3>Source card B — IMF staff, March 2023 (retrospective programme report)</h3><p>The IMF report says Sri Lanka entered the pandemic with a thin reserve buffer, high debt and little fiscal space. It describes reduced tourism and foreign-exchange income, continued external debt payments, exchange-rate policy, low reserves, the 2022 depreciation, debt-service suspension, and global shocks. It also identifies domestic policy missteps, including tax cuts, monetary financing and the chemical-fertiliser ban. This report is an analytical source written as part of an IMF-supported programme; examine its evidence and institutional role.</p><h3>Source card C — Sri Lanka's executive director at the IMF, March 2023</h3><p>In a statement accompanying the programme report, Sri Lanka's executive director also identifies external shocks, including the Easter attacks, COVID-19 and the war in Ukraine. The statement gives especially strong attention to policy missteps: tax cuts, continued monetary financing, low interest rates, subsidised pricing of petroleum and electricity, the fertiliser ban, and defending the exchange rate using reserves. It represents the authorities' perspective within the IMF process; it is not a neutral account simply because it is official.</p><h3>Source card D — World Bank, October 2022</h3><p>The World Bank described longstanding structural weaknesses compounded by shocks and policy mistakes. It noted the combined effects of COVID-19 and high commodity prices associated with the war in Ukraine, alongside debt and falling reserves. This contemporaneous statement is useful for context and comparison, but its short format does not provide the detailed evidence needed to test every causal link.</p><table><caption>Evidence and perspective table</caption><thead><tr><th>Card</th><th>Claim it supports</th><th>Source type and date</th><th>What it does not establish</th></tr></thead><tbody><tr><td>A</td><td></td><td></td><td></td></tr><tr><td>B</td><td></td><td></td><td></td></tr><tr><td>C</td><td></td><td></td><td></td></tr><tr><td>D</td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Event cards and timeline worksheet",
+          "html": "<h3>Event cards (place in chronological order; some processes overlap)</h3><ol><li><strong>Before 2019:</strong> Public debt, reliance on imported fuel, limited export diversification and fiscal constraints made the economy vulnerable. These are broad structural conditions; each needs evidence and definition.</li><li><strong>April 2019:</strong> Easter Sunday attacks sharply disrupted tourism. The exact size and duration of the effect require tourism data; the event reduced visitor activity.</li><li><strong>Late 2019:</strong> The government enacted large tax cuts. The IMF later estimated revenue losses exceeding 2% of GDP; the policy choice affected public revenue.</li><li><strong>2020–21:</strong> COVID-19 sharply reduced tourism and economic activity. Fiscal deficits and external pressures grew; official data and later IMF reports describe the period.</li><li><strong>2021:</strong> The government announced a ban on chemical fertiliser imports, later reversed. The policy aimed to move toward organic farming; the rapid change contributed to agricultural disruption, though the scale of its effect should be tested rather than assumed to explain the whole crisis.</li><li><strong>From April 2021:</strong> The exchange rate was effectively fixed/managed while foreign currency remained under pressure; reserves were used and foreign exchange became scarce.</li><li><strong>February 2022 onward:</strong> Russia's invasion of Ukraine was followed by higher international fuel and food prices. This increased import costs; it interacted with Sri Lanka's existing vulnerabilities.</li><li><strong>March–April 2022:</strong> The rupee depreciated sharply; shortages and queues worsened. On 12 April, authorities announced a temporary suspension of external debt service.</li><li><strong>2022:</strong> Severe shortages and power cuts triggered protests and political upheaval. These were outcomes and feedback into economic activity, not the original cause of every vulnerability.</li></ol><table><caption>Timeline and mechanism worksheet</caption><thead><tr><th>Order/date</th><th>Event or condition</th><th>Shock, vulnerability, decision, mechanism or outcome?</th><th>Arrow to next event: why?</th><th>Confidence: high / medium / uncertain</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Causal-chain worksheet and perspective cards",
+          "html": "<h3>Build a multi-causal explanation</h3><p>Use these nodes, then add or revise them: reduced tourism receipts; lower foreign-currency income; tax cuts and lower government revenue; deficits and debt; external debt payments; use of reserves; low foreign-exchange availability; higher global fuel and food prices; import costs; exchange-rate depreciation; more expensive imports and foreign-currency obligations; shortages and power cuts; household hardship and protests.</p><p>Draw at least six arrows and label each with a mechanism (for example, “fewer visitor receipts reduce one source of foreign currency”). Include at least two domestic policy decisions and one external shock. Mark a link with “?” if evidence is incomplete. Add one possible feedback: shortages can reduce production and income, which can make public finances or foreign-currency inflows harder. State what evidence would test it.</p><h3>Perspective card 1 — IMF staff analysis</h3><p>Ask: What evidence does the staff report use? Which domestic policies and external shocks does it identify? What policy recommendations follow from its analysis? What is the IMF's institutional role in a lending programme?</p><h3>Perspective card 2 — Sri Lankan executive director</h3><p>Ask: Which causes receive greatest emphasis? Which facts overlap with the staff report? Does the statement offer evidence, interpretation, or both? What additional independent data could check its claims?</p><h3>Claim test</h3><ol><li>Write one shared claim both perspectives accept.</li><li>Write one difference in emphasis or interpretation.</li><li>Name one claim requiring data beyond these statements.</li><li>Explain why an official source can be useful and still have a perspective.</li></ol>"
+        },
+        {
+          "title": "Individual reconstruction worksheet",
+          "html": "<h3>Write 150–180 words</h3><p>Explain how Sri Lanka's 2022 crisis emerged from interacting causes. Include: one earlier vulnerability; two domestic decisions or policy choices; one external shock; at least two mechanisms linking them; two source cards by letter; one uncertainty or alternative interpretation. Avoid writing “X caused everything.” Distinguish what the sources report from your own explanation.</p><p>Sentence starters: “One vulnerability was …”; “This mattered because …”; “A later shock interacted with it when …”; “Source B supports …, while Source C places more emphasis on …”; “I am less certain about the link between … and … because …”</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "IMF, Sri Lanka: 2021 Article IV Consultation—Press Release; Staff Report",
+          "url": "https://www.imf.org/en/publications/cr/issues/2022/03/25/sri-lanka-2021-article-iv-consultation-press-release-staff-report-and-statement-by-the-515737",
+          "date": "25 February 2022; report published 25 March 2022",
+          "use": "Pre-crisis assessment of tax cuts, pandemic effects, deficits, debt, reserves and FX shortages."
+        },
+        {
+          "title": "IMF, Sri Lanka: Request for an Extended Arrangement Under the Extended Fund Facility—Staff Report",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2023/116/article-A001-en.xml",
+          "date": "20 March 2023",
+          "use": "Retrospective staff analysis of shocks, vulnerabilities, policy choices, reserves, depreciation, debt suspension and the crisis sequence."
+        },
+        {
+          "title": "IMF, Statement by Krishnamurthy Subramanian, Executive Director for Sri Lanka",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2023/116/article-A004-en.xml",
+          "date": "20 March 2023",
+          "use": "Sri Lankan executive director's perspective and emphasis on policy choices; compared with staff analysis."
+        },
+        {
+          "title": "World Bank, Unprecedented Shocks Rattle South Asia, Exacerbating Challenges and Dampening Growth",
+          "url": "https://www.worldbank.org/en/news/press-release/2022/10/06/unprecedented-shocks-rattle-south-asia-exacerbating-challenges-and-dampening-growth",
+          "date": "6 October 2022",
+          "use": "Contemporaneous account of COVID-19, commodity-price shocks, debt and reserves in South Asia."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Read the case reader in English and compare the two English IMF texts. Connect the case to Austria by writing one contrast question about why Austria and Sri Lanka may have different buffers against an import-price shock; use no stereotypes and name evidence needed to answer it. For an original-reading extension, read the IMF staff report's “Recent Developments” section, paragraphs 2–4, and the executive director statement's paragraph beginning “In the meantime, the government expressed…”. Extract one shared claim and one difference in emphasis, with paragraph reference. Glossary: reserves = Reserven; foreign exchange = Fremdwährung/Devisen; fiscal deficit = Budgetdefizit; depreciation = Abwertung; external debt service = Bedienung/Auszahlung von Auslandsschulden.</p>",
+      "submission": "Individual reconstruction, 150–180 words, on paper or through the teacher's assignment platform. Success criteria: one vulnerability, two domestic decisions, one external shock, two explained mechanisms, two source-card references, and one uncertainty or alternative interpretation.",
+      "exit": [
+        "Which connection in your explanation has the strongest evidence? Name the evidence.",
+        "Which single-cause explanation did the sources make you question, and why?"
+      ],
+      "homework": "Spend up to 20 minutes. Pick one arrow from your causal map. Write what evidence would support it, what evidence could weaken it, and which source or dataset might provide that evidence.",
+      "teacher": {
+        "preparation": [
+          "Print source/event cards and worksheets; optionally colour-code shock, vulnerability, decision and outcome cards.",
+          "Prepare a neutral map of Sri Lanka and a simple timeline from 2019 to 2022.",
+          "Use the supplied source dates: the February 2022 Article IV analysis predates the full crisis; the March 2023 reports are retrospective and connected to an IMF programme."
+        ],
+        "facilitation": [
+          "Insist that students include domestic decisions alongside global shocks and prior vulnerabilities.",
+          "Explain that causal contribution is not the same as sole cause, and policy choices are not the same as inevitable outcomes.",
+          "Compare source roles: IMF staff analysis, an executive director's statement, and a World Bank press release. Do not declare one source neutral by label alone.",
+          "Ask students to distinguish reported event, source interpretation, and their own causal inference."
+        ],
+        "answers": [
+          "Chronology: Easter attacks 2019; tax cuts late 2019; pandemic 2020 onward; fertiliser ban 2021; managed/fixed exchange rate and reserve pressures; Ukraine invasion and higher commodity prices from 2022; sharp depreciation and debt-service suspension in April 2022; shortages, hardship and protests during 2022. Processes overlap; cards are not a complete history.",
+          "A defensible chain: tax cuts reduced revenue; pandemic weakened tourism and activity; deficits and borrowing needs rose while market access was constrained; debt payments and import needs used foreign currency; limited reserves made import financing harder; global fuel/food price rises raised the cost of essential imports; depreciation increased rupee costs and local-currency value of foreign-currency debt; shortages and power cuts harmed activity and households.",
+          "Domestic decisions to include: the 2019 tax cuts, exchange-rate/reserve strategy, monetary financing/low rates, pricing policies, chemical-fertiliser ban. Students should not claim each had equal effect; the provided sources vary in diagnosis.",
+          "IMF staff and executive director statements overlap on shocks and policy mistakes but differ in emphases. The executive director statement foregrounds missteps. It is valid to ask for independent data and other perspectives; the statement alone cannot quantify each policy's causal contribution."
+        ],
+        "misconceptions": [
+          "Sri Lanka's crisis was caused only by the Ukraine war, COVID-19, or one domestic policy; multiple causes interacted over time.",
+          "Debt default means all debt vanished; it means payments were suspended or missed and negotiations followed.",
+          "A currency depreciation only helps exporters; it also raises local-currency import costs and foreign-currency debt burdens.",
+          "An official report is automatically neutral; institutional role, timing and purpose matter alongside evidence."
+        ],
+        "differentiation": [
+          "Offer a partially completed timeline with dates while requiring students to explain arrows themselves.",
+          "Provide mechanism stems: “This reduced ___, which made ___ harder because …”; “The source reports …; I infer …”.",
+          "Extension: compare how the sequence might differ if reserves were larger, while clearly labelling this as a counterfactual rather than fact."
+        ],
+        "extension": "Read the full 2023 IMF report's debt sustainability annex and one independent academic or investigative account. Compare the treatment of creditor structure and domestic policy; keep IMF recommendations distinct from historical description."
+      }
+    },
+    "de": {
+      "title": "Sri Lanka 2022: Eine Krise rekonstruieren",
+      "question": "Wie verbanden sich Schocks, frühere Verwundbarkeit und Regierungsentscheidungen zu einer schweren Krise?",
+      "intro": "Ihr rekonstruiert als Untersuchungsteam die Krise Sri Lankas 2022. Verbindet internationale Belastungen und Entscheidungen im Land, ohne alles auf eine Ursache zu reduzieren oder die Krise als unvermeidbar darzustellen.",
+      "goals": [
+        "Eine zeitliche Erklärung mit mehreren zusammenwirkenden Ursachen erstellen.",
+        "Schocks, frühere Verwundbarkeit, politische Entscheidungen, Wirkungswege und Folgen unterscheiden.",
+        "Eine institutionelle Erklärung mit einer anderen Perspektive vergleichen und Unsicherheit benennen."
+      ],
+      "agenda": [
+        {
+          "minutes": 12,
+          "title": "Falltext lesen",
+          "task": "Lies den Falltext Sri Lanka: mehrere Ursachen, eine Krise. Unterstreiche einen äußeren Schock, eine frühere Verwundbarkeit und eine innenpolitische Entscheidung."
+        },
+        {
+          "minutes": 15,
+          "title": "Quellenstationen",
+          "task": "Lies die vier Quellenkarten. Fülle die Tabelle zu Beleg und Perspektive aus: Aussage, Quellentyp, Datum und was damit nicht bewiesen wird."
+        },
+        {
+          "minutes": 18,
+          "title": "Ereigniskarten rekonstruieren",
+          "task": "Nutze Ereigniskarten und Zeitstrahl. Ordne sie zeitlich und zeichne Wirkungs-Pfeile zwischen den Ereignissen."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Ursachenkette",
+          "task": "Füllt in der Gruppe die Kausalkette aus. Nehmt mindestens zwei innenpolitische Entscheidungen und einen globalen Schock auf; markiert unsichere Pfeile."
+        },
+        {
+          "minutes": 20,
+          "title": "Erklärungen vergleichen",
+          "task": "Nutzt Perspektivkarten und Quellenprüfung. Vergleicht die Analyse des IWF-Personals mit der Erklärung der sri-lankischen IWF-Exekutivdirektion: gemeinsame Fakten, andere Gewichtung und eine offene Frage."
+        },
+        {
+          "minutes": 10,
+          "title": "Einzelne Rekonstruktion",
+          "task": "Schreibe 150–180 Wörter und erkläre die Krise als Zusammenspiel von Ursachen. Nenne zwei Quellenkarten und eine vorsichtig formulierte Verbindung. Abgabe auf Papier oder über die Aufgabenplattform der Lehrkraft."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Sri Lanka — mehrere Ursachen, eine Krise",
+          "html": "<h3>Falltext: Sri Lanka — mehrere Ursachen, eine Krise</h3><p>Die Wirtschaftskrise Sri Lankas wurde 2022 besonders sichtbar. Es fehlten Treibstoff, Lebensmittel und andere Importwaren. Hohe Inflation, Stromausfälle und politische Umbrüche prägten den Alltag. Kein einzelnes Ereignis erklärt das Ergebnis. Eine gute Rekonstruktion unterscheidet länger bestehende Verwundbarkeit, äußere Schocks, Entscheidungen der Regierung und die Wege, auf denen diese Kräfte die Wirtschaft beeinflussten.</p><p>Schon vor der Pandemie senkte die Regierung Ende 2019 mehrere Steuern. Der Internationale Währungsfonds (IWF) erklärte in seiner Analyse vom Februar 2022, Steuersenkungen vor der Pandemie und COVID-19 hätten zu hohen Budgetdefiziten 2020 und 2021 beigetragen. Der Tourismus litt nach den Anschlägen am Ostersonntag 2019 und danach unter COVID-19. Einnahmen aus Tourismus bringen Fremdwährung. Weniger Besucherinnen und Besucher bedeuten möglicherweise weniger Dollar für Importe und Schuldenzahlungen. Rücküberweisungen aus dem Ausland und Exporte sind weitere Quellen, ersetzen verlorene Tourismuseinnahmen aber nicht unbedingt rasch.</p><p>Es gab auch innenpolitische Entscheidungen und Verwundbarkeiten. Der IWF-Bericht zum Programm von 2023 nennt niedrige Staatseinnahmen, Finanzierung von Defiziten durch die Zentralbank, einen seit April 2021 faktisch fixierten Wechselkurs, fortgesetzte Rückzahlung von Auslandsschulden und ein schlecht getimtes Verbot von chemischem Dünger. Diese Entscheidungen entstanden unter politischem und wirtschaftlichem Druck, waren aber keine Naturkatastrophen. Man kann sie untersuchen: Welches Ziel sollte eine Maßnahme erreichen? Wie sollte sie wirken? Welche Folgen waren absehbar?</p><p>Globale Bedingungen erschwerten die Lage. Auf den russischen Angriff auf die Ukraine 2022 folgten weltweit höhere Preise für Treibstoff und Lebensmittel. Sri Lanka benötigte Fremdwährung für Importe, während Reserven schon niedrig und neue Kredite schwieriger waren. Einen Wechselkurs zu verteidigen kann Reserven verbrauchen. Wenn Reserven fallen, finden Importfirmen vielleicht schwerer Dollar. Eine Abwertung verteuert Importwaren in der Landeswährung und erhöht den in Rupien gemessenen Wert von Fremdwährungsschulden. Im April 2022 setzte Sri Lanka die Bedienung ausländischer Schulden aus.</p><p>Quellen gewichten Teile der Geschichte unterschiedlich. IWF-Berichte verbinden Daten mit der Analyse und Empfehlungen der Institution. Eine Erklärung der sri-lankischen IWF-Exekutivdirektion erkennt äußere Schocks an, legt aber mehr Gewicht auf politische Fehler. Diese Perspektiven sollte man vergleichen und nicht zu einer unbefragten Wahrheit verschmelzen. Wir bauen eine Kausalerklärung und fragen, welche Verbindungen gut belegt, welche Deutungen und welche weitere Belege nötig sind.</p>"
+        },
+        {
+          "title": "Quellenkarten: Beleg und Perspektive",
+          "html": "<h3>Quellenkarte A — IWF-Personal, Februar 2022 (vor der akuten Krise)</h3><p>Der IWF-Bericht zur Länderprüfung 2021 sagte, frühere Steuersenkungen und COVID-19 hätten zu Budgetdefiziten von über 10 Prozent des BIP in den Jahren 2020 und 2021 beigetragen. Die Staatsschulden seien 2021 auf 119 Prozent des BIP gestiegen. Der Bericht beschrieb außerdem sehr niedrige Reserven, verlorenen Zugang zu internationalen Kapitalmärkten, Auslandsschuldenzahlungen und Devisenmangel. Diese Analyse erschien vor der vollständigen Krise. Sie nennt Verwundbarkeit und Risiken, ist aber kein vollständiges Urteil im Rückblick.</p><h3>Quellenkarte B — IWF-Personal, März 2023 (Rückblick und Programmbericht)</h3><p>Der IWF-Bericht sagt, Sri Lanka sei mit geringen Reserven, hoher Verschuldung und wenig finanziellem Spielraum in die Pandemie gegangen. Er beschreibt sinkende Tourismus- und Deviseneinnahmen, weitere Auslandsschuldenzahlungen, Wechselkurspolitik, niedrige Reserven, die Abwertung 2022, ausgesetzte Schuldenzahlungen und globale Schocks. Er nennt auch innenpolitische Fehler, darunter Steuersenkungen, Finanzierung von Defiziten durch Geldschöpfung und das Verbot chemischen Düngers. Es ist eine Analyse im Rahmen eines IWF-unterstützten Programms. Prüft Belege und Rolle der Institution.</p><h3>Quellenkarte C — Sri-lankische Exekutivdirektion beim IWF, März 2023</h3><p>Die Erklärung der sri-lankischen Exekutivdirektion nennt ebenfalls äußere Schocks wie die Anschläge, COVID-19 und den Krieg in der Ukraine. Sie betont besonders politische Fehlentscheidungen: Steuersenkungen, fortgesetzte Geldschöpfung zur Defizitfinanzierung, niedrige Zinsen, gestützte Preise für Treibstoff und Strom, das Düngeverbot und die Verteidigung des Wechselkurses mit Reserven. Sie vertritt die Sicht der Regierung im IWF-Prozess. Sie ist nicht allein deshalb neutral, weil sie offiziell ist.</p><h3>Quellenkarte D — Weltbank, Oktober 2022</h3><p>Die Weltbank beschrieb länger bestehende strukturelle Schwächen, die durch Schocks und politische Fehler verstärkt wurden. Sie verwies auf die gemeinsamen Folgen von COVID-19 und hohen Rohstoffpreisen infolge des Ukrainekriegs, außerdem auf Schulden und sinkende Reserven. Die zeitnahe Erklärung bietet Kontext und Vergleich, ist aber kurz und enthält nicht genug Einzelbelege, um jede Verbindung zu prüfen.</p><table><caption>Tabelle zu Beleg und Perspektive</caption><thead><tr><th>Karte</th><th>Gestützte Aussage</th><th>Quellentyp und Datum</th><th>Was wird damit nicht bewiesen?</th></tr></thead><tbody><tr><td>A</td><td></td><td></td><td></td></tr><tr><td>B</td><td></td><td></td><td></td></tr><tr><td>C</td><td></td><td></td><td></td></tr><tr><td>D</td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Ereigniskarten und Zeitstrahl",
+          "html": "<h3>Ereigniskarten (zeitlich ordnen; manche Prozesse überschnitten sich)</h3><ol><li><strong>Vor 2019:</strong> Staatsschulden, Abhängigkeit von importiertem Treibstoff, wenig vielfältige Exporte und knapper finanzieller Spielraum machten die Wirtschaft verwundbar. Das sind breite Bedingungen; jede muss genau belegt und definiert werden.</li><li><strong>April 2019:</strong> Anschläge am Ostersonntag trafen den Tourismus stark. Ausmaß und Dauer prüft man mit Tourismusdaten; die Besucheraktivität ging zurück.</li><li><strong>Ende 2019:</strong> Die Regierung beschloss große Steuersenkungen. Der IWF schätzte später Einnahmeverluste von über 2 Prozent des BIP; die politische Entscheidung verringerte Einnahmen.</li><li><strong>2020–21:</strong> COVID-19 verringerte Tourismus und Wirtschaftstätigkeit stark. Budgetdefizite und Auslandsdruck nahmen zu; amtliche Daten und spätere IWF-Berichte beschreiben diesen Zeitraum.</li><li><strong>2021:</strong> Die Regierung verbot Einfuhren chemischen Düngers; später wurde das Verbot aufgehoben. Ziel war der Wechsel zu biologischer Landwirtschaft. Die rasche Umstellung trug zu Störungen in der Landwirtschaft bei. Das Ausmaß muss geprüft werden; das Verbot erklärt nicht automatisch die ganze Krise.</li><li><strong>Ab April 2021:</strong> Der Wechselkurs wurde faktisch fixiert oder gelenkt, während Fremdwährung knapp war. Reserven wurden genutzt und Devisen schwerer verfügbar.</li><li><strong>Ab Februar 2022:</strong> Nach Russlands Angriff auf die Ukraine stiegen die internationalen Preise für Treibstoff und Lebensmittel. Das erhöhte Importkosten und traf auf bestehende Verwundbarkeit.</li><li><strong>März–April 2022:</strong> Die Rupie verlor stark an Wert; Mangel und Warteschlangen verschärften sich. Am 12. April kündigte die Regierung eine vorübergehende Aussetzung der Auslandsschuldenzahlungen an.</li><li><strong>2022:</strong> Schwerer Mangel und Stromausfälle lösten Proteste und politische Umbrüche aus. Diese waren Folgen und wirkten auf die Wirtschaft zurück; sie waren nicht die ursprüngliche Ursache jeder Verwundbarkeit.</li></ol><table><caption>Zeitstrahl und Wirkungsweg</caption><thead><tr><th>Reihenfolge/Datum</th><th>Ereignis oder Bedingung</th><th>Schock, Verwundbarkeit, Entscheidung, Wirkungsweg oder Folge?</th><th>Pfeil zum nächsten Punkt: warum?</th><th>Sicherheit: hoch / mittel / unsicher</th></tr></thead><tbody><tr><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Arbeitsblatt Kausalkette und Perspektiven",
+          "html": "<h3>Eine Erklärung mit mehreren Ursachen bauen</h3><p>Verwende diese Punkte und ergänze sie: weniger Tourismuseinnahmen; weniger Fremdwährung; Steuersenkungen und geringere Staatseinnahmen; Defizite und Schulden; Auslandsschuldenzahlungen; Nutzung von Reserven; weniger verfügbare Devisen; höhere Weltpreise für Treibstoff und Lebensmittel; Importkosten; Abwertung; teurere Importe und Fremdwährungsschulden; Mangel und Stromausfälle; Belastung von Haushalten und Proteste.</p><p>Zeichne mindestens sechs Pfeile und beschrifte jeden mit einem Wirkungsweg, zum Beispiel: „Weniger Tourismuseinnahmen verringern eine Quelle für Fremdwährung.“ Nimm mindestens zwei innenpolitische Entscheidungen und einen äußeren Schock auf. Markiere eine unvollständig belegte Verbindung mit „?“. Ergänze eine mögliche Rückkopplung: Mangel kann Produktion und Einkommen senken, wodurch Staatshaushalt oder Fremdwährungseinnahmen weiter erschwert werden. Nenne einen Beleg, der diese Idee prüfen könnte.</p><h3>Perspektivkarte 1 — Analyse des IWF-Personals</h3><p>Fragen: Welche Belege nutzt der Bericht? Welche innerstaatlichen Maßnahmen und äußeren Schocks nennt er? Welche Empfehlungen folgen daraus? Welche Rolle hat der IWF in einem Kreditprogramm?</p><h3>Perspektivkarte 2 — Sri-lankische Exekutivdirektion</h3><p>Fragen: Welche Ursachen werden besonders betont? Welche Fakten überschneiden sich mit dem IWF-Personalbericht? Enthält die Erklärung Belege, Deutungen oder beides? Welche unabhängigen Daten könnten Aussagen prüfen?</p><h3>Quellenprüfung</h3><ol><li>Formuliere eine gemeinsame Aussage, die beide Perspektiven vertreten.</li><li>Nenne einen Unterschied in Gewichtung oder Deutung.</li><li>Welche Aussage braucht zusätzliche Daten?</li><li>Warum kann eine amtliche Quelle nützlich sein und trotzdem eine Perspektive haben?</li></ol>"
+        },
+        {
+          "title": "Arbeitsblatt Einzelrekonstruktion",
+          "html": "<h3>Schreibe 150–180 Wörter</h3><p>Erkläre, wie die Krise Sri Lankas 2022 aus zusammenwirkenden Ursachen entstand. Nenne: eine frühere Verwundbarkeit; zwei innenpolitische Entscheidungen; einen äußeren Schock; mindestens zwei Wirkungswege; zwei Quellenkarten mit Buchstaben; eine Unsicherheit oder andere Deutung. Schreibe nicht „X verursachte alles“. Trenne, was Quellen berichten, von deiner eigenen Erklärung.</p><p>Satzanfänge: „Eine Verwundbarkeit war …“; „Das war wichtig, weil …“; „Ein späterer Schock traf darauf, als …“; „Quelle B stützt …, während Quelle C stärker … betont“; „Bei der Verbindung zwischen … und … bin ich weniger sicher, weil …“</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "IWF, Sri Lanka: 2021 Article IV Consultation—Press Release; Staff Report",
+          "url": "https://www.imf.org/en/publications/cr/issues/2022/03/25/sri-lanka-2021-article-iv-consultation-press-release-staff-report-and-statement-by-the-515737",
+          "date": "25. Februar 2022; Bericht veröffentlicht am 25. März 2022",
+          "use": "Analyse vor der akuten Krise zu Steuersenkungen, Pandemie, Defiziten, Schulden, Reserven und Devisenmangel."
+        },
+        {
+          "title": "IWF, Sri Lanka: Request for an Extended Arrangement Under the Extended Fund Facility—Staff Report",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2023/116/article-A001-en.xml",
+          "date": "20. März 2023",
+          "use": "Rückblick des IWF-Personals auf Schocks, Verwundbarkeit, Politikentscheidungen, Reserven, Abwertung, ausgesetzte Schuldenzahlungen und Krisenverlauf."
+        },
+        {
+          "title": "IWF, Statement by Krishnamurthy Subramanian, Executive Director for Sri Lanka",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2023/116/article-A004-en.xml",
+          "date": "20. März 2023",
+          "use": "Perspektive und Schwerpunktsetzung der sri-lankischen Exekutivdirektion; Vergleich mit der Mitarbeiteranalyse."
+        },
+        {
+          "title": "Weltbank, Unprecedented Shocks Rattle South Asia, Exacerbating Challenges and Dampening Growth",
+          "url": "https://www.worldbank.org/en/news/press-release/2022/10/06/unprecedented-shocks-rattle-south-asia-exacerbating-challenges-and-dampening-growth",
+          "date": "6. Oktober 2022",
+          "use": "Zeitnahe Einordnung von COVID-19, Rohstoffpreisschock, Schulden und Reserven in Südasien."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschsprachiger Weg:</strong> Arbeite auf Deutsch. Kurze englische Brücke (von der Lehrkraft geschrieben, kein Zitat): <em>“Sri Lanka faced several pressures at once. Tourism brought in foreign currency, but attacks and the pandemic reduced visitor income. The government had also cut taxes. Later, fuel and food became more expensive on world markets. Low reserves made it harder to pay for imports. Government choices and outside shocks interacted; no single event explains the whole crisis.”</em> Beantworte auf Deutsch: Welche zwei Faktoren verringerten Fremdwährung? Welche Rolle spielten niedrige Reserven? Warum erklärt kein einzelnes Ereignis alles? Wörter: reserves = Reserven; foreign exchange = Devisen; fiscal deficit = Budgetdefizit; depreciation = Abwertung; external debt service = Bedienung von Auslandsschulden.</p>",
+      "submission": "Einzelrekonstruktion, 150–180 Wörter, auf Papier oder über die Aufgabenplattform der Lehrkraft. Kriterien: eine Verwundbarkeit, zwei innenpolitische Entscheidungen, ein äußerer Schock, zwei erklärte Wirkungswege, zwei Quellenkarten und eine Unsicherheit oder andere Deutung.",
+      "exit": [
+        "Welche Verbindung deiner Erklärung ist am besten belegt? Nenne den Beleg.",
+        "Welche Erklärung mit nur einer Ursache hast du nach den Quellen hinterfragt und warum?"
+      ],
+      "homework": "Arbeite höchstens 20 Minuten. Wähle einen Pfeil aus deiner Kausalkarte. Schreibe, welcher Beleg ihn stützen, welcher ihn schwächen und welche Quelle oder Datensammlung ihn prüfen könnte.",
+      "teacher": {
+        "preparation": [
+          "Quellen- und Ereigniskarten sowie Arbeitsblätter vorbereiten; Karten für Schock, Verwundbarkeit, Entscheidung und Folge können verschiedenfarbig sein.",
+          "Eine neutrale Karte Sri Lankas und einen einfachen Zeitstrahl 2019–2022 bereitlegen.",
+          "Die Daten einordnen: Die Analyse vom Februar 2022 erschien vor der vollständigen Krise; die Berichte vom März 2023 sind Rückblicke im Zusammenhang mit einem IWF-Programm."
+        ],
+        "facilitation": [
+          "Darauf bestehen, dass neben globalen Schocks auch innenpolitische Entscheidungen und frühere Verwundbarkeit vorkommen.",
+          "Erklären: ein Beitrag zur Ursache ist nicht die einzige Ursache; politische Entscheidungen sind nicht dasselbe wie unvermeidliche Folgen.",
+          "Rollen von IWF-Analyse, Erklärung einer Exekutivdirektion und Weltbank-Pressemitteilung vergleichen. Keine Quelle allein wegen ihres Namens als neutral erklären.",
+          "Schülerinnen und Schüler unterscheiden lassen: berichtetes Ereignis, Deutung der Quelle und eigene Schlussfolgerung."
+        ],
+        "answers": [
+          "Zeitfolge: Anschläge am Ostersonntag 2019; Steuersenkungen Ende 2019; Pandemie ab 2020; Düngeverbot 2021; gelenkter/faktisch fixierter Wechselkurs und Reservendruck; Ukrainekrieg und höhere Rohstoffpreise ab 2022; Abwertung und Aussetzung der Auslandsschuldenzahlungen im April 2022; Mangel, Not und Proteste im Jahr 2022. Prozesse überschnitten sich; die Karten bilden nicht die ganze Geschichte ab.",
+          "Vertretbare Kette: Steuersenkungen verringerten Staatseinnahmen; Pandemie schwächte Tourismus und Wirtschaftstätigkeit; Defizite und Kreditbedarf stiegen bei beschränktem Kapitalmarktzugang; Schuldendienst und Importe beanspruchten Fremdwährung; geringe Reserven erschwerten Importfinanzierung; höhere Weltpreise für Treibstoff und Lebensmittel erhöhten Kosten; Abwertung verteuerte Importe und erhöhte den Rupienwert von Fremdwährungsschulden; Mangel und Stromausfälle belasteten Wirtschaft und Haushalte.",
+          "Mögliche innenpolitische Entscheidungen: Steuersenkungen 2019, Wechselkurs- und Reservenpolitik, Geldschöpfung/niedrige Zinsen, gestützte Preise, Düngeverbot. Nicht behaupten, alle hätten gleich stark gewirkt; Quellen diagnostizieren unterschiedlich.",
+          "IWF-Personal und Exekutivdirektion stimmen bei Schocks und politischen Fehlern teilweise überein, setzen aber andere Schwerpunkte. Die Exekutivdirektion betont Fehlentscheidungen stark. Es ist zulässig, unabhängige Daten und weitere Perspektiven zu verlangen; die Erklärung allein quantifiziert keine Ursache."
+        ],
+        "misconceptions": [
+          "Nur Ukrainekrieg, COVID-19 oder eine einzige innenpolitische Maßnahme verursachte die Krise; mehrere Faktoren wirkten über die Zeit zusammen.",
+          "Ein Zahlungsausfall löscht alle Schulden; er bedeutet, dass Zahlungen ausgesetzt oder versäumt wurden und Verhandlungen folgten.",
+          "Eine Abwertung hilft nur Exporten; sie verteuert auch Importe und Fremdwährungsschulden in Landeswährung.",
+          "Ein amtlicher Bericht ist automatisch neutral; Rolle, Zeitpunkt und Zweck sind neben Belegen wichtig."
+        ],
+        "differentiation": [
+          "Einen teilweise ausgefüllten Zeitstrahl anbieten; die Wirkungs-Pfeile müssen die Lernenden selbst begründen.",
+          "Satzmuster: „Das verringerte ___, wodurch ___ schwieriger wurde, weil …“; „Die Quelle berichtet …; ich folgere …“. ",
+          "Vertiefung: Überlegen lassen, wie größere Reserven die Abfolge verändert hätten. Als Gegenfrage, nicht als Tatsache kennzeichnen."
+        ],
+        "extension": "Lies den Anhang zur Schuldentragfähigkeit im IWF-Bericht von 2023 und zusätzlich eine unabhängige wissenschaftliche oder journalistische Darstellung. Vergleiche Gläubigerstruktur und Innenpolitik; trenne Empfehlungen des IWF von der historischen Beschreibung."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "en": {
+      "title": "Debt, dollars, and room to act",
+      "question": "Why can debt in a foreign currency leave a government with less room to respond to a crisis?",
+      "intro": "A country can issue debt in its own currency or in another currency such as US dollars. Exchange-rate changes alter the local-currency cost of foreign-currency debt. You will use a fictional budget model, then connect its mechanism to Sri Lanka's documented crisis without treating the model as a forecast.",
+      "goals": [
+        "Calculate how currency depreciation changes the local-currency value of a fixed dollar debt payment.",
+        "Explain the connection between reserves, imports, debt service, and government choices.",
+        "Compare debt-management options and defend a response that recognises distributional effects."
+      ],
+      "agenda": [
+        {
+          "minutes": 12,
+          "title": "A bill in two currencies",
+          "task": "Read the case reader A dollar bill and a local budget. Calculate the exchange-rate examples in the Currency worksheet."
+        },
+        {
+          "minutes": 15,
+          "title": "Sri Lanka evidence",
+          "task": "Read the Sri Lanka data card and the 2023 IMF source card. Add two verified case facts and one limitation to the Evidence table."
+        },
+        {
+          "minutes": 18,
+          "title": "Budget shock exercise",
+          "task": "Use the fictional Country L budget cards and complete Scenario A and Scenario B in the worksheet. Show every calculation and identify which spending is squeezed."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Debt strategy cabinet",
+          "task": "Use the Role cards, Option cards, and Cabinet rules. Negotiate a package, calculate its cost, and record who gains, who pays, and what risk remains."
+        },
+        {
+          "minutes": 20,
+          "title": "Portfolio entry 2",
+          "task": "Complete the individual Debt and room-to-act analysis using the worked-example template. Cite a fictional calculation and one historical source fact. Submit via the teacher's assignment platform or on paper."
+        },
+        {
+          "minutes": 10,
+          "title": "Exit check",
+          "task": "Answer both Exit questions and check your calculations with the answer key after the teacher releases it."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: A dollar bill and a local budget",
+          "html": "<h3>Case reader: A dollar bill and a local budget</h3><p>Governments borrow to pay for services, build infrastructure, meet emergencies, or refinance loans. Debt is a promise to make payments later. The promise may be written in the country's own currency or in a foreign currency. A government that collects most taxes in its own currency but owes dollars needs access to dollars when payments are due. It may earn them through exports, tourism, remittances or borrowing, or use foreign-exchange reserves held by the central bank.</p><p>Suppose a government owes US$100 million. If one dollar costs 300 units of local currency, the payment is 30 billion local units. If the local currency loses value and one dollar costs 400 units, the same US$100 million payment costs 40 billion local units. The dollar amount did not change, but its local-currency cost rose by 10 billion, or one third. This simple arithmetic excludes interest, timing and changes in income or prices.</p><p>Foreign-currency debt can create pressure when a country has few dollars available, exports or tourism weaken, import bills rise, or lenders stop offering new loans. Paying external debt uses foreign currency that might otherwise pay for fuel, medicine, machinery or food. Stopping payment may preserve foreign currency for a time but can bring default, legal disputes, lost market access and difficult negotiations. Borrowing more can bridge an emergency but may worsen the later burden. </p><p>Debt in local currency has different risks. A government may be able to issue its own currency, but creating more money does not create more fuel or medicine. If supply cannot meet demand, prices may rise and the currency may lose value. Local-currency debt can also affect pension funds, banks and savers that hold government bonds. Debt restructuring can change the amount, interest rate, or timing owed, but negotiations distribute losses among creditors and residents and take time.</p><p>Sri Lanka's 2022 crisis shows why these connections matter. The IMF's 2023 staff report describes low usable reserves, foreign-exchange shortages, a sharp currency depreciation, suspension of external debt service in April 2022, and debt assessed as unsustainable. The report links the increase in the public-debt ratio to depreciation, deficits and weak economic output. These facts and the IMF analysis do not imply that every country with foreign-currency debt will face the same outcome. The fictional budget isolates one mechanism and asks whose interests choices affect.</p>"
+        },
+        {
+          "title": "Currency worksheet and Sri Lanka evidence card",
+          "html": "<h3>Currency conversion: show your work</h3><p>Formula for this exercise: local-currency cost = dollar payment × local-currency units per US dollar.</p><table><caption>All amounts below are illustrative calculations</caption><thead><tr><th>Dollar payment</th><th>Exchange rate</th><th>Local-currency cost</th></tr></thead><tbody><tr><td>US$100 million</td><td>300 local units per US$1</td><td></td></tr><tr><td>US$100 million</td><td>400 local units per US$1</td><td></td></tr><tr><td>US$250 million</td><td>400 local units per US$1</td><td></td></tr></tbody></table><p>Calculate the percentage rise from the first to second row. Then explain why this alone does not tell us whether the government can pay.</p><h3>Sri Lanka evidence card (dated facts from IMF 2023 staff report)</h3><ul><li>The report says gross international reserves at end-2019 were US$7.6 billion and usable reserves at end-2021 were US$1.6 billion, described as less than one month of imports.</li><li>The report states that Sri Lanka suspended external debt service on 12 April 2022 and defaulted on international sovereign bonds on 18 May 2022.</li><li>The report assesses public debt at about 128% of GDP in 2022, attributing the rise in part to currency depreciation, fiscal deficits and negative real GDP growth.</li><li>The IMF report is an institutional analysis within a lending programme. These facts do not show that foreign-currency debt alone caused the crisis or settle how policy responsibility should be allocated.</li></ul><table><caption>Evidence table</caption><thead><tr><th>Documented fact</th><th>Possible mechanism</th><th>What remains unknown or contested?</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Fictional Country L budget and scenarios",
+          "html": "<h3>Fictional Country L: one-year budget (all figures fictional)</h3><p>Currency: local units (LU), where 1 LU represents 1 billion units of Country L currency. Expected revenue: 100 LU. Planned spending: essential services 45 LU; fuel and medicine imports 20 LU; local-currency debt payments 10 LU; foreign-currency debt payment of US$100 million (not local-budget units); reserve top-up 10 LU. The planned exchange rate is 300 local-currency units per US$1. At the planned rate, the dollar payment costs 30 LU: US$100 million × 300 local-currency units/US$ = 30 billion local-currency units. Total planned spending is 45 + 20 + 10 + 10 + 30 = 115 LU, leaving a 15 LU gap against revenue even before a shock.</p><p><strong>Scenario A — depreciation:</strong> Exchange rate changes to 450 local-currency units per US$1. All other spending and revenue stay constant for this calculation. Calculate the dollar payment in LU, total spending and financing gap. This is an accounting exercise, not a forecast.</p><p><strong>Scenario B — depreciation plus import-price shock:</strong> Exchange rate is 450 local-currency units per US$1. The import bill of 20 LU rises by 25% in local-currency terms (for this exercise only). Revenue remains 100 LU. Calculate the import bill, dollar payment, total spending and financing gap.</p><h3>Possible response cards (choose two and explain)</h3><ul><li><strong>Use reserves:</strong> Pay some dollar bill from reserves. Helps meet payment now; reduces buffer against later imports or shocks.</li><li><strong>Cut or delay spending:</strong> Reduce an item to close some gap. The people relying on that service or investment may bear the cost.</li><li><strong>Raise revenue:</strong> Increase taxes or improve collection. Can improve public finances; design affects households and firms differently and may take time.</li><li><strong>Seek a bridge loan:</strong> Borrow foreign currency. May protect imports now; adds future payment obligations and depends on lender conditions.</li><li><strong>Negotiate restructuring:</strong> Ask creditors to extend maturities, reduce interest, or accept a lower amount. Can reduce near-term outflow; requires negotiation, may impose losses and can take time.</li><li><strong>Adjust exchange-rate policy:</strong> Allow price to change or manage it differently. May reduce reserve use and affect exports/imports; makes imported goods and FX debt costlier in local currency.</li></ul>"
+        },
+        {
+          "title": "Cabinet role cards, rules and portfolio worksheet",
+          "html": "<h3>Cabinet roles (fictional; share decision-making)</h3><ul><li><strong>Finance minister:</strong> Close the financing gap and explain who bears the cost. Do not assume a loan is free.</li><li><strong>Health and social services minister:</strong> Protect essential medicine and basic services. Ask whether cuts shift the crisis onto vulnerable people.</li><li><strong>Central bank governor:</strong> Preserve enough foreign currency for critical imports and explain exchange-rate effects. Distinguish reserves from government revenue.</li><li><strong>Small exporter and worker representative:</strong> Consider how the exchange rate, taxes and credit affect jobs and export earnings; ask who benefits from adjustment.</li><li><strong>Creditor representative:</strong> Ask for a credible repayment plan and fair treatment among creditors; acknowledge that debt restructuring may be necessary if payments are unsustainable.</li></ul><h3>Cabinet rules</h3><ol><li>Use Scenario B figures. Each group chooses two response cards; the group must state the first action, who bears its cost, and a risk.</li><li>For this exercise, “use reserves” can cover up to 5 LU of the gap, “cut/delay spending” can free up to 6 LU, “raise revenue” can add up to 5 LU next year (not this year), “bridge loan” can cover up to 8 LU now and adds 10 LU of future repayment, “restructure” can reduce this year's dollar payment by up to half but does not erase debt, and exchange-rate adjustment has no automatic gap-reducing score.</li><li>These effects are fictional rules for comparison, not estimates of real policy effects. A two-card package may leave a gap. For example, restructuring can reduce this year’s 45 LU FX payment by up to half (22.5 LU), while a bridge loan covers up to 8 LU: together they cover 30.5 LU of Scenario B’s 35 LU gap and leave 4.5 LU unfunded. Groups may not claim the gap is closed unless their stated effects cover it.</li><li>Prepare a 90-second cabinet statement: show the arithmetic, name beneficiaries and cost bearers, and state remaining risk. Other groups ask one question.</li></ol><h3>Individual portfolio entry 2 (220–280 words)</h3><p>Explain how foreign-currency debt can reduce room to act in a crisis. Include the US$100m conversion calculation, one Sri Lanka evidence-card fact, two response options with their trade-offs, and a judgement about which group might bear costs. Separate fictional exercise results from historical evidence. End with one limit of the evidence.</p>"
+        },
+        {
+          "title": "Worked calculation and source comparison",
+          "html": "<h3>Worked calculation</h3><p>US$100 million × 300 local-currency units/US$ = 30,000 million local-currency units = 30 LU (because 1 LU represents 1 billion local-currency units). At 400 units/US$, the same payment is 40 LU. Increase: (40 − 30) ÷ 30 × 100 = 33.3% (about one third). US$250 million × 400 = 100 LU.</p><p>Country L planned spending: 45 + 20 + 10 + 10 + 30 = 115 LU; gap = 115 − 100 = 15 LU. Scenario A: debt service = US$100m × 450 = 45 LU; total = 45 + 20 + 10 + 10 + 45 = 130 LU; gap = 30 LU. Scenario B: import bill = 20 × 1.25 = 25 LU; total = 45 + 25 + 10 + 10 + 45 = 135 LU; gap = 35 LU. The scenarios hold other items fixed and exclude economic feedbacks.</p><h3>Source comparison prompts</h3><ul><li>IMF Article IV 2022 report: what risks were identified before the acute crisis?</li><li>IMF 2023 programme report: what later facts and diagnoses were added?</li><li>World Bank 2022 statement: how does a short contemporaneous account frame the interaction of shocks and structural weakness?</li><li>For each, distinguish a measured figure, institutional interpretation, and policy recommendation.</li></ul>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "IMF, Sri Lanka: Request for an Extended Arrangement Under the Extended Fund Facility—Staff Report",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2023/116/article-A001-en.xml",
+          "date": "20 March 2023",
+          "use": "Reserves, debt service suspension/default dates, debt ratio and the IMF's analysis of debt dynamics and crisis mechanisms."
+        },
+        {
+          "title": "IMF, Public Debt Dynamics and Intra-Year Exchange Rate Fluctuations",
+          "url": "https://www.imf.org/en/publications/wp/issues/2020/11/20/public-debt-dynamics-and-intra-year-exchange-rate-fluctuations-49904",
+          "date": "20 November 2020",
+          "use": "Background for the mechanism by which exchange-rate fluctuations affect foreign-currency public debt values; not a claim about Sri Lanka specifically."
+        },
+        {
+          "title": "World Bank, Sri Lanka Faces Unsustainable Debt and Balance of Payment Challenges",
+          "url": "https://www.worldbank.org/en/news/press-release/2022/04/13/sri-lanka-faces-unsustainable-debt-and-balance-of-payment-challenges",
+          "date": "13 April 2022",
+          "use": "Contemporaneous account of Sri Lanka's fiscal and external imbalances and need to restore debt sustainability."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Work with the English case reader and calculations. Connect to Austria by discussing how Austria's own-currency euro membership differs from a state that earns local currency but owes dollars. The point is not that Austria has no debt risks; identify which currency and institution questions would need checking. For an original-reading extension, use the IMF 2023 staff report's Annex II, section “Current Debt Situation,” paragraphs 1–2, and the paragraph describing debt suspension on 12 April 2022. Extract one number with its unit/date and explain what it cannot prove. Glossary: foreign-currency debt = Fremdwährungsschuld; reserves = Reserven; exchange rate = Wechselkurs; debt restructuring = Umschuldung; room to act = Handlungsspielraum.</p>",
+      "submission": "Individual portfolio analysis, 220–280 words, on paper or through the teacher's assignment platform. Success criteria: correct conversion calculation; one dated Sri Lanka fact; two policy options and trade-offs; distributional judgement; clear distinction between fictional exercise and historical evidence; one evidence limitation.",
+      "exit": [
+        "How does depreciation change a fixed dollar payment measured in local currency? Show a number.",
+        "Which response may protect imports now but create a later cost? Explain the trade-off."
+      ],
+      "homework": "Spend no more than 20 minutes. Recheck the worked calculation and write a 3–4 sentence explanation of the difference between using reserves, borrowing more, and restructuring debt. Use the supplied cards only.",
+      "teacher": {
+        "preparation": [
+          "Print budget and role cards; provide calculators or allow written arithmetic.",
+          "Before teaching, note that Country L's budget and response effects are fictional; the historical Sri Lanka figures are dated and attributed to the IMF report.",
+          "Budget units: 1 LU equals 1 billion local-currency units; the FX payment is US$100 million, which costs 30 LU at 300 local-currency units per dollar. Check that Scenario A totals 130 LU (30 LU gap) and Scenario B totals 135 LU (35 LU gap)."
+        ],
+        "facilitation": [
+          "Have students show units in conversions: US dollars × local units per dollar = local units.",
+          "Keep reserves distinct from government revenue and distinguish liquidity (paying now) from solvency (whether debt can be paid over time).",
+          "Prompt students to ask whose spending is reduced and who receives protection under each cabinet package.",
+          "Treat IMF recommendations as the institution's policy view, separate from dates and figures in the report."
+        ],
+        "answers": [
+          "Currency conversions: US$100m × 300 local units/US$ = 30,000m local units = 30 LU when 1 LU = 1 billion local units; ×400 = 40 LU; rise = (40−30)/30 = 33.3%. US$250m ×400 = 100 LU.",
+          "Budget: planned local spending = 45 + 20 + 10 + 10 = 85 LU; FX debt is US$100m ×300 = 30 LU, giving planned total 115 and gap 15. Scenario A at 450: FX payment = 45 LU, total 130 and gap 30. Scenario B import bill = 25 LU, other spending 90; FX debt 45; total 135 and gap 35. For the cabinet package, restructuring can reduce the 45 LU FX payment by up to 22.5 LU; a bridge loan covers up to 8 LU. Together they cover 30.5 of the 35 LU Scenario B gap, leaving 4.5 LU. Real macroeconomic feedbacks are excluded.",
+          "Sri Lanka card facts: usable reserves US$1.6bn at end-2021 and described as under one month of imports; debt-service suspension announced 12 April 2022; ISB default date 18 May 2022; debt ~128% GDP in 2022 per 2023 IMF staff report. Keep dates and attribution attached.",
+          "Option discussion: reserves provide immediate FX but shrink a buffer; new loans bridge payments but increase future obligations; restructuring reduces or delays payments but redistributes losses and takes negotiation; spending cuts and taxes have distributional effects. No universal best answer."
+        ],
+        "misconceptions": [
+          "A depreciation automatically increases the number of local currency units needed for every foreign-currency payment; it does, holding the dollar amount fixed and using the stated quote.",
+          "A government can print dollars to pay dollar debt; it generally needs foreign currency from earnings, borrowing, reserves or other inflows.",
+          "Default means a government ceases to exist or owes nothing; it means obligations were not paid on schedule and negotiations may follow.",
+          "Reserves and revenue are the same; reserves are foreign assets/buffers, while revenue is a flow of income to government.",
+          "The fictional budget predicts a real crisis; it isolates arithmetic while excluding behavioural and macroeconomic feedbacks."
+        ],
+        "differentiation": [
+          "Provide a conversion frame and one worked line; extension students calculate percentage changes and explain the quote convention.",
+          "Offer role cards as optional viewpoints while each student still writes the independent memo.",
+          "Extension: add a feedback loop in which depreciation raises import costs and inflation, then discuss what evidence would be needed to substantiate it."
+        ],
+        "extension": "Compare Sri Lanka's foreign-currency exposure with a country borrowing mainly in its own currency, using dated official debt data. Explain why currency denomination alone does not determine debt sustainability; include maturity, interest, revenue, reserves and institutional context."
+      }
+    },
+    "de": {
+      "title": "Schulden, Dollar und Handlungsspielraum",
+      "question": "Warum kann eine Regierung bei Fremdwährungsschulden weniger Spielraum für eine Krise haben?",
+      "intro": "Staaten können Schulden in eigener oder fremder Währung aufnehmen, etwa in US-Dollar. Eine Wechselkursänderung verändert die Kosten von Dollarzahlungen in der Landeswährung. Du nutzt ein erfundenes Budgetmodell und verbindest den Mechanismus danach mit der belegten Krise Sri Lankas. Das Modell ist keine Vorhersage.",
+      "goals": [
+        "Berechnen, wie eine Abwertung den Landeswährungswert einer festen Dollarzahlung verändert.",
+        "Den Zusammenhang zwischen Reserven, Importen, Schuldendienst und politischen Entscheidungen erklären.",
+        "Schuldenoptionen vergleichen und eine Antwort mit Blick auf Verteilungsfolgen begründen."
+      ],
+      "agenda": [
+        {
+          "minutes": 12,
+          "title": "Eine Rechnung in zwei Währungen",
+          "task": "Lies den Falltext Eine Dollarrechnung und ein Landesbudget. Berechne die Wechselkursbeispiele im Arbeitsblatt Währung."
+        },
+        {
+          "minutes": 15,
+          "title": "Belege zu Sri Lanka",
+          "task": "Lies die Datenkarte Sri Lanka und die IWF-Quellenkarte 2023. Ergänze zwei belegte Fakten und eine Grenze in der Belegtabelle."
+        },
+        {
+          "minutes": 18,
+          "title": "Budget-Schock",
+          "task": "Nutze die erfundenen Budgetkarten von Land L. Bearbeite Szenario A und B mit allen Rechenschritten und markiere, welche Ausgaben unter Druck geraten."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Kabinett berät Schuldenstrategie",
+          "task": "Nutzt Rollenkarten, Maßnahmenkarten und Kabinettsregeln. Verhandelt ein Paket, berechnet Kosten und notiert Gewinnerinnen, Kostenträger und verbleibendes Risiko."
+        },
+        {
+          "minutes": 20,
+          "title": "Portfolio-Beitrag 2",
+          "task": "Schreibe mit dem Rechenbeispiel eine persönliche Analyse zu Schulden und Handlungsspielraum. Nenne eine fiktive Rechnung und einen historischen Beleg. Abgabe auf Papier oder über die Aufgabenplattform der Lehrkraft."
+        },
+        {
+          "minutes": 10,
+          "title": "Abschlusskontrolle",
+          "task": "Beantworte beide Abschlussfragen und prüfe deine Rechnungen mit der Lösung, sobald die Lehrkraft sie freigibt."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Eine Dollarrechnung und ein Landesbudget",
+          "html": "<h3>Falltext: Eine Dollarrechnung und ein Landesbudget</h3><p>Regierungen nehmen aus vielen Gründen Kredite auf: für öffentliche Dienste, Infrastruktur, Notlagen oder um alte Kredite abzulösen. Eine Schuld ist das Versprechen, später zu zahlen. Sie kann in der eigenen Landeswährung oder in einer fremden Währung stehen. Wenn ein Staat die meisten Steuern in eigener Währung einnimmt, aber Dollar schuldet, braucht er am Zahlungstag Zugang zu Dollar. Er kann sie etwa mit Exporten, Tourismus oder Rücküberweisungen verdienen, aus neuen Krediten bekommen oder Reserven der Zentralbank verwenden.</p><p>Angenommen, eine Regierung schuldet 100 Millionen US-Dollar. Kostet ein Dollar 300 Einheiten der Landeswährung, kostet die Zahlung 30 Milliarden Landeswährung. Verliert die Landeswährung an Wert und kostet ein Dollar 400 Einheiten, kostet dieselbe Zahlung 40 Milliarden. Der Dollarbetrag änderte sich nicht, aber seine Kosten in Landeswährung stiegen um 10 Milliarden oder ein Drittel. Diese einfache Rechnung berücksichtigt weder Zinsen noch Zahlungszeitpunkt, andere Schulden oder Änderungen von Einkommen und Preisen.</p><p>Fremdwährungsschulden können Druck erzeugen, wenn ein Land wenig Dollar hat, Exporte oder Tourismus zurückgehen, Importrechnungen steigen oder Kreditgeber keine neuen Kredite geben. Auslandsschulden zu bezahlen verbraucht Fremdwährung, die sonst Treibstoff, Medikamente, Maschinen oder Lebensmittel finanzieren könnte. Zahlungen auszusetzen kann vorübergehend Fremdwährung freihalten. Es kann aber zu Zahlungsausfall, Rechtsstreit, verlorenem Marktzugang und schwierigen Verhandlungen führen. Neue Kredite können eine Notlage überbrücken, aber die spätere Belastung erhöhen. Es gibt keine kostenlose Wahl.</p><p>Schulden in Landeswährung haben andere Risiken. Eine Regierung kann vielleicht eigene Währung ausgeben. Mehr Geld schafft aber keinen zusätzlichen Treibstoff und keine Medikamente. Wenn das Angebot nicht mit der Nachfrage mithält, können Preise steigen und die Währung an Wert verlieren. Schulden in Landeswährung betreffen auch Pensionsfonds, Banken und Sparer, die Staatsanleihen halten. Eine Umschuldung kann Betrag, Zins oder Zeitpunkt ändern; sie verteilt Verluste zwischen Gläubigern und Einwohnerinnen und braucht Zeit.</p><p>Die Krise Sri Lankas 2022 zeigt, warum diese Verbindungen wichtig sind. Der IWF-Bericht von 2023 beschreibt geringe nutzbare Reserven, Devisenmangel, eine starke Abwertung, die Aussetzung des Auslandsschuldendienstes im April 2022 und als nicht tragfähig bewertete Schulden. Der Bericht verbindet den Anstieg der Staatsschuldenquote mit Abwertung, Defiziten und schwacher Wirtschaftsleistung. Das sind dokumentierte Angaben und die Analyse des IWF. Sie bedeuten nicht, dass jedes Land mit Fremdwährungsschulden dasselbe erlebt. Unser erfundenes Budget zeigt einen Mechanismus, damit wir fragen können, welche Entscheidungen bleiben und wen sie betreffen.</p>"
+        },
+        {
+          "title": "Arbeitsblatt Währung und Datenkarte Sri Lanka",
+          "html": "<h3>Währungsumrechnung: Rechenweg zeigen</h3><p>Formel: Kosten in Landeswährung = Dollarzahlung × Einheiten der Landeswährung je US-Dollar.</p><table><caption>Alle Beträge sind Beispielrechnungen</caption><thead><tr><th>Dollarzahlung</th><th>Wechselkurs</th><th>Kosten in Landeswährung</th></tr></thead><tbody><tr><td>100 Mio. US-Dollar</td><td>300 Einheiten je US$1</td><td></td></tr><tr><td>100 Mio. US-Dollar</td><td>400 Einheiten je US$1</td><td></td></tr><tr><td>250 Mio. US-Dollar</td><td>400 Einheiten je US$1</td><td></td></tr></tbody></table><p>Berechne den prozentuellen Anstieg zwischen Zeile 1 und 2. Erkläre dann, warum das allein nicht sagt, ob der Staat zahlen kann.</p><h3>Datenkarte Sri Lanka (datierte Angaben aus dem IWF-Bericht 2023)</h3><ul><li>Dem Bericht zufolge betrugen die Bruttoreserven Ende 2019 7,6 Mrd. US-Dollar. Nutzbare Reserven lagen Ende 2021 bei 1,6 Mrd. US-Dollar und reichten laut Bericht für weniger als einen Monat Importe.</li><li>Sri Lanka setzte laut Bericht am 12. April 2022 den Auslandsschuldendienst aus und geriet am 18. Mai 2022 mit internationalen Staatsanleihen in Zahlungsausfall.</li><li>Der IWF-Bericht bewertet die Staatsschulden 2022 mit etwa 128 Prozent des BIP und führt den Anstieg teilweise auf Abwertung, Budgetdefizite und negatives reales Wirtschaftswachstum zurück.</li><li>Der IWF-Bericht ist eine institutionelle Analyse im Rahmen eines Kreditprogramms. Diese Fakten beweisen weder, dass Fremdwährungsschulden allein die Krise verursachten, noch verteilen sie politische Verantwortung abschließend.</li></ul><table><caption>Belegtabelle</caption><thead><tr><th>Belegte Tatsache</th><th>Möglicher Wirkungsweg</th><th>Was bleibt offen oder umstritten?</th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Erfundenes Budget von Land L und Szenarien",
+          "html": "<h3>Land L: Budget für ein Jahr (alle Zahlen erfunden)</h3><p>Währung: Landes-Einheiten (LE). Erwartete Einnahmen: 100 LE. Geplante Ausgaben: grundlegende Dienste 45 LE; Treibstoff- und Medikamentenimporte 20 LE; Schulden in Landeswährung 10 LE; Fremdwährungsschuld US$10 Mio.; Reservenaufbau 10 LE. Der geplante Wechselkurs beträgt 300 LE je US$1. Geplante Landesausgaben ohne Dollarzahlung: 85 LE. Die Dollarzahlung kostet beim geplanten Kurs 30 LE. Geplante Gesamtausgaben betragen 115 LE. Vor einem Schock muss die Regierung also eine Lücke von 15 LE erklären.</p><p><strong>Szenario A — Abwertung:</strong> Der Wechselkurs ändert sich auf 450 LE je US$1. Für die Rechnung bleiben alle anderen Mengen und Einnahmen gleich. Berechne die Dollarzahlung in LE und die Gesamtausgaben. Wie groß ist die Lücke gegenüber den Einnahmen? Das ist eine einfache Rechnung und keine Vorhersage.</p><p><strong>Szenario B — Abwertung plus Importpreisschock:</strong> Wechselkurs 450 LE je US$1. Die Importrechnung von 20 LE steigt in dieser Übung um 25 Prozent. Einnahmen bleiben 100 LE. Berechne Importrechnung, Dollarzahlung, Gesamtausgaben und Finanzierungslücke.</p><h3>Mögliche Maßnahmen (wähle zwei und begründe)</h3><ul><li><strong>Reserven verwenden:</strong> Einen Teil der Dollarrechnung aus Reserven zahlen. Hilft jetzt; verringert den Puffer für spätere Importe oder Schocks.</li><li><strong>Ausgaben kürzen oder verschieben:</strong> Eine Position senken und so die Lücke verkleinern. Nutzende des Dienstes oder der Investition tragen Kosten.</li><li><strong>Einnahmen erhöhen:</strong> Steuern erhöhen oder Einhebung verbessern. Kann Finanzen stärken; die Wirkung verteilt sich unterschiedlich und braucht Zeit.</li><li><strong>Überbrückungskredit:</strong> Fremdwährung aufnehmen. Kann Importe jetzt schützen; bringt spätere Zahlungsverpflichtungen und hängt von Kreditbedingungen ab.</li><li><strong>Umschuldung verhandeln:</strong> Laufzeit verlängern, Zinsen senken oder Betrag reduzieren lassen. Kann kurzfristige Abflüsse senken; Verhandlungen verteilen Verluste und dauern.</li><li><strong>Wechselkurspolitik ändern:</strong> Wechselkurs anders zulassen oder steuern. Kann Reserven schonen und Exporte/Importe beeinflussen; verteuert Importwaren und Fremdwährungsschulden in Landeswährung.</li></ul>"
+        },
+        {
+          "title": "Kabinett-Rollenkarten, Regeln und Portfolio-Arbeitsblatt",
+          "html": "<h3>Kabinettsrollen (erfunden; gemeinsam entscheiden)</h3><ul><li><strong>Finanzministerin oder Finanzminister:</strong> Finanzierungslücke schließen und Kostenträger benennen. Ein Kredit ist nicht kostenlos.</li><li><strong>Ministerium für Gesundheit und Soziales:</strong> Medikamente und grundlegende Dienste schützen. Frage, ob Kürzungen die Krise auf gefährdete Menschen verschieben.</li><li><strong>Zentralbankleitung:</strong> Genug Fremdwährung für wichtige Importe bewahren und Wechselkurseffekte erklären. Reserven von Staatseinnahmen unterscheiden.</li><li><strong>Vertretung kleiner Exporteure und Beschäftigter:</strong> Wechselkurs, Steuern und Kredite können Arbeitsplätze und Exporteinnahmen betreffen. Frage, wer von Anpassung profitiert.</li><li><strong>Gläubigervertretung:</strong> Verlässlichen Rückzahlungsplan und faire Behandlung der Gläubiger verlangen; anerkennen, dass Umschuldung nötig sein kann, wenn Zahlungen nicht tragfähig sind.</li></ul><h3>Kabinettsregeln</h3><ol><li>Verwendet Zahlen aus Szenario B. Jede Gruppe wählt zwei Maßnahmenkarten. Nennt erste Handlung, Kostenträger und Risiko.</li><li>Für diese Übung kann „Reserven verwenden“ bis zu 5 LE der Lücke decken; „Ausgaben kürzen“ bis 6 LE freimachen; „Einnahmen erhöhen“ ab nächstem Jahr bis zu 5 LE bringen (nicht im laufenden Jahr); „Überbrückungskredit“ jetzt bis 8 LE decken und später 10 LE Rückzahlung hinzufügen; „Umschuldung“ die diesjährige Dollarzahlung höchstens halbieren, aber die Schuld nicht löschen; Wechselkursänderung erhält keine automatische Punktzahl zur Lückenschließung.</li><li>Diese Wirkungen sind erfundene Vergleichsregeln, keine Schätzungen echter Politikfolgen. Zwei Maßnahmen können eine Restlücke lassen. Beispiel: Umschuldung senkt die diesjährige FX-Zahlung von 45 LE höchstens um die Hälfte (22,5 LE); ein Überbrückungskredit deckt bis zu 8 LE. Gemeinsam decken sie 30,5 LE der Szenario-B-Lücke von 35 LE; 4,5 LE bleiben offen. Die Gruppe darf die Lücke nur dann als geschlossen bezeichnen, wenn die Beträge reichen.</li><li>Bereitet eine Kabinettsrede von 90 Sekunden vor: Rechenweg zeigen, Begünstigte und Kostenträger nennen, verbleibendes Risiko erklären. Andere Gruppen stellen eine Frage.</li></ol><h3>Persönlicher Portfolio-Beitrag 2 (220–280 Wörter)</h3><p>Erkläre, wie Fremdwährungsschulden in einer Krise Handlungsspielraum einschränken können. Nimm die Umrechnung von 100 Mio. US-Dollar, einen datierten Beleg zu Sri Lanka und zwei Maßnahmen mit Zielkonflikten auf. Beurteile, welche Gruppe Kosten tragen könnte. Trenne erfundene Rechnung und historische Belege. Beende den Text mit einer Grenze der Belege.</p>"
+        },
+        {
+          "title": "Durchgerechnetes Beispiel und Quellenvergleich",
+          "html": "<h3>Durchgerechnetes Beispiel</h3><p>100 Mio. US$ × 300 Einheiten der Landeswährung/US$ = 30.000 Mio. Landeswährung = 30 LE (wenn 1 LE einer Milliarde Landeswährung entspricht). Bei 400 Einheiten/US$ kostet dieselbe Zahlung 40 LE. Anstieg: (40 − 30) ÷ 30 × 100 = 33,3 Prozent. 250 Mio. US$ × 400 = 100 LE.</p><p>Land L, Plan: 45 + 20 + 10 + 10 + 30 = 115 LE; Lücke 15. Szenario A: Dollarzahlung US$100m × 450 = 45 LE; Gesamt 45 + 20 + 10 + 10 + 45 = 130 LE; Lücke 30. Szenario B: Importrechnung 25 LE; Gesamt 45 + 25 + 10 + 10 + 45 = 135 LE; Lücke 35. Die Rechnung zeigt Wechselkurs- und Budgetbestandteile, bildet kein reales Land ab und lässt wirtschaftliche Rückwirkungen aus.</p><h3>Fragen zum Quellenvergleich</h3><ul><li>IWF-Länderbericht 2022: Welche Risiken erkannte der IWF vor der akuten Krise?</li><li>IWF-Programmbericht 2023: Welche späteren Fakten und Diagnosen kamen hinzu?</li><li>Weltbank-Erklärung 2022: Wie beschreibt eine zeitnahe kurze Quelle das Zusammenspiel von Schocks und struktureller Schwäche?</li><li>Unterscheidet bei jeder Quelle Messwert, institutionelle Deutung und politische Empfehlung.</li></ul>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "IWF, Sri Lanka: Request for an Extended Arrangement Under the Extended Fund Facility—Staff Report",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2023/116/article-A001-en.xml",
+          "date": "20. März 2023",
+          "use": "Reserven, Daten zur Aussetzung/Zahlungsausfall, Schuldenquote und IWF-Analyse der Schulden- und Krisenmechanismen."
+        },
+        {
+          "title": "IWF, Public Debt Dynamics and Intra-Year Exchange Rate Fluctuations",
+          "url": "https://www.imf.org/en/publications/wp/issues/2020/11/20/public-debt-dynamics-and-intra-year-exchange-rate-fluctuations-49904",
+          "date": "20. November 2020",
+          "use": "Hintergrund zum Mechanismus, wie Wechselkursschwankungen den Wert von Fremdwährungsschulden beeinflussen; keine konkrete Aussage über Sri Lanka."
+        },
+        {
+          "title": "Weltbank, Sri Lanka Faces Unsustainable Debt and Balance of Payment Challenges",
+          "url": "https://www.worldbank.org/en/news/press-release/2022/04/13/sri-lanka-faces-unsustainable-debt-and-balance-of-payment-challenges",
+          "date": "13. April 2022",
+          "use": "Zeitnahe Einordnung der Haushalts- und Auslandsungleichgewichte und der Notwendigkeit tragfähiger Schulden."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschsprachiger Weg:</strong> Arbeite mit Falltext und Rechnungen auf Deutsch. Kurze englische Brücke (von der Lehrkraft geschrieben, kein Zitat): <em>“A government may earn money in its own currency but owe dollars. If its currency loses value, it needs more local money to pay the same dollar bill. Reserves can help pay for imports and debt, but they are limited. A new loan can help today and create payments later. Debt restructuring changes payment terms, but people and creditors may bear costs.”</em> Beantworte auf Deutsch: Warum braucht die Regierung mehr Landeswährung für dieselbe Dollarrechnung? Welche drei Wege kann sie nutzen, um Dollar zu erhalten? Welche Kosten können später entstehen? Wörter: foreign-currency debt = Fremdwährungsschuld; reserves = Reserven; exchange rate = Wechselkurs; debt restructuring = Umschuldung; room to act = Handlungsspielraum.</p>",
+      "submission": "Persönliche Portfolio-Analyse, 220–280 Wörter, auf Papier oder über die Aufgabenplattform der Lehrkraft. Kriterien: richtige Umrechnung; ein datierter Sri-Lanka-Beleg; zwei politische Möglichkeiten mit Zielkonflikten; Verteilungsurteil; klare Trennung zwischen erfundener Übung und historischen Belegen; eine Grenze der Belege.",
+      "exit": [
+        "Wie ändert eine Abwertung den Landeswährungswert einer festen Dollarzahlung? Zeige eine Zahl.",
+        "Welche Maßnahme kann Importe jetzt schützen und später Kosten erzeugen? Erkläre den Zielkonflikt."
+      ],
+      "homework": "Arbeite höchstens 20 Minuten. Prüfe das Rechenbeispiel und schreibe drei bis vier Sätze zum Unterschied zwischen Reserven, neuen Krediten und Umschuldung. Verwende nur die bereitgestellten Karten.",
+      "teacher": {
+        "preparation": [
+          "Budget- und Rollenkarten ausdrucken; Taschenrechner erlauben oder schriftliches Rechnen ermöglichen.",
+          "Vor der Stunde festhalten: Budget Land L und Maßnahmenwirkungen sind erfunden; historische Sri-Lanka-Zahlen sind datiert und dem IWF-Bericht zugeschrieben.",
+          "Budgeteinheit: 1 LE = 1 Mrd. Einheiten der Landeswährung; Fremdwährungszahlung US$100 Mio., die bei 300 Landeswährung je Dollar 30 LE kostet. Szenario A ergibt 130 LE (30 LE Lücke), Szenario B 135 LE (35 LE Lücke)."
+        ],
+        "facilitation": [
+          "Bei Umrechnungen Einheiten notieren lassen: US-Dollar × Landeswährung je Dollar = Landeswährung.",
+          "Reserven von Staatseinnahmen unterscheiden und Liquidität (jetzt zahlen) von Zahlungsfähigkeit über längere Zeit unterscheiden.",
+          "Fragen, wessen Ausgaben sinken und wer durch jedes Kabinettspaket geschützt wird.",
+          "IWF-Empfehlungen als Position der Institution von Daten und Ereignissen im Bericht unterscheiden."
+        ],
+        "answers": [
+          "Umrechnungen: 100 Mio. US$ × 300 Einheiten/US$ = 30.000 Mio. Landeswährung = 30 LE, wenn 1 LE = 1 Mrd.; ×400 = 40 LE; Anstieg (40−30)/30 = 33,3 Prozent. 250 Mio. US$ ×400 = 100 LE.",
+          "Budget: übrige Ausgaben 45 + 20 + 10 + 10 = 85 LE; Fremdwährungsschuld US$100m ×300 = 30 LE, Gesamt 115 und Lücke 15. Szenario A bei 450: FX-Zahlung 45 LE, Gesamt 130 und Lücke 30. Szenario B Importrechnung 25 LE; übrige Ausgaben 90; FX-Schuld 45; Gesamt 135 und Lücke 35. Beim Kabinettspaket senkt eine Umschuldung die 45-LE-FX-Zahlung um höchstens 22,5 LE; ein Überbrückungskredit deckt bis zu 8 LE. Zusammen decken sie 30,5 der 35 LE Lücke in Szenario B, 4,5 LE bleiben offen. Reale wirtschaftliche Rückwirkungen fehlen.",
+          "Fakten aus der Sri-Lanka-Karte: nutzbare Reserven Ende 2021 1,6 Mrd. US-Dollar und laut Bericht für weniger als einen Monat Importe; Aussetzung des Schuldendienstes 12. April 2022; Ausfall internationaler Staatsanleihen 18. Mai 2022; Schulden 2022 etwa 128 Prozent des BIP laut IWF-Bericht 2023. Datum und Quelle immer nennen.",
+          "Optionen: Reserven geben sofort Fremdwährung, verkleinern aber den Puffer; neue Kredite überbrücken Zahlungen und erhöhen spätere Pflichten; Umschuldung senkt oder verschiebt Zahlungen, verteilt Verluste und braucht Verhandlungen; Kürzungen und Steuern wirken unterschiedlich auf Gruppen. Keine allgemeingültig beste Lösung."
+        ],
+        "misconceptions": [
+          "Eine Abwertung erhöht bei festem Fremdwährungsbetrag und vorgegebenem Kurs die nötige Landeswährung.",
+          "Eine Regierung kann Dollar drucken, um Dollarschulden zu begleichen; normalerweise braucht sie Einnahmen, Kredite, Reserven oder andere Zuflüsse in Fremdwährung.",
+          "Zahlungsausfall bedeutet, dass ein Staat verschwindet oder nichts mehr schuldet; Zahlungen wurden nicht planmäßig geleistet, Verhandlungen können folgen.",
+          "Reserven und Einnahmen sind dasselbe; Reserven sind Fremdwährungsvermögen/Puffer, Einnahmen ein Strom für das Staatsbudget.",
+          "Das erfundene Budget sagt eine echte Krise voraus; es isoliert Rechenwege und lässt Verhaltens- und Wirtschaftsreaktionen aus."
+        ],
+        "differentiation": [
+          "Umrechnungsraster und eine Beispielzeile anbieten; Fortgeschrittene berechnen Prozentänderungen und erklären die Kursnotierung.",
+          "Rollenkarten als Perspektiven anbieten; alle schreiben weiterhin einen eigenen Text.",
+          "Vertiefung: Rückkopplung hinzufügen, in der Abwertung Importkosten und Inflation erhöht; dann nötige Belege benennen."
+        ],
+        "extension": "Vergleiche Sri Lankas Fremdwährungsrisiko mit einem Staat, der hauptsächlich in eigener Währung leiht, anhand datierter amtlicher Schuldendaten. Erkläre, warum die Währung allein Schuldentragfähigkeit nicht bestimmt; nimm Laufzeit, Zinsen, Einnahmen, Reserven und Institutionen auf."
+      }
+    }
+  }
+]

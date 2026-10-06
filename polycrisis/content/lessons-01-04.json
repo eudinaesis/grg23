@@ -1,0 +1,1104 @@
+[
+  {
+    "id": 1,
+    "en": {
+      "title": "A shopping basket is a world map",
+      "question": "How can events far away affect the things people buy in Austria?",
+      "intro": "We begin with familiar goods, then trace the systems behind them. The goal is not to claim that everything is connected to everything. It is to find specific links, name the mechanism, and ask who has choices and who bears costs.",
+      "goals": [
+        "Trace at least three steps between a global event and a price or supply change in Austria.",
+        "Distinguish a documented link from a plausible but unverified one.",
+        "Explain how one disruption can affect groups differently."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Opening: goods and connections",
+          "task": "Read the case reader ‘A basket has a backstory’. Individually choose one item in the ‘Basket cards’ table and write one question about where it comes from or what it depends on."
+        },
+        {
+          "minutes": 15,
+          "title": "Build a first map",
+          "task": "Use ‘Supply-chain cards’ to arrange a chain from event to effect. Draw arrows only when your group can write a reason beside each arrow. Submit one annotated draft map."
+        },
+        {
+          "minutes": 15,
+          "title": "Source check",
+          "task": "Read ‘Evidence cards’. Label each claim documented, plausible, or unsupported from the card. Add one evidence note to your map."
+        },
+        {
+          "minutes": 20,
+          "title": "Case teams",
+          "task": "Use ‘Supply-chain cards’ and ‘Impact table’. For your assigned item, explain who may face higher costs, delay, or reduced choice. Complete the table without using personal household spending information."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Map exchange",
+          "task": "Exchange maps with another group. Use the ‘Impact table and map-review checklist’ to identify a missing mechanism, a strong evidence link, and one uncertainty. Return the reviewed map."
+        },
+        {
+          "minutes": 10,
+          "title": "Whole-class synthesis",
+          "task": "Add one well-supported link and one uncertainty to the class map. In the ‘Impact table and map-review checklist (Connection ledger)’, record one possible connection that needs more evidence."
+        },
+        {
+          "minutes": 5,
+          "title": "Individual close",
+          "task": "Complete the two exit questions. In your notebook, sketch your individual map and write a one-sentence provisional claim for homework."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: A basket has a backstory",
+          "html": "<h3>A basket has a backstory</h3><p>A loaf of bread, a winter jacket, and a phone look like separate products. Each depends on networks of people, materials, energy, transport, rules, and money. Wheat may be grown in one region, milled in another, and baked near the customer. A jacket can contain cotton or synthetic fibres, be sewn far from where it is designed, and travel through ports and distribution centres. A phone combines mined minerals, refined materials, specialist components, software, assembly, and repair networks.</p><p>A supply chain is the set of steps and relationships that bring a product to a user. A disruption can travel along it, but the effect is not automatic. A drought may reduce a crop; a smaller harvest may raise a commodity price; a mill or food company may absorb some of the increase, pass some on, or change suppliers. The final price also depends on energy, wages, transport, taxes, contracts, competition, and decisions by firms. The chain therefore needs evidence at each step.</p><p>Some links are physical: a factory needs electricity or a ship carries goods. Others are financial or political: a company borrows money, a government sets a tariff, or a conflict changes access to a route. A chain can also have alternatives. A buyer may switch suppliers, use stored materials, redesign a product, or accept a delay. How quickly it can adapt depends on power and resources.</p><p>Effects are unequal. A large company may negotiate long contracts; a small shop may have less bargaining power. A price increase matters more to a household that spends a larger share of its income on essentials. Workers may face overtime, reduced hours, or job changes. A country that imports a key input may be more exposed than one that produces it. These are questions to investigate, not conclusions to assume.</p><p>Polycrisis analysis asks whether several disruptions interact so that their combined effects are more serious or harder to manage. Today we practise the first step: make a careful, limited map. A useful map says what is known, what is a reasoned possibility, and what evidence would help decide.</p>"
+        },
+        {
+          "title": "Basket cards (classroom examples; not claims about a particular brand)",
+          "html": "<table><caption>Choose one product and follow its dependencies.</caption><thead><tr><th>Product</th><th>Possible inputs or systems</th><th>Questions to investigate</th></tr></thead><tbody><tr><td>Bread</td><td>Grain, milling, ovens, electricity or gas, packaging, transport</td><td>Which input has a documented price change? Can a bakery change recipes or suppliers?</td></tr><tr><td>Winter jacket</td><td>Fibre, dye, sewing, electricity, shipping, retail</td><td>Where are stages located? Who can absorb a delay?</td></tr><tr><td>Smartphone</td><td>Minerals, refined metals, chips, assembly, software, shipping</td><td>Which components have few suppliers? What can repair or reuse change?</td></tr><tr><td>Tomatoes in winter</td><td>Seeds, greenhouse heat, water, fertiliser, packaging, road transport</td><td>How might energy prices affect different growing methods?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Supply-chain cards",
+          "html": "<table><caption>Cut or assign these cards. They are mechanisms to test, not proof that a link happened in a chosen case.</caption><thead><tr><th>Card</th><th>Mechanism</th><th>What evidence could support it?</th></tr></thead><tbody><tr><td>A</td><td>A disruption reduces the amount of an input available.</td><td>Production, stock, or delivery data.</td></tr><tr><td>B</td><td>Buyers compete for a smaller supply; a market price may rise.</td><td>Comparable price series and dates.</td></tr><tr><td>C</td><td>A firm faces higher input or energy costs.</td><td>Company accounts, sector data, or a cost breakdown.</td></tr><tr><td>D</td><td>A firm changes its margin, supplier, product, or output.</td><td>Company statements, trade data, or product information.</td></tr><tr><td>E</td><td>A price or shortage reaches a consumer, with a delay or partial pass-through.</td><td>Retail prices over time, invoices, or an official index.</td></tr><tr><td>F</td><td>Workers or households have different ability to absorb the change.</td><td>Wage, employment, or budget-share evidence; protect privacy.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Evidence cards",
+          "html": "<table><caption>Evidence practice</caption><thead><tr><th>Card</th><th>Statement</th><th>How to use it</th></tr></thead><tbody><tr><td>1</td><td>Eurostat reports that EU net imports supplied 62.5% of gross available energy in 2022.</td><td>Documented statistic for the EU overall; it does not identify the source of every product’s price change.</td></tr><tr><td>2</td><td>“If gas gets more expensive, every loaf of bread costs exactly 20 cents more.”</td><td>Unsupported as written: it gives no date, bakery, cost data, or pass-through calculation.</td></tr><tr><td>3</td><td>“A phone assembly delay could delay deliveries to a shop.”</td><td>Plausible mechanism; investigate the product and event before stating it occurred.</td></tr><tr><td>4</td><td>“A global price increase affects every household equally.”</td><td>Overgeneralisation; test with income, consumption, contract, and substitution differences.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Impact table and map-review checklist",
+          "html": "<table><caption>Use group-level examples; do not disclose family finances.</caption><thead><tr><th>Group</th><th>Possible exposure</th><th>Possible way to respond</th><th>What evidence is needed?</th></tr></thead><tbody><tr><td>Workers</td><td></td><td></td><td></td></tr><tr><td>Small firms</td><td></td><td></td><td></td></tr><tr><td>Large firms</td><td></td><td></td><td></td></tr><tr><td>Consumers with lower incomes</td><td></td><td></td><td></td></tr><tr><td>Government or public services</td><td></td><td></td><td></td></tr></tbody></table><p><strong>Map review:</strong> Does every arrow have a mechanism? Are dates and places clear? Is a fact separated from an interpretation? Have you shown who may gain as well as who may lose? Have you marked alternatives and uncertainty?</p><p><strong>Connection ledger:</strong> Claim / current label (documented, plausible, unknown) / evidence needed.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eurostat, Key figures on Europe, 2024 edition",
+          "url": "https://ec.europa.eu/eurostat/documents/15216629/20260915/KS-EI-24-001-EN-N.pdf",
+          "date": "2024; data for 2022; checked 6 October 2026",
+          "use": "EU energy import dependency rate; card explicitly distinguishes EU aggregate from product-level claims."
+        },
+        {
+          "title": "European Commission, REPowerEU: 3 years on",
+          "url": "https://energy.ec.europa.eu/news/repowereu-3-years-commission-takes-stock-progress-phase-out-russian-fossil-fuels-2025-05-16_en",
+          "date": "16 May 2025; checked 6 October 2026",
+          "use": "Example of how import shares and policy response can be described with a stated period; extension only."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Discuss and write in English. Austrian connection: choose one product sold in Austria and identify a local stage (shop, bakery, repair service, transport, or public rule) as well as an international stage. <strong>Original-reading extension:</strong> In Eurostat’s <em>Key figures on Europe 2024</em>, read the paragraph and chart section headed “Energy dependency rate” (PDF, search within the document for that exact heading). Explain what the 62.5% EU figure measures and name one thing it does not tell us.</p><p><strong>Key terms:</strong> supply chain = the steps and relationships bringing a product to users; input = material or service used to make something; pass-through = how much of a cost change is reflected in a later price; exposure = how strongly someone may be affected.</p>",
+      "submission": "Individual, final 250–350 words plus a hand-drawn or digital annotated map; begin with a short individual outline in class, then finish the response as homework using your group map. Explain one product chain in at least four steps, label each arrow with its mechanism, cite one supplied evidence card, identify one unequal effect, and mark one uncertain link. Submit through the teacher’s assignment platform or on paper. Success: mechanism is clear; evidence is used within its limits; uncertainty is visible.",
+      "exit": [
+        "Which arrow on your map has the strongest evidence, and why?",
+        "What additional fact would most improve your explanation?"
+      ],
+      "homework": "Spend up to 20 minutes finishing the individual response from your class outline and finalising the annotated map. Add a small ‘what I still need to know’ box with two specific questions. Use only the supplied cards; do not research a brand or disclose family spending.",
+      "teacher": {
+        "preparation": [
+          "Print or display the reader, four product cards, six mechanism cards, evidence cards, and impact table.",
+          "Assign each group one product; no student needs to reveal personal shopping or household finances.",
+          "Remind students that these are mechanisms to investigate; only the stated Eurostat aggregate is a sourced real statistic."
+        ],
+        "facilitation": [
+          "Ask groups to explain each arrow aloud before drawing it.",
+          "When a claim sounds certain, ask: what date, place, measure, and source would establish it?",
+          "Praise maps that include alternative suppliers or buffers; connections are not inevitably one-way."
+        ],
+        "answers": [
+          "No single map is the answer. A defensible bread chain could be: energy supply shock → some bakeries face higher energy/input costs → a bakery changes prices, margin, recipe, or output → consumers see a possible price or availability effect. Each step needs evidence and the pass-through is not automatically complete.",
+          "The 62.5% statistic is the 2022 EU energy dependency rate: net imports as a share of gross available energy. It is not Austria’s rate, not a gas-only figure, and not the share of every consumer product imported.",
+          "Valid unequal-effect examples: a firm with long contracts can be less exposed in the short term; a household with a larger essential-energy budget share may have fewer options. Students should mark these as hypotheses until evidence is supplied."
+        ],
+        "misconceptions": [
+          "A map with many arrows is not automatically a good explanation.",
+          "A plausible mechanism does not prove that it happened in a particular case.",
+          "The eventual retail price is influenced by more than one input cost.",
+          "Imports are not inherently harmful; dependency, alternatives, and bargaining power matter."
+        ],
+        "differentiation": [
+          "Offer a partially completed four-step chain and arrow sentence frames: ‘A may affect B because…’",
+          "Invite advanced students to add a feedback loop or identify where a buffer can interrupt the chain.",
+          "Allow diagrams with oral explanation before individual writing; assess reasoning rather than drawing skill."
+        ],
+        "extension": "Compare the EU aggregate in the supplied Eurostat source with an Austria country figure in the same publication. State the year and definition, then explain why the comparison still cannot predict the price of a chosen product."
+      }
+    },
+    "de": {
+      "title": "Ein Einkaufskorb ist eine Weltkarte",
+      "question": "Wie können Ereignisse weit weg die Dinge beeinflussen, die Menschen in Österreich kaufen?",
+      "intro": "Wir beginnen mit bekannten Produkten und verfolgen dann die Systeme dahinter. Wir behaupten nicht, dass alles mit allem verbunden ist. Wir suchen genaue Verbindungen, erklären den Wirkungsweg und fragen, wer handeln kann und wer die Kosten trägt.",
+      "goals": [
+        "Mindestens drei Schritte zwischen einem globalen Ereignis und einer Preis- oder Lieferänderung in Österreich darstellen.",
+        "Eine belegte Verbindung von einer plausiblen, aber noch nicht geprüften Verbindung unterscheiden.",
+        "Erklären, wie eine Störung verschiedene Gruppen unterschiedlich treffen kann."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Einstieg: Produkte und Verbindungen",
+          "task": "Lies den Falltext „Ein Einkaufskorb hat eine Vorgeschichte“. Wähle allein ein Produkt aus der Tabelle „Karten zum Einkaufskorb“ und notiere eine Frage zu seiner Herkunft oder seinen Voraussetzungen."
+        },
+        {
+          "minutes": 15,
+          "title": "Eine erste Karte zeichnen",
+          "task": "Ordnet die „Karten zur Lieferkette“ zu einer Kette vom Ereignis bis zur möglichen Folge. Zeichnet einen Pfeil nur, wenn ihr daneben einen Grund notieren könnt. Gebt einen beschrifteten Entwurf ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Quellen prüfen",
+          "task": "Lest die „Belegkarten“. Kennzeichnet jede Aussage als belegt, plausibel oder durch die Karte nicht gestützt. Ergänzt einen Beleg auf eurer Karte."
+        },
+        {
+          "minutes": 20,
+          "title": "Fallgruppen",
+          "task": "Nutzt die „Karten zur Lieferkette“ und die „Wirkungstabelle und Prüfliste“. Erklärt für euer Produkt, wer höhere Kosten, Verzögerungen oder weniger Auswahl erleben könnte. Füllt die Tabelle aus, ohne private Ausgaben zu nennen."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Karten tauschen",
+          "task": "Tauscht eure Karten mit einer anderen Gruppe. Prüft sie mit der „Wirkungstabelle und Prüfliste“: Findet einen fehlenden Wirkungsweg, einen gut belegten Pfeil und eine offene Frage. Gebt die geprüfte Karte zurück."
+        },
+        {
+          "minutes": 10,
+          "title": "Gemeinsame Auswertung",
+          "task": "Ergänzt eine gut gestützte Verbindung und eine Unsicherheit auf der Klassenkarte. Tragt eine mögliche Verbindung, für die noch Belege fehlen, in das „Wirkungstabelle und Prüfliste“ (Fragenprotokoll) ein."
+        },
+        {
+          "minutes": 5,
+          "title": "Einzeln abschließen",
+          "task": "Beantwortet die zwei Abschlussfragen. Erstellt eine persönliche Gliederung für euren Text und notiert eine vorläufige Aussage."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Ein Einkaufskorb hat eine Vorgeschichte",
+          "html": "<h3>Ein Einkaufskorb hat eine Vorgeschichte</h3><p>Ein Brot, eine Winterjacke und ein Handy wirken wie getrennte Produkte. Jedes hängt aber von Netzwerken aus Menschen, Materialien, Energie, Transport, Regeln und Geld ab. Getreide kann in einer Region wachsen, in einer anderen gemahlen und nahe bei den Kund:innen gebacken werden. Eine Jacke kann Baumwolle oder Kunstfasern enthalten, weit entfernt vom Entwurfsort genäht werden und durch Häfen und Lager reisen. Ein Handy verbindet Mineralien, verarbeitete Materialien, Spezialteile, Software, Montage und Reparatur.</p><p>Eine Lieferkette umfasst die Schritte und Beziehungen, durch die ein Produkt zu seinen Nutzer:innen kommt. Eine Störung kann sich entlang der Kette auswirken, aber das geschieht nicht automatisch. Eine Dürre kann eine Ernte verkleinern; eine kleinere Ernte kann den Rohstoffpreis erhöhen; eine Mühle oder ein Lebensmittelunternehmen kann einen Teil der Mehrkosten selbst tragen, einen Teil weitergeben oder andere Lieferanten suchen. Der Endpreis hängt auch von Energie, Löhnen, Transport, Steuern, Verträgen, Konkurrenz und Entscheidungen der Unternehmen ab. Für jeden Schritt braucht man Belege.</p><p>Manche Verbindungen sind körperlich: Eine Fabrik braucht Strom oder ein Schiff transportiert Waren. Andere sind finanziell oder politisch: Ein Unternehmen nimmt einen Kredit auf, ein Staat erhebt einen Zoll oder ein Konflikt erschwert eine Route. Es kann auch Alternativen geben. Käufer:innen können den Lieferanten wechseln, Vorräte nutzen, ein Produkt ändern oder eine Verzögerung hinnehmen. Wie schnell das geht, hängt von Macht und verfügbaren Mitteln ab.</p><p>Die Folgen sind ungleich. Ein großer Betrieb kann längerfristige Verträge aushandeln; ein kleiner Laden hat vielleicht weniger Verhandlungsmacht. Eine Preiserhöhung trifft einen Haushalt stärker, wenn er einen größeren Teil seines Einkommens für notwendige Dinge ausgibt. Beschäftigte können Überstunden, weniger Arbeit oder neue Aufgaben erleben. Ein Land, das einen wichtigen Rohstoff einführt, kann stärker betroffen sein als ein Land, das ihn selbst herstellt. Das sind Fragen zur Untersuchung, keine fertigen Antworten.</p><p>Eine Polykrisen-Analyse fragt, ob mehrere Störungen zusammenwirken und dadurch größere oder schwerer zu bewältigende Folgen haben. Heute üben wir den ersten Schritt: eine genaue, begrenzte Karte erstellen. Eine gute Karte zeigt, was bekannt ist, was eine begründete Möglichkeit ist und welche Belege noch fehlen.</p>"
+        },
+        {
+          "title": "Karten zum Einkaufskorb (Beispiele für den Unterricht; keine Aussagen zu einer bestimmten Marke)",
+          "html": "<table><caption>Wählt ein Produkt und verfolgt seine Voraussetzungen.</caption><thead><tr><th>Produkt</th><th>Mögliche Teile und Systeme</th><th>Fragen zur Untersuchung</th></tr></thead><tbody><tr><td>Brot</td><td>Getreide, Mühle, Ofen, Strom oder Gas, Verpackung, Transport</td><td>Für welchen Teil gibt es eine belegte Preisänderung? Kann eine Bäckerei Lieferanten oder Zutaten wechseln?</td></tr><tr><td>Winterjacke</td><td>Faser, Färbung, Nähen, Strom, Schifffahrt, Verkauf</td><td>Wo finden die Schritte statt? Wer kann eine Verzögerung auffangen?</td></tr><tr><td>Smartphone</td><td>Mineralien, verarbeitete Metalle, Chips, Montage, Software, Transport</td><td>Für welche Teile gibt es nur wenige Anbieter? Was können Reparatur und Wiederverwendung ändern?</td></tr><tr><td>Tomaten im Winter</td><td>Samen, Gewächshauswärme, Wasser, Dünger, Verpackung, Transport</td><td>Wie können Energiepreise verschiedene Anbaumethoden beeinflussen?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Karten zur Lieferkette",
+          "html": "<table><caption>Die Karten nennen Wirkungswege, keine Beweise dafür, dass ein bestimmter Fall so ablief.</caption><thead><tr><th>Karte</th><th>Wirkungsweg</th><th>Welche Belege könnten helfen?</th></tr></thead><tbody><tr><td>A</td><td>Eine Störung verringert die verfügbare Menge eines Teils.</td><td>Daten zu Herstellung, Lager oder Lieferung.</td></tr><tr><td>B</td><td>Käufer:innen konkurrieren um weniger Ware; ein Marktpreis kann steigen.</td><td>Vergleichbare Preise und genaue Daten.</td></tr><tr><td>C</td><td>Ein Betrieb hat höhere Kosten für Teile oder Energie.</td><td>Geschäftsberichte, Branchenzahlen oder Kostenaufstellung.</td></tr><tr><td>D</td><td>Ein Betrieb ändert Gewinnspanne, Lieferant, Produkt oder Menge.</td><td>Mitteilungen, Handelsdaten oder Produktinformationen.</td></tr><tr><td>E</td><td>Eine Änderung erreicht Kund:innen, möglicherweise verspätet oder nur teilweise.</td><td>Ladenpreise über die Zeit, Rechnungen oder ein amtlicher Index.</td></tr><tr><td>F</td><td>Beschäftigte oder Haushalte können Änderungen unterschiedlich gut auffangen.</td><td>Lohn-, Beschäftigungs- oder Anteilsdaten; Privatsphäre schützen.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Belegkarten",
+          "html": "<table><caption>Übung zum Prüfen von Belegen</caption><thead><tr><th>Karte</th><th>Aussage</th><th>So kannst du sie verwenden</th></tr></thead><tbody><tr><td>1</td><td>Eurostat berichtet: 2022 kamen 62,5 % der verfügbaren Bruttoenergie in der EU aus Nettoimporten.</td><td>Belegte Zahl für die EU insgesamt; sie benennt nicht die Ursache jeder Produktpreisänderung.</td></tr><tr><td>2</td><td>„Wenn Gas teurer wird, kostet jedes Brot genau 20 Cent mehr.“</td><td>So nicht belegt: Datum, Bäckerei, Kostendaten und Berechnung fehlen.</td></tr><tr><td>3</td><td>„Eine Verzögerung bei der Handy-Montage könnte Lieferungen an ein Geschäft verspäten.“</td><td>Plausibler Wirkungsweg; erst den konkreten Fall prüfen, bevor du sagst, dass es passiert ist.</td></tr><tr><td>4</td><td>„Eine weltweite Preiserhöhung trifft alle Haushalte gleich.“</td><td>Zu allgemein: Einkommen, Verbrauch, Verträge und Ausweichmöglichkeiten vergleichen.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Wirkungstabelle und Prüfliste",
+          "html": "<table><caption>Nutzt Beispiele für Gruppen; nennt keine privaten Ausgaben.</caption><thead><tr><th>Gruppe</th><th>Mögliche Betroffenheit</th><th>Mögliche Reaktion</th><th>Welche Belege fehlen?</th></tr></thead><tbody><tr><td>Beschäftigte</td><td></td><td></td><td></td></tr><tr><td>Kleine Betriebe</td><td></td><td></td><td></td></tr><tr><td>Große Betriebe</td><td></td><td></td><td></td></tr><tr><td>Kund:innen mit wenig Einkommen</td><td></td><td></td><td></td></tr><tr><td>Staat oder öffentliche Dienste</td><td></td><td></td><td></td></tr></tbody></table><p><strong>Prüfliste:</strong> Hat jeder Pfeil einen Wirkungsweg? Sind Datum und Ort klar? Trennt ihr Tatsache und Deutung? Zeigt ihr mögliche Gewinner:innen und Verlierer:innen? Habt ihr Alternativen und Unsicherheiten markiert?</p><p><strong>Fragenprotokoll:</strong> Aussage / Kennzeichnung (belegt, plausibel, unbekannt) / benötigter Beleg.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eurostat, Key figures on Europe, Ausgabe 2024",
+          "url": "https://ec.europa.eu/eurostat/documents/15216629/20260915/KS-EI-24-001-EN-N.pdf",
+          "date": "2024; Daten für 2022; geprüft am 6. Oktober 2026",
+          "use": "EU-Energieimportquote; die Karte grenzt die Gesamtzahl ausdrücklich von Aussagen zu einzelnen Produkten ab."
+        },
+        {
+          "title": "Europäische Kommission, REPowerEU: 3 years on",
+          "url": "https://energy.ec.europa.eu/news/repowereu-3-years-commission-takes-stock-progress-phase-out-russian-fossil-fuels-2025-05-16_en",
+          "date": "16. Mai 2025; geprüft am 6. Oktober 2026",
+          "use": "Zusatzbeispiel für Importanteile und politische Reaktionen mit genauem Zeitraum."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutscher Weg:</strong> Arbeitet und schreibt auf Deutsch. Österreich-Bezug: Wählt ein Produkt, das in Österreich verkauft wird. Nennt einen örtlichen und einen internationalen Schritt. <strong>Lesebrücke auf Englisch:</strong> <em>Teacher-written, original text; not a quotation:</em> “A product depends on more than its shop price. It may need materials, energy, transport and workers. A disruption can travel through these links, but the final effect depends on choices by firms and governments. We need evidence for each step.” Beantworte auf Deutsch: (1) Welche vier Voraussetzungen nennt der Text? (2) Warum beweist eine mögliche Verbindung noch keinen tatsächlichen Effekt? (3) Wer könnte unterschiedlich betroffen sein?</p><p><strong>Wortliste:</strong> supply chain = Lieferkette; input = Einsatzstoff oder benötigte Leistung; pass-through = Weitergabe einer Kostenänderung; exposure = Betroffenheit.</p>",
+      "submission": "Einzelarbeit, endgültig 250–350 Wörter plus eine beschriftete Karte auf Papier oder digital; beginne in der Stunde mit einer persönlichen Gliederung und schreibe den Text als Hausübung anhand der Gruppenkarte fertig. Erkläre eine Produktkette mit mindestens vier Schritten, beschrifte jeden Pfeil mit seinem Wirkungsweg, verwende eine Belegkarte, nenne eine ungleiche Folge und markiere eine unsichere Verbindung. Abgabe über die Aufgabenplattform der Lehrkraft oder auf Papier. Erfolg: Wirkungsweg klar; Beleg nur im passenden Umfang verwendet; Unsicherheit sichtbar.",
+      "exit": [
+        "Welcher Pfeil auf deiner Karte ist am besten belegt? Warum?",
+        "Welche zusätzliche Information würde deine Erklärung am meisten verbessern?"
+      ],
+      "homework": "Schließe deinen persönlichen Text und die beschriftete Karte in höchstens 20 Minuten ab. Ergänze zwei genaue Fragen in einem Feld „Das muss ich noch wissen“. Nutze nur die Karten. Nenne keine Markenerfahrung und keine privaten Ausgaben.",
+      "teacher": {
+        "preparation": [
+          "Falltext, Produktkarten, Wirkungswegkarten, Belegkarten, Tabelle und Prüfliste ausdrucken oder anzeigen.",
+          "Jede Gruppe erhält ein Produkt. Niemand muss private Einkäufe oder Haushaltsausgaben offenlegen.",
+          "Klären: Nur die angegebene Eurostat-Zahl ist eine belegte echte Statistik; die übrigen Karten nennen zu prüfende Wirkungswege."
+        ],
+        "facilitation": [
+          "Vor jedem Pfeil fragen: Welcher Wirkungsweg verbindet diese beiden Punkte?",
+          "Bei sicheren Behauptungen nach Datum, Ort, Messgröße und Quelle fragen.",
+          "Alternativen und Puffer sichtbar machen; Verbindungen wirken nicht automatisch nur in eine Richtung."
+        ],
+        "answers": [
+          "Es gibt keine einzige richtige Karte. Eine vertretbare Brotkette: Energiestörung → manche Bäckereien haben höhere Energie- oder Einsatzstoffkosten → eine Bäckerei ändert Preis, Marge, Rezept oder Produktion → Kund:innen können eine Preis- oder Angebotsänderung erleben. Für jeden Schritt braucht es Belege; die Weitergabe erfolgt nicht zwingend vollständig.",
+          "Die 62,5 % sind die Energieimportquote der EU im Jahr 2022: Nettoimporte im Verhältnis zur verfügbaren Bruttoenergie. Die Zahl ist weder Österreichs Quote noch ein reiner Gaswert und zeigt nicht den Anteil importierter Zutaten eines Produkts.",
+          "Mögliche ungleiche Betroffenheit: Ein Betrieb mit längerem Vertrag hat kurzfristig mehr Schutz; ein Haushalt, der einen größeren Einkommensanteil für notwendige Energie braucht, hat weniger Ausweichmöglichkeiten. Bis Belege vorliegen, als Hypothese markieren."
+        ],
+        "misconceptions": [
+          "Viele Pfeile machen eine Karte nicht automatisch gut.",
+          "Ein plausibler Wirkungsweg beweist nicht, dass er im konkreten Fall wirkte.",
+          "Der Ladenpreis hängt von mehr als einem Kostenfaktor ab.",
+          "Importe sind nicht automatisch schlecht; wichtig sind Abhängigkeit, Alternativen und Verhandlungsmacht."
+        ],
+        "differentiation": [
+          "Eine teilweise fertige Kette und Satzanfänge anbieten: „A kann B beeinflussen, weil …“",
+          "Fortgeschrittene ergänzen eine Rückkopplung oder zeigen, wo ein Puffer die Kette unterbrechen kann.",
+          "Erst Diagramm und mündliche Erklärung zulassen; Denkweg statt Zeichenkunst bewerten."
+        ],
+        "extension": "Vergleicht die EU-Zahl in der Eurostat-Quelle mit einer österreichischen Länderzahl derselben Veröffentlichung. Nennt Jahr und Definition und erklärt, warum das trotzdem den Preis eines konkreten Produkts nicht vorhersagt."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "en": {
+      "title": "When do crises become a polycrisis?",
+      "question": "What extra explanation do we gain by connecting crises?",
+      "intro": "The word polycrisis can help us notice interactions, but it can also become a vague label for ‘many bad things’. We use Adam Tooze’s idea as a question to test: do interactions between crises create effects that are harder to understand or manage than each crisis on its own?",
+      "goals": [
+        "Distinguish several simultaneous problems from a supported interaction between them.",
+        "Build a causal map that identifies mechanisms, feedback, and uncertainty.",
+        "Assess what the word polycrisis explains and what it leaves out."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Sort the headline cards",
+          "task": "Read ‘Case reader: A label that must earn its place’ and sort the ‘Scenario cards’ into simultaneous, interaction, or insufficient evidence. Record one reason per card."
+        },
+        {
+          "minutes": 15,
+          "title": "Learn the test",
+          "task": "Use ‘Polycrisis test, map key, and mechanism cards’ to annotate one scenario. Produce a three-question test of your own."
+        },
+        {
+          "minutes": 20,
+          "title": "Map a case",
+          "task": "In groups, use ‘Scenario cards’ and ‘Polycrisis test, map key, and mechanism cards’ to draw a map with at least four nodes, two named mechanisms, one alternative explanation, and one uncertainty."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Stress-test the map",
+          "task": "Exchange maps. Apply the ‘Two interpretations and map audit’ material: challenge one arrow, identify one missing actor, and mark one claim that needs a source. Return a revised map."
+        },
+        {
+          "minutes": 15,
+          "title": "Debate the label",
+          "task": "Read ‘Two interpretations and map audit’. Hold a structured discussion: one student argues that polycrisis adds value; another argues that the term risks hiding causes or responsibility. Cite a card and switch positions."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual judgement",
+          "task": "Write a short judgement using the ‘Verdict frame’ in ‘Two interpretations and map audit’: Does the scenario qualify as a polycrisis on the evidence supplied? What evidence could change your answer?"
+        },
+        {
+          "minutes": 5,
+          "title": "Exit",
+          "task": "Answer both exit questions individually."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: A label that must earn its place",
+          "html": "<h3>A label that must earn its place</h3><p>People often use crisis to mean a serious problem or a moment of danger. Polycrisis adds a claim: several crises interact. The word is useful only if we can show how. Adam Tooze has described a polycrisis as a situation in which distinct crises interact so that the whole is more dangerous or harder to manage than the parts considered separately. The definition directs attention to connections, not simply to the number of alarming headlines.</p><p>Imagine that a drought reduces a harvest. That is one shock. If lower harvests reduce export earnings for a country that depends on food exports, this may make it harder to pay for imported fuel. If fuel becomes scarce or expensive, transport and fertiliser costs may rise in the next growing season. The links could reinforce one another. But each link needs a mechanism and evidence. A government might have reserves, alternative crops, or access to credit; those buffers could weaken the chain. The example is a model for reasoning, not a statement that a particular country experienced this exact sequence.</p><p>A causal map helps make the argument visible. Boxes name conditions or outcomes; arrows state a mechanism such as “raises the cost of”, “reduces access to”, or “increases pressure on”. A feedback loop occurs when an effect returns to influence an earlier condition. More arrows do not mean more truth. A map should show alternatives, time, and uncertainty, and should distinguish observed facts from an author’s interpretation.</p><p>The idea also raises questions of power. Who caused a shock? Who can respond? Who has to absorb the loss? A country’s exposure may reflect decisions made elsewhere as well as its own policies. Two groups in one country can also have very different resources. A map that says only “the world is interconnected” explains little unless it identifies actors and choices.</p><p>There is a serious criticism: crisis language can make ordinary political choices seem like unavoidable emergencies. It can blur responsibility, exaggerate novelty, or place very different problems in one basket. So we will test the concept rather than adopt it as a slogan. Ask: what are the separate problems? What connects them? Is the interaction consequential? What evidence supports the arrows? Would another concept explain the case better? A strong answer may be “polycrisis”, “a linked set of risks”, or “several problems that should remain distinct”.</p>"
+        },
+        {
+          "title": "Scenario cards (teaching cases; fictional unless explicitly identified)",
+          "html": "<table><caption>Sort each card: simultaneous, interaction supported by the card, or insufficient evidence.</caption><thead><tr><th>Card</th><th>Scenario</th><th>Question</th></tr></thead><tbody><tr><td>A</td><td>In one year, a city faces a heatwave and a national election. The card gives no evidence that they affect each other.</td><td>Is co-occurrence enough?</td></tr><tr><td>B</td><td>Fictional: A flood closes a bridge used by local firms. Deliveries slow; a hospital also has fewer routes for resupply.</td><td>What links transport, business, and health? What facts are still missing?</td></tr><tr><td>C</td><td>Fictional: A drought reduces crop output. The country earns foreign currency from crop exports and imports most of its fuel. Export receipts fall while fuel prices rise.</td><td>Could two pressures interact through foreign exchange and import capacity?</td></tr><tr><td>D</td><td>A social-media post says “climate, debt, and war are all connected” but names no mechanism, time, place, or evidence.</td><td>What would be needed before accepting the claim?</td></tr><tr><td>E</td><td>Fictional: A factory switches to a second supplier after a port delay. Output does not fall, but the new supplier costs more.</td><td>Which effect is buffered, and which may remain?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Polycrisis test, map key, and mechanism cards",
+          "html": "<ol><li>Name at least two distinct problems. Do not assume that events are crises just because they are serious.</li><li>State the interaction: what changes because the problems meet?</li><li>Show the mechanism, actors, place, and sequence.</li><li>Ask whether the interaction materially changes the scale, duration, distribution, or manageability of harm.</li><li>Check evidence, alternative explanations, buffers, and uncertainty.</li><li>Ask what the label adds compared with a narrower description.</li></ol><table><caption>Mechanism cards</caption><thead><tr><th>Mechanism</th><th>Arrow wording</th><th>Evidence to look for</th></tr></thead><tbody><tr><td>Supply</td><td>reduces the amount available to…</td><td>Production, inventories, or delivery records</td></tr><tr><td>Price</td><td>raises costs for…</td><td>Time-matched prices and cost shares</td></tr><tr><td>Finance</td><td>reduces foreign-currency or budget room for…</td><td>Receipts, debt payments, reserves, budget</td></tr><tr><td>Infrastructure</td><td>blocks or slows access to…</td><td>Route, capacity, and outage information</td></tr><tr><td>Policy</td><td>changes incentives or distributes costs by…</td><td>Law, policy text, implementation evidence</td></tr><tr><td>Feedback</td><td>the effect returns and strengthens/weakens…</td><td>Evidence for the return pathway and timing</td></tr></tbody></table><p><strong>Map key:</strong> solid arrow = supplied fact; dashed arrow = hypothesis; “?” = uncertain; square bracket = actor/institution; loop = proposed feedback, which must be explained.</p>"
+        },
+        {
+          "title": "Two interpretations and map audit",
+          "html": "<table><caption>Both are arguments to evaluate, not official answers.</caption><thead><tr><th>Interpretation A: the concept helps</th><th>Interpretation B: the concept can mislead</th></tr></thead><tbody><tr><td>Separate institutions and news sections can hide interactions. A map makes shared mechanisms visible and helps identify where intervention could reduce several risks.</td><td>A very broad label can imply that everything is connected, conceal who made decisions, and make political choices sound unavoidable. A precise case study may explain more.</td></tr></tbody></table><p><strong>Map audit:</strong> Circle an arrow whose mechanism is unclear. Add one missing actor. Mark one claim that needs a source. Identify a buffer or alternative pathway. Ask whether the map explains something beyond “these things happened at the same time”.</p><p><strong>Verdict frame:</strong> “I would / would not call this a polycrisis because… The strongest supported interaction is… The weakest link is… Evidence that could change my view is…”</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adam Tooze, Chartbook #130: Defining polycrisis",
+          "url": "https://adamtooze.com/2022/06/24/chartbook-130-defining-polycrisis-from-crisis-pictures-to-the-crisis-matrix/",
+          "date": "24 June 2022; checked 6 October 2026",
+          "use": "Conceptual definition and crisis-matrix approach; paraphrased in the case reader."
+        },
+        {
+          "title": "Adam Tooze, Chartbook #407: Polycrisis revisited",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "September 2025; checked 6 October 2026",
+          "use": "Extension on limits and changing usefulness of crisis language; interpretive perspective, not settled fact."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Use the English materials and make the Austrian connection by adding an Austria-relevant actor (municipality, energy supplier, federal government, workers, or consumers) to one map. <strong>Original-reading extension:</strong> In Tooze’s Chartbook #130, read the paragraph beginning “A polycrisis is…” (locate that exact opening on the page). In your own words, state the definition’s key test and one limitation of a definition alone.</p><p><strong>Key terms:</strong> interaction = one problem changes the effects of another; mechanism = the process connecting cause and effect; buffer = something that reduces or delays an effect; exposure = likelihood or degree of being affected.</p>",
+      "submission": "Individual, final 300–400 words and one revised causal map (minimum four nodes); make a short in-class judgement, then finish and revise it as homework. Give a verdict on whether one supplied scenario qualifies as a polycrisis. Name two problems, explain two mechanisms, state that the supplied scenario is fictional and distinguish it from real-world evidence, state one alternative or buffer, identify a weak link, and explain that the classroom scenario is fictional. Submit on paper or through the teacher’s assignment platform. Success: reasoned verdict, arrows explained, evidence limits acknowledged.",
+      "exit": [
+        "What is the difference between two problems occurring together and interacting?",
+        "What should make you cautious about using the word polycrisis?"
+      ],
+      "homework": "Spend up to 20 minutes completing your individual verdict and revising the map. Replace at least one vague arrow with a mechanism and add one sentence stating what real-world evidence would be needed; the supplied scenarios are fictional.",
+      "teacher": {
+        "preparation": [
+          "Display the reader, scenario cards, mechanism cards, test, and audit. Groups need paper or a shared board.",
+          "Clarify that the scenarios are fictional except where a sourced author’s definition is attributed.",
+          "Prepare a visible map legend distinguishing supplied facts from hypotheses."
+        ],
+        "facilitation": [
+          "Do not reward the biggest map; ask whether each arrow is necessary and supported.",
+          "Ensure the debate evaluates the idea rather than requiring agreement with Tooze.",
+          "Invite students to switch sides after the first discussion to separate argument quality from personal preference."
+        ],
+        "answers": [
+          "Card A is simultaneous on supplied information; no interaction is shown. B contains a stated shared bridge mechanism; the claimed health effects still need evidence. C describes a plausible interaction via export receipts and import capacity, but remains fictional and would need data. D is insufficient; it names topics without mechanisms. E shows a buffer against output loss while preserving a cost effect.",
+          "A polycrisis label is most defensible where distinct problems interact through evidenced mechanisms and the interaction changes consequences or manageability. Reasonable dissent is possible when the evidence does not establish material interaction.",
+          "An alternative concept might be cascading risk, supply-chain vulnerability, or overlapping crises; students should state why it fits better rather than merely name it."
+        ],
+        "misconceptions": [
+          "Polycrisis does not mean ‘many crises’ by definition.",
+          "A causal map is an argument, not proof.",
+          "A feedback loop requires a return path, not just two arrows in one direction.",
+          "Uncertainty does not mean every claim is equally likely."
+        ],
+        "differentiation": [
+          "Offer node labels and arrow stems for students who need structure.",
+          "Ask advanced students to distinguish necessary from sufficient conditions or add timing and counterfactuals.",
+          "Accept oral map defence before written verdict; keep the same intellectual criteria."
+        ],
+        "extension": "Compare Tooze’s 2022 definition with the 2025 reconsideration. Explain what changed in his use of the term and whether your own test should be revised. Treat this as an author’s evolving interpretation."
+      }
+    },
+    "de": {
+      "title": "Wann werden Krisen zur Polykrise?",
+      "question": "Was erklären wir besser, wenn wir Krisen miteinander verbinden?",
+      "intro": "Das Wort Polykrise kann uns auf Wechselwirkungen aufmerksam machen. Es kann aber auch eine ungenaue Bezeichnung für „viele schlimme Dinge“ werden. Wir prüfen Adam Toozes Idee als Frage: Entstehen durch Wechselwirkungen zwischen Krisen Folgen, die schwerer zu verstehen oder zu bewältigen sind als die einzelnen Krisen für sich?",
+      "goals": [
+        "Mehrere gleichzeitige Probleme von einer belegten Wechselwirkung unterscheiden.",
+        "Eine Ursachenkarte mit Wirkungswegen, Rückkopplung und Unsicherheit erstellen.",
+        "Beurteilen, was der Begriff Polykrise erklärt und was er offenlässt."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Schlagzeilenkarten sortieren",
+          "task": "Lies den Falltext „Ein Begriff muss etwas erklären“. Ordne die „Szenariokarten“ den Kategorien gleichzeitig, Wechselwirkung beschrieben oder zu wenig Belege zu. Notiere zu jeder Karte einen Grund."
+        },
+        {
+          "minutes": 15,
+          "title": "Den Test kennenlernen",
+          "task": "Nutzt „Polykrisen-Test, Karten-Legende und Wirkungswegkarten“, um ein Szenario zu prüfen. Formuliert einen eigenen Test mit drei Fragen."
+        },
+        {
+          "minutes": 20,
+          "title": "Einen Fall kartieren",
+          "task": "Zeichnet in Gruppen mit „Szenariokarten“ und „Polykrisen-Test, Karten-Legende und Wirkungswegkarten“ eine Karte mit mindestens vier Knoten, zwei erklärten Wirkungswegen, einer Alternative und einer Unsicherheit."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Karte prüfen",
+          "task": "Tauscht eure Karten. Nutzt die „Zwei Deutungen und Kartenprüfung“: Stellt einen Pfeil infrage, findet eine fehlende beteiligte Person oder Institution und markiert eine Aussage, die eine Quelle braucht. Gebt eine überarbeitete Karte zurück."
+        },
+        {
+          "minutes": 15,
+          "title": "Den Begriff diskutieren",
+          "task": "Lest „Zwei Deutungen und Kartenprüfung“. Führt ein strukturiertes Gespräch: Eine Person erklärt, warum Polykrise hilft; eine andere, warum der Begriff Ursachen oder Verantwortung verdecken kann. Belegt euch mit Karten und tauscht dann die Position."
+        },
+        {
+          "minutes": 10,
+          "title": "Einzelurteil",
+          "task": "Schreibe mit der „Zwei Deutungen und Kartenprüfung“ ein kurzes Urteil: Ist das Szenario mit den vorliegenden Belegen eine Polykrise? Welche Belege könnten deine Meinung ändern?"
+        },
+        {
+          "minutes": 5,
+          "title": "Abschluss",
+          "task": "Beantworte beide Abschlussfragen allein."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Ein Begriff muss etwas erklären",
+          "html": "<h3>Ein Begriff muss etwas erklären</h3><p>Menschen verwenden Krise oft für ein ernstes Problem oder eine gefährliche Lage. Polykrise enthält eine zusätzliche Aussage: Mehrere Krisen wirken zusammen. Das Wort ist nur nützlich, wenn wir zeigen können, wie. Adam Tooze beschreibt eine Polykrise als eine Situation, in der einzelne Krisen miteinander wechselwirken und dadurch insgesamt gefährlicher oder schwerer zu bewältigen sind, als wenn man die Teile getrennt betrachtet. Die Definition lenkt den Blick auf Verbindungen und nicht nur auf die Zahl alarmierender Nachrichten.</p><p>Stell dir vor, eine Dürre verkleinert die Ernte. Das ist ein Schock. Wenn dadurch auch die Exporteinnahmen eines Landes sinken, das Lebensmittel ausführt, kann es schwieriger werden, importierten Treibstoff zu bezahlen. Wenn Treibstoff knapp oder teuer wird, können im nächsten Anbaujahr Transport- und Düngerkosten steigen. Die Verbindungen könnten sich gegenseitig verstärken. Aber jeder Schritt braucht einen Wirkungsweg und Belege. Ein Staat könnte Vorräte, andere Pflanzen oder Zugang zu Krediten haben. Solche Puffer könnten die Kette abschwächen. Das Beispiel ist ein Modell zum Denken und keine Behauptung über einen bestimmten Staat.</p><p>Eine Ursachenkarte macht eine Erklärung sichtbar. Kästchen nennen Bedingungen oder Folgen. Pfeile erklären den Wirkungsweg, etwa „erhöht die Kosten für“, „erschwert den Zugang zu“ oder „erhöht den Druck auf“. Eine Rückkopplung entsteht, wenn eine Folge auf eine frühere Bedingung zurückwirkt. Mehr Pfeile bedeuten nicht mehr Wahrheit. Eine Karte soll Alternativen, Zeit und Unsicherheit zeigen und beobachtete Tatsachen von einer Deutung unterscheiden.</p><p>Die Idee wirft auch Machtfragen auf: Wer löst einen Schock aus? Wer kann reagieren? Wer muss den Verlust tragen? Die Betroffenheit eines Landes kann auch von Entscheidungen anderer abhängen. Zwei Gruppen im selben Land können ebenfalls sehr unterschiedliche Mittel haben. Eine Karte, die nur sagt „Die Welt hängt zusammen“, erklärt wenig, wenn sie keine beteiligten Personen oder Entscheidungen nennt.</p><p>Es gibt eine wichtige Kritik: Krisensprache kann politische Entscheidungen wie unvermeidliche Notfälle erscheinen lassen. Sie kann Verantwortung verwischen, Neuheit übertreiben oder sehr verschiedene Probleme in einen Topf werfen. Darum übernehmen wir das Wort nicht als Schlagwort, sondern prüfen es. Was sind die einzelnen Probleme? Was verbindet sie? Ist die Wechselwirkung bedeutsam? Welche Belege stützen die Pfeile? Erklärt ein anderer Begriff den Fall besser? Ein gutes Urteil kann „Polykrise“, „verbundene Risiken“ oder „mehrere getrennte Probleme“ lauten.</p>"
+        },
+        {
+          "title": "Szenariokarten (Unterrichtsfälle; erfunden, sofern nicht ausdrücklich anders angegeben)",
+          "html": "<table><caption>Ordnet jede Karte zu: gleichzeitig, Wechselwirkung durch die Karte gestützt oder zu wenig Belege.</caption><thead><tr><th>Karte</th><th>Szenario</th><th>Frage</th></tr></thead><tbody><tr><td>A</td><td>In einem Jahr erlebt eine Stadt eine Hitzewelle und eine Wahl. Die Karte zeigt keine Verbindung zwischen beiden.</td><td>Reicht zeitliches Zusammentreffen?</td></tr><tr><td>B</td><td>Erfunden: Eine Überschwemmung sperrt eine Brücke, die örtliche Betriebe nutzen. Lieferungen verspäten sich; auch ein Krankenhaus hat weniger Nachschubwege.</td><td>Wie verbinden sich Verkehr, Betriebe und Gesundheit? Was wissen wir noch nicht?</td></tr><tr><td>C</td><td>Erfunden: Eine Dürre senkt die Ernte. Das Land verdient Devisen durch Lebensmittelexporte und führt den Großteil seines Treibstoffs ein. Exporteinnahmen fallen, während Treibstoff teurer wird.</td><td>Können sich zwei Belastungen über Devisen und Importmöglichkeiten verstärken?</td></tr><tr><td>D</td><td>Ein Beitrag sagt: „Klima, Schulden und Krieg hängen alle zusammen.“ Er nennt keinen Wirkungsweg, Ort, Zeitraum oder Beleg.</td><td>Was müssen wir prüfen, bevor wir die Aussage annehmen?</td></tr><tr><td>E</td><td>Erfunden: Eine Fabrik wechselt nach einer Verzögerung im Hafen zu einem zweiten Lieferanten. Die Produktion sinkt nicht, aber der neue Lieferant ist teurer.</td><td>Welche Folge wird abgefangen, welche bleibt vielleicht bestehen?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Polykrisen-Test, Karten-Legende und Wirkungswegkarten",
+          "html": "<ol><li>Nenne mindestens zwei getrennte Probleme. Nimm nicht an, dass jedes ernste Ereignis schon eine Krise ist.</li><li>Erkläre die Wechselwirkung: Was ändert sich, weil die Probleme zusammentreffen?</li><li>Zeige Wirkungsweg, beteiligte Personen, Ort und zeitliche Reihenfolge.</li><li>Prüfe, ob die Wechselwirkung Ausmaß, Dauer, Verteilung oder Bewältigung spürbar verändert.</li><li>Prüfe Belege, Alternativen, Puffer und Unsicherheit.</li><li>Frage, was der Begriff zusätzlich zu einer genaueren Beschreibung erklärt.</li></ol><table><caption>Wirkungswegkarten</caption><thead><tr><th>Weg</th><th>Formulierung für den Pfeil</th><th>Mögliche Belege</th></tr></thead><tbody><tr><td>Lieferung</td><td>verringert die verfügbare Menge von …</td><td>Herstellung, Vorräte oder Lieferdaten</td></tr><tr><td>Preis</td><td>erhöht die Kosten für …</td><td>Preise im passenden Zeitraum und Kostenanteile</td></tr><tr><td>Geld</td><td>verringert den Spielraum bei Devisen oder Budget für …</td><td>Einnahmen, Schuldenzahlungen, Reserven, Budget</td></tr><tr><td>Infrastruktur</td><td>verhindert oder verzögert den Zugang zu …</td><td>Route, Kapazität und Ausfalldaten</td></tr><tr><td>Politik</td><td>ändert Anreize oder verteilt Kosten, indem …</td><td>Gesetz, Regelung und Belege zur Umsetzung</td></tr><tr><td>Rückkopplung</td><td>die Folge verstärkt oder schwächt den Ausgangspunkt …</td><td>Belege für den Rückweg und seinen Zeitpunkt</td></tr></tbody></table><p><strong>Legende:</strong> durchgezogener Pfeil = Beleg in der Karte; gestrichelter Pfeil = Vermutung; „?“ = unsicher; eckige Klammern = beteiligte Person oder Institution; Schleife = mögliche Rückkopplung, die erklärt werden muss.</p>"
+        },
+        {
+          "title": "Zwei Deutungen und Kartenprüfung",
+          "html": "<table><caption>Beides sind Argumente, keine vorgegebenen Lösungen.</caption><thead><tr><th>Deutung A: Der Begriff hilft</th><th>Deutung B: Der Begriff kann irreführen</th></tr></thead><tbody><tr><td>Getrennte Institutionen und Nachrichtenbereiche können Wechselwirkungen verdecken. Eine Karte zeigt gemeinsame Wirkungswege und mögliche Ansatzpunkte.</td><td>Ein sehr weiter Begriff kann so wirken, als hinge alles mit allem zusammen. Er kann Entscheidungen und Verantwortung verdecken. Eine genaue Fallstudie kann mehr erklären.</td></tr></tbody></table><p><strong>Kartenprüfung:</strong> Kreise einen Pfeil ein, dessen Wirkungsweg unklar ist. Ergänze eine fehlende beteiligte Person. Markiere eine Aussage, die eine Quelle braucht. Nenne einen Puffer oder einen anderen möglichen Weg. Erklärt die Karte mehr als „Diese Dinge geschahen gleichzeitig“?</p><p><strong>Urteilshilfe:</strong> „Ich würde / würde nicht Polykrise sagen, weil … Die stärkste belegte Wechselwirkung ist … Der unsicherste Schritt ist … Diese Belege könnten meine Meinung ändern: …“</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adam Tooze, Chartbook #130: Defining polycrisis",
+          "url": "https://adamtooze.com/2022/06/24/chartbook-130-defining-polycrisis-from-crisis-pictures-to-the-crisis-matrix/",
+          "date": "24. Juni 2022; geprüft am 6. Oktober 2026",
+          "use": "Begriffserklärung und Krisenmatrix; im Falltext sinngemäß wiedergegeben."
+        },
+        {
+          "title": "Adam Tooze, Chartbook #407: Polycrisis revisited",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "September 2025; geprüft am 6. Oktober 2026",
+          "use": "Zusatz zur Begrenztheit und veränderten Nützlichkeit von Krisensprache; Deutung eines Autors, keine gesicherte Tatsache."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutscher Weg:</strong> Nutze die deutschen Materialien und ergänze in einer Karte eine österreichische beteiligte Person oder Institution, etwa Gemeinde, Energieversorger, Bund, Beschäftigte oder Kund:innen. <strong>Lesebrücke auf Englisch:</strong> <em>Teacher-written, original text; not a quotation:</em> “A polycrisis is more than many problems at once. We must show how two or more problems change each other. A map can show the steps, but every arrow needs evidence. Some links may be uncertain, and other explanations may fit better.” Beantworte auf Deutsch: (1) Was unterscheidet Polykrise von vielen Problemen? (2) Was braucht jeder Pfeil? (3) Warum kann eine andere Erklärung besser passen?</p><p><strong>Wortliste:</strong> interaction = Wechselwirkung; mechanism = Wirkungsweg; buffer = Puffer; exposure = Betroffenheit.</p>",
+      "submission": "Einzelarbeit, endgültig 300–400 Wörter und eine überarbeitete Ursachenkarte mit mindestens vier Punkten; formuliere dein kurzes Urteil in der Stunde und schreibe es als Hausübung fertig. Beurteile, ob eines der Szenarien eine Polykrise ist. Nenne zwei Probleme, erkläre zwei Wirkungswege, beziehe dich auf eine Szenariokarte, kennzeichne ihr Beispiel als erfunden, nenne eine Alternative oder einen Puffer und markiere eine unsichere Stelle. Abgabe auf Papier oder über die Aufgabenplattform. Erfolg: begründetes Urteil, erklärte Pfeile und Grenzen der Belege.",
+      "exit": [
+        "Was ist der Unterschied zwischen zwei gleichzeitigen Problemen und einer Wechselwirkung?",
+        "Was sollte dich beim Gebrauch des Wortes Polykrise vorsichtig machen?"
+      ],
+      "homework": "Schließe dein persönliches Urteil und die Karte in höchstens 20 Minuten ab. Ersetze mindestens einen ungenauen Pfeil durch einen Wirkungsweg und nenne einen echten Beleg, der nötig wäre; die gelieferten Szenarien sind erfunden.",
+      "teacher": {
+        "preparation": [
+          "Falltext, Szenariokarten, Wirkungswegkarten, Test und Kartenprüfung anzeigen oder ausdrucken.",
+          "Die Szenarien sind erfunden, außer der ausdrücklich Tooze zugeschriebenen Definition.",
+          "Eine Karten-Legende für belegte Tatsachen und Vermutungen bereitstellen."
+        ],
+        "facilitation": [
+          "Nicht die größte Karte belohnen; fragen, ob jeder Pfeil nötig und gestützt ist.",
+          "In der Diskussion die Idee prüfen lassen, nicht Zustimmung zu Tooze verlangen.",
+          "Nach der ersten Runde Positionen wechseln lassen; so wird die Qualität des Arguments geprüft."
+        ],
+        "answers": [
+          "A zeigt mit den vorliegenden Informationen Gleichzeitigkeit, keine Wechselwirkung. B nennt einen gemeinsamen Brücken-Wirkungsweg; Folgen für Gesundheit brauchen noch Belege. C beschreibt eine mögliche Wechselwirkung über Einnahmen und Importfähigkeit, ist aber erfunden und bräuchte Daten. D ist nicht ausreichend: Themen ohne Wirkungswege. E zeigt, dass ein Produktionsausfall abgefangen wird, während ein Kosteneffekt bleiben kann.",
+          "Polykrise ist am besten begründet, wenn verschiedene Probleme durch belegte Wirkungswege zusammenwirken und dies Folgen oder Bewältigung verändert. Man darf begründet anderer Meinung sein, wenn die Belege keine wichtige Wechselwirkung zeigen.",
+          "Ein anderer Begriff könnte Kaskadenrisiko, Lieferkettenrisiko oder überlappende Krisen sein. Erkläre, warum er passt, statt ihn nur zu nennen."
+        ],
+        "misconceptions": [
+          "Polykrise bedeutet nicht einfach „viele Krisen“.",
+          "Eine Ursachenkarte ist eine Erklärung, kein Beweis.",
+          "Eine Rückkopplung braucht einen Rückweg, nicht nur zwei Pfeile in eine Richtung.",
+          "Unsicherheit bedeutet nicht, dass alle Behauptungen gleich wahrscheinlich sind."
+        ],
+        "differentiation": [
+          "Knoten und Pfeilanfänge für Lernende bereitstellen, die mehr Struktur brauchen.",
+          "Fortgeschrittene unterscheiden notwendige von hinreichenden Bedingungen oder ergänzen Zeitverlauf und Gegenbeispiel.",
+          "Eine mündliche Erklärung der Karte vor dem Urteil erlauben; die Denkkriterien bleiben gleich."
+        ],
+        "extension": "Vergleicht Toozes Definition von 2022 mit seiner Neubewertung von 2025. Erklärt, was sich an seiner Verwendung des Begriffs geändert hat und ob ihr euren eigenen Test überarbeiten würdet. Das ist eine sich entwickelnde Deutung des Autors."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "en": {
+      "title": "Europe’s energy shock, 2021–23",
+      "question": "How did a supply shock become a wider economic and political problem?",
+      "intro": "Europe’s energy shock had several causes and consequences. We examine the period through dated evidence, keeping physical supply, market prices, national choices, and household effects distinct. The aim is to reconstruct mechanisms, not to tell a one-cause story.",
+      "goals": [
+        "Build a dated sequence of energy-market developments in Europe from 2021 to 2023.",
+        "Explain how import dependence, supply changes, prices, and policy responses can interact.",
+        "Compare who had room to respond and identify what the evidence cannot establish."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Read the case reader",
+          "task": "Read ‘Gas, electricity, and choices’. Underline one dated event, circle one mechanism, and put a question mark beside a claim needing evidence."
+        },
+        {
+          "minutes": 15,
+          "title": "Build the timeline",
+          "task": "Use ‘Timeline evidence cards’ to arrange events from 2021 to 2023. Add a short note on what changed and what the card does not prove."
+        },
+        {
+          "minutes": 20,
+          "title": "Trace the electricity price mechanism",
+          "task": "Use the table in ‘How wholesale electricity pricing works’. Work through the fictional calculation; label it as a model, not a historical price series. Submit the completed table."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Policy response comparison",
+          "task": "Read ‘Response cards and who-can-act matrix’ and compare demand reduction, new supply, and household support. Complete the ‘Who can act?’ matrix with a benefit, cost, and unresolved question for each."
+        },
+        {
+          "minutes": 15,
+          "title": "Crisis map and challenge",
+          "task": "Groups connect one energy-supply change to one market effect and one distributional or policy effect. Peer-review using ‘Response cards and who-can-act matrix’ (Causal map check); add at least one alternative explanation or buffer."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual paragraph",
+          "task": "Write a 150–200-word draft explanation: why was this more than a simple shortage? Use two dated cards and distinguish fact from interpretation."
+        },
+        {
+          "minutes": 5,
+          "title": "Exit",
+          "task": "Answer the two exit questions."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Gas, electricity, and choices",
+          "html": "<h3>Gas, electricity, and choices</h3><p>Europe entered 2021 already facing a tight energy market. As economies reopened after COVID-19 restrictions, demand for energy increased. Gas storage and supply conditions varied between countries, and gas prices were rising before Russia’s full-scale invasion of Ukraine in February 2022. The invasion and the reduction of Russian pipeline deliveries intensified uncertainty and changed the political setting. These facts matter because they prevent a simple story in which every price movement has one cause.</p><p>The European Union depended on imports for much of its energy. Eurostat reports that net imports accounted for 62.5% of EU gross available energy in 2022. Natural gas was one part of this wider energy system, used for heating, industry, and electricity generation. In 2021, Russia supplied 44% of EU natural-gas imports according to Eurostat’s 2023 energy overview. The figure describes the EU aggregate and a specific year; individual countries had different routes and dependencies.</p><p>Gas is not the only source of electricity, but gas-fired power plants can affect wholesale electricity prices. In many market hours, generators are dispatched from lower to higher operating cost to meet demand. In a simplified merit-order market, the last plant needed to meet demand can set the wholesale price received by generators. When gas is the marginal plant, a higher gas cost can raise the clearing price even for electricity produced by other plants. Actual market design, contracts, network limits, and hour-by-hour conditions are more complex than this classroom model.</p><p>Governments and the EU responded in several ways: seeking alternative supplies, expanding infrastructure and renewables, asking for lower gas demand, coordinating storage, and supporting consumers or firms. These measures addressed different problems and had different costs. More imports can improve short-term availability but create new supplier relationships. Price support can protect consumers quickly but costs public money and may weaken incentives to reduce use if poorly designed. Demand reduction can ease pressure but is harder for people with few alternatives.</p><p>The consequences were uneven across countries, sectors, firms, and households. A country’s import routes and energy mix mattered; so did contracts, income, building quality, and government support. One should not infer from a European average what every person experienced. Nor should a timeline alone prove that a policy caused a later price change. Our task is to connect the evidence carefully and ask where a response changed the chain, who benefited, and who carried the cost.</p>"
+        },
+        {
+          "title": "Timeline evidence cards (facts; dates and measures matter)",
+          "html": "<table><caption>Arrange these in order. Cards summarise official EU statistics and Commission reporting.</caption><thead><tr><th>Date / period</th><th>Evidence card</th><th>Use and limit</th></tr></thead><tbody><tr><td>2021</td><td>Russia supplied 44% of EU natural-gas imports; the EU energy import-dependency rate was 56%.</td><td>EU-wide context, not the same as every member state or every gas contract.</td></tr><tr><td>2021 onward</td><td>Wholesale gas prices increased in 2021 as demand recovered and supply conditions tightened.</td><td>Do not attribute pre-invasion price changes to the 2022 invasion.</td></tr><tr><td>24 February 2022</td><td>Russia began its full-scale invasion of Ukraine.</td><td>Political and security turning point; market effects still require their own evidence.</td></tr><tr><td>2022</td><td>EU energy import dependency reached 62.5%; Russia remained the largest supplier of several imported fossil-fuel categories in the annual data.</td><td>Annual aggregate; does not show the price paid by a particular consumer.</td></tr><tr><td>August 2022</td><td>EU Council adopted a regulation setting a voluntary 15% gas-demand reduction target for winter 2022–23, with specified conditions.</td><td>Policy target and legal context; do not call it a 15% reduction by every household.</td></tr><tr><td>Q4 2022</td><td>Russian pipeline gas imports were about 15% of EU quarterly gas imports, down from just over two-fifths in Q4 2021; LNG imports rose substantially.</td><td>Quarterly flow shares; compare like periods, not with annual figures without care.</td></tr><tr><td>2023</td><td>European Commission reported EU dependence on Russian gas fell to 15% in 2023 from 45% in 2021.</td><td>Commission’s retrospective summary; check its definition and denominator when comparing.</td></tr></tbody></table>"
+        },
+        {
+          "title": "How wholesale electricity pricing works",
+          "html": "<p><strong>Classroom model: fictional offer prices in euros per megawatt-hour (€/MWh). These are not historical prices.</strong> Demand requires 3 units of electricity. Dispatch the cheapest available units until demand is met. In this simplified model, the price of the last unit dispatched is paid for all units.</p><table><caption>Fictional supply offers for one hour</caption><thead><tr><th>Plant type</th><th>Available units</th><th>Offer price €/MWh</th><th>Units dispatched</th></tr></thead><tbody><tr><td>Wind</td><td>1</td><td>0</td><td></td></tr><tr><td>Nuclear</td><td>1</td><td>20</td><td></td></tr><tr><td>Gas, baseline</td><td>2</td><td>60</td><td></td></tr><tr><td>Coal</td><td>2</td><td>80</td><td></td></tr></tbody></table><p>Task A: fill dispatched units and find the marginal unit and market price. Task B: if the gas offer rises from 60 to 100 €/MWh, recalculate. Task C: write two limits of this simplified model. Hint: a real system has many time intervals, contracts, network constraints, and market rules.</p>"
+        },
+        {
+          "title": "Response cards and who-can-act matrix",
+          "html": "<table><caption>Response cards</caption><thead><tr><th>Response</th><th>What it may address</th><th>Possible benefit</th><th>Possible cost or trade-off</th></tr></thead><tbody><tr><td>Find alternative gas supplies, including LNG</td><td>Short-term supply availability</td><td>Can replace some lost pipeline supply</td><td>Global competition, infrastructure needs, emissions and price exposure</td></tr><tr><td>Reduce gas demand and coordinate storage</td><td>Winter supply risk</td><td>Can lower demand pressure and prepare for disruption</td><td>May be difficult for some industries or households; savings depend on implementation</td></tr><tr><td>Support household bills or firms</td><td>Affordability and business continuity</td><td>Can prevent immediate hardship or closures</td><td>Public cost; broad price support can reduce incentives to save energy</td></tr><tr><td>Build renewables, grids, and efficiency</td><td>Longer-term exposure and emissions</td><td>Can diversify supply and reduce fossil-fuel use over time</td><td>Needs investment, permitting, materials, and time</td></tr></tbody></table><table><caption>Complete one row per response</caption><thead><tr><th>Who can decide?</th><th>Who may benefit?</th><th>Who may carry a cost?</th><th>Evidence or unanswered question</th></tr></thead><tbody><tr><td>EU institutions</td><td></td><td></td><td></td></tr><tr><td>National government</td><td></td><td></td><td></td></tr><tr><td>Energy firms / grid operators</td><td></td><td></td><td></td></tr><tr><td>Households / workers</td><td></td><td></td><td></td></tr></tbody></table><p><strong>Causal map check:</strong> date each fact; label mechanism; separate supply quantity from price; include a decision-maker; mark one alternative cause or buffer; avoid treating EU-wide evidence as an individual household story.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eurostat, Shedding light on energy in the EU, 2023 edition",
+          "url": "https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023",
+          "date": "2023; data mainly 2021; checked 6 October 2026",
+          "use": "2021 EU import dependency and Russian share of natural-gas imports."
+        },
+        {
+          "title": "Eurostat, Shedding light on energy in Europe, 2024 edition",
+          "url": "https://ec.europa.eu/eurostat/web/interactive-publications/energy-2024",
+          "date": "2024; data for 2022; checked 6 October 2026",
+          "use": "2022 EU energy import dependency, product categories, source context."
+        },
+        {
+          "title": "European Commission, EU energy security and gas supplies",
+          "url": "https://energy.ec.europa.eu/news/focus-eu-energy-security-and-gas-supplies-2024-02-15_en",
+          "date": "15 February 2024; checked 6 October 2026",
+          "use": "Russian gas import share 45% in 2021 and 15% in 2023; Commission retrospective framing."
+        },
+        {
+          "title": "European Commission, Q4 2022 gas and electricity markets",
+          "url": "https://energy.ec.europa.eu/news/quarterly-reports-confirm-stabilising-gas-and-electricity-markets-end-2022-2023-05-17_en",
+          "date": "17 May 2023; reports Q4 2022",
+          "use": "Quarterly pipeline and LNG flows; not a retail-price measure."
+        },
+        {
+          "title": "Council of the European Union, gas demand reduction regulation",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/08/05/council-adopts-regulation-on-reducing-gas-demand-by-15-this-winter/",
+          "date": "5 August 2022; checked 6 October 2026",
+          "use": "Voluntary 15% demand-reduction target and conditions."
+        },
+        {
+          "title": "European Commission, Quarterly reports confirm significant recovery in EU gas and electricity markets in Q4 2023",
+          "url": "https://energy.ec.europa.eu/news/quarterly-reports-confirm-significant-recovery-eu-gas-and-electricity-markets-4th-quarter-2023-2024-06-06_en",
+          "date": "6 June 2024; reports Q4 2023",
+          "use": "Later market context; optional extension, not used as a current condition."
+        },
+        {
+          "title": "European Commission, Energy prices and costs in Europe",
+          "url": "https://energy.ec.europa.eu/data-and-analysis/energy-prices-and-costs-europe_en",
+          "date": "2024 report page; checked 6 October 2026",
+          "use": "Context on wholesale prices rising before the 2022 invasion and falling in 2023; not a claim that one cause explains all movements."
+        },
+        {
+          "title": "European Commission, Electricity market design",
+          "url": "https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en",
+          "date": "Undated; checked 6 October 2026",
+          "use": "EU wholesale marginal pricing and pay-as-clear explanation for the classroom model."
+        },
+        {
+          "title": "European Council, conclusions of 24 February 2022",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/02/24/european-council-conclusions-24-february-2022/",
+          "date": "24 February 2022; checked 6 October 2026",
+          "use": "Contemporaneous official record of Russia’s military aggression against Ukraine."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Add Austria to the comparison: distinguish the EU aggregate from Austria’s import routes and household experience. <strong>Original-reading extension:</strong> In Eurostat’s <em>Energy 2023</em> interactive publication, read the section “Where does our energy come from?” and its natural-gas import chart. State the year, denominator, and one limitation of the 44% figure.</p><p><strong>Key terms:</strong> import dependency = reliance on net imports; wholesale = large-scale market before retail; marginal plant = last generator needed to meet demand in the simplified model; LNG = liquefied natural gas.</p>",
+      "submission": "Individual explanation, final 150–200 words, plus the completed fictional dispatch table; draft the main chain in class and polish it as homework. Explain one chain from supply conditions to a policy or distributional effect. Use at least two dated timeline cards, distinguish fact from interpretation, and identify one limit of the evidence. Submit on paper or through the teacher’s assignment platform. Success: correct sequence, explained mechanism, calculation, and bounded claim.",
+      "exit": [
+        "Why is it misleading to say that the 2022 invasion explains every rise in energy prices?",
+        "Name one policy response and a group that might benefit or bear a cost."
+      ],
+      "homework": "Spend up to 25 minutes completing your 150–200-word explanation from the class draft and checking the dispatch calculation. Use at least two dated timeline cards; add one question you would ask before saying a policy caused a price change.",
+      "teacher": {
+        "preparation": [
+          "Print reader, timeline cards, dispatch table, policy cards, and matrix.",
+          "For the model, write demand = 3 units and explain that units are fictional blocks, not real market volume.",
+          "Source cards deliberately distinguish yearly from quarterly data and EU totals from country experience."
+        ],
+        "facilitation": [
+          "Before connecting events, have students place them on the dated timeline.",
+          "Ask whether a statement concerns energy supply, wholesale price, retail bill, or public spending.",
+          "During policy comparison, insist that a response can have both beneficiaries and costs; do not imply every trade-off is equal in scale."
+        ],
+        "answers": [
+          "Timeline order: 2021 demand recovery/tight market and 44% Russian share; 24 February 2022 invasion; 2022 annual import dependency 62.5%; August demand-reduction regulation; Q4 Russian pipeline share around 15%; 2023 annual dependence reported as 15%. The cards mix annual and quarterly measures, which students must state.",
+          "Merit-order model baseline dispatch: wind 1, nuclear 1, gas 1; marginal gas price 60 €/MWh. With gas at 100, the dispatch remains wind 1, nuclear 1, gas 1, marginal price 100 €/MWh. In this stylised model all 3 units clear at that price. Limits: real bids and contracts differ; demand, networks, market coupling, time intervals and regulations matter; offered price is not the same as a household bill.",
+          "A valid chain: reduced pipeline deliveries amid demand and geopolitical uncertainty → tighter expected supply / higher gas prices (needs market evidence) → possible higher wholesale electricity prices in hours with gas marginal (model explains mechanism, not historical attribution) → governments pursue substitute supply, demand reduction, or support. Students should not state the model proves exact historical pass-through.",
+          "Response assessments are open-ended if benefit, cost, and evidence question are coherent. Example: LNG may help replace pipeline supply in the short run, while infrastructure and global price competition create costs; benefits and impacts vary by place and timing."
+        ],
+        "misconceptions": [
+          "The full-scale invasion began in February 2022; energy prices had already risen in 2021.",
+          "A 15% EU demand target was not a guaranteed 15% cut by every household.",
+          "A wholesale price is not identical to a retail bill.",
+          "EU-wide import shares are not the share for every member state.",
+          "The fictional market calculation demonstrates a mechanism, not the historical price level."
+        ],
+        "differentiation": [
+          "Provide a timeline with dates already ordered; ask students to annotate mechanisms instead.",
+          "Advanced students compare annual and quarterly denominators or explain how contracts can delay retail pass-through.",
+          "Give a calculation scaffold: fill cheapest unit first, track cumulative supply, then identify the last unit."
+        ],
+        "extension": "Investigate why electricity prices can move with gas prices even when not all electricity is generated from gas. Use the Commission’s explanation of market operation and distinguish a mechanism from a claim about any specific hour."
+      }
+    },
+    "de": {
+      "title": "Europas Energieschock 2021–2023",
+      "question": "Wie wurde aus einer Versorgungsstörung ein größeres wirtschaftliches und politisches Problem?",
+      "intro": "Europas Energieschock hatte mehrere Ursachen und Folgen. Wir untersuchen den Zeitraum mit datierten Belegen und unterscheiden Energieversorgung, Marktpreise, politische Entscheidungen und Folgen für Haushalte. Ziel ist eine Erklärung der Wirkungswege und keine Geschichte mit nur einer Ursache.",
+      "goals": [
+        "Eine datierte Abfolge wichtiger Entwicklungen am europäischen Energiemarkt von 2021 bis 2023 erstellen.",
+        "Erklären, wie Importabhängigkeit, Veränderungen der Versorgung, Preise und politische Antworten zusammenwirken können.",
+        "Vergleichen, wer Handlungsspielraum hatte, und benennen, was die Belege nicht zeigen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Falltext lesen",
+          "task": "Lies „Gas, Strom und Entscheidungen“. Unterstreiche ein datiertes Ereignis, kreise einen Wirkungsweg ein und setze ein Fragezeichen neben eine Aussage, die Belege braucht."
+        },
+        {
+          "minutes": 15,
+          "title": "Zeitleiste erstellen",
+          "task": "Ordnet die „Belegkarten zur Zeitleiste“ von 2021 bis 2023. Notiert jeweils, was sich änderte und was die Karte nicht beweist."
+        },
+        {
+          "minutes": 20,
+          "title": "Wirkungsweg beim Strompreis",
+          "task": "Nutzt die Tabelle in „Wie Großhandelspreise für Strom funktionieren“. Rechnet das erfundene Beispiel durch und kennzeichnet es als Modell, nicht als historische Preisreihe. Gebt die Tabelle ab."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Politische Antworten vergleichen",
+          "task": "Lest „Antwortkarten und Tabelle ‚Wer kann handeln?‘“ und vergleicht Nachfrage senken, neue Versorgung und Unterstützung für Haushalte. Füllt für jede Maßnahme die Tabelle „Wer kann handeln?“ mit Vorteil, Kosten und offener Frage aus."
+        },
+        {
+          "minutes": 15,
+          "title": "Krisenkarte prüfen",
+          "task": "Verbindet in Gruppen eine Veränderung der Energieversorgung mit einer Marktfolge und einer Verteilungs- oder Politikfolge. Prüft die Karte mit „Antwortkarten und Tabelle ‚Wer kann handeln?‘“ (Prüfliste) und ergänzt eine alternative Erklärung oder einen Puffer."
+        },
+        {
+          "minutes": 10,
+          "title": "Einzelabsatz",
+          "task": "Schreibe einen Entwurf mit 150–200 Wörtern: Warum war dies mehr als ein einfacher Mangel? Nutze zwei datierte Karten und unterscheide Tatsache und Deutung."
+        },
+        {
+          "minutes": 5,
+          "title": "Abschluss",
+          "task": "Beantworte beide Abschlussfragen."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Gas, Strom und Entscheidungen",
+          "html": "<h3>Gas, Strom und Entscheidungen</h3><p>Europa hatte schon 2021 einen angespannten Energiemarkt. Als Volkswirtschaften nach den COVID-19-Einschränkungen wieder öffneten, stieg die Energienachfrage. Gasspeicher und Versorgungslage waren in den Ländern unterschiedlich; Gaspreise stiegen bereits vor Russlands umfassendem Angriff auf die Ukraine im Februar 2022. Der Angriff und geringere russische Pipeline-Lieferungen verstärkten die Unsicherheit und veränderten die politische Lage. Das ist wichtig: Nicht jede Preisänderung hat nur eine Ursache.</p><p>Die Europäische Union führte einen großen Teil ihrer Energie ein. Eurostat berichtet, dass 2022 Nettoimporte 62,5 % der verfügbaren Bruttoenergie in der EU ausmachten. Erdgas war ein Teil des Energiesystems und wurde zum Heizen, in der Industrie und zur Stromerzeugung genutzt. 2021 stammten laut Eurostats Energieüberblick von 2023 44 % der EU-Erdgasimporte aus Russland. Diese Zahl beschreibt den EU-Durchschnitt und ein bestimmtes Jahr; einzelne Länder hatten verschiedene Routen und Abhängigkeiten.</p><p>Gas ist nicht die einzige Stromquelle, aber Gaskraftwerke können Großhandelspreise für Strom beeinflussen. In vielen Stunden werden Kraftwerke mit niedrigeren Betriebskosten zuerst eingesetzt. In einem vereinfachten Merit-Order-Modell kann das letzte zur Deckung des Bedarfs benötigte Kraftwerk den Großhandelspreis bestimmen. Wenn ein Gaskraftwerk zuletzt benötigt wird, kann ein höherer Gaskostenwert den Marktpreis auch für Strom anderer Kraftwerke anheben. Das echte Marktdesign, Verträge, Netzengpässe und stündliche Bedingungen sind komplexer als das Modell im Unterricht.</p><p>EU und Regierungen reagierten auf mehreren Wegen: Sie suchten andere Lieferanten, erweiterten Infrastruktur und erneuerbare Energien, baten um geringeren Gasverbrauch, koordinierten Speicher und unterstützten Verbraucher:innen oder Betriebe. Die Maßnahmen lösten unterschiedliche Probleme und hatten verschiedene Kosten. Mehr Importe können kurzfristig die Verfügbarkeit verbessern, schaffen aber neue Lieferbeziehungen. Preisstützen können schnell schützen, kosten aber öffentliche Mittel und können bei schlechter Gestaltung den Anreiz zum Energiesparen schwächen. Nachfrage zu senken kann Druck abbauen, ist aber für Menschen mit wenigen Alternativen schwieriger.</p><p>Die Folgen waren je nach Land, Branche, Betrieb und Haushalt verschieden. Importwege und Energiemix spielten eine Rolle, ebenso Verträge, Einkommen, Gebäudequalität und staatliche Hilfe. Aus einem europäischen Durchschnitt können wir nicht auf die Erfahrung jeder Person schließen. Eine Zeitleiste allein beweist auch nicht, dass eine Maßnahme eine spätere Preisänderung verursacht hat. Wir verbinden die Belege sorgfältig und fragen, wo eine Antwort die Kette änderte, wer davon profitierte und wer Kosten trug.</p>"
+        },
+        {
+          "title": "Belegkarten zur Zeitleiste (Tatsachen; Datum und Messgröße beachten)",
+          "html": "<table><caption>Ordnet die Karten. Sie fassen EU-Statistiken und Berichte der Kommission zusammen.</caption><thead><tr><th>Datum / Zeitraum</th><th>Belegkarte</th><th>Verwendung und Grenze</th></tr></thead><tbody><tr><td>2021</td><td>Russland lieferte 44 % der EU-Erdgasimporte; die Energieimportquote der EU lag bei 56 %.</td><td>EU-Kontext, nicht für jeden Staat und jeden Gasvertrag gleich.</td></tr><tr><td>Ab 2021</td><td>Großhandelspreise für Gas stiegen 2021, als die Nachfrage wieder zunahm und die Versorgungslage enger wurde.</td><td>Preisänderungen vor dem Angriff nicht dem Angriff von 2022 zuschreiben.</td></tr><tr><td>24. Februar 2022</td><td>Russland begann den umfassenden Angriff auf die Ukraine.</td><td>Politischer und sicherheitspolitischer Wendepunkt; Auswirkungen auf Märkte brauchen eigene Belege.</td></tr><tr><td>2022</td><td>Die Energieimportquote der EU erreichte 62,5 %. Russland blieb laut Jahresdaten wichtigster Lieferant einiger fossiler Energiearten.</td><td>Jahresdurchschnitt; zeigt nicht, welchen Preis einzelne Kund:innen zahlten.</td></tr><tr><td>August 2022</td><td>Der EU-Rat beschloss ein freiwilliges Ziel, den Gasbedarf im Winter 2022/23 um 15 % zu senken, mit festgelegten Bedingungen.</td><td>Politisches Ziel und Rechtsrahmen; nicht als 15 % weniger Verbrauch jedes Haushalts darstellen.</td></tr><tr><td>4. Quartal 2022</td><td>Russische Pipeline-Lieferungen machten etwa 15 % der vierteljährlichen EU-Gasimporte aus, nach etwas über zwei Fünfteln im 4. Quartal 2021; LNG-Importe stiegen deutlich.</td><td>Vierteljährliche Anteile vergleichen; nicht unbedacht mit Jahreszahlen mischen.</td></tr><tr><td>2023</td><td>Die Kommission berichtete, die Abhängigkeit der EU von russischem Gas sei von 45 % im Jahr 2021 auf 15 % im Jahr 2023 gefallen.</td><td>Rückblickende Zusammenfassung der Kommission; Definition und Bezugsgröße beachten.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Wie Großhandelspreise für Strom funktionieren",
+          "html": "<p><strong>Unterrichtsmodell: erfundene Gebote in Euro je Megawattstunde (€/MWh). Das sind keine historischen Preise.</strong> Der Bedarf beträgt 3 Einheiten Strom. Setzt zuerst die günstigsten verfügbaren Einheiten ein, bis der Bedarf gedeckt ist. In diesem vereinfachten Modell wird der Preis des zuletzt benötigten Kraftwerks für alle Einheiten gezahlt.</p><table><caption>Erfundene Angebote für eine Stunde</caption><thead><tr><th>Kraftwerk</th><th>Verfügbare Einheiten</th><th>Angebot €/MWh</th><th>Eingesetzte Einheiten</th></tr></thead><tbody><tr><td>Wind</td><td>1</td><td>0</td><td></td></tr><tr><td>Kernenergie</td><td>1</td><td>20</td><td></td></tr><tr><td>Gas, Ausgangswert</td><td>2</td><td>60</td><td></td></tr><tr><td>Kohle</td><td>2</td><td>80</td><td></td></tr></tbody></table><p>Aufgabe A: Tragt eingesetzte Einheiten ein und findet das Grenzkraftwerk und den Marktpreis. Aufgabe B: Wenn das Gasangebot von 60 auf 100 €/MWh steigt, rechnet erneut. Aufgabe C: Nennt zwei Grenzen des Modells. Hinweis: In echt gibt es viele Zeitintervalle, Verträge, Netzengpässe und Marktregeln.</p>"
+        },
+        {
+          "title": "Antwortkarten und Tabelle „Wer kann handeln?“",
+          "html": "<table><caption>Antwortkarten</caption><thead><tr><th>Antwort</th><th>Mögliches Ziel</th><th>Möglicher Vorteil</th><th>Mögliche Kosten oder Abwägung</th></tr></thead><tbody><tr><td>Andere Gaslieferanten suchen, auch LNG</td><td>Kurzfristige Verfügbarkeit</td><td>Kann einen Teil der Pipeline-Lieferungen ersetzen</td><td>Weltweite Konkurrenz, Infrastruktur, Emissionen und Preisrisiko</td></tr><tr><td>Gasbedarf senken und Speicher koordinieren</td><td>Versorgungsrisiko im Winter</td><td>Kann Nachfrage und Druck senken; bereitet auf Störungen vor</td><td>Für manche Betriebe und Haushalte schwieriger; Ergebnis hängt von der Umsetzung ab</td></tr><tr><td>Haushalte oder Betriebe unterstützen</td><td>Leistbarkeit und Fortführung von Betrieben</td><td>Kann unmittelbare Not oder Schließungen verhindern</td><td>Öffentliche Kosten; breite Preisstützen können Sparanreize verringern</td></tr><tr><td>Erneuerbare, Netze und Effizienz ausbauen</td><td>Langfristige Abhängigkeit und Emissionen</td><td>Kann Quellen breiter verteilen und fossile Nutzung senken</td><td>Investitionen, Genehmigungen, Materialien und Zeit nötig</td></tr></tbody></table><table><caption>Füllt für jede Antwort eine Zeile aus</caption><thead><tr><th>Wer entscheidet?</th><th>Wer kann profitieren?</th><th>Wer trägt vielleicht Kosten?</th><th>Beleg oder offene Frage</th></tr></thead><tbody><tr><td>EU-Institutionen</td><td></td><td></td><td></td></tr><tr><td>Regierung eines Landes</td><td></td><td></td><td></td></tr><tr><td>Energieunternehmen / Netzbetreiber</td><td></td><td></td><td></td></tr><tr><td>Haushalte / Beschäftigte</td><td></td><td></td><td></td></tr></tbody></table><p><strong>Prüfliste:</strong> Jede Tatsache datieren; Wirkungsweg benennen; Liefermenge vom Preis unterscheiden; Entscheidende nennen; alternative Ursache oder Puffer markieren; EU-Zahlen nicht als Einzelerfahrung ausgeben.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Eurostat, Shedding light on energy in the EU, Ausgabe 2023",
+          "url": "https://ec.europa.eu/eurostat/web/interactive-publications/energy-2023",
+          "date": "2023; Daten vor allem für 2021; geprüft am 6. Oktober 2026",
+          "use": "EU-Importabhängigkeit 2021 und russischer Anteil an Erdgasimporten."
+        },
+        {
+          "title": "Eurostat, Shedding light on energy in Europe, Ausgabe 2024",
+          "url": "https://ec.europa.eu/eurostat/web/interactive-publications/energy-2024",
+          "date": "2024; Daten für 2022; geprüft am 6. Oktober 2026",
+          "use": "Energieimportabhängigkeit 2022 und Kontext der Energiearten."
+        },
+        {
+          "title": "Europäische Kommission, EU energy security and gas supplies",
+          "url": "https://energy.ec.europa.eu/news/focus-eu-energy-security-and-gas-supplies-2024-02-15_en",
+          "date": "15. Februar 2024; geprüft am 6. Oktober 2026",
+          "use": "Russischer Gasimportanteil 45 % im Jahr 2021 und 15 % im Jahr 2023; Rückblick der Kommission."
+        },
+        {
+          "title": "Europäische Kommission, Gas- und Strommärkte im 4. Quartal 2022",
+          "url": "https://energy.ec.europa.eu/news/quarterly-reports-confirm-stabilising-gas-and-electricity-markets-end-2022-2023-05-17_en",
+          "date": "17. Mai 2023; berichtet über Q4 2022",
+          "use": "Vierteljährliche Pipeline- und LNG-Flüsse; keine Messung von Einzelhandelspreisen."
+        },
+        {
+          "title": "Rat der EU, Verordnung zur Senkung der Gasnachfrage",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/08/05/council-adopts-regulation-on-reducing-gas-demand-by-15-this-winter/",
+          "date": "5. August 2022; geprüft am 6. Oktober 2026",
+          "use": "Freiwilliges Einsparziel von 15 % und Bedingungen."
+        },
+        {
+          "title": "Europäische Kommission, Erholung der EU-Gas- und Strommärkte im 4. Quartal 2023",
+          "url": "https://energy.ec.europa.eu/news/quarterly-reports-confirm-significant-recovery-eu-gas-and-electricity-markets-4th-quarter-2023-2024-06-06_en",
+          "date": "6. Juni 2024; berichtet über Q4 2023",
+          "use": "Spätere Marktentwicklung; Zusatzmaterial, keine aktuelle Lagebehauptung."
+        },
+        {
+          "title": "European Commission, Energy prices and costs in Europe",
+          "url": "https://energy.ec.europa.eu/data-and-analysis/energy-prices-and-costs-europe_en",
+          "date": "2024 report page; checked 6 October 2026",
+          "use": "Context on wholesale prices rising before the 2022 invasion and falling in 2023; not a claim that one cause explains all movements."
+        },
+        {
+          "title": "European Commission, Electricity market design",
+          "url": "https://energy.ec.europa.eu/topics/markets-and-consumers/electricity-market-design_en",
+          "date": "Undated; checked 6 October 2026",
+          "use": "EU wholesale marginal pricing and pay-as-clear explanation for the classroom model."
+        },
+        {
+          "title": "European Council, conclusions of 24 February 2022",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2022/02/24/european-council-conclusions-24-february-2022/",
+          "date": "24 February 2022; checked 6 October 2026",
+          "use": "Contemporaneous official record of Russia’s military aggression against Ukraine."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutscher Weg:</strong> Bezieht Österreich in den Vergleich ein. Unterscheidet EU-Zahlen von österreichischen Importwegen und Erfahrungen einzelner Haushalte. <strong>Lesebrücke auf Englisch:</strong> <em>Teacher-written, original text; not a quotation:</em> “Europe bought a large share of its energy from other countries. In 2021, Russia supplied 44% of EU natural-gas imports. Prices had already risen before the invasion in 2022. Later, lower pipeline deliveries increased concern about supply. These facts show a sequence, but they do not prove that one event caused every price change.” Beantworte auf Deutsch: (1) Was sagt die Zahl 44 %? (2) Was war schon vor Februar 2022 passiert? (3) Was beweist die Zeitleiste nicht?</p><p><strong>Wortliste:</strong> import dependency = Importabhängigkeit; wholesale = Großhandel; marginal plant = Grenzkraftwerk, das zuletzt benötigt wird; LNG = Flüssigerdgas.</p>",
+      "submission": "Einzelarbeit, endgültig 150–200 Wörter und die ausgefüllte Modell-Tabelle; entwirf die Erklärung in der Stunde und überarbeite sie als Hausübung. Erkläre eine Kette von der Versorgung zu einer politischen oder sozialen Folge. Nutze mindestens zwei datierte Karten, trenne Tatsache und Deutung und nenne eine Grenze der Belege. Abgabe auf Papier oder über die Aufgabenplattform. Erfolg: richtige Reihenfolge, erklärter Wirkungsweg, richtige Rechnung und begrenzte Aussage.",
+      "exit": [
+        "Warum ist es irreführend zu sagen, der Angriff von 2022 erkläre jede Erhöhung der Energiepreise?",
+        "Nenne eine politische Maßnahme und eine Gruppe, die davon profitieren oder Kosten tragen könnte."
+      ],
+      "homework": "Schließe deine Erklärung in höchstens 25 Minuten ab und prüfe die Modellrechnung. Nutze mindestens zwei datierte Karten. Ergänze eine Frage, die du stellen würdest, bevor du sagst, eine Maßnahme habe einen Preis verursacht.",
+      "teacher": {
+        "preparation": [
+          "Falltext, Zeitleistenkarten, Modell-Tabelle, Antwortkarten und Matrix ausdrucken.",
+          "Für das Modell: Bedarf = 3 Einheiten angeben und klarstellen, dass die Einheiten erfundene Blöcke sind.",
+          "Karten unterscheiden bewusst Jahres- und Quartalsdaten sowie EU-Daten von Ländererfahrungen."
+        ],
+        "facilitation": [
+          "Ereignisse erst auf der Zeitleiste einordnen, bevor Zusammenhänge formuliert werden.",
+          "Fragen, ob eine Aussage Versorgung, Großhandelspreis, Haushaltsrechnung oder öffentliche Ausgaben betrifft.",
+          "Beim Maßnahmenvergleich Vorteile und Kosten prüfen; nicht behaupten, alle Zielkonflikte seien gleich groß."
+        ],
+        "answers": [
+          "Reihenfolge: 2021 Nachfrageanstieg/angespannter Markt und 44 % russischer Anteil; 24. Februar 2022 Angriff; Energieimportquote 2022 62,5 %; Maßnahme zur Nachfragesenkung im August; Pipelineanteil im Q4 etwa 15 %; Kommissionsangabe von 15 % für das Jahr 2023. Jahres- und Quartalsgrößen müssen benannt werden.",
+          "Merit-Order-Modell: Ausgangswert: Wind 1, Kernenergie 1, Gas 1; Grenzkraftwerk Gas, Preis 60 €/MWh. Bei Gaspreis 100 bleiben Wind 1, Kernenergie 1, Gas 1 eingesetzt; Modellpreis 100 €/MWh. Im vereinfachten Modell werden alle drei Einheiten zu diesem Preis verkauft. Grenzen: echte Gebote und Verträge sind verschieden; Bedarf, Netze, Marktverbindungen, Zeit und Regeln sind wichtig; Angebotspreis ist nicht gleich Haushaltsrechnung.",
+          "Eine mögliche Kette: weniger Pipelinegas bei Nachfrage und geopolitischer Unsicherheit → Sorge um knappe Versorgung / höhere Gaspreise (Marktdaten nötig) → möglicherweise höhere Großhandelspreise für Strom, wenn Gas das Grenzkraftwerk ist (Modell erklärt Wirkungsweg, nicht historischen Preis) → andere Lieferanten, Einsparung oder Unterstützung. Das Modell beweist keine genaue historische Weitergabe.",
+          "Antworten zu Maßnahmen sind offen, wenn Vorteil, Kosten und Belegfrage schlüssig sind. LNG kann kurzfristig Pipelinegas ersetzen; zugleich entstehen Infrastruktur- und Konkurrenzkosten. Folgen unterscheiden sich nach Ort und Zeit."
+        ],
+        "misconceptions": [
+          "Der umfassende Angriff begann im Februar 2022; Energiepreise stiegen schon 2021.",
+          "Das EU-Ziel von 15 % bedeutete nicht, dass jeder Haushalt garantiert 15 % weniger verbrauchte.",
+          "Großhandelspreis ist nicht gleich Haushaltsrechnung.",
+          "EU-Importanteile gelten nicht für jedes einzelne Mitgliedsland.",
+          "Die erfundene Rechnung zeigt einen Wirkungsweg, keine historischen Preise."
+        ],
+        "differentiation": [
+          "Zeitleiste mit bereits geordneten Daten anbieten; dann Wirkungswege ergänzen lassen.",
+          "Fortgeschrittene vergleichen Jahres- und Quartals-Bezugsgrößen oder erklären verzögerte Weitergabe durch Verträge.",
+          "Rechenschritte vorgeben: günstigste Einheiten einsetzen, Gesamtmenge zählen, letztes Kraftwerk bestimmen."
+        ],
+        "extension": "Untersucht, warum Strompreise sich mit Gaspreisen bewegen können, obwohl nicht aller Strom aus Gas stammt. Nutzt die Erklärung der Kommission und unterscheidet Wirkungsweg von einer Aussage über eine konkrete Stunde."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "en": {
+      "title": "Inflation: what does the average measure?",
+      "question": "Why can one inflation rate describe a country and still not describe every household?",
+      "intro": "Inflation is a change in a price index over time. It is not the same as the price level, nor a claim that every price rose by the same amount. We use Austrian and EU statistics to practise reading rates, weights, and distributional limits.",
+      "goals": [
+        "Calculate a percentage change and distinguish inflation from the price level.",
+        "Explain how a weighted basket creates an average that differs from individual experience.",
+        "Read an Austrian 2022 inflation statistic accurately and identify what it cannot show."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Price or rate?",
+          "task": "Read ‘A number about many prices’. Complete ‘Quick check: level, change, or inflation’ with a partner. Give one worked calculation."
+        },
+        {
+          "minutes": 15,
+          "title": "Build an index",
+          "task": "Use the fictional ‘Three-item basket’ table. Calculate basket cost in both periods, the percentage change, and each item’s contribution. Show your arithmetic."
+        },
+        {
+          "minutes": 15,
+          "title": "Weighting and lived differences",
+          "task": "Compare the ‘Two fictional households’ baskets with the headline basket. Complete the ‘What the average hides’ table; do not use anyone’s real household budget."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Read Austria’s official number",
+          "task": "Use ‘Austria evidence card and source comparison’. Identify measure, period, number, unit, and whether it is an annual average or a December year-on-year rate. Write a careful headline."
+        },
+        {
+          "minutes": 15,
+          "title": "Policy and distribution",
+          "task": "Use ‘Response choices’ to compare temporary support, indexation, and targeted transfers. For each, state who may benefit, one limitation, and what evidence would guide the choice."
+        },
+        {
+          "minutes": 15,
+          "title": "Individual explanation",
+          "task": "Write 180–250 words explaining why the official Austrian inflation rate and a person’s experience can differ. Include the supplied statistic, a calculation or basket example, and one limitation."
+        },
+        {
+          "minutes": 5,
+          "title": "Exit",
+          "task": "Answer both questions individually."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: A number about many prices",
+          "html": "<h3>A number about many prices</h3><p>Inflation is the rate at which a broad price index changes over time. If an index rises from 100 to 108.6 over a year, the increase is 8.6%. The price level is the index itself; the inflation rate is its percentage change over a stated period. If inflation falls from 8% to 3%, prices are still rising, but more slowly. A falling inflation rate is not automatically a fall in prices.</p><p>Statistical offices build consumer price indices by following prices for a basket of goods and services. The basket represents average spending patterns, and categories receive weights. A price change for an item with a larger weight can matter more to the overall index than the same percentage change for a rarely purchased item. Weights are updated to reflect spending patterns. The index is useful for tracking broad changes, comparing time periods, and informing policy; it is not a receipt for every household.</p><p>Households buy different things and face different prices. One household may heat with gas; another may use district heating. Rent, commuting, food choices, household size, contracts, and the timing of purchases vary. A student’s personal experience may be real but cannot by itself establish the national inflation rate. Conversely, an average index does not make a household’s experience unreal. The measures answer different questions.</p><p>For Austria, Statistik Austria reported an average annual inflation rate of 8.6% in 2022, compared with 2.8% in 2021, using the Austrian Consumer Price Index (VPI). Eurostat’s harmonised measure gave Austria a 10.5% year-on-year rate in December 2022. These numbers differ because one is the average change across the calendar year under the national index, while the other compares December 2022 with December 2021 using the harmonised index. They are not competing answers to exactly the same question.</p><p>Inflation also has distributional effects. A rise in essential prices can use a larger share of a lower-income household’s budget. Wages, pensions, savings, contracts, and public benefits may adjust at different times and by different rules. A policy that lowers a price for everyone can be quick but expensive; targeted support may focus resources but can miss people or arrive later. Statistics describe patterns; choices about what to do involve evidence and values.</p>"
+        },
+        {
+          "title": "Quick check: level, change, or inflation",
+          "html": "<table><caption>Use the formula: percentage change = (new value − old value) ÷ old value × 100.</caption><thead><tr><th>Example</th><th>Question</th><th>Your answer</th></tr></thead><tbody><tr><td>An index moves from 100 to 108.6 over one year.</td><td>What is the percentage change?</td><td></td></tr><tr><td>An index is 108.6 now; last year it was 100.</td><td>Is 108.6 the inflation rate or the index level?</td><td></td></tr><tr><td>Annual inflation moves from 8% to 3%.</td><td>Did the average price level fall?</td><td></td></tr><tr><td>A price moves from €2.00 to €2.20.</td><td>What is its percentage increase?</td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Three-item basket (fictional teaching data; not Austrian CPI data)",
+          "html": "<table><caption>Fixed quantities make the arithmetic visible. Basket weights here are deliberately simple and fictional.</caption><thead><tr><th>Item</th><th>Quantity</th><th>Price, period A</th><th>Cost A</th><th>Price, period B</th><th>Cost B</th><th>Weight in A basket</th></tr></thead><tbody><tr><td>Bread</td><td>10 loaves</td><td>€2.00</td><td></td><td>€2.20</td><td></td><td>25%</td></tr><tr><td>Bus tickets</td><td>20 tickets</td><td>€1.00</td><td></td><td>€1.05</td><td></td><td>25%</td></tr><tr><td>Jackets</td><td>1 jacket</td><td>€40.00</td><td></td><td>€44.00</td><td></td><td>50%</td></tr><tr><td>Total</td><td></td><td></td><td></td><td></td><td></td><td>100%</td></tr></tbody></table><p>Calculate total cost in A and B, then the percentage change. Separately calculate each item’s price change. Explain why an average across these item changes must account for weights rather than simply treating each item as equally important.</p>"
+        },
+        {
+          "title": "Two fictional households and what the average hides",
+          "html": "<p><strong>All amounts and patterns below are fictional classroom data.</strong> They are not typical Austrian households.</p><table><caption>Illustrative monthly spending weights</caption><thead><tr><th>Category</th><th>Headline basket</th><th>Household Pine</th><th>Household River</th></tr></thead><tbody><tr><td>Housing and energy</td><td>30%</td><td>45%</td><td>20%</td></tr><tr><td>Food</td><td>20%</td><td>25%</td><td>15%</td></tr><tr><td>Transport</td><td>15%</td><td>10%</td><td>25%</td></tr><tr><td>Other goods and services</td><td>35%</td><td>20%</td><td>40%</td></tr></tbody></table><p>Suppose, for a fictional exercise only, that housing/energy prices rise 12%, food 10%, transport 4%, and other prices 3%. Multiply each rate by the basket weight and add. Compare results for all three baskets. These are not official inflation estimates; the categories and price changes are invented.</p><table><caption>Fictional calculated basket rates; not Austrian data. Each block represents about one percentage point.</caption><thead><tr><th>Basket</th><th>Rate</th><th>Visual guide</th></tr></thead><tbody><tr><td>Headline</td><td>7.25%</td><td>███████</td></tr><tr><td>Household Pine</td><td>8.9%</td><td>█████████</td></tr><tr><td>Household River</td><td>6.1%</td><td>██████</td></tr></tbody></table><table><caption>Fictional calculated basket rates; not Austrian data. Each block represents about one percentage point.</caption><thead><tr><th>Basket</th><th>Rate</th><th>Visual guide</th></tr></thead><tbody><tr><td>Headline</td><td>7.25%</td><td>███████</td></tr><tr><td>Household Pine</td><td>8.9%</td><td>█████████</td></tr><tr><td>Household River</td><td>6.1%</td><td>██████</td></tr></tbody></table><table><caption>What the average hides</caption><thead><tr><th>Question</th><th>Notes</th></tr></thead><tbody><tr><td>Which basket shows the highest calculated inflation? Why?</td><td></td></tr><tr><td>Could two households with the same basket still experience different costs? How?</td><td></td></tr><tr><td>What important information does the table omit?</td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Austria evidence card and source comparison",
+          "html": "<table><caption>Historical official figures; do not describe these as current inflation.</caption><thead><tr><th>Measure</th><th>Figure</th><th>Period / comparison</th><th>What it answers</th></tr></thead><tbody><tr><td>Austria VPI (Statistik Austria)</td><td>8.6%</td><td>Average of 2022 compared with average of 2021; annual average inflation</td><td>How much the Austrian national consumer price index rose on average across the calendar year.</td></tr><tr><td>Austria HICP (Eurostat)</td><td>10.5%</td><td>December 2022 compared with December 2021; year-on-year rate</td><td>How much the harmonised EU index rose over that twelve-month period.</td></tr><tr><td>EU HICP</td><td>10.4%</td><td>December 2022 compared with December 2021; year-on-year rate</td><td>EU-wide harmonised comparison for that month.</td></tr></tbody></table><p><strong>Source comparison template:</strong> Who produced the number? Which index? What dates are compared? Is it a yearly average or a point-to-point rate? What can this figure tell us? What can it not tell us about a particular household?</p>"
+        },
+        {
+          "title": "Response choices",
+          "html": "<table><caption>Evaluate the instrument, not the political label.</caption><thead><tr><th>Policy option</th><th>Possible benefit</th><th>Question or limitation</th></tr></thead><tbody><tr><td>Temporary broad price support</td><td>Can lower bills quickly for many users.</td><td>How is it paid for? Does it also subsidise high consumption or higher-income users?</td></tr><tr><td>Targeted cash transfer</td><td>Can direct help to people with fewer resources.</td><td>Who qualifies? Could eligible people be missed or receive help late?</td></tr><tr><td>Wage or benefit indexation</td><td>Can help incomes catch up with price changes.</td><td>Which index and time lag? How do different workers or contracts compare?</td></tr><tr><td>Energy efficiency investment</td><td>Can reduce future energy use and exposure.</td><td>Who can afford upgrades? How quickly do savings arrive?</td></tr></tbody></table><p>For each option, name likely beneficiaries, possible costs, the decision-maker, and one piece of evidence needed. Policy evaluation includes empirical questions and value choices.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Statistik Austria, Inflation in 2022 rises to 8.6%",
+          "url": "https://www.statistik.at/fileadmin/announcement/2023/01/20230116VPIJahr2022.pdf",
+          "date": "16 January 2023; reports 2022; checked 6 October 2026",
+          "use": "Austrian VPI annual-average inflation 8.6% in 2022 and 2.8% in 2021."
+        },
+        {
+          "title": "Eurostat, Annual inflation down to 9.2% in the euro area, December 2022",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18012023-ap",
+          "date": "18 January 2023; reports December 2022; checked 6 October 2026",
+          "use": "Austria HICP 10.5% and EU HICP 10.4% in December 2022 year-on-year; source comparison."
+        },
+        {
+          "title": "Eurostat, HICP methodological information",
+          "url": "https://ec.europa.eu/eurostat/web/hicp/information-data",
+          "date": "Undated; checked 6 October 2026",
+          "use": "Background on the harmonised consumer price index; extension and teacher reference."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway:</strong> Explain the Austrian connection by comparing the Statistik Austria VPI annual average with the Eurostat HICP December rate. <strong>Original-reading extension:</strong> In the Statistik Austria 2022 annual release, read the opening paragraph under “Inflation im Jahr 2022 auf 8,6 % gestiegen” (the first paragraph of the release). Identify its index, period, figure, and comparator; then compare those with Eurostat’s December HICP table.</p><p><strong>Key terms:</strong> price level = level of an index; inflation rate = percentage change over a stated period; weight = importance assigned to a category in the basket; HICP = EU-harmonised consumer price index; VPI = Austrian Consumer Price Index.</p>",
+      "submission": "Individual explanation, final 180–250 words; draft in class and finish or revise as homework. Explain why Austria’s official 2022 rate and one person’s experience can differ. Include the 8.6% figure with correct measure and period, one calculation or basket example, and one limitation. Submit on paper or through the teacher’s assignment platform. Success: correct distinction between index and rate; weights explained; no claim that everyone experienced the average.",
+      "exit": [
+        "If inflation drops from 8% to 3%, what happens to prices in general?",
+        "Why do the Austrian 2022 figures 8.6% and 10.5% differ without necessarily contradicting each other?"
+      ],
+      "homework": "Spend up to 20 minutes completing your individual explanation from the class draft. Check the official measure and period, and use one correctly weighted fictional basket example; do not use real family spending.",
+      "teacher": {
+        "preparation": [
+          "Print the reader, arithmetic check, fictional tables, Austria evidence card, and response cards.",
+          "Emphasise historical data: 8.6% is the 2022 annual average VPI; 10.5% is December 2022 year-on-year HICP.",
+          "No student should be asked to share household budget details."
+        ],
+        "facilitation": [
+          "Have students state the period before interpreting any percentage.",
+          "Distinguish percentage points from percent if students compare rates.",
+          "When discussing policy, separate empirical claims about effects from value judgements about fairness or priorities."
+        ],
+        "answers": [
+          "Quick check: 8.6%; 108.6 is the index level, with 8.6% change; prices still rose at a slower rate when inflation fell 8%→3%; €2.00→€2.20 is a 10% increase.",
+          "Fictional basket total: A = 10×€2 + 20×€1 + 1×€40 = €80. B = 10×€2.20 + 20×€1.05 + 1×€44 = €87. Percentage change = (€87−€80) ÷ €80 × 100 = 8.75%. Item price changes: bread 10%, bus tickets 5%, jacket 10%. Weighted contributions are 25%×10%=2.5 percentage points; 25%×5%=1.25 points; 50%×10%=5 points. Sum = 8.75%, matching the fixed-quantity basket calculation.",
+          "Fictional category-weighted household exercise: headline = 0.30×12 + 0.20×10 + 0.15×4 + 0.35×3 = 7.25%; Pine = 5.4 + 2.5 + 0.4 + 0.6 = 8.9%; River = 2.4 + 1.5 + 1.0 + 1.2 = 6.1%. Households differ because category weights differ. All figures are fictional.",
+          "Statistik Austria VPI: annual-average 2022 vs annual-average 2021, 8.6%; 2021 was 2.8%. Eurostat HICP: Austria December 2022 vs December 2021, 10.5%; EU 10.4%. Different index construction and comparison period mean the figures answer different questions.",
+          "A reasonable policy answer identifies target, timing, payer, possible behavioural effects, implementation, and evidence. No single option is automatically fair or effective in every context."
+        ],
+        "misconceptions": [
+          "Inflation falling does not mean prices fell; it means the rate of increase slowed.",
+          "An index value is not itself the inflation rate.",
+          "An average index does not describe every household, but it remains useful for a defined question.",
+          "8.6% and 10.5% are not conflicting readings of the same measure and period.",
+          "Basket weights should correspond to spending shares; do not average item rates without weights."
+        ],
+        "differentiation": [
+          "Provide the percentage-change formula and an example with each step filled in.",
+          "Advanced students explain how changing weights, substitution, housing treatment, and timing affect comparisons, using the methodological source.",
+          "Let students annotate a completed example before calculating independently; assess interpretation as well as arithmetic."
+        ],
+        "extension": "Read Statistik Austria’s detailed 2022 release and identify the categories contributing most to the annual change. Compare contribution to inflation with percentage price change; they are related but not identical."
+      }
+    },
+    "de": {
+      "title": "Inflation: Was misst der Durchschnitt?",
+      "question": "Warum kann eine Inflationsrate ein Land beschreiben und trotzdem nicht jeden Haushalt?",
+      "intro": "Inflation beschreibt einen breiten Anstieg der Preise über die Zeit, gemessen mit einem Preisindex. Die Preise müssen dafür nicht in jedem Monat oder bei jedem Produkt steigen. Die Inflationsrate ist die prozentuelle Veränderung des Index über einen genannten Zeitraum; sie ist nicht gleich dem Preisniveau. Wir üben mit österreichischen und EU-Zahlen, Raten, Gewichten und Grenzen für Aussagen über einzelne Haushalte.",
+      "goals": [
+        "Eine prozentuelle Veränderung berechnen und Inflation vom Preisniveau unterscheiden.",
+        "Erklären, wie ein gewichteter Warenkorb einen Durchschnitt ergibt, der von persönlicher Erfahrung abweichen kann.",
+        "Eine österreichische Inflationszahl für 2022 korrekt lesen und ihre Grenzen nennen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Preis oder Rate?",
+          "task": "Lies „Eine Zahl für viele Preise“. Füllt zu zweit „Kurzer Check: Niveau, Änderung oder Inflation“ aus. Zeigt eine Rechnung."
+        },
+        {
+          "minutes": 15,
+          "title": "Einen Index erstellen",
+          "task": "Nutzt die erfundene Tabelle „Warenkorb mit drei Produkten“. Berechnet Kosten in beiden Zeiträumen, die prozentuelle Änderung und den Beitrag jedes Produkts. Zeigt eure Rechnung."
+        },
+        {
+          "minutes": 15,
+          "title": "Gewichtung und unterschiedliche Erfahrung",
+          "task": "Vergleicht die „Zwei erfundenen Haushalte“ mit dem allgemeinen Warenkorb. Füllt „Was der Durchschnitt nicht zeigt“ aus. Nutzt keine echten Haushaltsbudgets."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Österreichische Zahl lesen",
+          "task": "Nutzt „Österreich-Belegkarte und Quellenvergleich“. Nennt Maß, Zeitraum, Zahl, Einheit und ob es sich um einen Jahresdurchschnitt oder eine Dezember-Jahresrate handelt. Formuliert eine genaue Überschrift."
+        },
+        {
+          "minutes": 15,
+          "title": "Politik und Verteilung",
+          "task": "Vergleicht mit „Mögliche Maßnahmen“ vorübergehende Unterstützung, Anpassung von Einkommen und gezielte Zahlungen. Nennt für jede Maßnahme mögliche Gewinner:innen, eine Grenze und nötige Belege."
+        },
+        {
+          "minutes": 15,
+          "title": "Einzelerklärung",
+          "task": "Schreibe 180–250 Wörter: Warum können amtliche österreichische Rate und persönliche Erfahrung abweichen? Nenne die gelieferte Statistik, ein Rechen- oder Warenkorbbeispiel und eine Grenze."
+        },
+        {
+          "minutes": 5,
+          "title": "Abschluss",
+          "task": "Beantworte beide Fragen allein."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Eine Zahl für viele Preise",
+          "html": "<h3>Eine Zahl für viele Preise</h3><p>Inflation ist die Rate, mit der sich ein breiter Preisindex im Lauf der Zeit ändert. Steigt ein Index innerhalb eines Jahres von 100 auf 108,6, beträgt die Erhöhung 8,6 %. Das Preisniveau ist der Indexwert; die Inflationsrate ist seine prozentuelle Veränderung über einen genannten Zeitraum. Fällt die Inflation von 8 % auf 3 %, steigen die Preise weiterhin, aber langsamer. Eine sinkende Inflationsrate bedeutet nicht automatisch sinkende Preise.</p><p>Statistikämter erstellen Verbraucherpreisindizes, indem sie die Preise eines Warenkorbs aus Gütern und Dienstleistungen beobachten. Der Korb soll durchschnittliche Ausgaben abbilden; Kategorien bekommen Gewichte. Eine Preisänderung bei einem stärker gewichteten Produkt kann den Gesamtindex stärker beeinflussen als dieselbe prozentuelle Änderung bei einem selten gekauften Produkt. Die Gewichte werden angepasst, wenn sich Ausgabenmuster ändern. Der Index hilft, allgemeine Veränderungen zu verfolgen, Zeiträume zu vergleichen und Politik zu informieren. Er ist aber keine Rechnung für jeden Haushalt.</p><p>Haushalte kaufen unterschiedliche Dinge und zahlen unterschiedliche Preise. Ein Haushalt heizt vielleicht mit Gas, ein anderer mit Fernwärme. Miete, Arbeitsweg, Essenswahl, Haushaltsgröße, Verträge und Kaufzeitpunkt sind verschieden. Die persönliche Erfahrung eines Jugendlichen kann echt sein, zeigt aber allein nicht die Inflationsrate eines Landes. Umgekehrt macht ein Durchschnitt die Erfahrung eines Haushalts nicht unwahr. Die Maße beantworten unterschiedliche Fragen.</p><p>Für Österreich meldete Statistik Austria 2022 eine durchschnittliche Jahresinflation von 8,6 %, gegenüber 2,8 % im Jahr 2021, gemessen am österreichischen Verbraucherpreisindex (VPI). Eurostats harmonisiertes Maß ergab für Österreich im Dezember 2022 eine Jahresrate von 10,5 %. Die Zahlen unterscheiden sich, weil die erste den Durchschnitt des Kalenderjahres nach dem nationalen Index mit dem Vorjahresdurchschnitt vergleicht, während die zweite Dezember 2022 mit Dezember 2021 nach dem harmonisierten Index vergleicht. Sie sind keine widersprüchlichen Antworten auf genau dieselbe Frage.</p><p>Inflation hat auch ungleiche Folgen. Wenn notwendige Produkte teurer werden, kann das einen größeren Anteil des Budgets von Haushalten mit geringem Einkommen beanspruchen. Löhne, Pensionen, Ersparnisse, Verträge und öffentliche Leistungen werden zu unterschiedlichen Zeiten und nach unterschiedlichen Regeln angepasst. Eine Maßnahme, die einen Preis für alle senkt, kann schnell wirken, ist aber teuer. Gezielte Unterstützung kann Mittel konzentrieren, aber Menschen übersehen oder später erreichen. Statistiken beschreiben Muster; Entscheidungen darüber brauchen Belege und Werturteile.</p>"
+        },
+        {
+          "title": "Kurzer Check: Niveau, Änderung oder Inflation",
+          "html": "<table><caption>Formel: prozentuelle Änderung = (neuer Wert − alter Wert) ÷ alter Wert × 100.</caption><thead><tr><th>Beispiel</th><th>Frage</th><th>Deine Antwort</th></tr></thead><tbody><tr><td>Ein Index steigt innerhalb eines Jahres von 100 auf 108,6.</td><td>Wie hoch ist die prozentuelle Änderung?</td><td></td></tr><tr><td>Der Index liegt jetzt bei 108,6 und im Vorjahr bei 100.</td><td>Ist 108,6 die Inflationsrate oder der Indexstand?</td><td></td></tr><tr><td>Die Jahresinflation fällt von 8 % auf 3 %.</td><td>Ist das allgemeine Preisniveau gefallen?</td><td></td></tr><tr><td>Ein Preis steigt von 2,00 € auf 2,20 €.</td><td>Um wie viel Prozent ist er gestiegen?</td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Warenkorb mit drei Produkten (erfundene Übungsdaten; keine österreichischen VPI-Daten)",
+          "html": "<table><caption>Feste Mengen machen die Rechnung sichtbar. Die Warenkorbgewichte sind bewusst einfach und erfunden.</caption><thead><tr><th>Produkt</th><th>Menge</th><th>Preis Zeitraum A</th><th>Kosten A</th><th>Preis Zeitraum B</th><th>Kosten B</th><th>Gewicht im Korb A</th></tr></thead><tbody><tr><td>Brot</td><td>10 Laibe</td><td>2,00 €</td><td></td><td>2,20 €</td><td></td><td>25 %</td></tr><tr><td>Fahrkarten</td><td>20 Karten</td><td>1,00 €</td><td></td><td>1,05 €</td><td></td><td>25 %</td></tr><tr><td>Jacke</td><td>1 Jacke</td><td>40,00 €</td><td></td><td>44,00 €</td><td></td><td>50 %</td></tr><tr><td>Gesamt</td><td></td><td></td><td></td><td></td><td></td><td>100 %</td></tr></tbody></table><p>Berechnet Gesamtkosten A und B und danach die prozentuelle Änderung. Berechnet auch die Preisänderung jedes Produkts. Erklärt, warum man Preise mit Gewichten versehen muss, statt jedes Produkt gleich zu behandeln.</p>"
+        },
+        {
+          "title": "Zwei erfundene Haushalte und was der Durchschnitt nicht zeigt",
+          "html": "<p><strong>Alle Beträge und Muster sind erfundene Unterrichtsdaten.</strong> Sie stellen keine typischen österreichischen Haushalte dar.</p><table><caption>Beispielhafte monatliche Ausgabengewichte</caption><thead><tr><th>Bereich</th><th>Allgemeiner Korb</th><th>Haushalt Fichte</th><th>Haushalt Fluss</th></tr></thead><tbody><tr><td>Wohnen und Energie</td><td>30 %</td><td>45 %</td><td>20 %</td></tr><tr><td>Lebensmittel</td><td>20 %</td><td>25 %</td><td>15 %</td></tr><tr><td>Verkehr</td><td>15 %</td><td>10 %</td><td>25 %</td></tr><tr><td>Sonstige Waren und Dienste</td><td>35 %</td><td>20 %</td><td>40 %</td></tr></tbody></table><p>Für diese erfundene Übung steigen Wohn-/Energiepreise um 12 %, Lebensmittel um 10 %, Verkehr um 4 % und sonstige Preise um 3 %. Multipliziert jede Rate mit dem Warenkorbgewicht und addiert die Ergebnisse. Vergleicht alle drei Körbe. Das sind keine amtlichen Inflationswerte; Kategorien und Preisänderungen sind erfunden.</p><table><caption>Errechnete erfundene Inflationsraten; keine österreichischen Daten. Jeder Block entspricht ungefähr einem Prozentpunkt.</caption><thead><tr><th>Warenkorb</th><th>Rate</th><th>Anschauliche Balken</th></tr></thead><tbody><tr><td>Allgemein</td><td>7,25 %</td><td>███████</td></tr><tr><td>Haushalt Fichte</td><td>8,9 %</td><td>█████████</td></tr><tr><td>Haushalt Fluss</td><td>6,1 %</td><td>██████</td></tr></tbody></table><table><caption>Was der Durchschnitt nicht zeigt</caption><thead><tr><th>Frage</th><th>Notizen</th></tr></thead><tbody><tr><td>Welcher Korb ergibt die höchste errechnete Inflation? Warum?</td><td></td></tr><tr><td>Können zwei Haushalte mit gleichem Warenkorb verschiedene Kosten erleben? Wie?</td><td></td></tr><tr><td>Welche wichtigen Informationen fehlen in der Tabelle?</td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Österreich-Belegkarte und Quellenvergleich",
+          "html": "<table><caption>Historische amtliche Zahlen; nicht als aktuelle Inflation bezeichnen.</caption><thead><tr><th>Maß</th><th>Zahl</th><th>Zeitraum / Vergleich</th><th>Welche Frage beantwortet es?</th></tr></thead><tbody><tr><td>Österreichischer VPI (Statistik Austria)</td><td>8,6 %</td><td>Durchschnitt 2022 im Vergleich zum Durchschnitt 2021; Jahresdurchschnittsinflation</td><td>Wie stark der nationale Verbraucherpreisindex im Kalenderjahr im Durchschnitt stieg.</td></tr><tr><td>Österreichischer HVPI (Eurostat)</td><td>10,5 %</td><td>Dezember 2022 im Vergleich zu Dezember 2021; Jahresrate</td><td>Wie stark der harmonisierte EU-Index in diesem Zwölfmonatszeitraum stieg.</td></tr><tr><td>EU-HVPI</td><td>10,4 %</td><td>Dezember 2022 im Vergleich zu Dezember 2021; Jahresrate</td><td>EU-weiter harmonisierter Vergleich für diesen Monat.</td></tr></tbody></table><p><strong>Quellenvergleich:</strong> Wer hat die Zahl erstellt? Welcher Index? Welche Zeitpunkte werden verglichen? Jahresdurchschnitt oder Vergleich Dezember zu Dezember? Was zeigt die Zahl? Was zeigt sie nicht über einen bestimmten Haushalt?</p>"
+        },
+        {
+          "title": "Mögliche Maßnahmen",
+          "html": "<table><caption>Prüft die Maßnahme, nicht das politische Etikett.</caption><thead><tr><th>Möglichkeit</th><th>Möglicher Vorteil</th><th>Frage oder Grenze</th></tr></thead><tbody><tr><td>Vorübergehende breite Preisstütze</td><td>Kann Rechnungen für viele schnell senken.</td><td>Wer bezahlt sie? Unterstützt sie auch hohen Verbrauch oder höhere Einkommen?</td></tr><tr><td>Gezielte Geldleistung</td><td>Kann Menschen mit wenig Mitteln unterstützen.</td><td>Wer ist berechtigt? Können Menschen übersehen oder verspätet erreicht werden?</td></tr><tr><td>Anpassung von Lohn oder Leistung</td><td>Kann Einkommen an Preisänderungen anpassen.</td><td>Welcher Index und welche Verzögerung? Wie unterscheiden sich Verträge?</td></tr><tr><td>Investition in Energieeffizienz</td><td>Kann künftigen Energieverbrauch und Betroffenheit senken.</td><td>Wer kann Umbauten bezahlen? Wie schnell kommen Einsparungen?</td></tr></tbody></table><p>Nennt für jede Maßnahme mögliche Gewinner:innen, Kosten, entscheidende Stelle und einen benötigten Beleg. Eine Politikmaßnahme zu bewerten heißt, Tatsachenfragen und Wertentscheidungen zu trennen.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Statistik Austria, Inflation im Jahr 2022 auf 8,6 % gestiegen",
+          "url": "https://www.statistik.at/fileadmin/announcement/2023/01/20230116VPIJahr2022.pdf",
+          "date": "16. Jänner 2023; berichtet über 2022; geprüft am 6. Oktober 2026",
+          "use": "Österreichischer VPI: Jahresdurchschnitt 8,6 % im Jahr 2022 und 2,8 % im Jahr 2021."
+        },
+        {
+          "title": "Eurostat, Jährliche Inflation im Euroraum im Dezember 2022",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18012023-ap",
+          "date": "18. Jänner 2023; berichtet über Dezember 2022; geprüft am 6. Oktober 2026",
+          "use": "Österreichischer HVPI 10,5 % und EU-HVPI 10,4 % im Jahresvergleich Dezember 2022; Quellenvergleich."
+        },
+        {
+          "title": "Eurostat, Informationen zur HVPI-Methodik",
+          "url": "https://ec.europa.eu/eurostat/web/hicp/information-data",
+          "date": "Ohne Datum; geprüft am 6. Oktober 2026",
+          "use": "Hintergrund zum harmonisierten Verbraucherpreisindex; Zusatz und Lehrkraftreferenz."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutscher Weg:</strong> Erkläre den Österreich-Bezug, indem du den Jahresdurchschnitt des Statistik-Austria-VPI mit der Dezemberrate des Eurostat-HVPI vergleichst. <strong>Lesebrücke auf Englisch:</strong> <em>Teacher-written, original text; not a quotation:</em> “Inflation is a percentage change in an index over time. A basket gives different items different weights. The average rate can be useful, but households buy different things. Austria’s average inflation in 2022 was 8.6% in the national index. One household may have faced a different change.” Beantworte auf Deutsch: (1) Was misst eine Inflationsrate? (2) Wozu dienen Gewichte? (3) Warum kann ein Haushalt anders betroffen sein?</p><p><strong>Wortliste:</strong> price level = Preisniveau; inflation rate = Inflationsrate; weight = Gewicht; HICP = harmonisierter Verbraucherpreisindex; VPI = österreichischer Verbraucherpreisindex.</p>",
+      "submission": "Einzelerklärung, endgültig 180–250 Wörter. Beginne in der Stunde mit einem Entwurf und überarbeite ihn als Hausübung. Erkläre, warum amtliche österreichische Rate 2022 und persönliche Erfahrung abweichen können. Nenne die Zahl 8,6 % mit richtigem Maß und Zeitraum, ein Rechen- oder Warenkorbbeispiel und eine Grenze. Abgabe auf Papier oder über die Aufgabenplattform. Erfolg: Index und Rate unterschieden; Gewichte erklärt; keine Behauptung, alle erlebten den Durchschnitt.",
+      "exit": [
+        "Wenn die Inflation von 8 % auf 3 % fällt, was geschieht allgemein mit den Preisen?",
+        "Warum widersprechen sich die österreichischen Zahlen 8,6 % und 10,5 % für 2022 nicht zwingend?"
+      ],
+      "homework": "Schließe deine persönliche Erklärung höchstens 20 Minuten lang ab. Prüfe Maß und Zeitraum der amtlichen Zahl und nutze ein korrekt gewichtetes Beispiel. Verwende keine echten Familiendaten.",
+      "teacher": {
+        "preparation": [
+          "Falltext, Rechencheck, erfundene Tabellen, Österreich-Belegkarte und Maßnahmenkarten ausdrucken.",
+          "Historische Zahlen klarstellen: 8,6 % ist VPI-Jahresdurchschnitt 2022; 10,5 % ist HVPI Dezember 2022 im Jahresvergleich.",
+          "Niemand soll echte Haushaltsbudgets offenlegen."
+        ],
+        "facilitation": [
+          "Vor jeder Prozentzahl den Zeitraum nennen lassen.",
+          "Prozentpunkte von Prozent unterscheiden, wenn Raten verglichen werden.",
+          "Bei Maßnahmen Tatsachenbehauptungen über Wirkungen von Werturteilen zu Fairness oder Prioritäten trennen."
+        ],
+        "answers": [
+          "Kurzcheck: 8,6 %; 108,6 ist der Indexstand, die Änderung beträgt 8,6 %; bei 8 % auf 3 % steigen Preise weiter, aber langsamer; 2,00 auf 2,20 € ist ein Plus von 10 %.",
+          "Erfundener Korb: A = 10×2 € + 20×1 € + 1×40 € = 80 €. B = 10×2,20 € + 20×1,05 € + 1×44 € = 87 €. Änderung = (87−80) ÷ 80 × 100 = 8,75 %. Preisänderungen: Brot 10 %, Fahrkarten 5 %, Jacke 10 %. Gewichtet ergeben sich 25 %×10 %=2,5 Prozentpunkte, 25 %×5 %=1,25 Prozentpunkte und 50 %×10 %=5 Prozentpunkte. Summe = 8,75 %, wie bei der Rechnung mit festen Mengen.",
+          "Erfundene Warenkorbwerte: allgemein = 0,30×12 + 0,20×10 + 0,15×4 + 0,35×3 = 7,25 %; Fichte = 5,4 + 2,5 + 0,4 + 0,6 = 8,9 %; Fluss = 2,4 + 1,5 + 1,0 + 1,2 = 6,1 %. Unterschiede entstehen durch andere Gewichte; alle Zahlen sind erfunden.",
+          "Statistik Austria VPI: Jahresdurchschnitt 2022 verglichen mit Jahresdurchschnitt 2021, 8,6 %; 2021 waren es 2,8 %. Eurostat HVPI: Österreich Dezember 2022 gegenüber Dezember 2021, 10,5 %; EU 10,4 %. Indexkonstruktion und Vergleichszeitraum unterscheiden sich, also beantworten die Zahlen verschiedene Fragen.",
+          "Eine vertretbare Maßnahmenantwort nennt Zielgruppe, Zeitpunkt, Zahler, mögliche Verhaltenswirkung, Umsetzung und Belege. Keine Maßnahme ist in jedem Kontext automatisch fair oder wirksam."
+        ],
+        "misconceptions": [
+          "Sinkende Inflation heißt nicht sinkende Preise, sondern langsamer steigende Preise.",
+          "Ein Indexstand ist nicht selbst die Inflationsrate.",
+          "Ein Durchschnitt beschreibt nicht jeden Haushalt, bleibt aber für eine genaue Frage nützlich.",
+          "8,6 % und 10,5 % beziehen sich nicht auf dieselbe Messung und denselben Zeitraum.",
+          "Warenkorbgewichte sollen Ausgabenanteile wiedergeben; Preisraten nicht ungeprüft gleich gewichten."
+        ],
+        "differentiation": [
+          "Formel für prozentuelle Änderung mit Beispiel und ausgefüllten Schritten anbieten.",
+          "Fortgeschrittene untersuchen wechselnde Gewichte, Ersatzkäufe, Wohnkostenbehandlung und Zeitpunkt mit der Methodikquelle.",
+          "Zuerst ein ausgefülltes Beispiel markieren lassen; danach selbst rechnen. Deutung und Rechnung bewerten."
+        ],
+        "extension": "Lest die detaillierte Statistik-Austria-Mitteilung zu 2022 und sucht Kategorien mit besonders großem Beitrag. Vergleicht Beitrag zur Inflation mit prozentueller Preisänderung; sie hängen zusammen, sind aber nicht dasselbe."
+      }
+    }
+  }
+]

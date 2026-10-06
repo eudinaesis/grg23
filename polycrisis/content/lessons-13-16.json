@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 13,
+    "en": {
+      "title": "Oil shocks then and now",
+      "question": "What can the energy shocks of the 1970s teach us about today's crises—and where does the comparison fail?",
+      "intro": "We compare the 1973–74 and 1978–80 oil shocks with Europe's 2021–23 energy crisis. The aim is not to call them identical, but to test which mechanisms recur, who bears the costs, and what historical comparison helps us see. This is portfolio task 3.",
+      "goals": [
+        "Compare two energy shocks using evidence and dates.",
+        "Explain at least two mechanisms linking an energy shock to other problems.",
+        "Use the course project rubric/planner to write a bounded comparison with uncertainty and limits."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Retrieval: draw the chain",
+          "task": "Opening prompt: How can a disruption in one energy system affect people or places that did not cause it? Use ‘Mechanism cards’ to draw one chain from energy supply to household or business effects. Label each arrow with a verb. Deliverable: one annotated chain."
+        },
+        {
+          "minutes": 15,
+          "title": "Read the two shock snapshots",
+          "task": "Read ‘Case reader: two oil shocks, one gas shock’ and underline dated events, mechanisms, and interpretations in three different colours. Deliverable: three labelled notes."
+        },
+        {
+          "minutes": 15,
+          "title": "Evidence stations",
+          "task": "Use ‘Comparison matrix’ and ‘Evidence cards’. In pairs, complete the first four matrix rows using evidence cards A–D respectively; label each finding with its card, unit, date, and source. Deliverable: four completed matrix rows."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Make the comparison map",
+          "task": "In groups of three, build a two-column map with at least three shared mechanisms and two differences. Use ‘Mechanism cards’; mark uncertain or debated links with a question mark. Deliverable: one comparison map."
+        },
+        {
+          "minutes": 15,
+          "title": "Portfolio 3: write the comparison",
+          "task": "Individually use ‘Portfolio 3 response frame’ and the course project rubric/planner. State a precise claim, support it with two dated pieces of evidence, explain a mechanism, and name one limit. Deliverable: 180–250 words."
+        },
+        {
+          "minutes": 10,
+          "title": "Peer check and revise",
+          "task": "Exchange responses and use ‘Comparison feedback check’. Revise one sentence so it distinguishes evidence from interpretation. Deliverable: revised response plus one feedback note."
+        },
+        {
+          "minutes": 10,
+          "title": "Exit: what did history add?",
+          "task": "Answer the two exit questions using ‘Exit and homework slip’. Deliverable: two individual answers."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: two oil shocks, one gas shock",
+          "html": "<h3>Case reader (teacher-written synthesis)</h3><p>Energy shocks can begin with different events but travel through connected systems. In October 1973, during the Arab-Israeli war, Arab members of OAPEC announced production cuts and an embargo aimed at selected states. The oil market was already under pressure; the embargo and cuts contributed to a sharp rise in oil prices. The US State Department’s contemporary documents show that producers also had political aims and that importers worried about trade balances and supply. In 1978–79, revolution in Iran reduced production: the US Energy Information Administration estimates a fall of about 3.9 million barrels per day in Iranian crude output from 1978 to 1981. Lower supply, panic buying, and market responses contributed to another price shock. These were not simply “oil ran out”: politics, production decisions, expectations, dependence, and limited short-run alternatives all mattered.</p><p>Europe’s 2021–23 energy crisis had a different fuel mix and context. The International Energy Agency says markets tightened in 2021 amid rapid post-pandemic recovery, weather, delayed maintenance, and earlier investment choices; Russia’s invasion of Ukraine in February 2022 sharply worsened the situation. Pipeline gas was central in Europe, while global liquefied natural gas (LNG) trade connected Europe’s search for replacement supplies to Asian importers. The IEA described record gas prices and higher electricity prices in some markets. Governments used support, storage requirements, demand reduction, and new supply arrangements. The shock interacted with household affordability, factory output, inflation, public budgets, and climate decisions.</p><p>Some mechanisms recur: concentrated supply, dependence on imported fuels, slow substitution, price transmission, and unequal ability to absorb costs. Important differences remain: the 1970s shocks centred on oil; the recent European shock involved gas, electricity, oil, and a more globally connected LNG market. The institutions, energy efficiency, technology, and political setting also differ. A comparison is useful only when it specifies which mechanism it compares and which evidence could disprove the analogy. Historical similarities do not prove that the same policy will work today.</p>"
+        },
+        {
+          "title": "Mechanism cards",
+          "html": "<h3>Cut out or assign one card to each pair</h3><ul><li><strong>Import dependence:</strong> a country buys much of a fuel from abroad. A disruption can make replacement difficult in the short run.</li><li><strong>Price transmission:</strong> higher fuel costs can raise transport, heating, electricity, and production costs; how much reaches consumers depends on contracts, regulation, taxes, and market design.</li><li><strong>Unequal exposure:</strong> the same price rise can take a larger share of a low-income household’s budget; a firm with energy-intensive production may face different pressure from a service firm.</li><li><strong>Global competition:</strong> when buyers seek replacement fuel, they may compete for cargoes, shifting prices and availability elsewhere.</li><li><strong>Policy feedback:</strong> a subsidy can protect users quickly but raise public costs; conservation can reduce demand but may be harder for some people or industries.</li><li><strong>Expectations:</strong> fear of future shortage may change buying or investment before the physical shortage is fully known.</li></ul><p>For each card: connect it to one case, identify who gains or loses, and write one question that would test the connection.</p>"
+        },
+        {
+          "title": "Evidence cards",
+          "html": "<h3>Use this evidence with its date and unit</h3><table><caption>Historical comparison evidence</caption><thead><tr><th>Card</th><th>Evidence</th><th>What it can support</th><th>What it cannot establish alone</th></tr></thead><tbody><tr><td>A</td><td>US State Department historical document: on 17 October 1973 OAPEC members announced an immediate 5% production cut, with further monthly cuts announced. (Contemporary US diplomatic record.)</td><td>The episode included a politically announced production restriction.</td><td>That every producer complied equally, or that this was the only cause of the price rise.</td></tr><tr><td>B</td><td>EIA: Iranian crude production fell by about 3.9 million barrels per day over 1978–81; this is a production change, not a global total.</td><td>Iran’s revolution was associated with a major supply disruption.</td><td>The exact share of the later global price movement caused by this one factor.</td></tr><tr><td>C</td><td>IEA (2022): energy markets tightened in 2021; Russia’s invasion of Ukraine in February 2022 escalated the crisis. Its summary lists post-pandemic recovery, weather, maintenance, and investment factors as part of the context.</td><td>The 2022 European shock had multiple interacting causes and a dated escalation.</td><td>That a single factor explains every country’s price or inflation outcome.</td></tr><tr><td>D</td><td>IEA (2022): in 2021, a quarter of all energy consumed in the EU came from Russia. The IEA also described Europe’s replacement LNG buying as tightening supply for some Asian importers.</td><td>Dependence and international spillovers were relevant in the IEA’s 2022 account.</td><td>That every EU state or Asian buyer had identical exposure.</td></tr></tbody></table><p>All cards are paraphrases. Check sources listed below for context; these are not quotations.</p>"
+        },
+        {
+          "title": "Comparison matrix",
+          "html": "<table><caption>Complete with evidence, not guesses</caption><thead><tr><th>Question</th><th>1973–74</th><th>1978–80</th><th>Europe 2021–23</th><th>Evidence / uncertainty</th></tr></thead><tbody><tr><td>Main fuel and disruption</td><td></td><td></td><td></td><td></td></tr><tr><td>Pre-existing vulnerability</td><td></td><td></td><td></td><td></td></tr><tr><td>How did costs travel?</td><td></td><td></td><td></td><td></td></tr><tr><td>Who could respond, and how?</td><td></td><td></td><td></td><td></td></tr><tr><td>One similarity and its evidence</td><td colspan=\"3\"></td><td></td></tr><tr><td>One difference and its importance</td><td colspan=\"3\"></td><td></td></tr><tr><td>What extra source would improve the comparison?</td><td colspan=\"3\"></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Portfolio 3 response frame",
+          "html": "<p>Use the course project rubric/planner. Write 180–250 words answering: <strong>What can the 1970s energy shocks help explain about Europe’s 2021–23 energy crisis, and what can they not explain?</strong></p><ol><li>My bounded claim is …</li><li>Evidence from the 1970s (date, unit/source) shows …</li><li>Evidence from 2021–23 shows …</li><li>The mechanism connecting them is … because …</li><li>A key difference or uncertainty is …</li><li>This comparison would be stronger if we also knew …</li></ol>"
+        },
+        {
+          "title": "Comparison feedback check",
+          "html": "<ul><li>Does the response make a claim more specific than “history repeats”?</li><li>Are two pieces of evidence dated and attributed?</li><li>Is at least one mechanism explained in words?</li><li>Does it distinguish documented evidence from interpretation?</li><li>Does it identify a meaningful difference, limit, or uncertainty?</li></ul><p>Write: “The strongest supported part is …” and “To make the comparison more careful, specify …”</p>"
+        },
+        {
+          "title": "Exit and homework slip",
+          "html": "<h3>Exit questions</h3><ol><li>Name one mechanism that recurs across the cases and explain how it works.</li><li>What is one important difference that makes a simple analogy misleading?</li></ol><h3>Homework (20–25 minutes)</h3><p>Project prework: choose a focused question from lesson 14’s ‘Project route cards’ or propose an equivalent; identify a place/group and time period; log two starting sources from lesson 14’s ‘Source shortlist and fallback investigation’, noting one useful fact/claim and one limitation for each. Bring it to lesson 14.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "US Department of State, Foreign Relations of the United States, 1969–1976, vol. 25, document 200",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d200",
+          "date": "Contemporary record, 1973; page accessed 6 October 2026",
+          "use": "Evidence card A; contemporary record of announced OAPEC production cuts."
+        },
+        {
+          "title": "US Energy Information Administration, Effects of crude oil supply disruptions: how long can they last?",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=730",
+          "date": "2011; accessed 6 October 2026",
+          "use": "Iranian production estimate in evidence card B."
+        },
+        {
+          "title": "International Energy Agency, 2022 Energy Crisis",
+          "url": "https://www.iea.org/topics/2022-energy-crisis",
+          "date": "Undated topic page; accessed 6 October 2026; includes explicitly dated 2021–22 facts",
+          "use": "Case reader and evidence cards C–D; energy-crisis context and response summary."
+        },
+        {
+          "title": "International Energy Agency, History of the IEA",
+          "url": "https://www.iea.org/about/mission/history-of-the-iea",
+          "date": "Undated; accessed 6 October 2026",
+          "use": "Context for the institutional response to the 1973–74 crisis."
+        },
+        {
+          "title": "Adam Tooze, Chartbook 407: Polycrisis revisited",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "6 September 2025",
+          "use": "Optional extension on limits of broad crisis language; revisit in lesson 15."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway.</strong> The case reader is teacher-written, so read it first without a dictionary. Then open the original IEA page ‘2022 Energy Crisis’ and read the paragraph beginning ‘Energy markets began to tighten in 2021’ and the paragraph beginning ‘While today’s energy crisis shares some parallels’. In pairs, write a 3-sentence English summary and connect one point to Austrian energy imports or household prices using an Austrian source you locate through Statistik Austria or E-Control. Optional extension: compare the wording of ‘energy security’ and German ‘Versorgungssicherheit’ in one Austrian source. Keep the evidence matrix at the same analytical level; language support does not remove the need to explain mechanisms.</p><p><strong>Key terms:</strong> supply disruption = Unterbrechung der Versorgung; import dependence = Importabhängigkeit; price transmission = Weitergabe von Kosten/Preisen; exposure = Betroffenheit; embargo = Embargo; uncertainty = Unsicherheit.</p>",
+      "submission": "Individual portfolio response, 180–250 words, submitted on the teacher’s assignment platform or on paper. Success criteria: a bounded comparison claim; at least two attributed and dated pieces of evidence; one explained mechanism; one difference or uncertainty; clear distinction between evidence and interpretation. Use the course project rubric/planner.",
+      "exit": [
+        "Name one mechanism that recurs across the cases and explain how it works.",
+        "What is one important difference that makes a simple analogy misleading?"
+      ],
+      "homework": "Project prework (20–25 minutes): choose a focused question from ‘Project route cards’ in lesson 14 or propose an equivalent; identify a place/group and time period; add two starting sources to your source log using lesson 14’s ‘Source shortlist and fallback investigation’. For each source, note one useful fact/claim and one limitation. Bring this work to lesson 14; it will seed your final investigation.",
+      "teacher": {
+        "preparation": [
+          "Print or project the case reader, evidence cards, matrix, response frame, and feedback check.",
+          "Place students in pairs for stations, then groups of three; keep the break at five minutes.",
+          "Clarify that card figures are historical estimates or institutional summaries, each scoped as stated."
+        ],
+        "facilitation": [
+          "Insist that students explain causal arrows; proximity in time is not proof of causation.",
+          "When students say ‘the 1970s crisis’, ask which episode and whose experience they mean.",
+          "Use Portfolio 3 as an individual assessment even if the map is collaborative."
+        ],
+        "answers": [
+          "A strong comparison could identify import dependence, limited short-run substitution, and price transmission as recurring mechanisms, while distinguishing oil embargo/production cuts from the later gas and LNG-centered European shock.",
+          "The IEA attributes the recent tight market to several factors and identifies the invasion as a major escalation; do not reduce this to one cause.",
+          "Card D reports EU energy consumption overall, not a claim that exactly one-quarter of every member state's supply was Russian."
+        ],
+        "misconceptions": [
+          "OAPEC and OPEC are interchangeable: OAPEC is the Arab producers’ organization; keep the source’s exact name.",
+          "A price rise means physical supply stopped everywhere: prices can change due to expected scarcity and competition even when fuel continues to flow.",
+          "A comparison proves policy transfer: a repeated mechanism does not guarantee the same outcome or solution."
+        ],
+        "differentiation": [
+          "Offer sentence frames and partially completed matrix rows while keeping the same claim/evidence/mechanism expectations.",
+          "For extension, ask students to investigate whether energy intensity changed after the 1970s, with a dated national series and careful unit comparison."
+        ],
+        "extension": "Compare the IEA's account with the contemporary US diplomatic record. Ask whose perspective each source makes visible and which affected groups remain absent."
+      }
+    },
+    "de": {
+      "title": "Ölkrisen damals und heute",
+      "question": "Was können uns die Energieschocks der 1970er-Jahre über heutige Krisen zeigen – und wo scheitert der Vergleich?",
+      "intro": "Wir vergleichen die Ölkrisen 1973–74 und 1978–80 mit der europäischen Energiekrise 2021–23. Wir prüfen, welche Zusammenhänge wiederkehren, wer die Kosten trägt und wo ein historischer Vergleich in die Irre führt. Das ist Portfolioaufgabe 3.",
+      "goals": [
+        "Zwei Energieschocks mit Belegen und Daten vergleichen.",
+        "Mindestens zwei Wege erklären, über die ein Energieschock andere Probleme beeinflusst.",
+        "Mit dem Kurs-Projektplan und den gemeinsamen Kriterien einen begrenzten Vergleich schreiben."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Abruf: Zeichne eine Wirkungskette",
+          "task": "Einstiegsfrage: Wie kann eine Störung in einem Energiesystem Menschen oder Orte treffen, die sie nicht verursacht haben? Nutze ‘Karten zu Wirkungsmechanismen’ und zeichne eine Kette von der Energieversorgung zu Folgen für Haushalte oder Betriebe. Beschrifte jeden Pfeil mit einem Verb. Ergebnis: eine beschriftete Kette."
+        },
+        {
+          "minutes": 15,
+          "title": "Lies die drei Krisen-Skizzen",
+          "task": "Lies ‘Falltext: zwei Ölkrisen, eine Gaskrise’. Markiere Daten, Wirkungsmechanismen und Deutungen mit drei Farben. Ergebnis: drei beschriftete Notizen."
+        },
+        {
+          "minutes": 15,
+          "title": "Beleg-Stationen",
+          "task": "Arbeite zu zweit mit ‘Vergleichsmatrix’ und ‘Belegkarten’. Fülle die ersten vier Zeilen der Matrix mit den Belegkarten A–D aus; notiere zu jedem Beleg Karte, Einheit, Datum und Quelle. Ergebnis: vier ausgefüllte Matrixzeilen."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Erstellt eine Vergleichskarte",
+          "task": "Erstellt in Dreiergruppen eine Karte mit zwei Spalten, mindestens drei gemeinsamen Mechanismen und zwei Unterschieden. Nutzt die ‘Karten zu Wirkungsmechanismen’. Markiert unsichere Verbindungen mit einem Fragezeichen. Ergebnis: eine Vergleichskarte."
+        },
+        {
+          "minutes": 15,
+          "title": "Portfolio 3: Schreibe den Vergleich",
+          "task": "Schreibe allein mit der ‘Schreibhilfe Portfolio 3’ und dem Kurs-Projektplan. Formuliere eine genaue Aussage, belege sie mit zwei datierten Informationen, erkläre einen Mechanismus und nenne eine Grenze. Ergebnis: 180–250 Wörter."
+        },
+        {
+          "minutes": 10,
+          "title": "Rückmeldung und Überarbeitung",
+          "task": "Tauscht Texte und nutzt die ‘Rückmeldekarte zum Vergleich’. Überarbeite einen Satz so, dass Beleg und Deutung klar getrennt sind. Ergebnis: überarbeiteter Text und eine Rückmeldung."
+        },
+        {
+          "minutes": 10,
+          "title": "Abschluss: Was bringt der Blick zurück?",
+          "task": "Beantworte die zwei Fragen auf dem ‘Abschluss- und Hausübungszettel’. Ergebnis: zwei eigene Antworten."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: zwei Ölkrisen, eine Gaskrise",
+          "html": "<h3>Falltext (Zusammenfassung der Lehrkraft)</h3><p>Energieschocks können aus unterschiedlichen Ereignissen entstehen und sich durch verbundene Systeme ausbreiten. Im Oktober 1973, während des arabisch-israelischen Kriegs, kündigten arabische Mitglieder der OAPEC Förderkürzungen und ein Embargo gegen ausgewählte Staaten an. Der Ölmarkt stand bereits unter Druck; die Kürzungen und das Embargo trugen zu einem starken Anstieg der Ölpreise bei. Zeitgenössische Dokumente des US-Außenministeriums zeigen politische Ziele der Förderstaaten und Sorgen der Importländer um Handel und Versorgung. 1978–79 verringerte die Revolution im Iran die Förderung. Die US-Energiebehörde EIA schätzt, dass Irans Rohölförderung zwischen 1978 und 1981 um ungefähr 3,9 Millionen Barrel pro Tag sank. Geringeres Angebot, Hamsterkäufe und Reaktionen am Markt trugen zum nächsten Preisschock bei. Es ging nicht einfach darum, dass „das Öl ausging“: Politik, Förderentscheidungen, Erwartungen, Abhängigkeit und wenige kurzfristige Alternativen spielten zusammen.</p><p>Die europäische Energiekrise 2021–23 hatte einen anderen Brennstoffmix und eine andere Lage. Die Internationale Energieagentur (IEA) schreibt, dass sich die Märkte 2021 unter anderem durch die schnelle Erholung nach der Pandemie, Wetter, aufgeschobene Wartung und frühere Investitionsentscheidungen verengten. Russlands Angriff auf die Ukraine im Februar 2022 verschärfte die Lage stark. In Europa war Erdgas aus Pipelines wichtig. Der weltweite Handel mit verflüssigtem Erdgas (LNG) verband Europas Suche nach Ersatz mit asiatischen Importländern. Die IEA berichtete von Rekordpreisen für Gas und höheren Strompreisen in einigen Märkten. Staaten unterstützten Verbraucher, schrieben Speicher vor, senkten die Nachfrage und suchten neue Lieferungen. Der Schock wirkte sich auf Leistbarkeit, Fabriken, Inflation, öffentliche Budgets und Klimapolitik aus.</p><p>Einige Mechanismen kehren wieder: konzentrierte Förderung, Importabhängigkeit, langsamer Ersatz, Weitergabe von Preisen und ungleiche Möglichkeiten, Kosten zu tragen. Wichtige Unterschiede bleiben: In den 1970er-Jahren ging es vor allem um Öl; der jüngere europäische Schock betraf Gas, Strom und Öl in einem stärker verflochtenen LNG-Markt. Institutionen, Effizienz, Technik und Politik sind ebenfalls anders. Ein Vergleich ist nur nützlich, wenn er genau sagt, welchen Mechanismus er vergleicht und welche Belege die Ähnlichkeit widerlegen könnten. Ähnliche Geschichte beweist nicht, dass dieselbe Politik heute funktioniert.</p>"
+        },
+        {
+          "title": "Karten zu Wirkungsmechanismen",
+          "html": "<h3>Jedes Paar nimmt eine Karte</h3><ul><li><strong>Importabhängigkeit:</strong> Ein Land kauft einen großen Teil eines Brennstoffs im Ausland. Bei einer Störung ist Ersatz kurzfristig schwierig.</li><li><strong>Weitergabe von Preisen:</strong> Höhere Brennstoffkosten können Transport, Heizung, Strom und Produktion verteuern. Wie viel davon bei den Verbrauchern ankommt, hängt auch von Verträgen, Regeln, Steuern und Marktgestaltung ab.</li><li><strong>Ungleiche Betroffenheit:</strong> Derselbe Preisanstieg kann bei einem Haushalt mit niedrigem Einkommen einen größeren Teil des Budgets ausmachen. Ein energieintensiver Betrieb ist anders betroffen als ein Dienstleistungsbetrieb.</li><li><strong>Weltweite Konkurrenz:</strong> Suchen viele Käufer Ersatz, konkurrieren sie um Lieferungen. Das kann Preise und Verfügbarkeit in anderen Regionen verändern.</li><li><strong>Rückwirkung von Maßnahmen:</strong> Ein Zuschuss hilft schnell, kann aber öffentliche Kosten erhöhen. Energiesparen kann die Nachfrage senken, ist aber nicht für alle Menschen und Betriebe gleich leicht.</li><li><strong>Erwartungen:</strong> Die Angst vor einem künftigen Mangel kann Kauf- und Investitionsentscheidungen verändern, bevor ein tatsächlicher Mangel sicher ist.</li></ul><p>Zu jeder Karte: Verknüpfe sie mit einem Fall, nenne mögliche Gewinner und Verlierer und schreibe eine Frage, mit der man den Zusammenhang prüfen könnte.</p>"
+        },
+        {
+          "title": "Belegkarten",
+          "html": "<h3>Nutze Belege mit Datum und Einheit</h3><table><caption>Belege für den historischen Vergleich</caption><thead><tr><th>Karte</th><th>Beleg</th><th>Was er stützen kann</th><th>Was er allein nicht zeigt</th></tr></thead><tbody><tr><td>A</td><td>Historisches Dokument des US-Außenministeriums: Am 17. Oktober 1973 kündigten OAPEC-Mitglieder eine sofortige Förderkürzung um 5 Prozent und weitere monatliche Kürzungen an. (Zeitgenössische diplomatische Aufzeichnung der USA.)</td><td>Es gab eine politisch angekündigte Förderbeschränkung.</td><td>Dass alle Förderländer gleich handelten oder dies der einzige Grund für den Preisanstieg war.</td></tr><tr><td>B</td><td>EIA: Irans Rohölförderung sank zwischen 1978 und 1981 um etwa 3,9 Millionen Barrel pro Tag. Das ist die Veränderung der iranischen Förderung, nicht die weltweite Gesamtmenge.</td><td>Die Revolution im Iran ging mit einer großen Lieferstörung einher.</td><td>Welcher Anteil der späteren weltweiten Preisbewegung genau auf diesen Faktor entfiel.</td></tr><tr><td>C</td><td>IEA (2022): Die Energiemärkte wurden 2021 enger; Russlands Angriff auf die Ukraine im Februar 2022 verschärfte die Krise. Die IEA nennt auch Erholung nach der Pandemie, Wetter, Wartung und Investitionen als Teil des Zusammenhangs.</td><td>Der europäische Schock hatte mehrere Ursachen und eine datierbare Verschärfung.</td><td>Dass ein einzelner Faktor Preise oder Inflation in allen Ländern erklärt.</td></tr><tr><td>D</td><td>IEA (2022): 2021 stammte ein Viertel des gesamten Energieverbrauchs in der EU aus Russland. Laut IEA erhöhte Europas Suche nach Ersatz-LNG den Wettbewerb um Lieferungen für manche asiatische Importländer.</td><td>Abhängigkeit und internationale Folgen waren laut IEA relevant.</td><td>Dass alle EU-Länder oder asiatischen Käufer gleich betroffen waren.</td></tr></tbody></table><p>Alle Karten sind Zusammenfassungen und keine wörtlichen Zitate. Die Quellen stehen unten.</p>"
+        },
+        {
+          "title": "Vergleichsmatrix",
+          "html": "<table><caption>Fülle die Tabelle mit Belegen aus</caption><thead><tr><th>Frage</th><th>1973–74</th><th>1978–80</th><th>Europa 2021–23</th><th>Beleg / Unsicherheit</th></tr></thead><tbody><tr><td>Wichtigster Brennstoff und Störung</td><td></td><td></td><td></td><td></td></tr><tr><td>Vorherige Verwundbarkeit</td><td></td><td></td><td></td><td></td></tr><tr><td>Wie breiteten sich Kosten aus?</td><td></td><td></td><td></td><td></td></tr><tr><td>Wer konnte wie reagieren?</td><td></td><td></td><td></td><td></td></tr><tr><td>Eine Ähnlichkeit und ein Beleg</td><td colspan=\"3\"></td><td></td></tr><tr><td>Ein wichtiger Unterschied</td><td colspan=\"3\"></td><td></td></tr><tr><td>Welche zusätzliche Quelle wäre hilfreich?</td><td colspan=\"3\"></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Schreibhilfe Portfolio 3",
+          "html": "<p>Nutze den Kurs-Projektplan. Schreibe 180–250 Wörter zur Frage: <strong>Was erklären die Energieschocks der 1970er-Jahre an der europäischen Energiekrise 2021–23 – und was nicht?</strong></p><ol><li>Meine begrenzte Aussage lautet …</li><li>Ein Beleg aus den 1970er-Jahren (Datum, Einheit/Quelle) zeigt …</li><li>Ein Beleg aus 2021–23 zeigt …</li><li>Der Mechanismus, der beide verbindet, ist …, weil …</li><li>Ein wichtiger Unterschied oder eine Unsicherheit ist …</li><li>Mit welcher zusätzlichen Information wäre der Vergleich besser?</li></ol>"
+        },
+        {
+          "title": "Rückmeldekarte zum Vergleich",
+          "html": "<ul><li>Ist die Aussage genauer als „Die Geschichte wiederholt sich“?</li><li>Sind zwei Belege mit Datum und Quelle genannt?</li><li>Wird mindestens ein Wirkungsmechanismus erklärt?</li><li>Sind belegte Informationen klar von Deutungen getrennt?</li><li>Wird ein wichtiger Unterschied, eine Grenze oder Unsicherheit genannt?</li></ul><p>Schreibe: „Am besten belegt ist …“ und „Für einen genaueren Vergleich müsstest du …“</p>"
+        },
+        {
+          "title": "Abschluss- und Hausübungszettel",
+          "html": "<h3>Abschlussfragen</h3><ol><li>Nenne einen Mechanismus, der in mehreren Fällen vorkommt, und erkläre ihn.</li><li>Welcher wichtige Unterschied macht einen einfachen Vergleich irreführend?</li></ol><h3>Hausübung (20–25 Minuten)</h3><p>Projektvorbereitung: Wähle eine begrenzte Frage aus den Themenkarten in Stunde 14 oder schlage eine andere vor. Nenne Ort/Gruppe und Zeitraum. Trage zwei Quellen aus der Quellen-Auswahl in Stunde 14 ein und notiere je eine hilfreiche Aussage und eine Grenze. Bring die Vorbereitung zur 14. Stunde mit.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "US Department of State, Foreign Relations of the United States, 1969–1976, vol. 25, document 200",
+          "url": "https://history.state.gov/historicaldocuments/frus1969-76v25/d200",
+          "date": "Zeitgenössische Aufzeichnung, 1973; abgerufen am 6. Oktober 2026",
+          "use": "Belegkarte A; dokumentiert angekündigte OAPEC-Förderkürzungen."
+        },
+        {
+          "title": "US Energy Information Administration, Effects of crude oil supply disruptions: how long can they last?",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=730",
+          "date": "2011; abgerufen am 6. Oktober 2026",
+          "use": "Schätzung zur iranischen Förderung auf Belegkarte B."
+        },
+        {
+          "title": "International Energy Agency, 2022 Energy Crisis",
+          "url": "https://www.iea.org/topics/2022-energy-crisis",
+          "date": "Themenseite ohne einheitliches Veröffentlichungsdatum; abgerufen am 6. Oktober 2026; Fakten ausdrücklich für 2021–22 datiert",
+          "use": "Falltext und Belegkarten C–D."
+        },
+        {
+          "title": "International Energy Agency, History of the IEA",
+          "url": "https://www.iea.org/about/mission/history-of-the-iea",
+          "date": "Ohne Datum; abgerufen am 6. Oktober 2026",
+          "use": "Hintergrund zur institutionellen Reaktion auf die Krise 1973–74."
+        },
+        {
+          "title": "Adam Tooze, Chartbook 407: Polycrisis revisited",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "6. September 2025",
+          "use": "Freiwillige Vertiefung zu Grenzen des Krisenbegriffs; Wiederaufnahme in Stunde 15."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschweg mit Englischbrücke.</strong> Lies zuerst den folgenden selbst verfassten englischen Kurztext. Er ist kein Zitat: <em>‘An energy shock can spread through connected systems. A supply disruption may raise prices. Higher prices can affect households, factories, public budgets and other importing countries. But the effects are unequal, and the causes are not always the same. A historical comparison is useful when it names a mechanism and also explains an important difference.’</em></p><p>Beantworte auf Deutsch: (1) Durch welche Systeme kann sich ein Energieschock ausbreiten? (2) Warum sind die Folgen ungleich? (3) Was muss ein sorgfältiger historischer Vergleich nennen? Nutze danach den deutschen Falltext und die Matrix, um deine Antworten mit Belegen zu prüfen.</p><p><strong>Glossar:</strong> energy shock = Energieschock; supply disruption = Versorgungsunterbrechung; import dependence = Importabhängigkeit; price transmission = Weitergabe von Kosten/Preisen; exposure = Betroffenheit; embargo = Embargo; uncertainty = Unsicherheit.</p>",
+      "submission": "Einzelner Portfolio-Text mit 180–250 Wörtern auf der Aufgabenplattform der Lehrkraft oder auf Papier. Kriterien: begrenzte Vergleichsaussage; mindestens zwei datierte und zugeordnete Belege; ein erklärter Wirkungsmechanismus; ein Unterschied oder eine Unsicherheit; klare Trennung von Beleg und Deutung. Nutze den Kurs-Projektplan und die gemeinsamen Kriterien.",
+      "exit": [
+        "Nenne einen Mechanismus, der in mehreren Fällen vorkommt, und erkläre ihn.",
+        "Welcher wichtige Unterschied macht einen einfachen Vergleich irreführend?"
+      ],
+      "homework": "Projektvorbereitung (20–25 Minuten): Wähle eine begrenzte Frage aus den ‘Projekt-Themenkarten’ in Stunde 14 oder formuliere einen eigenen Vorschlag. Nenne Ort/Gruppe und Zeitraum. Trage zwei erste Quellen aus ‘Quellen-Auswahl und Ersatzfrage’ aus Stunde 14 in dein Quellenprotokoll ein. Notiere je Quelle eine hilfreiche Information/Aussage und eine Grenze. Bring das zur 14. Stunde mit.",
+      "teacher": {
+        "preparation": [
+          "Falltext, Belegkarten, Matrix, Schreibhilfe und Rückmeldekarte ausdrucken oder projizieren.",
+          "Paare für Stationen und anschließend Dreiergruppen einteilen; fünf Minuten Pause einplanen.",
+          "Zahlen als zeitgebundene Schätzungen bzw. Zusammenfassungen kennzeichnen."
+        ],
+        "facilitation": [
+          "Lass Lernende jeden Ursache-Wirkungs-Pfeil erklären; zeitliche Nähe beweist keine Ursache.",
+          "Bei ‘der Ölkrise’ nachfragen, welche Krise und wessen Erfahrung gemeint ist.",
+          "Portfolio 3 individuell bewerten, auch wenn die Vergleichskarte gemeinsam erstellt wird."
+        ],
+        "answers": [
+          "Ein überzeugender Vergleich kann Importabhängigkeit, kurzfristig langsamen Ersatz und Preisweitergabe als wiederkehrende Mechanismen nennen. Er unterscheidet jedoch Förderkürzungen/Embargo bei Öl von der Gas- und LNG-Krise in Europa.",
+          "Die IEA nennt mehrere Faktoren und beschreibt den Angriff als starke Verschärfung; nicht auf eine Ursache verkürzen.",
+          "Beleg D bezieht sich auf den gesamten Energieverbrauch der EU, nicht auf exakt denselben russischen Anteil für jeden Mitgliedstaat."
+        ],
+        "misconceptions": [
+          "OAPEC und OPEC seien austauschbar: Die Abkürzungen bezeichnen verschiedene Organisationen.",
+          "Steigende Preise bedeuteten, dass überall kein Brennstoff mehr floss: Erwartungen und Konkurrenz können Preise auch bei weiterlaufenden Lieferungen ändern.",
+          "Ein Vergleich beweise, dass dieselbe Maßnahme wieder funktioniert."
+        ],
+        "differentiation": [
+          "Satzanfänge und teilweise ausgefüllte Matrixfelder anbieten; Aussage, Beleg und Mechanismus bleiben für alle zentral.",
+          "Vertiefung: Untersuchen, ob sich die Energieintensität nach den 1970ern änderte; nur vergleichbare Zeitreihen mit Einheit verwenden."
+        ],
+        "extension": "Vergleicht die Deutung der IEA mit der zeitgenössischen diplomatischen Aufzeichnung der USA. Wessen Blick wird sichtbar, und wer fehlt?"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "en": {
+      "title": "Project workshop: make the question smaller",
+      "question": "How can we turn a large crisis topic into a researchable question?",
+      "intro": "Today you begin the final investigation. A useful project does not explain ‘the whole polycrisis’. It answers a bounded question with traceable evidence, a causal explanation, and a comparison of possible responses. Use the common course project rubric/planner throughout.",
+      "goals": [
+        "Narrow a broad topic into a question that can be answered in this course.",
+        "Build a source log and distinguish data, analysis, and advocacy.",
+        "Plan an evidence-based causal map, charts, and two response options."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Choose a route",
+          "task": "Bring forward the focused question and two starting sources from lesson 13 homework. Read ‘Project route cards’ and individually confirm or refine your route. Complete topic, place/group, time, and affected group on ‘Question narrowing ladder’. Deliverable: a specific case linked to two sources."
+        },
+        {
+          "minutes": 15,
+          "title": "Read the project reader",
+          "task": "Read ‘Project reader: from topic to investigation’. Annotate the model question for scope, mechanism, evidence, and uncertainty. Deliverable: four annotations."
+        },
+        {
+          "minutes": 15,
+          "title": "Draft and test questions",
+          "task": "Use ‘Question test cards’ with a partner. Draft two questions; test each against scope, evidence access, and fairness to competing explanations. Deliverable: one revised research question."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Source clinic",
+          "task": "Use ‘Source comparison cards’ and ‘Source log template’. Classify each item as data, analysis, or advocacy; record what it can and cannot establish. Deliverable: three source-log entries, including one source you still need."
+        },
+        {
+          "minutes": 20,
+          "title": "Build the investigation plan",
+          "task": "Use ‘Project planner worksheet’ and the course project rubric/planner. Make a preliminary causal map; select two possible responses; sketch the 2–3 charts you will need, including their source and unit. Deliverable: completed one-page plan."
+        },
+        {
+          "minutes": 10,
+          "title": "Teacher conference and peer check",
+          "task": "Exchange plans using ‘Project checkpoint card’. Ask whether the question is answerable and whether each arrow has a plausible evidence source. Deliverable: one revision and one unresolved question."
+        },
+        {
+          "minutes": 5,
+          "title": "Exit: next research step",
+          "task": "Use ‘Exit and homework slip’ to state your next small research action and one risk to your explanation. Deliverable: individual exit response."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Project reader: from topic to investigation",
+          "html": "<h3>Why narrow the question?</h3><p>A topic such as ‘climate change and the economy’ is important but too wide for one short investigation. A research question names a place or group, a period, a mechanism, and something we can investigate with evidence. For example: ‘How did Sri Lanka’s loss of foreign currency from tourism during the COVID-19 period interact with its ability to pay for imports, and what do official data show about the timing?’ This is still a large question, but it has a place, time, mechanism, and evidence trail. It does not assume that tourism alone caused the country’s crisis.</p><p>Use different kinds of sources for different jobs. A statistical agency may provide a series; a central bank may explain a policy problem from its institutional viewpoint; a research paper may test an explanation; a news report may show how an event was experienced or contested. None is automatically neutral or useless. Ask who produced the source, for what audience, with what method, and what it can establish. Check dates and units before combining figures. A line chart of monthly currency reserves and a chart of annual tourism income do not have the same time scale.</p><p>Your investigation should show how a mechanism could work, then test it against evidence and alternative explanations. A causal map is a set of hypotheses, not proof. Mark missing links and uncertainty. Compare at least two responses, including who pays, who benefits, who has authority, and likely side effects. You can conclude that evidence is mixed or the polycrisis label adds little. Your job is not to defend a predetermined answer. The course project rubric/planner gives the final length, source, chart, and oral defence requirements.</p>"
+        },
+        {
+          "title": "Project route cards",
+          "html": "<h3>Choose one route; all are starting points, not pre-approved conclusions</h3><ul><li><strong>Energy and households:</strong> Under what conditions can building renovation reduce both energy vulnerability and household costs in Austria? Find out what evidence is available and define one group or programme.</li><li><strong>Debt and disaster:</strong> How might foreign-currency debt limit a government's response after a disaster? Use one country and one dated event; distinguish a mechanism from proof of causation.</li><li><strong>Batteries and supply chains:</strong> Can battery manufacturing advance climate goals while creating new dependencies? Choose one link in a supply chain and identify who holds bargaining power.</li><li><strong>Energy shock comparison:</strong> What does the 1970s comparison illuminate—and obscure—about Europe's 2021–23 energy crisis?</li><li><strong>Student-proposed:</strong> Identify a place, dates, at least two interacting systems, and an evidence source before asking the teacher to approve the question.</li></ul>"
+        },
+        {
+          "title": "Source shortlist and fallback investigation",
+          "html": "<h3>Start with these real, public sources</h3><ul><li><strong>Sri Lanka route:</strong> Sri Lanka Tourism Development Authority arrivals reports (official counts); IMF 2023 programme report (institutional account of shocks, policies, reserves and reforms); World Bank Sri Lanka Development Update 2023 (analysis of structural weaknesses and recovery risks). Read each source as a perspective, not a final verdict.</li><li><strong>Battery route:</strong> IEA Batteries and Secure Energy Transitions (2024), section Status of battery demand and supply; IEA Global Critical Minerals Outlook 2024 (mineral supply risks and policies); add an independent analysis and a source for workers or industry in a chosen country.</li><li><strong>Austria energy route:</strong> Statistik Austria VPI/HVPI (dated price measures); OeNB teaching materials for background; find one specific renovation programme or public evaluation and one independent analysis.</li><li><strong>1970s comparison:</strong> use lesson 13 evidence cards plus IEA 2022 Energy Crisis summary; add an independent historical analysis.</li></ul><h3>Fallback question using supplied sources</h3><p>If other sources are inaccessible or your question is not yet feasible, investigate: <strong>What do Sri Lanka tourism and crisis sources show about how an external shock may interact with limited foreign exchange, and what can they not prove?</strong> Supplied evidence: SLTDA reports 1,913,702 tourist arrivals in 2019 and 507,704 in 2020 (arrivals, not tourism revenue); the IMF 2023 report describes a series of shocks and policy missteps and reports depleted reserves before debt service was suspended in spring 2022; the World Bank's 2023 update describes longstanding weaknesses elevated by several shocks and reports usable reserves of US$2.4 billion at end-July 2023, equivalent to 5–6 weeks of goods-and-services imports. Do not claim falling arrivals alone caused the crisis. These items support a source comparison and plan; a final project still needs the common source and chart requirements.</p><p>Distinguish tourist arrivals from foreign-currency earnings and institutional interpretation from directly measured data. Check dates and definitions.</p>"
+        },
+        {
+          "title": "Question narrowing ladder",
+          "html": "<table><caption>Move from broad interest to answerable question</caption><thead><tr><th>Step</th><th>Your notes</th></tr></thead><tbody><tr><td>Broad topic</td><td></td></tr><tr><td>Place, group, or institution</td><td></td></tr><tr><td>Time period or event</td><td></td></tr><tr><td>Two systems that may interact</td><td></td></tr><tr><td>Possible mechanism (write ‘may’ until tested)</td><td></td></tr><tr><td>Evidence I can actually obtain</td><td></td></tr><tr><td>Question beginning how/why/under what conditions</td><td></td></tr><tr><td>One alternative explanation or limit</td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Question test cards",
+          "html": "<ul><li><strong>Scope test:</strong> Could this be answered in 1,000–1,200 words?</li><li><strong>Mechanism test:</strong> Does the question ask how something works, not merely whether a broad topic is ‘good’ or ‘bad’?</li><li><strong>Evidence test:</strong> Can I find at least four sources, including independent evidence and a contrasting analysis, as required by the course project rubric/planner?</li><li><strong>Chart test:</strong> Can I identify 2–3 charts with dates, units, and accessible source data?</li><li><strong>Alternative test:</strong> What else might explain the pattern?</li><li><strong>Fairness test:</strong> Have I described affected groups and decision-makers without treating a country or population as one actor?</li><li><strong>Privacy test:</strong> Can I investigate this without asking classmates to disclose personal finances, health, migration status, or family experience?</li></ul>"
+        },
+        {
+          "title": "Source comparison cards",
+          "html": "<table><caption>Practice with three source types</caption><thead><tr><th>Source card</th><th>What it is useful for</th><th>Questions / limits</th></tr></thead><tbody><tr><td>National statistical office: table of monthly consumer prices, with metadata</td><td>Describe a defined price series across dates; compare categories if definitions are stable.</td><td>What basket and population? Is this a price level or inflation rate? Does it measure household hardship directly?</td></tr><tr><td>Central bank: report explaining foreign-exchange reserves and imports</td><td>Clarify terms, institutional data, policy constraints, and the bank's assessment.</td><td>What is the bank's mandate? Which claims are data and which are its interpretation? What other source can check it?</td></tr><tr><td>Research article or independent investigative analysis</td><td>Offer a tested explanation, methods, comparison, or competing interpretation.</td><td>What case and period does it cover? Is it peer reviewed or otherwise transparent? Does its evidence fit your exact question?</td></tr></tbody></table><p>For each source, record author/institution, date, genre, claim or data, method, perspective, and a limitation. ‘Bias’ is not a substitute for explaining what the source can or cannot show.</p>"
+        },
+        {
+          "title": "Source log template",
+          "html": "<table><caption>Duplicate a row for each source</caption><thead><tr><th>Author / institution and title</th><th>Date / URL</th><th>Type and method</th><th>Useful evidence or claim</th><th>Perspective / limitation</th><th>Where I will use it</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Project planner worksheet",
+          "html": "<ol><li><strong>Working question:</strong> …</li><li><strong>Why this case and time period?</strong> …</li><li><strong>Draft answer (may change):</strong> …</li><li><strong>Mechanism map:</strong> A → [because…] B → [because…] C. Put a question mark where the link needs testing.</li><li><strong>Alternative explanation:</strong> …</li><li><strong>Two response options:</strong> For each, name likely beneficiaries, cost-bearers, decision-maker, and possible side effect.</li><li><strong>Chart 1–3:</strong> question answered; variables; unit; dates; source URL; one caveat.</li><li><strong>Sources still needed:</strong> data/evidence; independent analysis; contrasting analysis; institutional or affected-group perspective.</li><li><strong>What could make me revise my answer?</strong> …</li></ol><p>Use this with the course project rubric/planner and source log. The final investigation requirements are 1,000–1,200 words, 2–3 charts, at least four sources including independent evidence and contrasting analysis, and an individual oral defence.</p>"
+        },
+        {
+          "title": "Project checkpoint card",
+          "html": "<ul><li>Can I repeat your question in one sentence?</li><li>Is the place/group and period clear?</li><li>Which arrow in your map is least supported?</li><li>What source could check that arrow?</li><li>Have you included an alternative explanation?</li><li>Are the two policy options real alternatives with different costs or effects?</li></ul><p>Feedback sentence: “Your plan is most researchable when …” / “Before drafting, check …”</p>"
+        },
+        {
+          "title": "Exit and homework slip",
+          "html": "<h3>Exit</h3><ol><li>What is your next research action, stated as a task you can finish in 20 minutes?</li><li>What could weaken or change your current explanation?</li></ol><h3>Homework (20–25 minutes)</h3><p>Draft one 200–300-word core paragraph answering your working question. Include an attributed source-based claim and one caveat. Add or adapt one chart with title, axes/units, date, source, and a one-sentence interpretation. Bring both to lesson 15. The final investigation is built in stages from this prework; it is not written from scratch in class.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Bank, World Development Indicators",
+          "url": "https://databank.worldbank.org/source/world-development-indicators",
+          "date": "Continuously updated database; accessed 6 October 2026",
+          "use": "Potential cross-country evidence for project routes; students must inspect indicator metadata and dates."
+        },
+        {
+          "title": "Statistics Austria, Consumer Price Index (VPI/HICP)",
+          "url": "https://www.statistik.at/statistiken/volkswirtschaft-und-oeffentliche-finanzen/preise-und-preisindizes/verbraucherpreisindex-vpi/hvpi",
+          "date": "Continuously updated; accessed 6 October 2026",
+          "use": "Austrian price evidence for the energy-and-households route; select a dated series and read definitions."
+        },
+        {
+          "title": "OeNB, Financial education teaching materials",
+          "url": "https://finanzbildung.oenb.at/schule-und-kindergarten/unterrichtsmaterial.html",
+          "date": "Undated collection; accessed 6 October 2026",
+          "use": "Accessible Austrian background on inflation and monetary policy; institutional perspective should be identified."
+        },
+        {
+          "title": "Sri Lanka Department of Census and Statistics",
+          "url": "https://www.statistics.gov.lk/",
+          "date": "Continuously updated; accessed 6 October 2026",
+          "use": "Primary national statistics for student investigations; verify series definitions and availability."
+        },
+        {
+          "title": "Sri Lanka Tourism Development Authority, Tourism Growth Trends 1985–2023",
+          "url": "https://sltda.gov.lk/storage/common_media/Tourism-Growth-Trends-1985-2023.pdf",
+          "date": "Official series; accessed 6 October 2026",
+          "use": "Fallback: tourist arrivals in 2019 and 2020; arrivals are not tourism receipts."
+        },
+        {
+          "title": "IMF, Sri Lanka: Request for an Extended Arrangement Under the Extended Fund Facility, Country Report 23/116",
+          "url": "https://www.imf.org/-/media/Files/Publications/CR/2023/English/1LKAEA2023001.ashx",
+          "date": "6 March 2023",
+          "use": "Fallback: IMF staff account of shocks, policy missteps, reserves and suspension of debt service; identify its institutional perspective."
+        },
+        {
+          "title": "World Bank, Sri Lanka Development Update 2023",
+          "url": "https://www.worldbank.org/en/country/srilanka/publication/sri-lanka-development-update-2023",
+          "date": "2023; accessed 6 October 2026",
+          "use": "Fallback: structural weaknesses, multiple shocks, reserves and recovery risks."
+        },
+        {
+          "title": "IEA, Batteries and Secure Energy Transitions: Status of battery demand and supply",
+          "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions/status-of-battery-demand-and-supply",
+          "date": "2024; accessed 6 October 2026",
+          "use": "Battery route evidence on supply concentration; check chart definitions and dates."
+        },
+        {
+          "title": "IEA, Global Critical Minerals Outlook 2024",
+          "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2024",
+          "date": "2024; accessed 6 October 2026",
+          "use": "Battery route evidence on critical mineral supply risks and policies."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway.</strong> Use English for original sources where they add evidence or a distinct argument; do not choose a source only because it is in English. Start with the World Bank indicator database or a national statistics page, and inspect the indicator definition before copying a number. Austrian connection: use Statistik Austria’s VPI/HICP page for a dated price series and explain in English what its unit measures. Original-reading extension: on the World Bank WDI page, read the indicator title, definition, source, and metadata for one indicator you may use; write a 3-sentence English note distinguishing what it measures from what it does not measure. Your project can use German evidence, English analysis, or both.</p><p><strong>Check:</strong> source genre, author, date, unit, method, perspective, and limitation. Ask the teacher if a proposed case requires sensitive personal information; choose an aggregate or public source instead.</p>",
+      "submission": "Individual or pair one-page investigation plan, on paper or teacher assignment platform. It must contain a bounded question, preliminary mechanism map, one alternative explanation, two policy responses, planned 2–3 charts with units/dates/source leads, and a source log with three entries including one missing source. Use the course project rubric/planner.",
+      "exit": [
+        "What is your next research action, stated as a task you can finish in 20 minutes?",
+        "What could weaken or change your current explanation?"
+      ],
+      "homework": "Project drafting (20–25 minutes): write one 200–300-word core paragraph answering your working question, with an attributed source-based claim and one caveat. Add or adapt one chart from your source log (title, axes/units, date, source, and one-sentence interpretation). Bring both to lesson 15 for critique. The final 1,000–1,200-word investigation is built in stages using the prework and course source shortlist; it is not expected to be drafted from scratch in class.",
+      "teacher": {
+        "preparation": [
+          "Print route cards, narrowing ladder, question tests, source cards, log, planner, and checkpoint card.",
+          "Prepare accessible links or offline copies of the public data pages; confirm classroom internet works.",
+          "Remind students that common glossary, source log, and project rubric/planner are course-wide materials."
+        ],
+        "facilitation": [
+          "Approve questions by feasibility, not by whether they support a favoured policy.",
+          "Require a specific population/time/place and a credible evidence trail before students draft.",
+          "Keep pair planning accountable: every student keeps an individual source log and prepares for an individual oral defence."
+        ],
+        "answers": [
+          "A strong question identifies a bounded case, a mechanism, a time period, and available evidence; there is no single correct topic.",
+          "Data sources establish what their defined measure records; they rarely establish the full causal story alone.",
+          "A contrasting analysis need not be artificially equal in evidential weight; students should assess quality and relevance."
+        ],
+        "misconceptions": [
+          "More sources automatically mean a better project: relevance and source quality matter.",
+          "A chart proves causation: charts describe patterns; mechanisms and alternative explanations require further evidence.",
+          "A government/country is one unified actor: institutions, firms, households, workers, and communities can have different interests."
+        ],
+        "differentiation": [
+          "Offer a choice among the four prepared routes, a question frame, and preselected open-access data links.",
+          "Extend by asking students to compare indicators or explain why a proposed source cannot answer their question."
+        ],
+        "extension": "Students may prepare a short prospectus for teacher approval, including one sentence explaining why the polycrisis concept is useful for this exact question."
+      }
+    },
+    "de": {
+      "title": "Projektwerkstatt: Mach die Frage kleiner",
+      "question": "Wie wird aus einem großen Krisenthema eine untersuchbare Frage?",
+      "intro": "Heute beginnt die Abschlussuntersuchung. Ein gutes Projekt erklärt nicht ‘die ganze Polykrise’. Es beantwortet eine begrenzte Frage mit nachvollziehbaren Belegen, einer Erklärung von Zusammenhängen und einem Vergleich möglicher Maßnahmen. Nutze immer den gemeinsamen Kurs-Projektplan und die Kriterien.",
+      "goals": [
+        "Ein großes Thema in eine beantwortbare Frage verwandeln.",
+        "Ein Quellenprotokoll erstellen und Daten, Analyse und Interessenvertretung unterscheiden.",
+        "Eine begründete Wirkungsübersicht, Diagramme und zwei Maßnahmen planen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Wähle einen Weg",
+          "task": "Nimm deine begrenzte Frage und zwei Quellen aus der Hausübung von Stunde 13. Lies die ‘Projekt-Themenkarten’ und bestätige oder ändere deinen Weg. Fülle Thema, Ort/Gruppe, Zeit und betroffene Gruppe in der ‘Leiter zur Forschungsfrage’ aus. Ergebnis: konkreter Fall mit zwei Quellen."
+        },
+        {
+          "minutes": 15,
+          "title": "Lies den Projekttext",
+          "task": "Lies ‘Projekttext: Vom Thema zur Untersuchung’. Markiere im Beispiel Umfang, Mechanismus, Belege und Unsicherheit. Ergebnis: vier Markierungen."
+        },
+        {
+          "minutes": 15,
+          "title": "Entwirf und prüfe Fragen",
+          "task": "Prüfe mit einer Partnerin/einem Partner zwei Fragen mithilfe der ‘Prüfkarten für Fragen’. Testet Umfang, verfügbare Belege und alternative Erklärungen. Ergebnis: eine überarbeitete Forschungsfrage."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Quellen-Werkstatt",
+          "task": "Nutzt ‘Quellenvergleich’ und ‘Quellenprotokoll’. Ordnet jedes Beispiel als Daten, Analyse oder Interessenvertretung ein. Notiert, was die Quelle zeigen kann und was nicht. Ergebnis: drei Einträge, darunter eine noch fehlende Quelle."
+        },
+        {
+          "minutes": 20,
+          "title": "Plane die Untersuchung",
+          "task": "Nutzt den ‘Projektplan’ und den gemeinsamen Kurs-Projektplan/die Kriterien. Erstellt eine vorläufige Wirkungsübersicht, wählt zwei Maßnahmen und skizziert die 2–3 nötigen Diagramme mit Quelle und Einheit. Ergebnis: ein ausgefüllter Plan."
+        },
+        {
+          "minutes": 10,
+          "title": "Lehrkraft-Gespräch und Partnercheck",
+          "task": "Tauscht Pläne mit der ‘Projekt-Checkkarte’. Prüft, ob die Frage beantwortbar ist und ob jeder Pfeil eine mögliche Belegquelle hat. Ergebnis: eine Änderung und eine offene Frage."
+        },
+        {
+          "minutes": 5,
+          "title": "Abschluss: nächster Schritt",
+          "task": "Schreibe auf den ‘Abschluss- und Hausübungszettel’ deinen nächsten kleinen Forschungsschritt und ein mögliches Gegenargument. Ergebnis: persönliche Antwort."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Projekttext: Vom Thema zur Untersuchung",
+          "html": "<h3>Warum soll die Frage eng sein?</h3><p>Ein Thema wie ‘Klimawandel und Wirtschaft’ ist wichtig, aber zu groß für eine kurze Untersuchung. Eine Forschungsfrage nennt einen Ort oder eine Gruppe, einen Zeitraum, einen Wirkungsmechanismus und etwas, das wir mit Belegen untersuchen können. Zum Beispiel: ‘Wie beeinflusste der Rückgang von Devisen aus dem Tourismus in Sri Lanka während der COVID-19-Zeit die Möglichkeit, Importe zu bezahlen, und was zeigen offizielle Daten zur zeitlichen Abfolge?’ Auch diese Frage ist noch groß, aber sie nennt Ort, Zeit, Mechanismus und mögliche Belege. Sie behauptet nicht, dass der Tourismus allein die Krise verursacht hat.</p><p>Verschiedene Quellen haben verschiedene Aufgaben. Eine Statistikbehörde liefert vielleicht eine Datenreihe. Eine Zentralbank erklärt ein Problem aus ihrer institutionellen Sicht. Eine Forschungsarbeit prüft eine Erklärung. Ein Nachrichtenbericht zeigt, wie ein Ereignis erlebt oder diskutiert wurde. Keine Quelle ist automatisch neutral oder nutzlos. Frage: Wer hat sie erstellt, für wen, mit welcher Methode und was kann sie belegen? Prüfe Datum und Einheit, bevor du Zahlen verbindest. Eine monatliche Kurve zu Devisenreserven und jährliche Tourismus-Einnahmen haben nicht dieselbe Zeiteinteilung.</p><p>Zeige, wie ein Mechanismus funktionieren könnte, und prüfe ihn dann mit Belegen und anderen Erklärungen. Eine Wirkungsübersicht enthält Vermutungen, keine Beweise. Markiere fehlende Verbindungen und Unsicherheit. Vergleiche mindestens zwei Maßnahmen. Frage, wer zahlt, wer profitiert, wer entscheiden kann und welche Nebenwirkungen möglich sind. Du darfst zum Schluss kommen, dass die Belege uneindeutig sind oder der Begriff Polykrise wenig erklärt. Du musst keine vorgegebene Antwort verteidigen. Der gemeinsame Kurs-Projektplan nennt Umfang, Quellen, Diagramme und mündliche Prüfung.</p>"
+        },
+        {
+          "title": "Projekt-Themenkarten",
+          "html": "<h3>Wähle einen Weg. Keine Karte gibt die richtige Antwort vor.</h3><ul><li><strong>Energie und Haushalte:</strong> Unter welchen Bedingungen können Gebäudesanierungen in Österreich Energie-Abhängigkeit und Haushaltskosten senken? Wähle ein Programm oder eine Gruppe.</li><li><strong>Schulden und Katastrophe:</strong> Wie können Schulden in fremder Währung die Reaktion eines Staates nach einer Katastrophe begrenzen? Wähle ein Land und ein datiertes Ereignis.</li><li><strong>Batterien und Lieferketten:</strong> Kann Batterieproduktion Klimaziele unterstützen und gleichzeitig neue Abhängigkeiten schaffen? Wähle einen Schritt der Lieferkette.</li><li><strong>Energiekrisen vergleichen:</strong> Was zeigt und verdeckt der Vergleich der 1970er-Jahre mit Europas Energiekrise 2021–23?</li><li><strong>Eigene Frage:</strong> Nenne Ort, Zeit, mindestens zwei verbundene Bereiche und eine Belegquelle. Bitte die Lehrkraft um Prüfung der Frage.</li></ul>"
+        },
+        {
+          "title": "Quellen-Auswahl und Ersatzfrage",
+          "html": "<h3>Beginne mit diesen öffentlichen Quellen</h3><ul><li><strong>Fall Sri Lanka:</strong> Tourismusbehörde Sri Lankas (offizielle Ankunftszahlen); IWF-Programmbericht 2023 (Einschätzung zu Schocks, Politik, Reserven und Reformen); Weltbank-Entwicklungsbericht Sri Lanka 2023 (Analyse struktureller Schwächen und Erholungsrisiken). Lies jede Quelle als Perspektive, nicht als endgültiges Urteil.</li><li><strong>Batterie-Fall:</strong> IEA Batteries and Secure Energy Transitions (2024), Abschnitt Status of battery demand and supply; IEA Global Critical Minerals Outlook 2024 (Rohstoffrisiken und Politik); ergänze eine unabhängige Analyse und eine Quelle zu Beschäftigten oder Industrie eines gewählten Landes.</li><li><strong>Österreich und Energie:</strong> Statistik Austria VPI/HVPI (datierte Preismaße); OeNB-Unterrichtsmaterial als Hintergrund; suche ein konkretes Sanierungsprogramm oder eine öffentliche Evaluation und eine unabhängige Analyse.</li><li><strong>Vergleich 1970er:</strong> Nutze Belegkarten aus Stunde 13 und die IEA-Zusammenfassung zur Energiekrise 2022; ergänze eine unabhängige historische Analyse.</li></ul><h3>Ersatzfrage mit bereitgestellten Quellen</h3><p>Wenn andere Quellen nicht erreichbar oder deine Frage noch zu groß ist, untersuche: <strong>Was zeigen Daten zum Tourismus und zur Krise in Sri Lanka darüber, wie ein äußerer Schock mit wenig Fremdwährung zusammenwirken kann – und was beweisen sie nicht?</strong> Belege: Die Tourismusbehörde meldet 1.913.702 Ankünfte 2019 und 507.704 im Jahr 2020 (Ankünfte, nicht Einnahmen); der IWF-Bericht 2023 beschreibt mehrere Schocks und politische Fehlentscheidungen und berichtet, dass Reserven aufgebraucht wurden, bevor im Frühjahr 2022 der Schuldendienst ausgesetzt wurde; die Weltbank beschreibt langjährige Schwächen, die durch mehrere Schocks verstärkt wurden, und meldet nutzbare Reserven von 2,4 Milliarden US-Dollar Ende Juli 2023 – genug für 5–6 Wochen Waren- und Dienstleistungsimporte. Behaupte nicht, dass sinkende Ankünfte allein die Krise verursachten. Diese Belege genügen für einen Quellenvergleich und die Planung; die Abschlussarbeit braucht weiterhin die gemeinsamen Quellen- und Diagrammanforderungen.</p><p>Unterscheide Ankünfte von Einnahmen in Fremdwährung und institutionelle Deutung von gemessenen Daten. Prüfe Datum und Definition.</p>"
+        },
+        {
+          "title": "Leiter zur Forschungsfrage",
+          "html": "<table><caption>Vom Interesse zur beantwortbaren Frage</caption><thead><tr><th>Schritt</th><th>Deine Notizen</th></tr></thead><tbody><tr><td>Großes Thema</td><td></td></tr><tr><td>Ort, Gruppe oder Institution</td><td></td></tr><tr><td>Zeitraum oder Ereignis</td><td></td></tr><tr><td>Zwei Bereiche, die zusammenhängen könnten</td><td></td></tr><tr><td>Möglicher Mechanismus (bis zur Prüfung ‘könnte’ schreiben)</td><td></td></tr><tr><td>Belege, die ich tatsächlich finden kann</td><td></td></tr><tr><td>Frage mit ‘Wie’, ‘Warum’ oder ‘Unter welchen Bedingungen’</td><td></td></tr><tr><td>Eine andere Erklärung oder Grenze</td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Prüfkarten für Fragen",
+          "html": "<ul><li><strong>Umfang:</strong> Kann ich die Frage in 1.000–1.200 Wörtern beantworten?</li><li><strong>Mechanismus:</strong> Frage ich, wie etwas wirkt, und nicht nur, ob ein Thema ‘gut’ oder ‘schlecht’ ist?</li><li><strong>Belege:</strong> Kann ich mindestens vier Quellen finden, darunter unabhängige Belege und eine andere Analyse, wie es der Kurs-Projektplan verlangt?</li><li><strong>Diagramme:</strong> Finde ich 2–3 Diagramme mit Daten, Einheit und Quelle?</li><li><strong>Alternative:</strong> Was könnte das Muster noch erklären?</li><li><strong>Fairness:</strong> Unterscheide ich betroffene Gruppen und Entscheidungsträger, statt ein Land als eine Person zu behandeln?</li><li><strong>Privatsphäre:</strong> Kann ich ohne persönliche Angaben zu Geld, Gesundheit, Migration oder Familie von Mitschülerinnen und Mitschülern forschen?</li></ul>"
+        },
+        {
+          "title": "Quellenvergleich",
+          "html": "<table><caption>Drei Quellentypen prüfen</caption><thead><tr><th>Quellenkarte</th><th>Wofür nützlich?</th><th>Fragen und Grenzen</th></tr></thead><tbody><tr><td>Statistikbehörde: monatliche Tabelle der Verbraucherpreise mit Erläuterungen</td><td>Eine bestimmte Preisreihe über Zeit beschreiben; Kategorien vergleichen, wenn die Definition stabil bleibt.</td><td>Welcher Warenkorb und welche Bevölkerung? Preisniveau oder Inflationsrate? Misst die Tabelle direkt, ob Haushalte Not leiden?</td></tr><tr><td>Zentralbank: Bericht zu Devisenreserven und Importen</td><td>Begriffe, institutionelle Daten, politische Beschränkungen und die Einschätzung der Bank verstehen.</td><td>Was ist der Auftrag der Bank? Was sind Daten und was ist ihre Deutung? Welche Quelle kann sie ergänzen?</td></tr><tr><td>Forschungsarbeit oder unabhängige Analyse</td><td>Eine geprüfte Erklärung, Methode, einen Vergleich oder eine andere Deutung erhalten.</td><td>Welchen Fall und Zeitraum untersucht sie? Ist die Methode transparent? Passt der Beleg genau zur Frage?</td></tr></tbody></table><p>Notiere Autor/Institution, Datum, Textsorte, Aussage oder Daten, Methode, Perspektive und Grenze. ‘Voreingenommen’ erklärt nicht, was die Quelle zeigen kann oder nicht.</p>"
+        },
+        {
+          "title": "Quellenprotokoll",
+          "html": "<table><caption>Eine Zeile pro Quelle</caption><thead><tr><th>Autor/Institution und Titel</th><th>Datum/URL</th><th>Typ und Methode</th><th>Nützliche Information/Aussage</th><th>Perspektive/Grenze</th><th>Verwendung</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Projektplan",
+          "html": "<ol><li><strong>Arbeitsfrage:</strong> …</li><li><strong>Warum dieser Fall und Zeitraum?</strong> …</li><li><strong>Vorläufige Antwort (darf sich ändern):</strong> …</li><li><strong>Wirkungskarte:</strong> A → [weil…] B → [weil…] C. Setze ein Fragezeichen an Verbindungen, die geprüft werden müssen.</li><li><strong>Andere mögliche Erklärung:</strong> …</li><li><strong>Zwei Maßnahmen:</strong> Nenne jeweils mögliche Gewinner, Kostenträger, zuständige Entscheider und Nebenwirkung.</li><li><strong>Diagramm 1–3:</strong> Frage; Daten; Einheit; Zeitraum; Quellenlink; Grenze.</li><li><strong>Fehlende Quellen:</strong> Daten/Belege; unabhängige Analyse; andere Analyse; institutionelle oder betroffene Perspektive.</li><li><strong>Was könnte meine Antwort verändern?</strong> …</li></ol><p>Nutze zusätzlich den gemeinsamen Kurs-Projektplan und das Quellenprotokoll. Die Abschlussarbeit umfasst 1.000–1.200 Wörter, 2–3 Diagramme, mindestens vier Quellen mit unabhängigen Belegen und einer anderen Analyse sowie eine persönliche mündliche Prüfung.</p>"
+        },
+        {
+          "title": "Projekt-Checkkarte",
+          "html": "<ul><li>Kann ich deine Frage in einem Satz wiederholen?</li><li>Sind Ort/Gruppe und Zeitraum klar?</li><li>Welcher Pfeil deiner Karte ist am wenigsten belegt?</li><li>Welche Quelle könnte ihn prüfen?</li><li>Hast du eine alternative Erklärung?</li><li>Sind die zwei Maßnahmen echte Alternativen mit unterschiedlichen Kosten oder Folgen?</li></ul><p>Rückmeldung: „Dein Plan ist besonders gut untersuchbar, wenn …“ / „Prüfe vor dem Schreiben noch …“</p>"
+        },
+        {
+          "title": "Abschluss- und Hausübungszettel",
+          "html": "<h3>Abschluss</h3><ol><li>Was ist dein nächster Forschungsschritt, den du in 20 Minuten erledigen kannst?</li><li>Was könnte deine bisherige Erklärung schwächen oder verändern?</li></ol><h3>Hausübung (20–25 Minuten)</h3><p>Schreibe einen Kernabsatz mit 200–300 Wörtern zu deiner Arbeitsfrage, mit belegter Aussage, Quelle und Einschränkung. Ergänze ein Diagramm mit Titel, Achsen/Einheiten, Datum, Quelle und Deutung in einem Satz. Bring beides zur 15. Stunde. Die Abschlussarbeit wächst schrittweise; sie wird nicht im Unterricht von Grund auf geschrieben.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Bank, World Development Indicators",
+          "url": "https://databank.worldbank.org/source/world-development-indicators",
+          "date": "Laufend aktualisierte Datenbank; abgerufen am 6. Oktober 2026",
+          "use": "Mögliche Länder-Vergleiche; Definition und Metadaten jedes Indikators prüfen."
+        },
+        {
+          "title": "Statistik Austria, Verbraucherpreisindex (VPI/HVPI)",
+          "url": "https://www.statistik.at/statistiken/volkswirtschaft-und-oeffentliche-finanzen/preise-und-preisindizes/verbraucherpreisindex-vpi/hvpi",
+          "date": "Laufend aktualisiert; abgerufen am 6. Oktober 2026",
+          "use": "Österreichische Preisdaten; datierte Reihe auswählen und Definition lesen."
+        },
+        {
+          "title": "OeNB, Unterrichtsmaterialien zur Finanzbildung",
+          "url": "https://finanzbildung.oenb.at/schule-und-kindergarten/unterrichtsmaterial.html",
+          "date": "Sammlung ohne einheitliches Datum; abgerufen am 6. Oktober 2026",
+          "use": "Zugänglicher Hintergrund zu Inflation und Geldpolitik; institutionelle Perspektive beachten."
+        },
+        {
+          "title": "Sri Lanka Department of Census and Statistics",
+          "url": "https://www.statistics.gov.lk/",
+          "date": "Laufend aktualisiert; abgerufen am 6. Oktober 2026",
+          "use": "Offizielle nationale Statistik; Definition und Verfügbarkeit der Reihen prüfen."
+        },
+        {
+          "title": "Sri Lanka Tourism Development Authority, Tourism Growth Trends 1985–2023",
+          "url": "https://sltda.gov.lk/storage/common_media/Tourism-Growth-Trends-1985-2023.pdf",
+          "date": "Offizielle Statistikreihe; abgerufen am 6. Oktober 2026",
+          "use": "Ersatzfrage: Touristenankünfte 2019 und 2020; Ankünfte sind keine Tourismuseinnahmen."
+        },
+        {
+          "title": "IMF, Sri Lanka: Request for an Extended Arrangement Under the Extended Fund Facility, Country Report 23/116",
+          "url": "https://www.imf.org/-/media/Files/Publications/CR/2023/English/1LKAEA2023001.ashx",
+          "date": "6 March 2023",
+          "use": "Ersatzfrage: IWF-Deutung zu Schocks, politischen Fehlern, Reserven und Schuldendienst; institutionelle Perspektive markieren."
+        },
+        {
+          "title": "World Bank, Sri Lanka Development Update 2023",
+          "url": "https://www.worldbank.org/en/country/srilanka/publication/sri-lanka-development-update-2023",
+          "date": "2023; abgerufen am 6. Oktober 2026",
+          "use": "Ersatzfrage: strukturelle Schwächen, mehrere Schocks, Reserven und Erholungsrisiken."
+        },
+        {
+          "title": "IEA, Batteries and Secure Energy Transitions: Status of battery demand and supply",
+          "url": "https://www.iea.org/reports/batteries-and-secure-energy-transitions/status-of-battery-demand-and-supply",
+          "date": "2024; abgerufen am 6. Oktober 2026",
+          "use": "Batterie-Fall: Konzentration der Lieferkette; Definitionen und Daten prüfen."
+        },
+        {
+          "title": "IEA, Global Critical Minerals Outlook 2024",
+          "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2024",
+          "date": "2024; abgerufen am 6. Oktober 2026",
+          "use": "Batterie-Fall: Risiken bei Rohstoffen und politische Reaktionen."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschweg mit Englischbrücke.</strong> Lies zuerst diesen selbst verfassten englischen Kurztext; er ist kein Zitat: <em>‘A research question needs a clear place, time and group. It should ask how a connection may work and name evidence we can check. A chart can show a pattern, but it does not prove the cause by itself. Good research also asks what another explanation could be.’</em></p><p>Beantworte auf Deutsch: (1) Welche Angaben machen eine Frage begrenzt? (2) Was kann ein Diagramm zeigen, und was nicht? (3) Welche andere Erklärung könnte es geben? Nutze danach den Projekttext und den Plan, um deine eigene Frage zu prüfen.</p><p><strong>Glossar:</strong> research question = Forschungsfrage; evidence = Beleg; source = Quelle; mechanism = Mechanismus/Wirkungsweise; alternative explanation = alternative Erklärung; limitation = Grenze; data = Daten; advocacy = Interessenvertretung.</p>",
+      "submission": "Einseitiger individueller oder paarweiser Untersuchungsplan, auf Papier oder der Aufgabenplattform. Er enthält eine begrenzte Frage, vorläufige Wirkungskarte, alternative Erklärung, zwei Maßnahmen, geplante 2–3 Diagramme mit Einheit/Zeitraum/Quellenhinweisen und drei Quellenprotokolleinträge, darunter eine noch fehlende Quelle. Nutzt den gemeinsamen Kurs-Projektplan.",
+      "exit": [
+        "Was ist dein nächster Forschungsschritt, den du in 20 Minuten erledigen kannst?",
+        "Was könnte deine bisherige Erklärung schwächen oder verändern?"
+      ],
+      "homework": "Projektentwurf (20–25 Minuten): Schreibe einen Kernabsatz mit 200–300 Wörtern zu deiner Arbeitsfrage. Nenne eine quellenbasierte Aussage mit Quelle und eine Einschränkung. Ergänze oder bearbeite ein Diagramm aus deinem Quellenprotokoll (Titel, Achsen/Einheiten, Datum, Quelle und eine Deutung in einem Satz). Bring beides zur Kritik in Stunde 15 mit. Die Abschlussarbeit mit 1.000–1.200 Wörtern entsteht schrittweise aus der Vorbereitung und Quellen-Auswahl; sie wird nicht in zwei Stunden von Grund auf geschrieben.",
+      "teacher": {
+        "preparation": [
+          "Themenkarten, Frageleiter, Prüfkarten, Quellenbeispiele, Protokoll, Plan und Checkkarte ausdrucken.",
+          "Links oder Offline-Kopien öffentlicher Datenseiten bereitstellen; Internet prüfen.",
+          "Auf gemeinsames Glossar, Quellenprotokoll und Kriterien für das Projekt hinweisen."
+        ],
+        "facilitation": [
+          "Fragen nach Machbarkeit beurteilen, nicht danach, ob sie eine bevorzugte Politik stützen.",
+          "Vor dem Schreiben einen klaren Ort/eine Gruppe, Zeitraum und Belegweg verlangen.",
+          "Bei Paararbeit trotzdem individuelle Protokolle und Vorbereitung auf die persönliche mündliche Prüfung verlangen."
+        ],
+        "answers": [
+          "Eine gute Frage nennt einen begrenzten Fall, Mechanismus, Zeitraum und zugängliche Belege; es gibt keine einzig richtige Themenwahl.",
+          "Daten zeigen, was genau gemessen wurde; allein erklären sie selten den gesamten Ursachenverlauf.",
+          "Eine andere Analyse muss nicht künstlich denselben Belegwert erhalten; Qualität und Relevanz bewerten."
+        ],
+        "misconceptions": [
+          "Mehr Quellen bedeuten automatisch ein besseres Projekt: Relevanz und Qualität sind entscheidend.",
+          "Ein Diagramm beweise Ursache: Es zeigt Muster; Ursache erfordert Mechanismen und Prüfung anderer Erklärungen.",
+          "Ein Staat sei ein einheitlicher Akteur: Behörden, Firmen, Haushalte, Beschäftigte und Gemeinden können unterschiedliche Interessen haben."
+        ],
+        "differentiation": [
+          "Vier vorbereitete Wege, einen Fragerahmen und offene Datensätze anbieten.",
+          "Vertiefung: Indikatoren vergleichen oder erklären, warum eine Quelle die Frage nicht beantworten kann."
+        ],
+        "extension": "Eine kurze Projektskizze mit einer Erklärung erstellen lassen, warum der Polykrise-Begriff für genau diese Frage hilfreich ist."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "en": {
+      "title": "Challenge the concept: when does ‘polycrisis’ help?",
+      "question": "Does the polycrisis concept clarify interacting causes—or hide actors, choices, and specific harms?",
+      "intro": "The word ‘polycrisis’ can direct attention to connections across systems. It can also become vague, make deliberate choices sound like impersonal forces, or flatten different experiences into one global story. Today we test the tool itself and revise project explanations.",
+      "goals": [
+        "Reconstruct a careful critique of the polycrisis label without treating it as a settled verdict.",
+        "Distinguish structural mechanisms, decisions by actors, and differences in perspective.",
+        "Use peer challenge to revise a project claim, causal map, or source plan."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Opening: label or explanation?",
+          "task": "Read ‘Quick classification cards’. Individually classify each statement as a label, mechanism, actor decision, or impact; explain one choice to a partner. Deliverable: four annotations."
+        },
+        {
+          "minutes": 15,
+          "title": "Read Tooze’s challenge",
+          "task": "Read ‘Reader: Tooze revisits polycrisis (2025)’ and ‘Argument cards’. Mark his reasons the label can help and can hinder. Deliverable: two supports and two cautions."
+        },
+        {
+          "minutes": 15,
+          "title": "Build a fair argument map",
+          "task": "Use ‘Two-sided argument map’ in groups of three. Add one counterpoint and one testable question. Deliverable: completed map with evidence needs."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 20,
+          "title": "Project challenge circle",
+          "task": "Use ‘Peer challenge roles’ and ‘Project critique protocol’. In groups, one student presents a project claim for two minutes; peers ask mechanism, actor, perspective, and evidence questions. Rotate so at least three projects receive feedback. Deliverable: one feedback form per presenter."
+        },
+        {
+          "minutes": 20,
+          "title": "Revise the project",
+          "task": "Use ‘Revision table’ and the common course project rubric/planner to revise the claim, causal map, source plan, or chart interpretation. Deliverable: before/after revision plus one explanation of why it is better."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual defence practice",
+          "task": "Use ‘Oral defence prompt cards’. Partner asks one challenge question; presenter answers for 60 seconds with evidence and a limit. Swap roles. Deliverable: one revised oral answer outline."
+        },
+        {
+          "minutes": 5,
+          "title": "Exit and homework",
+          "task": "Use ‘Exit and homework slip’ to state one condition under which polycrisis helps your project and one condition under which it would obscure the explanation. Deliverable: individual response."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Reader: Tooze revisits polycrisis (2025)",
+          "html": "<h3>Teacher-written summary of Adam Tooze, Chartbook 407 (6 September 2025)</h3><p>In this essay Tooze asks whether ‘polycrisis’ still describes the general world situation as well as it seemed to in 2022. He says it remains relevant in some specific contexts, while he is less convinced that it names the whole scene. One concern is that broad crisis language can become muddy: it may wave at many forces without identifying their relative weight. In cases where identifiable actors make choices, describing events only as ‘a crisis’ can hide agency and responsibility. Tooze also warns that some specific harms can be obscured by an anonymous general label. At the same time, he does not offer one method that solves every case. Structural forces, networks, and actor-centred explanations can each help, depending on the question, and each has blind spots.</p><p>For this course, read the essay as an argument to test, not a final rule. A polycrisis map may help if it reveals a specific interaction that a single-issue account misses: for example, a fuel disruption affecting prices, public budgets, and competition among importers. The map becomes weaker if its arrows are only associations, if it treats a decision as an invisible force, or if it implies that everyone experiences one common crisis in the same way. Ask whose vantage point is used, whose actions are named, and whose experience is absent.</p><p>A useful investigation can combine approaches. It may explain a structural constraint, identify the people or institutions making decisions within it, and compare how consequences differ among groups. It should state what evidence supports each link and what remains uncertain. The key question is not whether ‘polycrisis’ is always right or always wrong. It is whether using the term improves this particular explanation, compared with more specific language.</p>"
+        },
+        {
+          "title": "Quick classification cards",
+          "html": "<ul><li>‘A drought reduced harvests in a defined region during the stated season.’</li><li>‘Higher import costs contributed to pressure on the government budget.’</li><li>‘The cabinet chose a subsidy rather than targeted transfers.’</li><li>‘Rural households and urban firms experienced the price change differently.’</li><li>‘Everything is connected, so no one can be held responsible.’</li><li>‘Two events happened together, so one caused the other.’</li></ul><p>Classify each as primarily a label, mechanism, actor decision, impact, or unsupported inference. Some statements can fit more than one category; explain your reasoning and identify missing evidence.</p>"
+        },
+        {
+          "title": "Argument cards",
+          "html": "<table><caption>Paraphrase of the essay's argument, not quotations</caption><thead><tr><th>Polycrisis can help when…</th><th>Polycrisis can hinder when…</th></tr></thead><tbody><tr><td>It directs attention to interacting economic, political, ecological, or health processes.</td><td>It names many forces without specifying which mechanism or evidence connects them.</td></tr><tr><td>It makes cascading consequences visible across groups or borders.</td><td>It presents different people as if they share one viewpoint and equal exposure.</td></tr><tr><td>It acknowledges uncertainty and limits to prediction.</td><td>It makes decisions by identifiable actors sound like anonymous natural events.</td></tr><tr><td>It prompts a wider question than a single-issue account.</td><td>It becomes a slogan, or a general word for harms that require more precise naming.</td></tr></tbody></table><p>For each row, add one example and one piece of evidence you would need before accepting the claim.</p>"
+        },
+        {
+          "title": "Two-sided argument map",
+          "html": "<table><caption>Test the concept rather than vote for it</caption><thead><tr><th>Question</th><th>Our answer and example</th><th>Evidence needed</th></tr></thead><tbody><tr><td>What connection does the polycrisis lens make visible?</td><td></td><td></td></tr><tr><td>What specific mechanism supports that connection?</td><td></td><td></td></tr><tr><td>Which actor or institution makes a consequential choice?</td><td></td><td></td></tr><tr><td>Which group's perspective is missing or different?</td><td></td><td></td></tr><tr><td>What is a more precise alternative description?</td><td></td><td></td></tr><tr><td>When does the broad label add explanatory value?</td><td></td><td></td></tr><tr><td>What counterexample or new evidence could change our answer?</td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Peer challenge roles",
+          "html": "<ul><li><strong>Presenter:</strong> Explain the research question, provisional claim, and one key mechanism in two minutes.</li><li><strong>Mechanism checker:</strong> Ask what evidence supports one arrow and whether another cause is possible.</li><li><strong>Agency checker:</strong> Ask which person, institution, or collective actor made a choice and what constrained it.</li><li><strong>Perspective checker:</strong> Ask who bears costs or is missing from the account.</li><li><strong>Evidence checker:</strong> Ask what source type, date, unit, or contrasting analysis is still needed.</li></ul><p>Rotate roles. Critique the explanation, not the person. Do not demand personal disclosures.</p>"
+        },
+        {
+          "title": "Project critique protocol",
+          "html": "<ol><li>Presenter gives a two-minute project account without interruption.</li><li>Peers take one minute to identify the claim, mechanism, actor, and affected group.</li><li>Ask one question each: ‘How do you know?’, ‘Who chose?’, ‘Who experiences this differently?’, ‘What else could explain it?’</li><li>Presenter answers, naming one uncertainty rather than pretending certainty.</li><li>Peers give one strength and one actionable revision. Presenter records the revision they will make.</li></ol><p>Use the common course project rubric/planner. For a class of 24, work in eight groups of three; three 2-minute presentations plus feedback fit the 20-minute circle, so all projects are heard in triads only if presentations are capped at 2 minutes and each feedback round is brief. Otherwise use pairs and teacher circulation.</p>"
+        },
+        {
+          "title": "Peer feedback form",
+          "html": "<p><strong>Presenter/project question:</strong> …</p><ul><li>In one sentence, the claim I heard: …</li><li>Mechanism and evidence that seem strongest: …</li><li>One arrow or inference to test further: …</li><li>Actor/decision and constraint to name more clearly: …</li><li>Whose perspective may be missing: …</li><li>Alternative explanation or contrasting source to consider: …</li><li>One revision I recommend (specific and doable): …</li></ul><p><strong>Presenter reflection:</strong> I will revise … because … / I will keep … because the evidence supports it.</p>"
+        },
+        {
+          "title": "Revision table",
+          "html": "<table><caption>Make one visible, reasoned change</caption><thead><tr><th>Before</th><th>What the challenge revealed</th><th>After</th><th>Why this is stronger</th></tr></thead><tbody><tr><td>Claim, map arrow, source, or chart explanation</td><td></td><td></td><td>More specific / better evidence / clearer actor or group / fairer uncertainty</td></tr></tbody></table><p>Possible revision: narrow the time period; replace ‘caused’ with a more careful verb; add a missing actor; qualify a claim; seek another data series; separate an observed pattern from a causal explanation.</p>"
+        },
+        {
+          "title": "Oral defence prompt cards",
+          "html": "<ul><li>What is the strongest evidence for your main claim?</li><li>Which causal link is least certain, and why?</li><li>What is the best competing explanation?</li><li>Who benefits and who bears costs under your preferred response?</li><li>What does the word ‘polycrisis’ add to your explanation?</li><li>What more precise term could replace it?</li><li>What new evidence would make you change your mind?</li></ul><p>Use a 60-second structure: answer directly; name evidence; explain the mechanism; state one limit.</p>"
+        },
+        {
+          "title": "Exit and homework slip",
+          "html": "<h3>Exit</h3><ol><li>When does the polycrisis lens help your project?</li><li>When could it hide more than it explains?</li></ol><h3>Homework (20–25 minutes)</h3><p>Use your revised paragraph, chart, and source log to add the next 200–300 words or a second evidence paragraph. Check the course project rubric/planner, especially contrasting analysis and source attribution. Bring a complete working draft or clearly marked unfinished sections to lesson 16; use any project time assigned by the teacher to finish.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adam Tooze, Chartbook 407: Polycrisis revisited: Are we beyond Neoliberal Order Breakdown Syndrome?",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "6 September 2025",
+          "use": "Core reading; teacher-written paraphrase summarizes Tooze’s critique and qualifications."
+        },
+        {
+          "title": "Adam Tooze, Chartbook 130: Defining polycrisis",
+          "url": "https://adamtooze.com/2022/06/24/chartbook-130-defining-polycrisis-from-crisis-pictures-to-the-crisis-matrix/",
+          "date": "24 June 2022",
+          "use": "Optional comparison with the earlier crisis-matrix framing."
+        },
+        {
+          "title": "Mackenzie and Sahay, An Introduction, The Polycrisis / Phenomenal World archive",
+          "url": "https://archive.phenomenalworld.org/analysis/an-introduction/",
+          "date": "2022; archive page accessed 6 October 2026",
+          "use": "Contrasting course framework emphasizing interactions and political-economic analysis."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway.</strong> Read the original Chartbook 407 opening through the paragraph ending ‘not so apt’ (the section introducing Tooze’s changed view) and the later passage that begins ‘There are contexts in which crisis talk…’. Read for argument structure rather than every unfamiliar word. Mark one reason for retaining the term, one caution, and one question. Austrian connection: test a project claim against an Austrian institution’s public data or a German-language policy source; explain in English what it adds and what the source’s remit might leave out. Optional extension: read the opening of Chartbook 130 and compare how Tooze framed the term in June 2022 with his September 2025 reassessment.</p><p><strong>Useful distinctions:</strong> structure = conditions that shape choices; agency = capacity to act; attribution = naming who did what; vantage point = whose experience is used; euphemism = wording that softens or conceals a specific harm.</p>",
+      "submission": "Individual project revision note, 150–200 words plus one before/after excerpt from the claim, causal map, or source plan. Explain the peer challenge, evidence that informed the revision, and remaining uncertainty. Use the course project rubric/planner. No response is graded for agreeing with Tooze.",
+      "exit": [
+        "When does the polycrisis lens help your project?",
+        "When could it hide more than it explains?"
+      ],
+      "homework": "Project drafting (20–25 minutes): use the revised paragraph, chart, and source log to add the next 200–300 words or a second evidence paragraph to your investigation. Check the common course project rubric/planner, especially contrasting analysis and source attribution. Bring a complete working draft or the unfinished sections clearly marked to lesson 16; use any remaining project time assigned by the teacher to finish.",
+      "teacher": {
+        "preparation": [
+          "Print reader, argument cards, classification cards, map, peer roles, critique protocol, feedback form, revision table, and oral prompts.",
+          "Arrange 24 learners as eight triads; use one 2-minute presentation and concise feedback cycles per student, or pairs if needed.",
+          "Read Tooze 407 in advance; present it as a contestable essay, not official course doctrine."
+        ],
+        "facilitation": [
+          "Keep attention on reasoning and evidence, not on voting for or against a label.",
+          "Ensure critique does not become a demand for false balance or a claim that all interpretations are equally supported.",
+          "If a student discusses a specific harm, use precise language and avoid replacing named actors or events with an abstract ‘crisis’."
+        ],
+        "answers": [
+          "The strongest answer may be conditional: the lens helps where it exposes evidenced interaction; it hinders where it obscures mechanisms, actors, perspective, or specific harm.",
+          "Tooze’s essay retains multiple explanatory approaches and warns against one universal method; do not simplify it as a complete rejection of polycrisis.",
+          "Statement ‘two events happened together, so one caused the other’ is an unsupported inference unless additional evidence establishes a mechanism."
+        ],
+        "misconceptions": [
+          "Critiquing the concept requires rejecting it everywhere.",
+          "Naming agency means ignoring structural constraints, or vice versa.",
+          "Being fair means treating every claim as equally evidenced."
+        ],
+        "differentiation": [
+          "Offer oral sentence frames and let a learner present a diagram rather than read prose; keep evidence challenges.",
+          "Extend by comparing the 2022 framing and 2025 essay directly and asking what changed in the object being described and in the author's vantage point."
+        ],
+        "extension": "Ask students to draft a short ‘when to use / when not to use’ rule for the class glossary, supported by one example and one counterexample."
+      }
+    },
+    "de": {
+      "title": "Den Begriff prüfen: Wann hilft ‘Polykrise’?",
+      "question": "Erklärt der Begriff Polykrise verbundene Ursachen – oder verdeckt er Handelnde, Entscheidungen und konkrete Schäden?",
+      "intro": "Das Wort ‘Polykrise’ kann auf Verbindungen zwischen Bereichen aufmerksam machen. Es kann aber auch ungenau sein, bewusste Entscheidungen wie anonyme Kräfte erscheinen lassen oder unterschiedliche Erfahrungen zu einer einzigen Weltkrise zusammenfassen. Heute prüfen wir den Begriff und überarbeiten unsere Erklärungen.",
+      "goals": [
+        "Eine begründete Kritik am Begriff wiedergeben, ohne sie als endgültiges Urteil zu behandeln.",
+        "Strukturelle Mechanismen, Entscheidungen konkreter Akteure und unterschiedliche Perspektiven unterscheiden.",
+        "Mit Rückmeldungen eine Projektaussage, Wirkungskarte oder Quellenplanung verbessern."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Einstieg: Etikett oder Erklärung?",
+          "task": "Lies die ‘Sortierkarten’. Ordne jede Aussage als Begriff, Mechanismus, Entscheidung eines Akteurs oder Folge ein. Erkläre eine Wahl einer Partnerin/einem Partner. Ergebnis: vier Markierungen."
+        },
+        {
+          "minutes": 15,
+          "title": "Lies Tooze’ Kritik",
+          "task": "Lies ‘Lesetext: Tooze prüft Polykrise (2025)’ und die ‘Argumentkarten’. Markiere Gründe, warum der Begriff hilft und warum er schaden kann. Ergebnis: zwei Argumente je Seite."
+        },
+        {
+          "minutes": 15,
+          "title": "Erstellt eine faire Argumentkarte",
+          "task": "Füllt zu dritt die ‘Zweiseitige Argumentkarte’ aus. Ergänzt einen Einwand und eine prüfbare Frage. Ergebnis: ausgefüllte Karte mit nötigen Belegen."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 20,
+          "title": "Projekt-Rückmelderunde",
+          "task": "Nutzt ‘Rollen für die Projektkritik’ und das ‘Kritik-Protokoll’. Eine Person erklärt zwei Minuten ihre Projektaussage; die anderen fragen nach Mechanismus, Akteur, Perspektive und Belegen. Wechselt, sodass mindestens drei Projekte Feedback erhalten. Ergebnis: ein Rückmeldeblatt pro präsentierter Person."
+        },
+        {
+          "minutes": 20,
+          "title": "Überarbeite das Projekt",
+          "task": "Überarbeite mit der ‘Überarbeitungstabelle’ und den gemeinsamen Projektkriterien eine Aussage, einen Pfeil, die Quellenplanung oder eine Diagrammdeutung. Ergebnis: Vorher-Nachher-Version und Erklärung der Verbesserung."
+        },
+        {
+          "minutes": 10,
+          "title": "Übe die mündliche Prüfung",
+          "task": "Nutzt die ‘Karten zur mündlichen Prüfung’. Eine Person stellt eine kritische Frage; die andere antwortet 60 Sekunden lang mit Beleg und Grenze. Dann tauschen. Ergebnis: eine verbesserte Antwortskizze."
+        },
+        {
+          "minutes": 5,
+          "title": "Abschluss und Hausübung",
+          "task": "Beantworte mit dem ‘Abschluss- und Hausübungszettel’, wann Polykrise bei deiner Frage hilft und wann der Begriff die Erklärung verdecken könnte. Ergebnis: eigene Antwort."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Lesetext: Tooze prüft Polykrise (2025)",
+          "html": "<h3>Zusammenfassung der Lehrkraft zu Adam Tooze, Chartbook 407 (6. September 2025)</h3><p>In diesem Essay fragt Tooze, ob ‘Polykrise’ die allgemeine Weltlage noch so gut beschreibt wie 2022. In bestimmten Situationen bleibt der Begriff für ihn relevant, aber weniger überzeugend als Beschreibung der gesamten Welt. Ein Problem: Ein allgemeiner Krisenbegriff kann ungenau sein. Er kann auf viele Kräfte zeigen, ohne ihre Bedeutung oder Verbindung genau zu erklären. Wo bestimmte Akteure Entscheidungen treffen, kann das Wort ‘Krise’ Handlung und Verantwortung verdecken. Tooze warnt außerdem, dass ein allgemeiner Begriff konkrete Schäden unsichtbar machen kann. Er liefert jedoch keine Methode, die für jeden Fall passt. Strukturen, Netzwerke und Erklärungen über konkrete Akteure können jeweils helfen – und haben jeweils blinde Flecken.</p><p>Für diesen Kurs ist der Essay ein Argument, das wir prüfen, keine endgültige Regel. Eine Polykrisen-Karte kann helfen, wenn sie einen bestimmten Zusammenhang zeigt, den eine Ein-Themen-Erklärung übersieht: Zum Beispiel kann eine Störung der Brennstoffversorgung Preise, öffentliche Budgets und den Wettbewerb zwischen Importländern beeinflussen. Die Karte wird schwach, wenn Pfeile nur zeitliche Nähe zeigen, wenn sie Entscheidungen als unsichtbare Kräfte darstellt oder wenn sie so tut, als erlebten alle Menschen dieselbe Krise gleich. Frage, wessen Blick genutzt wird, wessen Handlungen genannt werden und wessen Erfahrungen fehlen.</p><p>Eine gute Untersuchung kann mehrere Ansätze verbinden. Sie kann eine strukturelle Grenze erklären, die Personen oder Institutionen nennen, die darin entscheiden, und Folgen für verschiedene Gruppen vergleichen. Sie soll sagen, welche Belege jede Verbindung stützen und was unsicher bleibt. Die Frage ist nicht, ob ‘Polykrise’ immer richtig oder immer falsch ist. Entscheidend ist, ob das Wort genau diese Erklärung besser macht als eine genauere Beschreibung.</p>"
+        },
+        {
+          "title": "Sortierkarten",
+          "html": "<ul><li>‘Eine Dürre verringerte in einer bestimmten Region in einer bestimmten Saison die Ernte.’</li><li>‘Höhere Importkosten erhöhten den Druck auf das Staatsbudget.’</li><li>‘Die Regierung wählte einen Zuschuss statt gezielter Geldhilfen.’</li><li>‘Ländliche Haushalte und Betriebe in Städten erlebten den Preisanstieg unterschiedlich.’</li><li>‘Alles hängt zusammen, also kann niemand verantwortlich sein.’</li><li>‘Zwei Ereignisse passierten gleichzeitig, also verursachte das eine das andere.’</li></ul><p>Ordne jede Aussage vor allem als Begriff, Mechanismus, Entscheidung, Folge oder unbelegte Schlussfolgerung ein. Eine Aussage kann zu mehreren Kategorien passen. Erkläre deine Wahl und nenne fehlende Belege.</p>"
+        },
+        {
+          "title": "Argumentkarten",
+          "html": "<table><caption>Zusammenfassung der Argumente, keine Zitate</caption><thead><tr><th>Polykrise kann helfen, wenn …</th><th>Polykrise kann schaden, wenn …</th></tr></thead><tbody><tr><td>der Begriff verbundene wirtschaftliche, politische, ökologische oder gesundheitliche Prozesse sichtbar macht.</td><td>er viele Kräfte nennt, ohne Mechanismus oder Belege zu erklären.</td></tr><tr><td>er Folgen über Gruppen oder Grenzen hinweg verfolgt.</td><td>er unterschiedliche Erfahrungen und ungleiche Betroffenheit zu einer einzigen Sicht zusammenfasst.</td></tr><tr><td>er Unsicherheit und Grenzen der Vorhersage anerkennt.</td><td>bewusste Entscheidungen bestimmter Akteure wie anonyme Naturereignisse klingen.</td></tr><tr><td>er eine größere Frage stellt als eine Ein-Themen-Erklärung.</td><td>er zum Schlagwort wird oder konkrete Schäden mit einem allgemeinen Begriff verdeckt.</td></tr></tbody></table><p>Ergänzt zu jeder Zeile ein Beispiel und einen Beleg, den ihr bräuchtet.</p>"
+        },
+        {
+          "title": "Zweiseitige Argumentkarte",
+          "html": "<table><caption>Prüft den Begriff, statt über ihn abzustimmen</caption><thead><tr><th>Frage</th><th>Antwort und Beispiel</th><th>Nötige Belege</th></tr></thead><tbody><tr><td>Welche Verbindung macht der Polykrisen-Blick sichtbar?</td><td></td><td></td></tr><tr><td>Welcher Mechanismus stützt diese Verbindung?</td><td></td><td></td></tr><tr><td>Welcher Akteur oder welche Institution trifft eine wichtige Entscheidung?</td><td></td><td></td></tr><tr><td>Welche Perspektive fehlt oder unterscheidet sich?</td><td></td><td></td></tr><tr><td>Welche genauere Beschreibung wäre möglich?</td><td></td><td></td></tr><tr><td>Wann erklärt der Begriff mehr als eine genauere Beschreibung?</td><td></td><td></td></tr><tr><td>Welcher Gegenfall oder neue Beleg könnte unsere Antwort ändern?</td><td></td><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Rollen für die Projektkritik",
+          "html": "<ul><li><strong>Vortragende Person:</strong> Erklärt Frage, vorläufige Aussage und einen Mechanismus in zwei Minuten.</li><li><strong>Mechanismus-Prüfung:</strong> Fragt, welcher Beleg einen Pfeil stützt und ob es eine andere Ursache gibt.</li><li><strong>Handlungs-Prüfung:</strong> Fragt, welche Person, Institution oder Gruppe entschieden hat und welche Grenzen sie hatte.</li><li><strong>Perspektiven-Prüfung:</strong> Fragt, wer Kosten trägt und wer fehlt.</li><li><strong>Beleg-Prüfung:</strong> Fragt, welche Quelle, welches Datum, welche Einheit oder Gegenanalyse noch nötig ist.</li></ul><p>Wechselt die Rollen. Kritisiert die Erklärung, nicht die Person. Verlangt keine persönlichen Angaben.</p>"
+        },
+        {
+          "title": "Kritik-Protokoll",
+          "html": "<ol><li>Die vortragende Person erklärt das Projekt zwei Minuten ohne Unterbrechung.</li><li>Die anderen notieren eine Minute lang Aussage, Mechanismus, Akteur und betroffene Gruppe.</li><li>Stellt je eine Frage: ‘Woher weißt du das?’, ‘Wer hat entschieden?’, ‘Wer erlebt es anders?’, ‘Was könnte es noch erklären?’</li><li>Die vortragende Person antwortet und nennt eine Unsicherheit.</li><li>Die anderen nennen eine Stärke und eine konkrete Überarbeitung. Die Person notiert, was sie ändert.</li></ol><p>Nutzt die gemeinsamen Projektkriterien. Bei 24 Lernenden: acht Dreiergruppen; drei Präsentationen zu je zwei Minuten plus kurze Rückmeldungen passen in 20 Minuten, wenn jede Rückmeldung knapp bleibt. Sonst in Paaren arbeiten und die Lehrkraft geht herum.</p>"
+        },
+        {
+          "title": "Rückmeldeblatt",
+          "html": "<p><strong>Person/Forschungsfrage:</strong> …</p><ul><li>Die Aussage, die ich gehört habe: …</li><li>Stärkster Mechanismus und Beleg: …</li><li>Ein Pfeil oder Schluss, der noch geprüft werden sollte: …</li><li>Akteur/Entscheidung und Grenze genauer nennen: …</li><li>Welche Perspektive könnte fehlen? …</li><li>Alternative Erklärung oder andere Quelle: …</li><li>Eine konkrete Überarbeitung: …</li></ul><p><strong>Rückblick der vortragenden Person:</strong> Ich überarbeite …, weil … / Ich behalte … bei, weil die Belege es stützen.</p>"
+        },
+        {
+          "title": "Überarbeitungstabelle",
+          "html": "<table><caption>Ändere sichtbar und begründet eine Sache</caption><thead><tr><th>Vorher</th><th>Was die Rückmeldung gezeigt hat</th><th>Nachher</th><th>Warum ist es stärker?</th></tr></thead><tbody><tr><td>Aussage, Pfeil, Quelle oder Diagrammdeutung</td><td></td><td></td><td>Genauer / besser belegt / Akteur oder Gruppe klarer / Unsicherheit fairer</td></tr></tbody></table><p>Mögliche Änderung: Zeitraum eingrenzen; ‘verursacht’ vorsichtiger formulieren; fehlenden Akteur ergänzen; Aussage begrenzen; eine Datenreihe suchen; beobachtetes Muster und Erklärung trennen.</p>"
+        },
+        {
+          "title": "Karten zur mündlichen Prüfung",
+          "html": "<ul><li>Welcher Beleg stützt deine Hauptaussage am stärksten?</li><li>Welche Verbindung ist am unsichersten und warum?</li><li>Was ist die beste andere Erklärung?</li><li>Wer profitiert von deiner bevorzugten Maßnahme und wer trägt Kosten?</li><li>Was fügt das Wort ‘Polykrise’ deiner Erklärung hinzu?</li><li>Welcher genauere Begriff könnte es ersetzen?</li><li>Welcher neue Beleg würde deine Meinung ändern?</li></ul><p>60-Sekunden-Aufbau: direkt antworten; Beleg nennen; Mechanismus erklären; eine Grenze angeben.</p>"
+        },
+        {
+          "title": "Abschluss- und Hausübungszettel",
+          "html": "<h3>Abschluss</h3><ol><li>Wann hilft der Polykrisen-Blick bei deinem Projekt?</li><li>Wann kann der Begriff mehr verdecken als erklären?</li></ol><h3>Hausübung (20–25 Minuten)</h3><p>Ergänze 200–300 Wörter oder einen zweiten Belegabsatz mit deinem überarbeiteten Absatz, Diagramm und Quellenprotokoll. Prüfe Gegenanalyse und Quellenangaben. Bring einen vollständigen Arbeitsentwurf oder deutlich markierte offene Abschnitte zur 16. Stunde.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adam Tooze, Chartbook 407: Polycrisis revisited: Are we beyond Neoliberal Order Breakdown Syndrome?",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "6. September 2025",
+          "use": "Kernlektüre; die Zusammenfassung der Lehrkraft gibt die Kritik und Einschränkungen sinngemäß wieder."
+        },
+        {
+          "title": "Adam Tooze, Chartbook 130: Defining polycrisis",
+          "url": "https://adamtooze.com/2022/06/24/chartbook-130-defining-polycrisis-from-crisis-pictures-to-the-crisis-matrix/",
+          "date": "24. Juni 2022",
+          "use": "Optionale Gegenüberstellung mit der früheren Krisenmatrix."
+        },
+        {
+          "title": "Mackenzie and Sahay, An Introduction, The Polycrisis / Phenomenal World archive",
+          "url": "https://archive.phenomenalworld.org/analysis/an-introduction/",
+          "date": "2022; Archivseite abgerufen am 6. Oktober 2026",
+          "use": "Ergänzender Ansatz zu Verbindungen und politischer Ökonomie."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschweg mit Englischbrücke.</strong> Lies den selbst verfassten Kurztext; er ist kein Zitat: <em>‘A broad crisis label can help us see connections. But it can also hide who made a decision or who is affected. We should name the mechanism, check evidence and ask whose point of view is missing. The word is useful only if it improves this explanation.’</em></p><p>Beantworte auf Deutsch: (1) Wie kann ein allgemeiner Begriff helfen? (2) Was kann er verdecken? (3) Welche drei Prüfungen nennt der Text? Nutze danach den deutschen Tooze-Text und die Argumentkarte. Du musst Tooze weder zustimmen noch widersprechen; wichtig sind Belege und eine begründete Antwort.</p><p><strong>Glossar:</strong> structure = Struktur/Rahmenbedingung; agency = Handlungsmacht; actor = Akteur; vantage point = Blickwinkel; attribution = Zuordnung von Handlungen; euphemism = beschönigender Ausdruck; evidence = Beleg.</p>",
+      "submission": "Einzelne Überarbeitungsnotiz mit 150–200 Wörtern und einem Vorher-Nachher-Ausschnitt aus Aussage, Karte oder Quellenplan. Erkläre die Rückmeldung, die Belege zur Änderung und die verbleibende Unsicherheit. Nutze den gemeinsamen Kurs-Projektplan. Zustimmung zu Tooze ist kein Bewertungskriterium.",
+      "exit": [
+        "Wann hilft der Polykrisen-Blick bei deinem Projekt?",
+        "Wann kann der Begriff mehr verdecken als erklären?"
+      ],
+      "homework": "Projektentwurf (20–25 Minuten): Ergänze mit dem überarbeiteten Absatz, Diagramm und Quellenprotokoll die nächsten 200–300 Wörter oder einen zweiten Belegabsatz. Prüfe die gemeinsamen Projektkriterien, besonders Gegenanalyse und Quellenangaben. Bring zur 16. Stunde einen vollständigen Arbeitsentwurf oder klar markierte offene Abschnitte mit. Nutze die von der Lehrkraft vorgesehene weitere Projektzeit zum Fertigstellen.",
+      "teacher": {
+        "preparation": [
+          "Lesetext, Argument- und Sortierkarten, Rollen, Protokoll, Feedbackblatt, Überarbeitungstabelle und Prüfungsfragen ausdrucken.",
+          "24 Lernende in acht Dreiergruppen einteilen; kurze Redezeiten einhalten.",
+          "Tooze 407 vorab lesen; als diskutierbaren Essay, nicht als Kursvorschrift darstellen."
+        ],
+        "facilitation": [
+          "Über Belege und Erklärung sprechen, nicht über eine Abstimmung für oder gegen ein Wort.",
+          "Kritik nicht in künstliche Ausgewogenheit oder Gleichwertigkeit aller Behauptungen verwandeln.",
+          "Bei konkreten Schäden genaue Sprache nutzen und benannte Akteure nicht durch ‘Krise’ ersetzen."
+        ],
+        "answers": [
+          "Eine gute Antwort kann bedingt sein: hilfreich bei belegten Zusammenhängen, hinderlich, wenn Mechanismen, Handelnde, Perspektiven oder konkrete Schäden verschwinden.",
+          "Tooze lehnt nicht alle Polykrisen-Analysen ab; er warnt vor einer einzigen Methode für jeden Fall.",
+          "Die Aussage ‘Zwei Dinge passierten gleichzeitig, also verursachte das eine das andere’ ist ohne weitere Belege ein Fehlschluss."
+        ],
+        "misconceptions": [
+          "Kritik am Begriff heiße, ihn überall abzulehnen.",
+          "Akteure zu nennen bedeute, strukturelle Grenzen zu ignorieren – oder umgekehrt.",
+          "Fairness bedeute, alle Aussagen als gleich gut belegt zu behandeln."
+        ],
+        "differentiation": [
+          "Satzanfänge anbieten und statt eines Textes eine Karte präsentieren lassen; Belegfragen bleiben bestehen.",
+          "Vertiefung: Tooze 2022 und 2025 vergleichen: Was hat sich in der beschriebenen Lage und im Blickwinkel verändert?"
+        ],
+        "extension": "Eine kurze Regel für das Klassenglossar formulieren lassen: ‘Nutze Polykrise, wenn …; beschreibe genauer, wenn …’ mit Beispiel und Gegenbeispiel."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "en": {
+      "title": "Student Chartbook conference",
+      "question": "What can our investigations explain, and what remains uncertain?",
+      "intro": "We share the semester’s investigations in a Chartbook conference. Every student speaks, every project receives a question, and each student completes an individual oral defence and reflection. The goal is clear reasoning and honest limits, not a polished claim of certainty.",
+      "goals": [
+        "Communicate a bounded research question, mechanism, evidence, and conclusion clearly.",
+        "Answer a challenge by using evidence and acknowledging limits.",
+        "Reflect individually on how the investigation or concept changed during the semester."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Set up and rehearse",
+          "task": "Use ‘Conference checklist’ to set up charts and source labels. In each group of four, the two project partners rehearse a two-minute presentation using ‘Presentation frame’. Deliverable: checked display and timed rehearsal."
+        },
+        {
+          "minutes": 15,
+          "title": "Group-of-four project conference",
+          "task": "In six groups of four (normally two pairs), each pair gives one two-minute project presentation, then takes one minute for a question and response. Use ‘Audience evidence card’. Repeat for the second pair; use remaining time to complete peer notes. Deliverable: both projects heard and each presenter receives a question."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 40,
+          "title": "Single-teacher individual oral defences",
+          "task": "The teacher calls students one at a time for exactly 100 seconds each: two short answers of 40 seconds each, plus 20 seconds for the teacher to note evidence and transition. For 24 students, 24 × 100 seconds = 40 minutes. Use ‘Oral defence cards’; each student draws or is assigned two prepared questions. Everyone waiting completes the supplied ‘Independent chart and source audit’ using a project chart/source sheet from their group. Deliverable: 24 individual teacher-heard defences and one audit per student. If the class has more than 24 students, continue the remaining defences in the next lesson; do not add assumed staff."
+        },
+        {
+          "minutes": 15,
+          "title": "Whole-class Chartbook synthesis",
+          "task": "Use ‘Conference synthesis board’. Add one finding, one disagreement or variation, one shared mechanism, and one unanswered question from the projects. Deliverable: shared synthesis with project titles/initials, not personal disclosures."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual course reflection",
+          "task": "Use ‘Final reflection form’ and the common course project rubric/planner. Revisit your first-week map and write what you would keep, redraw, or remove, with a reason. Deliverable: individual reflection."
+        },
+        {
+          "minutes": 5,
+          "title": "Exit",
+          "task": "Answer the two questions on ‘Exit and follow-up’. Deliverable: individual response."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Presentation frame",
+          "html": "<p>Prepare a 2-minute pair presentation; divide the steps so both partners speak. Use this order:</p><ol><li><strong>Question:</strong> I investigated … in/among … during …</li><li><strong>Why it matters:</strong> This matters because …</li><li><strong>Mechanism:</strong> One proposed connection is A → B because …</li><li><strong>Evidence:</strong> My strongest evidence is … (source/date/unit); chart … shows …</li><li><strong>Competing account or response:</strong> Another explanation/response is …</li><li><strong>Conclusion and limit:</strong> I conclude …, but I cannot establish …</li><li><strong>Polycrisis test:</strong> The concept helps/does not help here because …</li></ol><p>Point to the axis titles and units when using a chart. Do not read every number aloud.</p>"
+        },
+        {
+          "title": "Conference checklist",
+          "html": "<ul><li>Question is visible and bounded by place/group and time.</li><li>2–3 charts have title, axes, units, dates, source, and a brief caveat.</li><li>At least four sources are listed, including independent evidence and a contrasting analysis, following the course project rubric/planner.</li><li>Any adapted chart labels or translated text are identified.</li><li>Names and personal information are omitted unless they are published, relevant, and necessary.</li><li>Presentation fits two minutes; every partner speaks and can answer about the project as a whole.</li></ul><p>In the conference round, present as a pair for two minutes; each partner must speak. The oral defence is individual.</p>"
+        },
+        {
+          "title": "Audience evidence card",
+          "html": "<p><strong>Presenter/project:</strong> …</p><ul><li>Question and case I heard: …</li><li>Most convincing evidence (source/unit/date): …</li><li>Mechanism explained: …</li><li>One question I asked: …</li><li>What the project says it cannot establish: …</li><li>One idea I can use in another case: …</li></ul><p>Ask about reasoning, evidence, definitions, or limits. Do not ask classmates to reveal household finances or personal/family experiences.</p>"
+        },
+        {
+          "title": "Oral defence cards",
+          "html": "<h3>Each student answers two questions individually</h3><ul><li>What is the strongest evidence for your conclusion? Give its source and explain what it measures.</li><li>Which link in your explanation is most uncertain?</li><li>What is the strongest alternative explanation or contrasting analysis?</li><li>Who makes a key decision in this case, and what constrains that actor?</li><li>Who experiences the costs or benefits differently?</li><li>Does ‘polycrisis’ improve your explanation? Why or why not?</li><li>What evidence would make you change your conclusion?</li><li>Which response option did you compare, and what trade-off did you find?</li></ul><p>Answer structure: direct answer → evidence → reasoning → limit. Students may keep a small source card with titles, units, and dates, but not a written speech.</p>"
+        },
+        {
+          "title": "Conference synthesis board",
+          "html": "<table><caption>Build a shared chartbook from project findings</caption><thead><tr><th>Bounded finding (project title/initials)</th><th>Mechanism identified</th><th>Who is affected differently?</th><th>Uncertainty or disagreement</th><th>Possible response / trade-off</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p>Record conclusions as claims with scope, not universal laws. Different projects may disagree because they examine different periods, groups, data, or mechanisms.</p>"
+        },
+        {
+          "title": "Final reflection form",
+          "html": "<ol><li>My week-one map showed …</li><li>I would now keep, redraw, or remove … because …</li><li>A mechanism I can explain more clearly now is …</li><li>A source or chart that changed or qualified my view was …</li><li>The best challenge to my project was …; I responded by …</li><li>For this case, ‘polycrisis’ is useful/not useful/partly useful because …</li><li>One unanswered question I would investigate next is …</li></ol><p>Use the common course project rubric/planner to check whether your final submission and individual oral defence are complete.</p>"
+        },
+        {
+          "title": "Exit and follow-up",
+          "html": "<h3>Exit questions</h3><ol><li>What is one claim you can now make more carefully than in week one?</li><li>What is one question you would keep investigating after this course?</li></ol><h3>Follow-up task (15–20 minutes)</h3><p>Make any final correction to a chart citation or source log after the conference. If the project is already complete, write a 100-word note explaining which audience question most improved your explanation.</p>"
+        },
+        {
+          "title": "Independent chart and source audit",
+          "html": "<p>Complete this individually while the teacher hears oral defences. Use one project chart and its source note from your conference group.</p><ol><li>Write the chart title and exact question it helps answer.</li><li>Record x-axis, y-axis, units, dates, and source.</li><li>Describe one pattern in one sentence without claiming a cause.</li><li>What does the chart not measure or prove?</li><li>Write one question for the project author about the source or interpretation.</li><li>Check the source note: who produced it, when, what method/type is it, and one limitation?</li></ol><p>This is an individual evidence-reading task, not a substitute for your own oral defence.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adam Tooze, Chartbook 407: Polycrisis revisited",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "6 September 2025",
+          "use": "Optional point of comparison in student reflection on the concept."
+        }
+      ],
+      "languageSupport": "<p><strong>English pathway.</strong> Deliver the conference in English. You may put a concise German phrase beside an Austrian institution or policy term, then explain its meaning in English. Keep a small bilingual glossary card for terms such as exposure/Betroffenheit, trade-off/Zielkonflikt, and evidence/Beleg. Original-reading extension: return to the assigned short passage from Chartbook 407 (lesson 15) and use one exact idea from it, paraphrased in your own English, to evaluate your case. If a question is unclear, ask for it to be repeated or rephrased; the oral defence assesses subject reasoning separately from fluency.</p>",
+      "submission": "Final individual or pair investigation, 1,000–1,200 words, with 2–3 charts and at least four sources including independent evidence and a contrasting analysis, as specified in the course project rubric/planner. Each learner also completes a teacher-heard individual oral defence and a 150–200 word reflection. For 24 learners, the 40-minute block provides 100 seconds per learner; larger classes continue in the next lesson. Submit through the teacher’s assignment platform or on paper; the website does not collect work. Success criteria: bounded claim, explained mechanisms, evidence with units/dates, affected groups and power, comparison of responses, uncertainty/limits, and accurate sources.",
+      "exit": [
+        "What is one claim you can now make more carefully than in week one?",
+        "What is one question you would keep investigating after this course?"
+      ],
+      "homework": "In 15–20 minutes, correct a chart citation or source log after the conference. If already complete, write 100 words explaining which audience question most improved your explanation.",
+      "teacher": {
+        "preparation": [
+          "Arrange six groups of four for the conference; normally each group contains two project pairs. Prepare each pair's two-minute presentation order.",
+          "With one teacher, conduct individual defences sequentially: 24 students × 100 seconds = 40 minutes. Use a visible timer and prepared question cards; students waiting complete the supplied independent chart/source audit. For a larger class, continue defences next lesson. For accessibility needs, arrange an individual alternative response to be assessed later; do not assume another teacher is available.",
+          "Print conference checklist, audience cards, oral cards, chart/source audit, synthesis board, reflection and exit slips. Check final drafts against the common course rubric/planner."
+        ],
+        "facilitation": [
+          "Keep the presentation schedule visible and enforce kind, evidence-focused questions.",
+          "For paired projects, ask each learner a different individual defence question; each must know the project as a whole.",
+          "Assess subject reasoning and English fluency separately where language development is an explicit course aim."
+        ],
+        "answers": [
+          "There is no single correct project conclusion. Strong answers identify the evidence's scope and unit, explain one mechanism, and identify a limit.",
+          "Students may conclude the polycrisis concept is useful, partly useful, or unhelpful, if their reasoning fits the case and evidence.",
+          "An uncertainty is not a failure; unsupported certainty is a weakness.",
+          "For 24 learners, a sequential teacher-heard defence is feasible at 100 seconds each (two 40-second answers plus 20 seconds for notes/transition); the independent audit keeps waiting students on a supplied task."
+        ],
+        "misconceptions": [
+          "A visually attractive chart is automatically valid: check axes, definitions, dates, and source.",
+          "A project with four sources is automatically balanced: source type, independence, relevance, and method matter.",
+          "Oral defence is a memory test: it should probe reasoning and evidence, with a source card available."
+        ],
+        "differentiation": [
+          "Offer presenter notes with keywords, advance access to question cards, and an alternate presentation format where needed.",
+          "Extension: ask students to propose one follow-up study design, identifying a new dataset and what causal claim it could test."
+        ],
+        "extension": "Compile the synthesis board into a class Chartbook using only student-approved project titles and public sources. Keep it as a classroom artifact unless students and teacher choose otherwise."
+      }
+    },
+    "de": {
+      "title": "Schüler:innen-Chartbook-Konferenz",
+      "question": "Was können unsere Untersuchungen erklären – und was bleibt unsicher?",
+      "intro": "Wir stellen die Untersuchungen des Semesters in einer Chartbook-Konferenz vor. Jede Person spricht, jedes Projekt erhält eine Frage, und alle machen eine persönliche mündliche Prüfung und Rückschau. Ziel sind klare Erklärungen und ehrliche Grenzen, keine scheinbare Sicherheit.",
+      "goals": [
+        "Eine begrenzte Forschungsfrage, einen Mechanismus, Belege und ein Ergebnis klar vorstellen.",
+        "Eine kritische Frage mit Belegen beantworten und Grenzen nennen.",
+        "Persönlich reflektieren, wie sich Untersuchung oder Begriff im Semester verändert haben."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Aufbau und Probe",
+          "task": "Richte Diagramme und Quellenangaben mit der ‘Konferenz-Checkliste’ her. Übt in Vierergruppen als Projektpaare einen Vortrag von zwei Minuten mit dem ‘Vortragsrahmen’. Ergebnis: geprüfte Darstellung und Probe mit Zeitmessung."
+        },
+        {
+          "minutes": 15,
+          "title": "Projektkonferenz in Vierergruppen",
+          "task": "In sechs Vierergruppen (meist zwei Projektpaare) stellt jedes Paar sein Projekt zwei Minuten vor; danach gibt es eine Minute für Frage und Antwort. Nutzt die ‘Zuhörerkarte’. Dann stellt das zweite Paar vor; die übrige Zeit ist für Notizen. Ergebnis: beide Projekte wurden gehört und jede präsentierende Person erhält eine Frage."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 40,
+          "title": "Persönliche mündliche Prüfung mit einer Lehrkraft",
+          "task": "Die Lehrkraft ruft eine Person nach der anderen für genau 100 Sekunden auf: zwei kurze Antworten zu je 40 Sekunden, dazu 20 Sekunden für Notiz und Wechsel. Bei 24 Lernenden sind 24 × 100 Sekunden genau 40 Minuten. Nutzt ‘Karten zur mündlichen Prüfung’; jede Person zieht zwei vorbereitete Fragen oder erhält sie von der Lehrkraft. Alle Wartenden füllen die bereitgestellte ‘Selbstständige Prüfung eines Diagramms und einer Quelle’ mit einem Projektblatt aus ihrer Gruppe aus. Ergebnis: 24 persönliche, von der Lehrkraft angehörte Prüfungen und ein Prüfblatt pro Person. Bei mehr als 24 Lernenden werden die übrigen Prüfungen in der nächsten Stunde fortgesetzt; zusätzliches Personal wird nicht vorausgesetzt."
+        },
+        {
+          "minutes": 15,
+          "title": "Gemeinsame Chartbook-Auswertung",
+          "task": "Ergänzt die ‘Tafel zur Konferenz-Auswertung’: eine Erkenntnis, eine Meinungsverschiedenheit, einen gemeinsamen Mechanismus und eine offene Frage. Ergebnis: gemeinsame Übersicht mit Projekttiteln/Initialen, ohne persönliche Angaben."
+        },
+        {
+          "minutes": 10,
+          "title": "Persönliche Kurs-Rückschau",
+          "task": "Nutzt das ‘Rückblickblatt’ und die gemeinsamen Kurs-Projektkriterien. Vergleiche deine Karte aus der ersten Stunde: Was würdest du behalten, neu zeichnen oder entfernen – und warum? Ergebnis: persönliche Rückschau."
+        },
+        {
+          "minutes": 5,
+          "title": "Abschluss",
+          "task": "Beantworte die zwei Fragen auf ‘Abschluss und Weiterarbeit’. Ergebnis: eigene Antwort."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Vortragsrahmen",
+          "html": "<p>Bereitet einen Vortrag von zwei Minuten als Paar vor und teilt die Teile so auf, dass beide sprechen:</p><ol><li><strong>Frage:</strong> Ich habe … an/in … im Zeitraum … untersucht.</li><li><strong>Bedeutung:</strong> Das ist wichtig, weil …</li><li><strong>Mechanismus:</strong> Ein möglicher Zusammenhang ist A → B, weil …</li><li><strong>Beleg:</strong> Mein stärkster Beleg ist … (Quelle/Datum/Einheit); Diagramm … zeigt …</li><li><strong>Andere Erklärung oder Maßnahme:</strong> Eine andere Erklärung/Maßnahme lautet …</li><li><strong>Ergebnis und Grenze:</strong> Ich komme zum Schluss …, kann aber nicht zeigen, dass …</li><li><strong>Prüfung von Polykrise:</strong> Der Begriff hilft/hilft nicht, weil …</li></ol><p>Zeige bei Diagrammen Achsentitel und Einheiten. Lies nicht jede Zahl vor.</p>"
+        },
+        {
+          "title": "Konferenz-Checkliste",
+          "html": "<ul><li>Die Frage ist sichtbar und durch Ort/Gruppe und Zeitraum begrenzt.</li><li>2–3 Diagramme haben Titel, Achsen, Einheiten, Daten, Quelle und einen Hinweis auf Grenzen.</li><li>Mindestens vier Quellen sind genannt, darunter unabhängige Belege und eine andere Analyse gemäß den Kurs-Projektkriterien.</li><li>Übernommene Diagramme und Übersetzungen sind gekennzeichnet.</li><li>Namen und persönliche Daten fehlen, außer sie sind veröffentlicht, relevant und nötig.</li><li>Der Vortrag dauert zwei Minuten; bei Paararbeit sprechen beide und können das ganze Projekt erklären.</li></ul><p>In der Konferenz stellt ihr als Paar zwei Minuten vor; beide Personen sprechen. Die mündliche Prüfung bleibt individuell.</p>"
+        },
+        {
+          "title": "Zuhörerkarte",
+          "html": "<p><strong>Vortrag/Frage:</strong> …</p><ul><li>Frage und Fall, die ich gehört habe: …</li><li>Überzeugendster Beleg (Quelle/Einheit/Datum): …</li><li>Erklärter Mechanismus: …</li><li>Meine Frage: …</li><li>Was kann das Projekt laut eigener Aussage nicht zeigen? …</li><li>Eine Idee, die ich für einen anderen Fall mitnehme: …</li></ul><p>Frage nach Begründung, Belegen, Definition oder Grenze. Frage niemanden nach Geld oder persönlichen Erlebnissen in der Familie.</p>"
+        },
+        {
+          "title": "Karten zur mündlichen Prüfung",
+          "html": "<h3>Jede Person beantwortet zwei Fragen allein</h3><ul><li>Welcher Beleg stützt dein Ergebnis am stärksten? Nenne Quelle und erkläre, was gemessen wird.</li><li>Welche Verbindung deiner Erklärung ist am unsichersten?</li><li>Was ist die stärkste alternative Erklärung oder Gegenanalyse?</li><li>Wer trifft eine wichtige Entscheidung und welche Grenzen hat dieser Akteur?</li><li>Wer erlebt Kosten oder Vorteile anders?</li><li>Verbessert ‘Polykrise’ deine Erklärung? Warum oder warum nicht?</li><li>Welcher Beleg könnte dich umstimmen?</li><li>Welche Maßnahme hast du verglichen und welchen Zielkonflikt gefunden?</li></ul><p>Antwortaufbau: direkte Antwort → Beleg → Begründung → Grenze. Eine kleine Karte mit Quellentiteln, Einheiten und Daten ist erlaubt, aber kein ausformulierter Vortrag.</p>"
+        },
+        {
+          "title": "Tafel zur Konferenz-Auswertung",
+          "html": "<table><caption>Erstellt ein gemeinsames Chartbook aus den Projekten</caption><thead><tr><th>Begrenzte Erkenntnis (Projekttitel/Initialen)</th><th>Erkannter Mechanismus</th><th>Wer ist unterschiedlich betroffen?</th><th>Unsicherheit oder Streitpunkt</th><th>Mögliche Maßnahme/Zielkonflikt</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p>Schreibt Ergebnisse mit ihrem Geltungsbereich auf, nicht als allgemeine Gesetze. Projekte können sich unterscheiden, weil sie andere Zeiträume, Gruppen, Daten oder Mechanismen untersuchen.</p>"
+        },
+        {
+          "title": "Rückblickblatt",
+          "html": "<ol><li>Meine Karte aus der ersten Stunde zeigte …</li><li>Heute würde ich … behalten, neu zeichnen oder entfernen, weil …</li><li>Einen Mechanismus kann ich jetzt besser erklären: …</li><li>Eine Quelle oder ein Diagramm, das meine Sicht veränderte oder einschränkte: …</li><li>Die beste kritische Frage zu meinem Projekt war …; ich reagierte darauf mit …</li><li>Für diesen Fall ist ‘Polykrise’ hilfreich/nicht hilfreich/teilweise hilfreich, weil …</li><li>Eine offene Frage für eine nächste Untersuchung ist …</li></ol><p>Prüfe mit den gemeinsamen Projektkriterien, ob Abschlussarbeit und persönliche mündliche Prüfung fertig sind.</p>"
+        },
+        {
+          "title": "Abschluss und Weiterarbeit",
+          "html": "<h3>Abschlussfragen</h3><ol><li>Welche Aussage kannst du jetzt genauer formulieren als in der ersten Stunde?</li><li>Welche Frage würdest du nach dem Kurs weiter untersuchen?</li></ol><h3>Weiterarbeit (15–20 Minuten)</h3><p>Korrigiere nach der Konferenz eine Quellenangabe in einem Diagramm oder im Quellenprotokoll. Wenn alles fertig ist, schreibe 100 Wörter dazu, welche Frage aus dem Publikum deine Erklärung am meisten verbessert hat.</p>"
+        },
+        {
+          "title": "Selbstständige Prüfung eines Diagramms und einer Quelle",
+          "html": "<p>Bearbeite diese Aufgabe allein, während die Lehrkraft mündliche Prüfungen anhört. Nutze ein Projekt-Diagramm und den Quellenhinweis aus deiner Konferenzgruppe.</p><ol><li>Schreibe den Diagrammtitel und die genaue Frage auf, bei der es hilft.</li><li>Notiere x-Achse, y-Achse, Einheiten, Daten und Quelle.</li><li>Beschreibe ein Muster in einem Satz, ohne eine Ursache zu behaupten.</li><li>Was misst oder beweist das Diagramm nicht?</li><li>Schreibe eine Frage an die Projektperson zur Quelle oder Deutung.</li><li>Prüfe den Quellenhinweis: Wer erstellte ihn, wann, mit welcher Methode/Textsorte und welcher Grenze?</li></ol><p>Diese Aufgabe prüft Beleglesen und ersetzt nicht deine persönliche mündliche Prüfung.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adam Tooze, Chartbook 407: Polycrisis revisited",
+          "url": "https://adamtooze.substack.com/p/chartbook-407-polycrisis-revisited",
+          "date": "6. September 2025",
+          "use": "Optionale Bezugnahme in der persönlichen Reflexion zum Begriff."
+        }
+      ],
+      "languageSupport": "<p><strong>Deutschweg mit Englischbrücke.</strong> Lies diesen selbst verfassten Kurztext; er ist kein Zitat: <em>‘A chart needs a title, dates and units. It can show a pattern, but it cannot explain every cause. In a presentation, say what the evidence supports and what remains uncertain. A good answer can be careful and still be clear.’</em></p><p>Beantworte auf Deutsch: (1) Was braucht ein gutes Diagramm? (2) Was kann es allein nicht erklären? (3) Wie kann eine vorsichtige Antwort trotzdem klar sein? Nutze anschließend den Vortragsrahmen. Wer möchte, kann die ersten 30 Sekunden des Vortrags auf Englisch üben; die mündliche Prüfung wird in dieser Variante auf Deutsch durchgeführt.</p><p><strong>Glossar:</strong> chart = Diagramm; unit = Einheit; pattern = Muster; evidence = Beleg; uncertainty = Unsicherheit; trade-off = Zielkonflikt; claim = Aussage.</p>",
+      "submission": "Abschlussarbeit einzeln oder zu zweit: 1.000–1.200 Wörter, 2–3 Diagramme, mindestens vier Quellen mit unabhängigen Belegen und einer anderen Analyse entsprechend den Kurskriterien. Zusätzlich eine von der Lehrkraft angehörte persönliche mündliche Prüfung und Rückschau mit 150–200 Wörtern. Bei 24 Lernenden umfasst der Prüfungsblock 100 Sekunden pro Person; größere Klassen setzen die Prüfungen in der nächsten Stunde fort. Papier oder Aufgabenplattform der Lehrkraft; die Website nimmt keine Antworten an. Kriterien: begrenzte Aussage, erklärte Mechanismen, Belege mit Einheiten/Daten, betroffene Gruppen und Macht, Vergleich von Maßnahmen, Unsicherheit/Grenzen und korrekte Quellen.",
+      "exit": [
+        "Welche Aussage kannst du jetzt genauer formulieren als in der ersten Stunde?",
+        "Welche Frage würdest du nach dem Kurs weiter untersuchen?"
+      ],
+      "homework": "Korrigiere in 15–20 Minuten eine Diagrammquelle oder einen Protokolleintrag nach der Konferenz. Wenn alles fertig ist, schreibe 100 Wörter darüber, welche Frage aus dem Publikum deine Erklärung am meisten verbessert hat.",
+      "teacher": {
+        "preparation": [
+          "Sechs Vierergruppen für die Konferenz bilden; meist sind zwei Projektpaare in einer Gruppe. Reihenfolge der Vorträge zu je zwei Minuten festlegen.",
+          "Bei einer Lehrkraft die Prüfungen einzeln durchführen: 24 Lernende × 100 Sekunden = 40 Minuten. Sichtbaren Timer und vorbereitete Fragen nutzen; Wartende bearbeiten die Quellen- und Diagrammprüfung. Bei größeren Klassen Prüfungen in der nächsten Stunde fortsetzen. Bei Barrierefreiheit eine individuelle alternative Antwort vereinbaren und später bewerten; keine weitere Lehrkraft voraussetzen.",
+          "Konferenz-Checkliste, Zuhörerkarten, Prüfungsfragen, Quellen- und Diagrammprüfung, Auswertungstafel, Rückblick und Abschlusszettel ausdrucken. Arbeitsentwürfe mit gemeinsamen Kriterien prüfen."
+        ],
+        "facilitation": [
+          "Zeitplan sichtbar halten; freundliche, belegorientierte Fragen fördern.",
+          "Bei Paarprojekten jeder Person eine andere individuelle Prüfungsfrage stellen; beide müssen das Projekt als Ganzes kennen.",
+          "Fachliches Denken und Englischkompetenz getrennt beurteilen, wenn Sprachentwicklung ein ausdrückliches Kursziel ist."
+        ],
+        "answers": [
+          "Es gibt kein einziges richtiges Projektergebnis. Gute Antworten nennen Umfang und Einheit des Belegs, erklären einen Mechanismus und eine Grenze.",
+          "Polykrise kann hilfreich, teilweise hilfreich oder unnützlich sein, wenn die Begründung zum Fall passt.",
+          "Unsicherheit ist kein Fehler; unbegründete Sicherheit ist eine Schwäche.",
+          "Bei 24 Lernenden ist die persönliche Prüfung mit 100 Sekunden pro Person machbar (zwei 40-Sekunden-Antworten und 20 Sekunden für Notiz/Wechsel); Wartende bearbeiten die bereitgestellte Quellen- und Diagrammprüfung."
+        ],
+        "misconceptions": [
+          "Ein schönes Diagramm sei automatisch gültig: Achsen, Definitionen, Datum und Quelle prüfen.",
+          "Vier Quellen bedeuteten automatisch Ausgewogenheit: Art, Unabhängigkeit, Relevanz und Methode sind wichtig.",
+          "Die mündliche Prüfung sei ein Gedächtnistest: Sie prüft Begründungen und Belege; eine kleine Quellenkarte ist erlaubt."
+        ],
+        "differentiation": [
+          "Stichwortkarten, vorherige Einsicht in Fragen und angepasste Vortragsform anbieten.",
+          "Vertiefung: Ein Design für eine nächste Untersuchung mit neuem Datensatz und prüfbarer Ursache entwickeln."
+        ],
+        "extension": "Die Auswertungstafel mit freigegebenen Projekttiteln und öffentlichen Quellen zu einem Klassen-Chartbook ausbauen. Nur mit Zustimmung der Lernenden und Lehrkraft als Klassenmaterial nutzen."
+      }
+    }
+  }
+]

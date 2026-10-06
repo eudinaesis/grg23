@@ -1,0 +1,1158 @@
+[
+  {
+    "id": 9,
+    "en": {
+      "title": "After the disaster: who pays for recovery?",
+      "question": "How can a climate disaster become a debt and development crisis?",
+      "intro": "A storm or flood is a physical event. Its effects depend on where people live, what infrastructure exists, how the state raises money, and whether recovery funds arrive as grants or loans. Today we trace those connections and negotiate a recovery plan for a fictional island state.",
+      "goals": [
+        "Explain how physical damage can affect public budgets, imports, jobs and debt.",
+        "Distinguish grants, loans and delayed debt payments, including who bears each cost.",
+        "Use evidence and uncertainty to defend a recovery package."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Map the shock",
+          "task": "On the Cause-chain worksheet: connect hazard, damage, income, imports and public finance; circle one uncertain link. Hand in your first causal map."
+        },
+        {
+          "minutes": 15,
+          "title": "Sort the evidence",
+          "task": "Use Evidence cards: Luma and Source comparison: Loss and Damage Fund. Mark each claim FACT, ASSUMPTION or VALUE; deliver a marked evidence table and one limit."
+        },
+        {
+          "minutes": 15,
+          "title": "Calculate the funding gap",
+          "task": "Use Luma budget table and Budget worksheet. Calculate the gap for each offer combination; deliver your arithmetic and whether urgent costs are covered."
+        },
+        {
+          "minutes": 20,
+          "title": "Negotiate recovery",
+          "task": "Follow Complete Recovery negotiation rules and role cards. Record the agreement on Distribution cards and signed recovery terms; deliver the completed record and a three-point justification."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 15,
+          "title": "Audit who bears the cost",
+          "task": "Use Distribution cards and signed recovery terms. Trace who pays now, who repays later and who may be left out. Deliver a revised causal map with winners and risks."
+        },
+        {
+          "minutes": 10,
+          "title": "Compare with real institutions",
+          "task": "Read Source comparison: Loss and Damage Fund and Phenomenal World argument card: climate finance. Compare the UNFCCC description and the argument with one fictional rule; state one similarity, difference and missing assumption."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual judgement",
+          "task": "Use Exit and Submission prompt. Write the individual recovery judgement with one calculation, one evidence-based mechanism and one limitation."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Luma after Cyclone Nera",
+          "html": "<h3>Fictional case reader (teacher-written; about 300 words)</h3><p>Luma is a fictional island country with 1.2 million people. A powerful cyclone crosses its eastern coast. The wind damages homes and a port; floodwater ruins roads, a hospital, and part of the rice harvest. No single event explains the losses. Families living in stronger houses recover sooner. A damaged bridge cuts off a rural district, while the port disruption delays fuel and medicine. Some shops close; workers lose wages. These links are plausible mechanisms in this exercise, not measured facts about a real country.</p><p>The government estimates urgent public repairs at 120 million Luma credits (LC). It has 25 million LC available after protecting ordinary health and education spending. The remaining 95 million LC is a financing gap. The estimate covers public facilities and emergency support; it does not price every private loss, ecosystem loss, or long-term health effect. Students should therefore avoid treating the number as the full cost of the disaster.</p><p>Luma earns foreign currency by selling tea and fish and by welcoming visitors. The cyclone damages the port and several hotels just before the main visitor season. If export and visitor receipts fall, Luma may have less foreign currency to buy imported fuel, medicines, construction material and food. This is a possible second-round effect. It depends on how long facilities remain closed, whether buyers switch suppliers, and whether visitors return. A recovery plan that repairs the port first might restart earnings sooner, but people without safe homes may reasonably argue that housing and clinics must come first.</p><p>Three kinds of support are on the table: grants that do not require repayment; loans that must be repaid; and a temporary pause in existing debt payments. A loan can provide money quickly but adds future obligations. A pause frees cash today but does not erase the debt. A grant avoids repayment but may be limited or slow. Decisions also involve fairness: should funders give more because they have greater resources, because they contributed more to emissions, or because Luma has greater need? Those are political and ethical arguments, not calculations that this fictional budget can settle. The class will negotiate a package, then test its consequences and limits.</p>"
+        },
+        {
+          "title": "Evidence cards: Luma",
+          "html": "<h3>Cut or assign one card per group</h3><ul><li><strong>Card A — Repair estimate:</strong> public repairs and emergency support are estimated at LC 120 million. This is a fictional case input, not a real assessment.</li><li><strong>Card B — Available funds:</strong> LC 25 million is available without reducing the protected health and education budgets. Fictional input.</li><li><strong>Card C — Port:</strong> the port is damaged; fuel and medicine deliveries may be delayed. The length of delay is unknown.</li><li><strong>Card D — Foreign currency:</strong> tea, fish and tourism normally bring in foreign currency. How much income the cyclone disrupts is unknown.</li><li><strong>Card E — Unequal exposure:</strong> households in weaker housing and isolated villages may face greater risks. This is a scenario assumption; local data would be needed to measure it.</li><li><strong>Card F — Emissions and responsibility:</strong> the exercise supplies no emissions data for Luma or other states. Do not claim the case proves who caused this cyclone.</li></ul>"
+        },
+        {
+          "title": "Luma budget table and Budget worksheet",
+          "html": "<h3>All figures are fictional; LC = Luma credits</h3><table><caption>Emergency recovery envelope</caption><thead><tr><th>Item</th><th>LC millions</th></tr></thead><tbody><tr><td>Estimated urgent public recovery costs</td><td>120</td></tr><tr><td>Available domestic funds</td><td>25</td></tr><tr><td>Financing gap before external support</td><td>95</td></tr></tbody></table><h3>Funding menu</h3><table><caption>Offers in this simulation; they are not claims about actual fund rules</caption><thead><tr><th>Offer</th><th>Amount/term</th><th>Cost or condition</th></tr></thead><tbody><tr><td>Grant from Relief Coalition</td><td>LC 30m</td><td>No repayment; available now</td></tr><tr><td>Recovery loan from Regional Bank</td><td>LC 50m</td><td>Repay LC 60m in 5 years; spend at least LC 20m on port and road repairs</td></tr><tr><td>Debt-service pause from lenders</td><td>LC 20m cash freed now</td><td>LC 20m remains owed; repayment resumes next year</td></tr><tr><td>Domestic reserve use</td><td>Up to LC 10m extra</td><td>Every LC 1 used means LC 1 less contingency reserve</td></tr></tbody></table><p><strong>Worksheet:</strong> Gap = 120 − 25 = 95. Add chosen external offers and any reserve use. Remaining gap = 95 − support. Show the calculation and state whether the package fully funds the urgent estimate. A balanced package does not prove the estimate is complete or fair.</p>"
+        },
+        {
+          "title": "Complete Recovery negotiation rules and role cards",
+          "html": "<h3>Set-up and rules (20 minutes)</h3><ol><li>Form four groups and assign one role each. Each group reads its card silently for 2 minutes, then names its priority and one condition it can accept.</li><li>There are two 6-minute negotiation rounds and a 4-minute drafting period. Groups may make written offers using only the Funding menu. One offer may be conditional.</li><li>To pass, at least three of four roles must sign, including every provider whose grant, loan or pause is counted. The package must cover LC 95m or name a specific, openly accepted unfunded amount. A provider can refuse to sign; its offer then cannot be counted. No facilitator invents extra money.</li><li>Record each offer, condition, signature and any remaining gap. If no agreement passes, the class records the most-supported proposal and the unresolved gap; this is a valid outcome.</li></ol><h3>Role cards</h3><ul><li><strong>Luma government:</strong> You must protect emergency services and want to rebuild the port. You will accept up to LC 10m in reserve use. You oppose a loan unless its terms include a realistic repayment plan. Ask for grant support first.</li><li><strong>Rural residents and local workers:</strong> You want safe homes, clinic access and jobs for local workers. You can accept port spending if the plan also funds a rural road and publishes a worker-hiring target. You have no authority to promise government money.</li><li><strong>Regional Bank:</strong> You offer the LC 50m recovery loan only if at least LC 20m goes to port and road repairs. You may agree to a 12-month debt-service pause on existing payments, freeing LC 20m now; the old debt remains. You cannot convert the loan into a grant.</li><li><strong>Relief Coalition:</strong> You control the LC 30m grant. You want transparent spending and priority for urgent services. You may split it between housing/clinics and infrastructure, but total grant cannot exceed LC 30m.</li></ul><h3>Debrief</h3><p>Which rule gave a role power? Did a mathematically balanced package distribute risk fairly? How would the outcome change if repair estimates were wrong, money arrived late, or losses continued? The game compresses real negotiations, excludes many affected voices, assumes fixed offers, and cannot model trust or long-term economic change.</p>"
+        },
+        {
+          "title": "Source comparison: Loss and Damage Fund",
+          "html": "<p>The UNFCCC describes the Fund for responding to Loss and Damage as part of new funding arrangements established under UN climate negotiations. COP28 operationalized the Fund through a decision. The official decision and Fund materials explain governance and access arrangements; they do not make the fictional LC offers in this classroom game actual Fund terms.</p><table><caption>Compare source and simulation</caption><thead><tr><th>Question</th><th>UNFCCC source: record your finding</th><th>Luma simulation</th></tr></thead><tbody><tr><td>Who makes decisions?</td><td>Find a sentence about governance.</td><td>Four classroom roles vote.</td></tr><tr><td>What support is discussed?</td><td>Identify one stated form or purpose of support.</td><td>Fixed fictional grants, loan and pause.</td></tr><tr><td>What is different?</td><td>Record a limit, qualification or unresolved issue.</td><td>Offers are simplified and pre-set.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Cause-chain worksheet",
+          "html": "<h3>Complete individually, then compare</h3><table><caption>Use arrows and short explanations; mark each link FACT, ASSUMPTION or UNKNOWN</caption><thead><tr><th>Starting event</th><th>Physical damage</th><th>Effect on people/services</th><th>Effect on income/imports</th><th>Public finance/debt effect</th><th>Who is most exposed?</th></tr></thead><tbody><tr><td>Cyclone</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Second possible chain</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p>Circle one uncertain link and name evidence that could test it. The links are hypotheses, not automatic effects.</p>"
+        },
+        {
+          "title": "Distribution cards and signed recovery terms",
+          "html": "<h3>Distribution cards</h3><ul><li><strong>Borrowers:</strong> future taxpayers may repay the LC 60m loan; ask which services could compete for those funds.</li><li><strong>Residents without safe housing:</strong> may benefit if grants go to shelter and clinics; may be missed if funds prioritize the port.</li><li><strong>Exporters and importers:</strong> may benefit from a repaired port; may still face delays or currency shortages.</li><li><strong>Rural workers:</strong> may gain from road repair and local hiring; the agreement has no guaranteed job count.</li><li><strong>Future residents:</strong> inherit repaired infrastructure and remaining debt; long-term effects are unknown.</li></ul><h3>Signed recovery terms — complete this record</h3><table><caption>One copy per class agreement</caption><tbody><tr><th>Offer(s), amount and whether repayable</th><td></td></tr><tr><th>Spending conditions and timeline</th><td></td></tr><tr><th>Who pays now and later?</th><td></td></tr><tr><th>Accepted roles/signatures</th><td></td></tr><tr><th>Unresolved gap or dissent</th><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Exit and Submission prompt",
+          "html": "<h3>Individual submission (350–450 words)</h3><p>Recommend a Luma recovery package. Include: (1) the funding-gap calculation; (2) two causal links; (3) who bears one cost or risk; (4) one finding from an official source; (5) one uncertainty or limitation. Show arithmetic. Separate evidence from values and acknowledge an alternative.</p><h3>Exit questions</h3><ol><li>Which funding choice changes Luma’s future obligations, and how?</li><li>Name one connection in your causal map that needs more evidence.</li></ol>"
+        },
+        {
+          "title": "Phenomenal World argument card: climate finance",
+          "html": "<h3>Argument to test (teacher paraphrase of Mackenzie and Sahay, 18 November 2022)</h3><p>Mackenzie and Sahay argue that climate finance is shaped by domestic political interests and financial constraints, not only by a lack of cooperation between countries. A climate plan can be limited by who controls investment and by pressure to protect existing returns. This is an argument, not a measured description of Luma.</p><ol><li>Which part of this argument appears in the Luma simulation, and which is missing?</li><li>What official evidence would help test it in a real case?</li></ol>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "UNFCCC, COP28 decision on operationalizing loss-and-damage funding arrangements (official outcome)",
+          "url": "https://unfccc.int/documents/637067",
+          "date": "2024; accessed 6 October 2026",
+          "use": "Compare real institutional decision-making with the fictional negotiation; do not infer classroom offer terms from it."
+        },
+        {
+          "title": "UNFCCC, Fund for responding to Loss and Damage (official fund and board materials)",
+          "url": "https://unfccc.int/event/fund-for-responding-to-loss-and-damage-loss-and-damage-finance-accessing-the-fund-for-responding-to",
+          "date": "Undated; checked 6 October 2026",
+          "use": "Teacher/source comparison of purpose, governance and access; details change over time."
+        },
+        {
+          "title": "Mackenzie and Sahay, Collective Action and Climate Finance",
+          "url": "https://archive.phenomenalworld.org/analysis/collective-action-and-climate-finance/",
+          "date": "18 November 2022; accessed 6 October 2026",
+          "use": "Dated argument about domestic interests and finance constraints; compare with official evidence and the simulation’s assumptions."
+        }
+      ],
+      "languageSupport": "<h3>English pathway</h3><p>Connect the fictional island case to Austria: use Statistik Austria's CPI or an Austrian flood-risk map as a comparison of how prices or exposure are measured. Do not imply that Austria and Luma face the same hazard or financing constraints. <strong>Original-reading extension:</strong> read the UNFCCC COP28 outcome page; inspect the decision title and the first operative section on establishing/operationalizing arrangements. Paraphrase one institutional rule in your own words and compare it with a Luma rule.</p><p><strong>Perspective extension:</strong> read the opening two paragraphs of Mackenzie and Sahay’s “Collective Action and Climate Finance” (18 November 2022). Paraphrase their explanation of climate-finance constraints; test one part against the UNFCCC source and name one simulation assumption.</p>",
+      "submission": "Individual, 350–450 words, on paper or the teacher's assignment platform: recommend a Luma recovery package. Include the funding-gap calculation; explain two causal links; identify who bears a cost or risk; use one official source finding; and state one uncertainty or limitation. Success means the arithmetic is visible, fact and value are distinguished, and an alternative is acknowledged.",
+      "exit": [
+        "Which funding choice changes Luma's future obligations, and how?",
+        "Name one connection in your causal map that needs more evidence."
+      ],
+      "homework": "In 20 minutes, revisit your package and write a 100-word note: if the port takes twice as long to reopen as expected, which part of your causal map changes first, and what evidence would you seek? Use the supplied Case reader and Budget table.",
+      "teacher": {
+        "preparation": [
+          "Print or display all Luma materials; assign the four role cards.",
+          "Write the key calculation: 120 − 25 = 95; no real case figures are used.",
+          "Open the two UNFCCC sources and select the official outcome section for the short comparison."
+        ],
+        "facilitation": [
+          "Keep claims about climate attribution separate from the fictional storm scenario: this case does not attribute a particular event.",
+          "Insist students state whether a link is given, assumed or uncertain.",
+          "Allow a deadlocked negotiation; assess the reasoning and record the gap rather than inventing a solution."
+        ],
+        "answers": [
+          "Starting financing gap = LC 95m. Grant + loan = 80m, remaining gap 15m; grant + loan + pause = 100m, leaving LC 5m after the gap (LC 5m surplus relative to urgent estimate), before any conditions are evaluated. Grant + pause = 50m, leaving LC 45m.",
+          "Debt-service pause frees cash now but does not cancel the liability. The loan brings LC 50m now but LC 60m due in five years. Reserve use has an opportunity cost.",
+          "Good causal chains include port damage → delayed imports/exports → pressure on foreign currency; or damage → repair spending → financing need. They should be expressed as possibilities where data are absent."
+        ],
+        "misconceptions": [
+          "A climate disaster is not proof that climate change caused this specific event.",
+          "A balanced budget is not proof that needs are fully counted.",
+          "Debt relief, a payment pause and a grant are different instruments."
+        ],
+        "differentiation": [
+          "Offer a partially completed causal map and sentence frames; extension students add a distributional effect and compare two source genres.",
+          "Students may submit the negotiation calculation orally before writing the individual judgement."
+        ],
+        "extension": "Compare the UNFCCC loss-and-damage fund with adaptation finance: what problem is each intended to address, and where can purposes overlap? Use official UNFCCC sources and cite the date."
+      }
+    },
+    "de": {
+      "title": "Nach der Katastrophe: Wer bezahlt den Wiederaufbau?",
+      "question": "Wie kann eine Klimakatastrophe zu einer Schulden- und Entwicklungskrise werden?",
+      "intro": "Ein Sturm oder Hochwasser ist ein Naturereignis. Die Folgen hängen davon ab, wo Menschen leben, welche Infrastruktur vorhanden ist und wie schnell Geld für den Wiederaufbau kommt. Heute verfolgt ihr diese Verbindungen und verhandelt einen Plan für einen erfundenen Inselstaat.",
+      "goals": [
+        "Erklären, wie Schäden Staatshaushalt, Importe, Arbeit und Schulden beeinflussen können.",
+        "Zuschüsse, Kredite und ausgesetzte Zahlungen unterscheiden.",
+        "Ein Wiederaufbaupaket mit Belegen und Unsicherheiten begründen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Den Schock abbilden",
+          "task": "Nutzt Arbeitsblatt Ursachen-Kette: Verbindet Gefahr, Schäden, Einkommen, Importe und Staatsfinanzen; markiert eine unsichere Verbindung. Gebt eure erste Karte ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Belege sortieren",
+          "task": "Nutzt Belegkarten: Luma und Quellenvergleich: Fonds für Schäden und Verluste. Markiert jede Aussage als FAKT, ANNAHME oder WERTURTEIL; gebt Tabelle und eine Grenze ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Finanzierungslücke berechnen",
+          "task": "Nutzt Luma-Budgettabelle und Budgetblatt. Berechnet die Lücke für verschiedene Angebote; gebt Rechenweg und Deckung ab."
+        },
+        {
+          "minutes": 20,
+          "title": "Wiederaufbau verhandeln",
+          "task": "Befolgt Vollständige Verhandlungsregeln und Rollenkarten. Haltet die Einigung auf Verteilungskarten und unterschriebenen Wiederaufbaubedingungen fest; gebt das ausgefüllte Blatt und drei Begründungspunkte ab."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 15,
+          "title": "Kostenverteilung prüfen",
+          "task": "Nutzt Verteilungskarten und unterschriebene Bedingungen. Verfolgt, wer jetzt zahlt, später zurückzahlt und fehlen könnte. Ergänzt Gewinner und Risiken in der Ursachen-Kette."
+        },
+        {
+          "minutes": 10,
+          "title": "Mit echten Institutionen vergleichen",
+          "task": "Lest Quellenvergleich: Fonds für Schäden und Verluste und Argumentkarte Phenomenal World: Klimafinanzierung. Vergleicht UNFCCC-Aussage und These mit einer Spielregel; nennt Gemeinsamkeit, Unterschied und fehlende Annahme."
+        },
+        {
+          "minutes": 10,
+          "title": "Eigenes Urteil",
+          "task": "Nutzt Abgabe und Abschlussfragen. Schreibt das individuelle Urteil mit Rechnung, belegter Wirkungskette und Grenze."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Luma nach Zyklon Nera",
+          "html": "<h3>Erfundener Falltext (von der Lehrkraft geschrieben; etwa 300 Wörter)</h3><p>Luma ist ein erfundenes Insel-Land mit 1,2 Millionen Einwohnerinnen und Einwohnern. Ein starker Zyklon trifft die Ostküste. Der Wind beschädigt Häuser und einen Hafen. Hochwasser beschädigt Straßen, ein Krankenhaus und Teile der Reisernte. Nicht ein einzelner Schaden erklärt alle Folgen. Familien in stabilen Häusern können sich schneller erholen. Eine beschädigte Brücke trennt einen Bezirk ab. Im Hafen werden Treibstoff und Medikamente verspätet geliefert. Geschäfte schließen, Beschäftigte verlieren Lohn. Das sind mögliche Wirkungsketten für die Übung, keine Messdaten über ein echtes Land.</p><p>Die Regierung schätzt dringende öffentliche Reparaturen auf 120 Millionen Luma-Geldeinheiten (LG). Nach Sicherung normaler Ausgaben für Gesundheit und Bildung hat sie 25 Millionen LG verfügbar. Es fehlen also 95 Millionen LG. Die Schätzung umfasst öffentliche Einrichtungen und Soforthilfe. Sie bewertet nicht alle privaten Schäden, Schäden an der Natur oder langfristige Gesundheitsfolgen. Die Zahl ist daher nicht der vollständige Preis der Katastrophe.</p><p>Luma erhält aus Tee, Fisch und Tourismus Devisen. Der Zyklon beschädigt den Hafen und mehrere Hotels kurz vor der Hauptsaison. Wenn Export- und Tourismuseinnahmen sinken, könnte Luma weniger Devisen für Treibstoff, Medikamente, Baumaterial und Lebensmittel haben. Das ist eine mögliche Folge. Sie hängt davon ab, wie lange Einrichtungen geschlossen bleiben und ob Gäste und Käufer zurückkehren. Eine schnelle Hafenreparatur könnte Einnahmen früher ermöglichen. Menschen ohne sichere Wohnung können aber begründet fordern, dass Häuser und Kliniken zuerst kommen.</p><p>Zur Auswahl stehen Zuschüsse ohne Rückzahlung, Kredite mit Rückzahlung und eine vorübergehende Pause bestehender Schuldenzahlungen. Ein Kredit bringt rasch Geld, schafft aber spätere Verpflichtungen. Eine Pause schafft heute Spielraum, löscht die Schuld jedoch nicht. Ein Zuschuss muss nicht zurückgezahlt werden, kann aber begrenzt oder verspätet sein. Auch Fairness ist umstritten: Sollen Geldgeber mehr beitragen, weil sie mehr Mittel haben, mehr Treibhausgase ausgestoßen haben oder weil Luma größere Bedürfnisse hat? Das sind politische und ethische Argumente. Die erfundene Budgettabelle kann sie nicht entscheiden. Die Klasse verhandelt ein Paket und prüft danach seine Folgen und Grenzen.</p>"
+        },
+        {
+          "title": "Belegkarten: Luma",
+          "html": "<h3>Karten ausschneiden oder Gruppen zuteilen</h3><ul><li><strong>Karte A — Reparaturschätzung:</strong> dringende öffentliche Reparaturen und Soforthilfe kosten laut Schätzung 120 Millionen LG. Erfunden, keine echte Erhebung.</li><li><strong>Karte B — Verfügbare Mittel:</strong> 25 Millionen LG sind ohne Kürzung der geschützten Gesundheits- und Bildungsausgaben verfügbar. Erfunden.</li><li><strong>Karte C — Hafen:</strong> Der Hafen ist beschädigt. Treibstoff und Medikamente könnten später kommen. Die Dauer ist unbekannt.</li><li><strong>Karte D — Devisen:</strong> Tee, Fisch und Tourismus bringen normalerweise Devisen. Wie stark die Einnahmen sinken, ist unbekannt.</li><li><strong>Karte E — Ungleiche Betroffenheit:</strong> Menschen in schwächeren Häusern und abgelegenen Dörfern könnten stärker gefährdet sein. Annahme; zum Messen bräuchte man Daten.</li><li><strong>Karte F — Emissionen und Verantwortung:</strong> Es gibt keine Emissionsdaten für Luma oder andere Staaten. Der Fall beweist nicht, wer diesen Zyklon verursacht hat.</li></ul>"
+        },
+        {
+          "title": "Luma-Budgettabelle und Budgetblatt",
+          "html": "<h3>Alle Zahlen sind erfunden; LG = Luma-Geldeinheiten</h3><table><caption>Dringender Wiederaufbau</caption><thead><tr><th>Posten</th><th>Millionen LG</th></tr></thead><tbody><tr><td>Geschätzte dringende öffentliche Kosten</td><td>120</td></tr><tr><td>Verfügbare eigene Mittel</td><td>25</td></tr><tr><td>Lücke vor externer Hilfe</td><td>95</td></tr></tbody></table><h3>Finanzierungsangebote</h3><table><caption>Nur Spielregeln; keine echten Fondsbedingungen</caption><thead><tr><th>Angebot</th><th>Betrag/Bedingung</th><th>Kosten oder Auflage</th></tr></thead><tbody><tr><td>Zuschuss der Hilfskoalition</td><td>30 Mio. LG</td><td>Keine Rückzahlung; sofort verfügbar</td></tr><tr><td>Kredit der Regionalbank</td><td>50 Mio. LG</td><td>60 Mio. LG in 5 Jahren zurückzahlen; mindestens 20 Mio. für Hafen und Straßen</td></tr><tr><td>Zahlungspause der Kreditgeber</td><td>20 Mio. LG jetzt frei</td><td>Die 20 Mio. bleiben geschuldet; Zahlung ab nächstem Jahr</td></tr><tr><td>Eigene Rücklage</td><td>Bis zu 10 Mio. zusätzlich</td><td>Je 1 LG weniger Reserve</td></tr></tbody></table><p><strong>Rechnung:</strong> Lücke = 120 − 25 = 95. Addiert die Hilfen und Rücklage. Restlücke = 95 − Hilfe. Zeigt den Rechenweg und sagt, ob die dringende Schätzung gedeckt ist. Ein ausgeglichener Plan beweist nicht, dass alle Bedürfnisse erfasst oder fair behandelt sind.</p>"
+        },
+        {
+          "title": "Vollständige Verhandlungsregeln und Rollenkarten",
+          "html": "<h3>Ablauf und Regeln (20 Minuten)</h3><ol><li>Bildet vier Gruppen und verteilt je eine Rolle. Lest zwei Minuten still, dann nennt jede Gruppe ein Ziel und eine annehmbare Bedingung.</li><li>Es gibt zwei Verhandlungsrunden zu je sechs Minuten und vier Minuten zum Schreiben. Erlaubt sind nur Angebote aus der Finanzierungs-Tabelle. Ein Angebot darf an eine Bedingung geknüpft werden.</li><li>Mindestens drei von vier Rollen müssen unterschreiben, darunter jede Rolle, deren Zuschuss, Kredit oder Zahlungspause eingerechnet wird. Das Paket muss 95 Mio. LG decken oder eine ausdrücklich akzeptierte offene Lücke nennen. Ohne Unterschrift zählt das Angebot nicht. Die Lehrkraft erfindet kein Geld.</li><li>Notiert Angebote, Bedingungen, Unterschriften und Restlücke. Kommt keine Einigung zustande, dokumentiert den meistunterstützten Vorschlag und die offene Lücke. Auch das ist ein gültiges Ergebnis.</li></ol><h3>Rollenkarten</h3><ul><li><strong>Regierung Luma:</strong> Notdienste müssen geschützt werden; der Hafen soll repariert werden. Ihr könnt bis zu 10 Mio. aus der Rücklage verwenden. Einen Kredit akzeptiert ihr nur mit einem realistischen Rückzahlungsplan. Verlangt zuerst Zuschüsse.</li><li><strong>Landbevölkerung und Beschäftigte:</strong> Ihr wollt sichere Häuser, Zugang zur Klinik und lokale Arbeitsplätze. Hafen-Ausgaben akzeptiert ihr, wenn auch eine Landstraße repariert und ein Einstellungsziel veröffentlicht wird. Ihr dürft kein Regierungsgeld versprechen.</li><li><strong>Regionalbank:</strong> Der Kredit über 50 Mio. gilt nur, wenn mindestens 20 Mio. in Hafen und Straßen fließen. Eine Pause von 12 Monaten kann 20 Mio. bestehender Zahlungen freisetzen; die alte Schuld bleibt. Ihr könnt den Kredit nicht in einen Zuschuss umwandeln.</li><li><strong>Hilfskoalition:</strong> Ihr kontrolliert den Zuschuss von 30 Mio. Ihr wollt transparente Ausgaben und Vorrang für dringende Dienste. Der Zuschuss darf geteilt werden, aber insgesamt höchstens 30 Mio. betragen.</li></ul><h3>Auswertung</h3><p>Welche Regel gab einer Rolle Macht? Verteilt ein rechnerisch ausgeglichenes Paket Risiken fair? Was ändert sich, wenn die Schätzung falsch ist, Geld spät ankommt oder Schäden andauern? Das Spiel vereinfacht echte Verhandlungen, lässt viele Betroffene aus, setzt Angebote fest und bildet Vertrauen sowie langfristige Veränderungen nicht ab.</p>"
+        },
+        {
+          "title": "Quellenvergleich: Fonds für Schäden und Verluste",
+          "html": "<p>Die UNFCCC beschreibt den Fonds für Schäden und Verluste als Teil neuer Finanzierungsvereinbarungen der UN-Klimaverhandlungen. Eine Entscheidung auf der COP28 machte den Fonds arbeitsfähig. Die offiziellen Entscheidungen und Materialien erklären Regeln und Zugang. Sie machen die erfundenen LG-Angebote dieses Spiels nicht zu echten Fondsbedingungen.</p><table><caption>Quelle und Spiel vergleichen</caption><thead><tr><th>Frage</th><th>UNFCCC-Quelle: Fundstelle notieren</th><th>Luma-Spiel</th></tr></thead><tbody><tr><td>Wer entscheidet?</td><td>Sucht eine Aussage zur Leitung.</td><td>Vier Klassengruppen stimmen ab.</td></tr><tr><td>Welche Hilfe wird genannt?</td><td>Notiert eine genannte Form oder einen Zweck.</td><td>Feste erfundene Zuschüsse, Kredit, Pause.</td></tr><tr><td>Was ist anders?</td><td>Haltet eine Grenze oder offene Frage fest.</td><td>Die Angebote sind vereinfacht und vorgegeben.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Arbeitsblatt Ursachen-Kette",
+          "html": "<h3>Einzeln ausfüllen, danach vergleichen</h3><table><caption>Pfeile und kurze Erklärungen nutzen; jede Verbindung als FAKT, ANNAHME oder UNBEKANNT markieren</caption><thead><tr><th>Ereignis</th><th>Physischer Schaden</th><th>Folge für Menschen/Dienste</th><th>Folge für Einkommen/Importe</th><th>Folge für Staatshaushalt/Schulden</th><th>Wer ist besonders betroffen?</th></tr></thead><tbody><tr><td>Zyklon</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Mögliche zweite Kette</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><p>Markiert eine unsichere Verbindung und nennt einen Beleg, der sie prüfen könnte. Verbindungen sind Vermutungen, keine automatischen Folgen.</p>"
+        },
+        {
+          "title": "Verteilungskarten und unterschriebene Wiederaufbaubedingungen",
+          "html": "<h3>Verteilungskarten</h3><ul><li><strong>Kreditnehmende:</strong> künftige Steuerzahlende könnten den Kredit von 60 Mio. LG zurückzahlen; welche öffentlichen Dienste brauchen ebenfalls Geld?</li><li><strong>Menschen ohne sichere Wohnung:</strong> profitieren, wenn Zuschüsse Häuser und Kliniken sichern; könnten fehlen, wenn der Hafen Vorrang erhält.</li><li><strong>Export- und Importbetriebe:</strong> profitieren möglicherweise von einem reparierten Hafen; Verzögerungen oder Devisenmangel können bleiben.</li><li><strong>Ländliche Beschäftigte:</strong> profitieren möglicherweise von Straßenreparatur und lokaler Einstellung; es gibt keine garantierte Zahl an Arbeitsplätzen.</li><li><strong>Künftige Bewohner:</strong> erben reparierte Infrastruktur und verbleibende Schulden; langfristige Folgen sind unbekannt.</li></ul><h3>Unterschriebene Bedingungen — gemeinsam ausfüllen</h3><table><caption>Ein Blatt pro Klassenvereinbarung</caption><tbody><tr><th>Angebot, Betrag und Rückzahlung</th><td></td></tr><tr><th>Ausgabenbedingungen und Zeitplan</th><td></td></tr><tr><th>Wer zahlt jetzt und später?</th><td></td></tr><tr><th>Zustimmende Rollen/Unterschriften</th><td></td></tr><tr><th>Offene Lücke oder Einwand</th><td></td></tr></tbody></table>"
+        },
+        {
+          "title": "Abgabe und Abschlussfragen",
+          "html": "<h3>Einzelarbeit (350–450 Wörter)</h3><p>Empfiehl ein Wiederaufbaupaket für Luma. Füge ein: (1) Rechnung der Finanzierungslücke; (2) zwei Wirkungsketten; (3) wer ein Risiko oder Kosten trägt; (4) einen Befund aus einer offiziellen Quelle; (5) eine Unsicherheit oder Grenze. Zeige die Rechnung. Trenne Belege von Werturteilen und erwähne eine Alternative.</p><h3>Abschlussfragen</h3><ol><li>Welche Finanzierungsart verändert Lumas künftige Pflichten – und wie?</li><li>Welche Verbindung deiner Karte braucht noch Belege?</li></ol>"
+        },
+        {
+          "title": "Argumentkarte Phenomenal World: Klimafinanzierung",
+          "html": "<h3>Zu prüfende These (sinngemäße Zusammenfassung von Mackenzie und Sahay, 18. November 2022)</h3><p>Mackenzie und Sahay argumentieren, dass Klimafinanzierung von innenpolitischen Interessen und finanziellen Beschränkungen geprägt wird, nicht nur von fehlender Zusammenarbeit zwischen Staaten. Wer Investitionen kontrolliert und bestehende Erträge schützen will, kann Klimapläne begrenzen. Das ist eine These, keine Messung zu Luma.</p><ol><li>Welcher Teil kommt im Luma-Spiel vor, welcher fehlt?</li><li>Welche offizielle Quelle könnte die These in einem echten Fall prüfen?</li></ol>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "UNFCCC, COP28-Entscheidung zu Finanzierungsvereinbarungen für Schäden und Verluste",
+          "url": "https://unfccc.int/documents/637067",
+          "date": "2024; geprüft am 6. Oktober 2026",
+          "use": "Echte Institution mit erfundener Verhandlung vergleichen."
+        },
+        {
+          "title": "UNFCCC, Fonds für Schäden und Verluste",
+          "url": "https://unfccc.int/event/fund-for-responding-to-loss-and-damage-loss-and-damage-finance-accessing-the-fund-for-responding-to",
+          "date": "Ohne Datum; geprüft am 6. Oktober 2026",
+          "use": "Zweck, Leitung und Zugang; aktuelle Details können sich ändern."
+        },
+        {
+          "title": "Mackenzie und Sahay, Collective Action and Climate Finance",
+          "url": "https://archive.phenomenalworld.org/analysis/collective-action-and-climate-finance/",
+          "date": "18. November 2022; geprüft am 6. Oktober 2026",
+          "use": "Datierte These zu innenpolitischen Interessen und Finanzierungsgrenzen; mit offiziellen Belegen und Spielannahmen vergleichen."
+        }
+      ],
+      "languageSupport": "<h3>Deutsch-Pfad mit kurzer englischer Brücke</h3><p><strong>Englischer Brückentext (von der Lehrkraft geschrieben, kein Zitat):</strong> “A grant does not have to be repaid. A loan does. A pause in debt payments gives a government more cash today, but the debt remains. After a disaster, a government may also lose income while it needs to spend more.”</p><p>Fragen: 1. Welche drei Finanzierungsarten werden unterschieden? 2. Welche davon schafft eine neue Schuld? 3. Welche Wirkungskette könnte entstehen, wenn ein Hafen beschädigt ist? Wörter: grant = Zuschuss; loan = Kredit; debt = Schuld; pause = Pause; income = Einkommen; repair = Reparatur. <strong>Österreich-Bezug:</strong> Vergleicht, wie Statistik Austria Preise misst oder wie eine österreichische Hochwasserkarte Risiken darstellt. Das bedeutet nicht, dass Österreich und Luma dieselben Risiken oder Finanzierungsmöglichkeiten haben.</p><p><strong>Englische Lese-Brücke:</strong> Lest die ersten zwei Absätze von Mackenzie und Sahays „Collective Action and Climate Finance“ (18. November 2022). Fasst ihre Erklärung zu Grenzen der Klimafinanzierung auf Deutsch zusammen. Prüft einen Punkt mit der UNFCCC-Quelle und nennt eine Spielannahme.</p>",
+      "submission": "Einzelarbeit, 350–450 Wörter, auf Papier oder über die Aufgabenplattform der Lehrkraft: Empfiehl ein Wiederaufbaupaket. Zeige die Finanzierungslücke; erkläre zwei Wirkungsketten; benenne, wer Kosten oder Risiken trägt; verwende einen Befund aus einer offiziellen Quelle; nenne eine Unsicherheit. Erfolg heißt: Rechnung sichtbar, Fakten und Werte unterschieden, Alternative berücksichtigt.",
+      "exit": [
+        "Welche Finanzierungsart verändert Lumas künftige Verpflichtungen – und wie?",
+        "Welche Verbindung in deiner Ursachen-Karte braucht noch Belege?"
+      ],
+      "homework": "Nimm dir 20 Minuten. Schreibe 100 Wörter: Wenn der Hafen doppelt so lange geschlossen bleibt wie erwartet, welche Verbindung deiner Karte ändert sich zuerst und welche Belege würdest du suchen? Nutze den Falltext und die Budgettabelle.",
+      "teacher": {
+        "preparation": [
+          "Alle Luma-Materialien austeilen; die vier Rollenkarten zuteilen.",
+          "Rechnung vorbereiten: 120 − 25 = 95; es gibt keine echten Falldaten.",
+          "UNFCCC-Seiten öffnen und einen offiziellen Abschnitt für den Vergleich auswählen."
+        ],
+        "facilitation": [
+          "Die erfundene Sturmgeschichte beweist nicht, dass der Klimawandel dieses Ereignis verursacht hat.",
+          "Fragt bei jeder Wirkungskette: gegeben, angenommen oder unsicher?",
+          "Eine gescheiterte Verhandlung ist erlaubt; dokumentiert die Lücke, statt Geld zu erfinden."
+        ],
+        "answers": [
+          "Ausgangslücke = 95 Mio. LG. Zuschuss + Kredit = 80 Mio., Restlücke 15 Mio.; Zuschuss + Kredit + Zahlungspause = 100 Mio., also rechnerisch 5 Mio. über dem dringenden Bedarf, bevor Bedingungen geprüft werden. Zuschuss + Pause = 50 Mio.; Restlücke 45 Mio.",
+          "Eine Zahlungspause schafft heute Geld, löscht die Schuld aber nicht. Der Kredit bringt 50 Mio. und verlangt 60 Mio. in fünf Jahren. Rücklagen zu verwenden hat Opportunitätskosten.",
+          "Gute Ketten: Hafenschaden → spätere Importe/Exporte → Druck auf Devisen; oder Schaden → Reparaturausgaben → Finanzierungsbedarf. Ohne Daten als Möglichkeit formulieren."
+        ],
+        "misconceptions": [
+          "Eine Klimakatastrophe beweist nicht, dass der Klimawandel genau dieses Einzelereignis verursacht hat.",
+          "Ein ausgeglichener Haushalt bedeutet nicht, dass alle Bedürfnisse erfasst sind.",
+          "Schuldenstreichung, Zahlungspause und Zuschuss sind verschieden."
+        ],
+        "differentiation": [
+          "Gebt eine teilweise ausgefüllte Karte und Satzanfänge; stärkere Lernende ergänzen Verteilung und Quellenvergleich.",
+          "Die Rechnung kann vor dem Schreiben mündlich erklärt werden."
+        ],
+        "extension": "Vergleicht den Fonds für Schäden und Verluste mit Klimaanpassungsfinanzierung: Welches Problem soll jeweils bearbeitet werden? Nutzt offizielle UNFCCC-Quellen und nennt das Abrufdatum."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "en": {
+      "title": "Who owns the transition? Energy, jobs and place",
+      "question": "How can a region change its energy system without leaving workers and communities to carry the costs?",
+      "intro": "Changing energy sources changes more than power stations. It can alter jobs, tax income, prices, land use and who owns infrastructure. You will advise a fictional Austrian region and see how ownership and timing shape the choices.",
+      "goals": [
+        "Trace how a regional energy decision affects workers, households, firms and public budgets.",
+        "Compare public, cooperative and private ownership without assuming one is always best.",
+        "Negotiate a transition plan under a fixed fictional budget and explain its trade-offs."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Read the region",
+          "task": "Read Case reader: Sonnfeld region. Mark two dependencies and one conflict; deliver a four-link map."
+        },
+        {
+          "minutes": 15,
+          "title": "Compare ownership models",
+          "task": "Use Ownership cards and Stakeholder cards. Match each model to decision power, risk and likely benefit; record a comparison with one uncertainty."
+        },
+        {
+          "minutes": 15,
+          "title": "Build a budget plan",
+          "task": "Use Sonnfeld budget table, Project menu and scoring. Choose projects up to 100 transition points and meet the minimums; fill the Council plan and score record."
+        },
+        {
+          "minutes": 20,
+          "title": "Regional council simulation",
+          "task": "Follow Complete Regional Council rules and role cards. Complete the Council plan and score record with signed plan and one dissent note."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 15,
+          "title": "Stress-test the plan",
+          "task": "Use Shock card and score worksheet plus Council plan and score record. Recalculate and deliver before/after values with who bears the shock."
+        },
+        {
+          "minutes": 10,
+          "title": "Compare with EU policy",
+          "task": "Read Source comparison: EU Just Transition. Find the stated purpose and one limitation; compare with the fictional budget."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual judgement",
+          "task": "Use Council plan and score record for your individual recommendation: explain ownership, distribution, shock result and one evidence gap."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Sonnfeld region",
+          "html": "<h3>Fictional case reader (teacher-written; about 300 words)</h3><p>Sonnfeld is a fictional Austrian region of 85,000 people. It includes a small industrial town, farms, forest communities and a district-heating plant that burns imported gas. A factory that makes metal parts employs 900 people and uses a lot of electricity. Local households want reliable heat and manageable bills. The regional government wants lower emissions, stable tax income and jobs that young people can find locally.</p><p>The plant and factory are connected to the wider economy. If the plant closes before replacement heat is ready, households and businesses could face shortages or higher costs. If it stays open for longer, emissions continue and imported fuel remains a risk. A new wind and solar project could reduce exposure to fuel imports, but it needs grid upgrades, land agreements and time. A battery and heat-pump programme could help shift demand, while insulation lowers the amount of energy needed. These are mechanisms to investigate; the case gives no measured emissions or price forecast.</p><p>Ownership changes who decides and who carries financial risk. A private company may raise investment quickly and be accountable to investors. A municipal utility can coordinate infrastructure with local needs, but public budgets bear project risks. A cooperative can give residents a voice and share returns, but may find it harder to raise large sums. These are possible trade-offs, not guarantees. Contracts, regulation, access to capital and management matter too.</p><p>The council has 100 transition points to spend. The points are fictional planning units, not euros. The package must keep heat reliable, provide a pathway for affected workers, and include at least one emissions-reduction project. Groups will represent different residents and institutions. They may disagree over where projects are built, who owns them, how much is spent on retraining, and whether temporary support should go to workers, households, or the factory. A good plan explains who benefits and who bears risk; it also names what new evidence would be needed before real investment.</p>"
+        },
+        {
+          "title": "Ownership cards",
+          "html": "<h3>Possible models: no model guarantees a good outcome</h3><ul><li><strong>Private energy company:</strong> investors provide capital and expect a return. It may make decisions quickly. Risk: profits may leave the region and investors may reject projects with low expected returns. Ask what regulation and public-service contract applies.</li><li><strong>Municipal utility:</strong> the municipality owns the provider. It can coordinate local heat, grid and planning. Risk: cost overruns can fall on public budgets; local political choices may favour some groups.</li><li><strong>Energy cooperative:</strong> member residents jointly own a project and share voting rights. It can increase participation and local returns. Risk: capital and expertise may be limited; renters or lower-income households may be underrepresented.</li></ul><p>For each, distinguish: who invests, who decides, who receives income, who bears losses, and who can be excluded.</p>"
+        },
+        {
+          "title": "Stakeholder cards",
+          "html": "<ul><li><strong>Factory workers:</strong> value secure jobs, fair notice and paid retraining; worry that new jobs may require different skills or be far away.</li><li><strong>Low-income renters:</strong> want affordable reliable heating and help with building upgrades; they do not own the buildings and cannot choose major renovations alone.</li><li><strong>Municipal council:</strong> wants dependable services, tax revenue and a plan that can be financed; it is accountable to residents.</li><li><strong>Cooperative members:</strong> want local ownership and transparent accounts; they cannot promise that every resident can invest.</li><li><strong>Grid operator:</strong> must maintain safe, reliable supply; new connections require capacity and planning. It cannot guarantee a construction date without studies.</li></ul>"
+        },
+        {
+          "title": "Sonnfeld budget table, Project menu and scoring",
+          "html": "<h3>Fictional planning units (PU), not real money</h3><table><caption>Choose a package costing no more than 100 PU</caption><thead><tr><th>Project</th><th>Cost</th><th>Effect in this simulation</th></tr></thead><tbody><tr><td>Grid and wind/solar connection</td><td>35 PU</td><td>+3 climate points; +1 reliability; requires a local land agreement</td></tr><tr><td>Building insulation and heat pumps</td><td>30 PU</td><td>+2 climate; +2 household protection; requires access plan for renters</td></tr><tr><td>Worker training and wage bridge</td><td>25 PU</td><td>+3 worker security; only if factory and training provider sign placement plan</td></tr><tr><td>Municipal district-heat conversion</td><td>40 PU</td><td>+2 climate; +2 reliability; municipal ownership; requires a 5 PU maintenance reserve</td></tr><tr><td>Cooperative rooftop solar</td><td>20 PU</td><td>+2 climate; +1 local voice; requires renter-access provision</td></tr><tr><td>Temporary bill support</td><td>15 PU</td><td>+2 household protection for one round only; no long-term energy saving</td></tr></tbody></table><p><strong>Minimum conditions:</strong> reliability at least 1; worker security at least 2; climate at least 2; household protection at least 1. Points are additive. Project requirements must be met or that project's effect is zero. A package failing any minimum is not eligible for the council endorsement. All values are invented for play.</p>"
+        },
+        {
+          "title": "Complete Regional Council rules and role cards",
+          "html": "<h3>Rules (20 minutes)</h3><ol><li>Form five groups and assign roles. Each gets two minutes to read and chooses a spokesperson and note-taker.</li><li>Round 1: three minutes to announce a priority. Round 2: seven minutes to negotiate a package costing at most 100 PU. Round 3: three minutes to make amendments; then vote.</li><li>A package passes with at least four of five role votes, all four minimum conditions met, and every project prerequisite fulfilled. If none passes, record the closest plan and unmet conditions; do not invent points.</li><li>Write project, cost, owner, prerequisites, votes and dissent. A dissenting role may attach one sentence.</li></ol><h3>Roles</h3><ul><li><strong>Regional council:</strong> wants a deliverable plan and stable services. You control the 100 PU, but cannot raise more.</li><li><strong>Workers' group:</strong> will support a plan with worker security at least 3 and a signed placement plan; oppose an unplanned early closure.</li><li><strong>Renters' and household group:</strong> wants protection at least 2 and insists the insulation project has a renter-access plan; cannot invest in property it does not own.</li><li><strong>Municipal utility:</strong> supports district-heat conversion if the 5 PU maintenance reserve is included; can co-own no more than two projects.</li><li><strong>Cooperative and local businesses:</strong> support local projects and transparent ownership. Will support private investment only if contracts publish local benefit and consultation terms.</li></ul><h3>Debrief</h3><p>Which ownership model had decision power? Which risks were shifted to workers, taxpayers, investors or residents? Did a faster project necessarily make the best transition? The point scores are teaching assumptions, not forecasts; actual projects require engineering, finance, environmental assessment and democratic consent.</p>"
+        },
+        {
+          "title": "Shock card and score worksheet",
+          "html": "<h3>Draw one card after the agreement</h3><ul><li><strong>Grid delay:</strong> if your plan includes wind/solar or cooperative solar, subtract 1 reliability this round. The project remains in the plan.</li><li><strong>Factory order loss:</strong> if your plan has worker security below 3, subtract 1 worker security. If it has a signed placement plan, no subtraction.</li><li><strong>Cold winter and gas price spike:</strong> if your plan lacks household protection, subtract 1 reliability and 1 household protection. Temporary bill support prevents the household-protection deduction, not the reliability deduction.</li></ul><p>Teacher chooses one card or lets a student draw randomly. Apply only the listed change. Note who experiences the effect. Discuss that one card cannot represent real probability or the full set of simultaneous shocks.</p>"
+        },
+        {
+          "title": "Source comparison: EU Just Transition",
+          "html": "<p>The European Commission says its Just Transition Mechanism supports regions, workers and communities especially affected by the transition to a greener economy. Its Coal Regions in Transition initiative supports regional strategies and exchange. This is a real policy framework; Sonnfeld's 100 PU are invented and do not represent an EU allocation.</p><table><caption>Source reading table</caption><thead><tr><th>Question</th><th>Find in the Commission source</th><th>Compare to Sonnfeld</th></tr></thead><tbody><tr><td>Who is intended to receive support?</td><td>Record the named groups or places.</td><td>Which Sonnfeld role is included or missing?</td></tr><tr><td>What is supported?</td><td>Identify a stated kind of support.</td><td>Which fictional project resembles it?</td></tr><tr><td>What cannot this page tell you?</td><td>Name missing evidence, such as one local outcome.</td><td>What data would a real regional plan need?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Council plan and score record",
+          "html": "<h3>Use during the negotiation and shock test</h3><table><caption>Complete together</caption><thead><tr><th>Project</th><th>Cost including reserve</th><th>Owner</th><th>Prerequisite met?</th><th>Climate</th><th>Reliability</th><th>Worker security</th><th>Household protection</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Total:</td><td></td><td colspan=\"6\">Before shock:</td></tr><tr><td>Shock card and effect:</td><td colspan=\"7\"></td></tr><tr><td>Who bears the effect?</td><td colspan=\"7\"></td></tr></tbody></table><p>Individual report: 350–450 words; recommend a package, show costs and thresholds, explain ownership and one distributional effect, apply the shock and name one evidence gap.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "European Commission, EU coal regions in transition",
+          "url": "https://energy.ec.europa.eu/topics/clean-energy-transition-initiatives/eu-coal-regions-transition_en",
+          "date": "Undated; checked 6 October 2026",
+          "use": "Purpose and supports of the EU initiative; not evidence for fictional scoring."
+        },
+        {
+          "title": "European Commission, Just Transition Mechanism overview",
+          "url": "https://commission.europa.eu/topics/regional-and-urban-policy/just-transition-mechanism_en",
+          "date": "Undated; checked 6 October 2026",
+          "use": "Institutional comparison of support and mechanisms."
+        }
+      ],
+      "languageSupport": "<h3>English pathway</h3><p>Austria connection: compare Sonnfeld with an Austrian district-heating or industrial region using a local government, Statistik Austria or Austrian energy-agency source selected by the teacher. Do not infer local job effects from the fictional scores. <strong>Original-reading extension:</strong> read the European Commission's “EU coal regions in transition” page. Use the paragraph beginning “To ensure that no region...” and the following paragraph describing the Just Transition Mechanism; summarize one stated purpose and one limitation of the page's evidence.</p>",
+      "submission": "Individual, 350–450 words: recommend a Sonnfeld package. Include cost arithmetic, ownership model, one worker or household consequence, the result after the Shock card, and one evidence gap. Criteria: all thresholds checked; distribution and risk explained; distinguish fictional score from real forecast.",
+      "exit": [
+        "Who bears the risk in your plan if costs rise?",
+        "Which project prerequisite matters most, and why?"
+      ],
+      "homework": "In 20 minutes, rewrite your recommendation for a resident who disagrees with your preferred ownership model. Use one Ownership card and identify a fair compromise or explain why none is available.",
+      "teacher": {
+        "preparation": [
+          "Display or print all cards and table; prepare one Shock card to draw.",
+          "Score starting values by summing the selected project effects; track any unmet prerequisite as zero effect.",
+          "Open Commission sources; explain that policy instruments and eligibility are more complex than the simulation."
+        ],
+        "facilitation": [
+          "Ensure students do not treat public, private or cooperative ownership as automatically equitable or efficient.",
+          "Check the budget and each project prerequisite before voting.",
+          "Ask which absent groups (for example, future residents or landowners) might change the decision."
+        ],
+        "answers": [
+          "A valid example: grid/wind-solar (35) + insulation/heat pumps (30) + worker training (25) + cooperative solar (20) = 110, over budget and invalid. A valid plan: insulation (30) + training (25) + district heat (40) + bill support (15) = 110 also invalid. Students must select within 100; e.g. insulation (30) + training (25) + cooperative solar (20) + bill support (15) = 90: climate 4, worker 3, household protection 4, reliability 0, so it fails reliability minimum. Add grid connection (35) would exceed budget. This exposes a real planning conflict; an example passing plan: district heat (40) + worker training (25) + cooperative solar (20) + bill support (15) = 100; climate 4, reliability 3, worker 3, household 3, with renter-access prerequisite for solar and placement plan for training. However district heat also requires 5 PU maintenance reserve, making total 105; thus that package is invalid unless bill support is dropped (85 projects + 5 reserve = 90) and thresholds still household protection 1, yes, climate 4/reliability 3/worker 3/household 1. Apply shock and discuss.",
+          "Scoring has a deliberate budget tension; count the 5 PU district-heat reserve as a cost. There is at least one feasible package: district heat 40 + training 25 + cooperative solar 20 + bill support 15 + reserve 5 = 105 (not feasible). District heat 40 + insulation 30 + worker training 25 = 95 plus reserve 5 =100: climate 4, reliability 2, workers 3, household 2; meets thresholds if renter access and placement plan are secured.",
+          "After Shock card, different plans lose different dimensions; there is no single best policy without value choices."
+        ],
+        "misconceptions": [
+          "A new renewable project does not automatically guarantee reliable supply; grids and timing matter.",
+          "Jobs are not interchangeable just because totals match; skills, location, pay and security matter.",
+          "Ownership form alone does not settle accountability or distribution."
+        ],
+        "differentiation": [
+          "Provide a score tracker with thresholds printed; extension students critique the chosen indicators and add a missing stakeholder.",
+          "For language support, allow oral negotiation notes before the individual written submission."
+        ],
+        "extension": "Use an official Austrian regional or Just Transition Fund project source to test one assumption in the game; record what the source measures and what it does not."
+      }
+    },
+    "de": {
+      "title": "Wem gehört der Wandel? Energie, Arbeit und Region",
+      "question": "Wie kann eine Region ihr Energiesystem verändern, ohne die Kosten einfach Beschäftigten und Gemeinden aufzubürden?",
+      "intro": "Ein Umbau der Energieversorgung verändert mehr als Kraftwerke. Auch Arbeit, Steuern, Preise, Flächennutzung und Eigentum ändern sich. Ihr beratet eine erfundene österreichische Region und untersucht, wie Eigentum und Zeitplan die Möglichkeiten prägen.",
+      "goals": [
+        "Eine regionale Energieentscheidung mit Folgen für Beschäftigte, Haushalte, Betriebe und öffentliche Budgets verbinden.",
+        "Öffentliches, genossenschaftliches und privates Eigentum vergleichen.",
+        "Mit einem erfundenen Budget einen Übergangsplan verhandeln und Zielkonflikte erklären."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Die Region lesen",
+          "task": "Lest Falltext: Region Sonnfeld. Markiert zwei Abhängigkeiten und einen Konflikt; erstellt eine Karte mit vier verbundenen Punkten."
+        },
+        {
+          "minutes": 15,
+          "title": "Eigentumsformen vergleichen",
+          "task": "Nutzt Eigentumskarten und Interessenkarten. Ordnet Entscheidungsmacht, Risiko und möglichen Nutzen zu und notiert eine Unsicherheit."
+        },
+        {
+          "minutes": 15,
+          "title": "Budgetplan erstellen",
+          "task": "Nutzt Sonnfeld-Budgettabelle, Projektmenü und Wertung. Wählt Projekte bis 100 PP und erfüllt Mindestwerte; füllt Plan- und Wertungsblatt aus."
+        },
+        {
+          "minutes": 20,
+          "title": "Gemeinderat-Simulation",
+          "task": "Befolgt Vollständige Regeln und Rollenkarten für den Regionalrat. Füllt Plan- und Wertungsblatt mit unterschriebenem Plan und Einwand aus."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 15,
+          "title": "Plan testen",
+          "task": "Nutzt Schockkarte und Wertungsblatt sowie Plan- und Wertungsblatt. Berechnet neu und zeigt Vorher/Nachher und Betroffene."
+        },
+        {
+          "minutes": 10,
+          "title": "EU-Politik vergleichen",
+          "task": "Lest Quellenvergleich: EU-Fonds für einen gerechten Übergang. Findet Zweck und Grenze; vergleicht mit dem erfundenen Budget."
+        },
+        {
+          "minutes": 10,
+          "title": "Eigenes Urteil",
+          "task": "Nutzt Plan- und Wertungsblatt für deine Einzel-Empfehlung: erklärt Eigentum, Verteilung, Schockfolge und fehlenden Beleg."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Region Sonnfeld",
+          "html": "<h3>Erfundener Falltext (von der Lehrkraft geschrieben; etwa 300 Wörter)</h3><p>Sonnfeld ist eine erfundene österreichische Region mit 85.000 Einwohnerinnen und Einwohnern. Sie umfasst eine kleine Industriestadt, Bauernhöfe, Waldgemeinden und ein Fernheizwerk, das importiertes Gas verbrennt. Ein Betrieb mit 900 Beschäftigten stellt Metallteile her und verbraucht viel Strom. Haushalte wollen verlässliche Wärme und bezahlbare Rechnungen. Die Regionalregierung will Emissionen senken, Steuereinnahmen sichern und Arbeitsplätze schaffen, die junge Menschen vor Ort finden können.</p><p>Fernheizwerk und Betrieb hängen mit der übrigen Wirtschaft zusammen. Schließt das Werk, bevor Ersatzwärme bereitsteht, drohen Engpässe oder höhere Kosten. Bleibt es länger offen, entstehen weiter Emissionen und die Abhängigkeit von importiertem Brennstoff bleibt. Ein Wind- und Solarprojekt könnte diese Abhängigkeit senken. Dafür braucht es Netz-Ausbau, Vereinbarungen über Flächen und Zeit. Batterien und Wärmepumpen könnten Nachfrage verschieben; Dämmung verringert den Energiebedarf. Das sind zu untersuchende Mechanismen. Der Fall enthält keine gemessenen Emissionen und keine Preisprognose.</p><p>Eigentum verändert, wer entscheidet und finanzielle Risiken trägt. Ein privates Unternehmen kann schnell Geld investieren, erwartet aber eine Rendite. Ein kommunaler Versorger kann Infrastruktur an lokalen Bedürfnissen ausrichten, trägt aber Projektrisiken im öffentlichen Budget. Eine Genossenschaft gibt Mitgliedern Mitsprache und kann Erträge teilen, hat aber vielleicht weniger Kapital. Das sind mögliche Zielkonflikte, keine Garantien. Verträge, Regeln, Kapitalzugang und Leitung zählen ebenfalls.</p><p>Der Gemeinderat hat 100 Übergangspunkte. Das sind erfundene Planungseinheiten, keine Euro. Der Plan muss die Wärmeversorgung sichern, einen Weg für betroffene Beschäftigte anbieten und mindestens ein Projekt zur Emissionssenkung umfassen. Gruppen vertreten unterschiedliche Menschen und Einrichtungen. Sie können über Standort, Eigentum, Umschulung und befristete Hilfe streiten. Ein guter Plan zeigt, wer gewinnt und wer ein Risiko trägt. Er sagt auch, welche Belege für echte Investitionen fehlen.</p>"
+        },
+        {
+          "title": "Eigentumskarten",
+          "html": "<h3>Mögliche Modelle: Keines garantiert ein gutes Ergebnis</h3><ul><li><strong>Privates Energieunternehmen:</strong> Kapital kommt von Investoren, die Rendite erwarten. Entscheidungen können rasch fallen. Risiko: Gewinne verlassen die Region; Projekte ohne erwartete Rendite werden abgelehnt. Fragt nach Regeln und Versorgungsvertrag.</li><li><strong>Kommunaler Versorger:</strong> Die Gemeinde besitzt den Betrieb. Wärme, Netz und Planung lassen sich lokal abstimmen. Risiko: Mehrkosten können das öffentliche Budget belasten; Politik kann Gruppen bevorzugen.</li><li><strong>Energiegenossenschaft:</strong> Mitglieder besitzen gemeinsam ein Projekt und stimmen ab. Das kann Mitsprache und lokale Erträge stärken. Risiko: Kapital und Fachwissen können knapp sein; Mieterinnen und Geringverdienende sind vielleicht unterrepräsentiert.</li></ul><p>Fragt für jede Form: Wer investiert, entscheidet, erhält Einnahmen, trägt Verluste und kann ausgeschlossen werden?</p>"
+        },
+        {
+          "title": "Interessenkarten",
+          "html": "<ul><li><strong>Beschäftigte des Betriebs:</strong> wollen sichere Arbeit, rechtzeitige Information und bezahlte Umschulung. Neue Arbeit kann andere Fähigkeiten verlangen oder weit entfernt sein.</li><li><strong>Haushalte mit niedrigem Einkommen zur Miete:</strong> wollen bezahlbare Wärme und Hilfe bei Sanierungen. Sie besitzen das Haus nicht und können große Umbauten nicht allein entscheiden.</li><li><strong>Regionalgemeinderat:</strong> will sichere Dienste, Steuereinnahmen und einen finanzierbaren Plan; er ist den Bewohnern verantwortlich.</li><li><strong>Genossenschaftsmitglieder:</strong> wollen lokales Eigentum und transparente Konten; nicht alle Menschen können Geld investieren.</li><li><strong>Netzbetreiber:</strong> muss sichere, verlässliche Versorgung gewährleisten. Neue Anschlüsse brauchen Kapazität und Planung. Ohne Prüfung kann er keinen Bauzeitpunkt garantieren.</li></ul>"
+        },
+        {
+          "title": "Sonnfeld-Budgettabelle, Projektmenü und Wertung",
+          "html": "<h3>Erfundene Planungspunkte (PP), kein echtes Geld</h3><table><caption>Wählt Projekte bis höchstens 100 PP</caption><thead><tr><th>Projekt</th><th>Kosten</th><th>Wirkung im Spiel</th></tr></thead><tbody><tr><td>Netz und Wind-/Solaranschluss</td><td>35 PP</td><td>+3 Klima; +1 Versorgung; braucht Flächenvereinbarung</td></tr><tr><td>Gebäudedämmung und Wärmepumpen</td><td>30 PP</td><td>+2 Klima; +2 Haushaltsschutz; braucht Zugangslösung für Mieter</td></tr><tr><td>Umschulung und Lohnausgleich</td><td>25 PP</td><td>+3 Arbeitssicherheit; nur mit unterschriebenem Vermittlungsplan</td></tr><tr><td>Kommunaler Umbau der Fernwärme</td><td>40 PP</td><td>+2 Klima; +2 Versorgung; kommunales Eigentum; braucht 5 PP Wartungsreserve</td></tr><tr><td>Solardächer als Genossenschaft</td><td>20 PP</td><td>+2 Klima; +1 Mitsprache; braucht Regelung für Mieterzugang</td></tr><tr><td>Befristete Rechnungshilfe</td><td>15 PP</td><td>+2 Haushaltsschutz für eine Runde; spart langfristig keine Energie</td></tr></tbody></table><p><strong>Mindestbedingungen:</strong> Versorgung mindestens 1; Arbeitssicherheit mindestens 2; Klima mindestens 2; Haushaltsschutz mindestens 1. Effekte werden addiert. Fehlt eine Voraussetzung, zählt der Projekteffekt null. Ein Plan unter einem Mindestwert erhält keine Empfehlung des Rates. Alle Werte sind erfunden.</p>"
+        },
+        {
+          "title": "Vollständige Regeln und Rollenkarten für den Regionalrat",
+          "html": "<h3>Regeln (20 Minuten)</h3><ol><li>Fünf Gruppen erhalten Rollen. Zwei Minuten lesen; Sprecher und Protokollführung wählen.</li><li>Runde 1: drei Minuten für Prioritäten. Runde 2: sieben Minuten Verhandlung für höchstens 100 PP. Runde 3: drei Minuten Änderungen; dann Abstimmung.</li><li>Mindestens vier von fünf Rollen müssen zustimmen. Alle vier Mindestwerte und Projektbedingungen müssen erfüllt sein. Kommt kein Plan durch, dokumentiert den besten Versuch und die fehlenden Bedingungen; erfindet keine Punkte.</li><li>Notiert Projekt, Kosten, Eigentum, Voraussetzungen, Stimmen und Einwände. Eine ablehnende Rolle darf einen Satz ergänzen.</li></ol><h3>Rollen</h3><ul><li><strong>Regionalrat:</strong> will einen umsetzbaren Plan und sichere Dienste. Ihr verwaltet 100 PP und dürft keine weiteren beschaffen.</li><li><strong>Beschäftigtengruppe:</strong> stimmt bei Arbeitssicherheit mindestens 3 und einem Vermittlungsplan zu; lehnt eine ungeplante frühe Schließung ab.</li><li><strong>Mieter- und Haushaltsgruppe:</strong> will Schutz mindestens 2 und verlangt für Dämmung einen Zugang für Mieter. Ihr könnt nicht in ein Haus investieren, das euch nicht gehört.</li><li><strong>Kommunaler Versorger:</strong> unterstützt den Fernwärmeumbau nur mit 5 PP Wartungsreserve; kann höchstens zwei Projekte mitbesitzen.</li><li><strong>Genossenschaft und lokale Betriebe:</strong> wollen lokale Projekte und transparente Eigentumsregeln. Privates Kapital nur mit veröffentlichten Regeln zu lokalem Nutzen und Mitsprache.</li></ul><h3>Auswertung</h3><p>Wer hatte Entscheidungsmacht? Wurden Risiken auf Beschäftigte, Steuerzahlende, Investoren oder Haushalte verschoben? Ist ein schnelleres Projekt immer der beste Wandel? Die Punkte sind Annahmen für den Unterricht, keine Prognosen. Echte Projekte brauchen Technik-, Finanz- und Umweltprüfungen sowie Zustimmung.</p>"
+        },
+        {
+          "title": "Schockkarte und Wertungsblatt",
+          "html": "<h3>Nach der Einigung eine Karte ziehen</h3><ul><li><strong>Netzverzögerung:</strong> Hat der Plan Wind/Solar oder Genossenschafts-Solar, sinkt Versorgung in dieser Runde um 1. Das Projekt bleibt im Plan.</li><li><strong>Auftragsverlust des Betriebs:</strong> Liegt Arbeitssicherheit unter 3, sinkt sie um 1. Mit unterschriebenem Vermittlungsplan gibt es keinen Abzug.</li><li><strong>Kalter Winter und hoher Gaspreis:</strong> Fehlt Haushaltsschutz, sinken Versorgung und Haushaltsschutz je um 1. Befristete Rechnungshilfe verhindert den Abzug beim Haushaltsschutz, nicht bei Versorgung.</li></ul><p>Die Lehrkraft wählt eine Karte oder lässt ziehen. Nur die angegebene Änderung gilt. Notiert, wer betroffen ist. Eine Karte kann weder echte Wahrscheinlichkeiten noch alle gleichzeitigen Schocks darstellen.</p>"
+        },
+        {
+          "title": "Quellenvergleich: EU-Fonds für einen gerechten Übergang",
+          "html": "<p>Die Europäische Kommission erklärt, dass ihr Fonds für einen gerechten Übergang Regionen, Beschäftigte und Gemeinden unterstützt, die vom Wandel zu einer grüneren Wirtschaft besonders betroffen sind. Die Initiative für Kohleregionen hilft bei regionalen Plänen und Austausch. Das ist echte Politik; die 100 PP in Sonnfeld sind erfunden und kein EU-Budget.</p><table><caption>Quellenblatt</caption><thead><tr><th>Frage</th><th>In der Quelle suchen</th><th>Mit Sonnfeld vergleichen</th></tr></thead><tbody><tr><td>Wer soll Hilfe erhalten?</td><td>Genannte Gruppen oder Orte notieren.</td><td>Welche Rolle fehlt in Sonnfeld?</td></tr><tr><td>Was wird unterstützt?</td><td>Eine genannte Hilfe finden.</td><td>Welches erfundene Projekt ähnelt ihr?</td></tr><tr><td>Was verrät diese Seite nicht?</td><td>Fehlende Belege nennen, etwa ein lokales Ergebnis.</td><td>Welche Daten bräuchte ein echter Regionalplan?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Plan- und Wertungsblatt des Regionalrats",
+          "html": "<h3>Während Verhandlung und Schocktest ausfüllen</h3><table><caption>Gemeinsam ausfüllen</caption><thead><tr><th>Projekt</th><th>Kosten samt Reserve</th><th>Eigentum</th><th>Voraussetzung erfüllt?</th><th>Klima</th><th>Versorgung</th><th>Arbeit</th><th>Haushaltsschutz</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Summe:</td><td></td><td colspan=\"6\">Vor dem Schock:</td></tr><tr><td>Schockkarte und Folge:</td><td colspan=\"7\"></td></tr><tr><td>Wer trägt die Folge?</td><td colspan=\"7\"></td></tr></tbody></table><p>Einzelarbeit: 350–450 Wörter; Paket empfehlen, Kosten und Mindestwerte zeigen, Eigentum und Verteilung erklären, Schock anwenden und fehlenden Beleg nennen.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Europäische Kommission, EU-Kohleregionen im Wandel",
+          "url": "https://energy.ec.europa.eu/topics/clean-energy-transition-initiatives/eu-coal-regions-transition_en",
+          "date": "Ohne Datum; geprüft am 6. Oktober 2026",
+          "use": "Zweck und Unterstützungsangebote der EU-Initiative; nicht Beleg für erfundene Punkte."
+        },
+        {
+          "title": "Europäische Kommission, Überblick zum Mechanismus für einen gerechten Übergang",
+          "url": "https://commission.europa.eu/topics/regional-and-urban-policy/just-transition-mechanism_en",
+          "date": "Ohne Datum; geprüft am 6. Oktober 2026",
+          "use": "Institutioneller Vergleich von Unterstützung und Mechanismen."
+        }
+      ],
+      "languageSupport": "<h3>Deutsch-Pfad mit kurzer englischer Brücke</h3><p><strong>Englischer Brückentext (von der Lehrkraft geschrieben, kein Zitat):</strong> “A new energy project can create jobs and reduce fuel imports. It can also change who owns infrastructure and who pays for repairs. Workers may need time, training and secure income while the region changes.”</p><p>Fragen auf Deutsch: 1. Welche zwei möglichen Vorteile nennt der Text? 2. Welche drei Fragen stellt er zu Eigentum und Kosten? 3. Warum können neue Arbeitsplätze nicht automatisch die alten ersetzen? Wörter: energy project = Energieprojekt; fuel import = Brennstoffimport; ownership = Eigentum; repair = Reparatur; worker = Beschäftigte/r; training = Ausbildung/Umschulung. <strong>Österreich-Bezug:</strong> Vergleicht mit einer österreichischen Fernwärme- oder Industrieregion mithilfe einer lokalen amtlichen Quelle. Erfindet keine Jobwirkung aus den Sonnfeld-Punkten.</p>",
+      "submission": "Einzelarbeit, 350–450 Wörter: Empfiehl ein Paket für Sonnfeld. Rechne die Kosten vor, nenne Eigentumsform, eine Folge für Beschäftigte oder Haushalte, die Wertung nach der Schockkarte und eine fehlende Information. Prüfkriterien: Budget und Mindestwerte stimmen; Verteilung und Risiko werden erklärt; erfundene Wertung wird nicht als echte Prognose ausgegeben.",
+      "exit": [
+        "Wer trägt in deinem Plan das Risiko, wenn Kosten steigen?",
+        "Welche Projektbedingung ist besonders wichtig und warum?"
+      ],
+      "homework": "Nimm dir 20 Minuten. Schreibe deine Empfehlung für eine Person um, die deine Eigentumsform ablehnt. Nutze eine Eigentumskarte und nenne einen fairen Kompromiss oder begründe, warum keiner möglich ist.",
+      "teacher": {
+        "preparation": [
+          "Alle Karten und Tabelle ausgeben; eine Schockkarte vorbereiten.",
+          "Ausgangswerte durch Addition der Projekte berechnen; fehlende Voraussetzungen zählen als null.",
+          "Kommissionsquellen öffnen und erklären, dass echte Förderregeln komplexer sind."
+        ],
+        "facilitation": [
+          "Keine Eigentumsform automatisch als gerecht oder effizient behandeln.",
+          "Vor der Abstimmung Budget und Voraussetzungen prüfen.",
+          "Fehlende Gruppen wie künftige Bewohner oder Grundeigentümer einbringen."
+        ],
+        "answers": [
+          "Mindestwerte: Versorgung 1, Arbeit 2, Klima 2, Haushaltsschutz 1. Wartungsreserve beim Fernwärmeprojekt zu den Kosten zählen.",
+          "Ein zulässiges Beispiel: Fernwärme 40 + Dämmung/Wärmepumpen 30 + Umschulung 25 = 95; Wartungsreserve 5 macht 100. Klima 4, Versorgung 2, Arbeit 3, Haushaltsschutz 2. Es braucht Zugang für Mieter sowie Vermittlungsplan. Nach Netzverzögerung ändert sich nichts, da kein Wind-/Solarprojekt enthalten ist; andere Schockkarten wirken gemäß Regel.",
+          "Es gibt keine objektiv beste Wertentscheidung. Gute Antworten nennen Folgen, Voraussetzungen und fehlende Daten."
+        ],
+        "misconceptions": [
+          "Erneuerbare Projekte garantieren allein keine verlässliche Versorgung; Netze und Zeit zählen.",
+          "Arbeitsplätze sind nicht austauschbar, nur weil die Zahl gleich ist.",
+          "Eigentumsform allein entscheidet nicht über Verantwortung oder Verteilung."
+        ],
+        "differentiation": [
+          "Wertungsbogen mit aufgedruckten Mindestwerten geben; stärkere Lernende kritisieren Indikatoren und ergänzen eine fehlende Gruppe.",
+          "Verhandlungsnotizen können vor dem individuellen Text mündlich erarbeitet werden."
+        ],
+        "extension": "Nutzt eine offizielle österreichische Regional- oder Just-Transition-Projektquelle, um eine Annahme des Spiels zu prüfen. Notiert, was die Quelle misst und was nicht."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "en": {
+      "title": "Batteries: who captures the value?",
+      "question": "Can a country gain more from a battery supply chain than the minerals it exports?",
+      "intro": "A battery is assembled through a chain of mining, refining, material production, cell manufacturing, pack assembly and recycling. Countries may want jobs and know-how at several stages, while companies and consumers need reliable products. We will map a chain and negotiate a fictional investment offer.",
+      "goals": [
+        "Describe several stages of a battery value chain and how disruptions travel through it.",
+        "Distinguish mineral extraction from refining and manufacturing value capture.",
+        "Assess an investment deal using jobs, environmental limits, technology learning and supply risk."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Start with the battery",
+          "task": "Use Battery Chain cards and worksheet. Arrange the stages and deliver a labelled map."
+        },
+        {
+          "minutes": 15,
+          "title": "Check the claims",
+          "task": "Use IEA evidence cards and Claim audit table. Mark claim, evidence and uncertainty; deliver two checked claims and one question."
+        },
+        {
+          "minutes": 15,
+          "title": "Compare value capture",
+          "task": "Use Fictional value-chain data table and calculation. Calculate each stage share and explain why gross sales are not profit."
+        },
+        {
+          "minutes": 20,
+          "title": "Negotiate the investment",
+          "task": "Follow Complete Kalo investment negotiation rules and role cards. Record accepted terms on Kalo term sheet and individual response; deliver signed term sheet and separate scores."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 15,
+          "title": "Test a supply shock",
+          "task": "Use Disruption cards and application rules on the Kalo term sheet. Deliver updated scores and causal explanation."
+        },
+        {
+          "minutes": 10,
+          "title": "Austria and Europe connection",
+          "task": "Use Source comparison: IEA outlook and Austrian question. Identify one concentration finding and one question it cannot answer for Austria."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual judgement",
+          "task": "Use Kalo term sheet and individual response to write the individual investment judgement, including a counterargument and evidence limit."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Kalo and the battery chain",
+          "html": "<h3>Fictional case reader (teacher-written; about 300 words)</h3><p>Kalo is a fictional country that exports lithium ore and has a young workforce, a deep-water port and unreliable electricity. A foreign consortium proposes a battery-materials and cell-assembly complex near the port. The company says it could create jobs and make Kalo a regional supplier. The government wants higher incomes, reliable power, skills and local firms that can sell to the plant. Residents near the proposed site want clean water, consultation and a way to share in benefits.</p><p>A battery supply chain has different stages. Minerals are mined; ores may be concentrated and refined; active materials are produced; cells are manufactured; cells are assembled into packs and installed in vehicles or storage; batteries are later repaired, reused or recycled. Each stage needs different skills, infrastructure, capital, energy and environmental safeguards. A country that exports raw material may receive export earnings but have little control over later stages. Building a factory may create capabilities, but it can also depend on imported equipment, technology, finance and customer orders.</p><p>The International Energy Agency's 2025 critical-minerals outlook describes concentration across parts of mineral processing and battery supply chains, and notes that new battery chemistries can shift which minerals are important. Its analysis is global; it does not predict Kalo's project outcomes. In this exercise, students use an official source to distinguish what is reported from what is only proposed in the fictional offer.</p><p>Joining a global value chain does not automatically produce broad development. A plant may import most inputs, repatriate profits or create jobs with limited local learning. On the other hand, strict local-content requirements may raise costs, delay construction or deter investment. Policy choices can include training, local supplier development, environmental standards, public reporting, tax terms and technology partnerships. The class will negotiate a deal under a fixed fictional envelope. No side can make a real investment promise. The aim is to decide what evidence and conditions would make the offer worth accepting, and to notice who has bargaining power when a country needs capital and firms need resources.</p>"
+        },
+        {
+          "title": "Battery Chain cards and worksheet",
+          "html": "<h3>Cut out and arrange; cards are teacher-written summaries</h3><ol><li><strong>Mining:</strong> extract ore or brine; questions include land, water and worker safety.</li><li><strong>Concentration/refining:</strong> turn mined material into battery-grade chemicals; needs processing plants, energy, water and technical controls.</li><li><strong>Active materials:</strong> make cathode/anode materials; chemistry choice changes which inputs matter.</li><li><strong>Cell manufacturing:</strong> produce cells; requires specialised equipment, quality control, capital and reliable power.</li><li><strong>Pack and product assembly:</strong> combine cells with electronics and safety systems; connect to vehicles or grid storage.</li><li><strong>Use, repair and recycling:</strong> maintain products, recover materials and manage waste; collection and safe processing matter.</li></ol><p>Worksheet: draw arrows between stages. Label each arrow with one possible flow (material, money, knowledge, energy, waste or risk). Add a disruption point and identify one downstream effect. Not every battery uses the same chemistry or exact inputs.</p>"
+        },
+        {
+          "title": "IEA evidence cards and Claim audit table",
+          "html": "<h3>Paraphrased official-source evidence; Global Critical Minerals Outlook 2025</h3><ul><li><strong>Evidence 1:</strong> the IEA reports that critical-mineral supply chains can remain vulnerable even when overall projected supply appears adequate, because production and processing are concentrated and shocks can disrupt flows.</li><li><strong>Evidence 2:</strong> the IEA describes emerging battery chemistries as changing which mineral supply chains matter; alternatives to nickel-based chemistries have different input profiles and risks.</li><li><strong>Evidence 3:</strong> the IEA notes that battery supply chains include more than mining: downstream stages such as cells and materials can be concentrated in particular places.</li></ul><table><caption>Claim audit</caption><thead><tr><th>Claim</th><th>Evidence that supports or challenges it</th><th>What remains uncertain?</th></tr></thead><tbody><tr><td>“Mining lithium is enough for Kalo to gain most battery value.”</td><td>Use Evidence 3 and chain stages.</td><td>Revenue, profits, ownership and local linkages are not the same.</td></tr><tr><td>“A battery factory always makes a country more resilient.”</td><td>Use Evidence 1 and 2.</td><td>Inputs, equipment, skills and buyers may still be external.</td></tr><tr><td>“Recycling removes supply risks.”</td><td>Use the IEA source link and identify its stated limits.</td><td>Collection, timing, chemistry and scale matter.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Fictional value-chain data table and calculation",
+          "html": "<h3>All values are invented teaching units (TU), not real battery prices or national accounts</h3><table><caption>One notional battery order; gross sales by stage</caption><thead><tr><th>Stage</th><th>Gross sales (TU)</th></tr></thead><tbody><tr><td>Mining and ore sale</td><td>8</td></tr><tr><td>Refined battery-grade material</td><td>20</td></tr><tr><td>Active materials and components</td><td>24</td></tr><tr><td>Cell manufacture</td><td>30</td></tr><tr><td>Pack and system integration</td><td>18</td></tr><tr><td>Total gross sales across stages (double counts intermediate sales)</td><td>100</td></tr></tbody></table><p><strong>Task:</strong> compute each stage's percentage of this constructed gross-sales total. Check that shares add to 100%. Then write: “This table cannot tell us each stage's profit because …” Reminder: intermediate sales are included repeatedly, so the table is not the final product's market value or a real economy's value-added account.</p>"
+        },
+        {
+          "title": "Complete Kalo investment negotiation rules and role cards",
+          "html": "<h3>Rules (20 minutes)</h3><ol><li>Four groups take roles. Read for two minutes; each names its non-negotiable and one tradable condition.</li><li>Negotiate for 10 minutes. Each side may propose up to three conditions. The consortium accepts or rejects each and may accept no more than three. Government approval requires water monitoring and at least two accepted conditions. Workers support a deal with the training fund or technology partnership. Residents support it with monitoring plus local suppliers or community equity. These preferences may lead to signed dissent if unmet.</li><li>After signing, apply each accepted term’s listed benefit and company cost/control penalty. The consortium signs only if accepted terms require no more than 23 total company tokens and no more than 1 control penalty. Count token contributions listed in the menu; the tax floor counts as 8 tokens of foregone revenue. Other roles may still dissent. Report separate scores; do not add them into one total.</li><li>Use four minutes to write a term sheet. If no agreement, record the best offer and unresolved issue. Do not invent terms or score effects.</li></ol><h3>Term menu (propose up to three)</h3><ul><li><strong>Training fund:</strong> company pays 10 fictional tokens; workers +2 skills.</li><li><strong>Local supplier programme:</strong> company spends 8 tokens on supplier qualification; local firms +2 capability.</li><li><strong>Water monitoring and public data:</strong> company pays 5 tokens; residents +2 trust; project gets environmental consent.</li><li><strong>Profit-tax floor:</strong> company accepts a fictional 15% minimum effective tax (counts as 8 tokens of foregone revenue); public budget +2.</li><li><strong>Technology partnership:</strong> company and local technical college share a pilot line; company pays 3 tokens; workers +1 skills and firms +1 capability; consortium incurs 1 control penalty.</li><li><strong>Power reliability contract:</strong> government reserves capacity and company pays 6 tokens toward backup; reliability +2; public budget −1 token.</li><li><strong>Community equity share:</strong> consortium reserves 5% fictional project shares for a community trust; residents +2 benefit; consortium incurs 1 control penalty.</li></ul><h3>Role cards</h3><ul><li><strong>Kalo government:</strong> want jobs, taxes and reliable power; cannot spend more than 1 token. Require water monitoring and at least two accepted terms. You may reject the offer.</li><li><strong>Consortium:</strong> want a predictable investment and control of core technology. Accept no more than three terms; reject technology partnership or tax floor if you choose, but then the government may reject your deal.</li><li><strong>Workers and technical college:</strong> prefer the training fund or technology partnership; support either one. You cannot promise the factory will hire every trainee.</li><li><strong>Residents and local suppliers:</strong> require water monitoring; prefer community equity or supplier programme. You may accept one of those as a compromise, but state what remains unresolved.</li></ul><p><strong>Deal score:</strong> report separately: workers' skills (0–3), local firm capability (0–3), resident trust/benefit (0–4), public budget (+/− tokens), reliability (0–2), company token cost (0–23 limit), control penalties (0–1 limit). Do not combine into a single “best” score.</p><h3>Debrief</h3><p>Who had the ability to walk away? Which conditions change capabilities rather than only immediate revenue? Could a government enforce the terms? What data would be needed on water, wages, tax and ownership? This game simplifies bargaining, assumes fixed company costs, leaves global market prices out, and gives residents only one role.</p>"
+        },
+        {
+          "title": "Disruption cards and application rules",
+          "html": "<h3>After signing, draw one card; apply the stated effect</h3><ul><li><strong>Processing-equipment delay:</strong> if the agreement lacks a technology partnership, project start is delayed; subtract 1 reliability. With partnership, no score change, but note that delay risk is reduced rather than eliminated.</li><li><strong>Water-monitoring alert:</strong> if no monitoring term was accepted, residents' trust −2 and government must pause approval. If monitoring was accepted, publish the result; the card does not say whether water is safe.</li><li><strong>Battery chemistry shift:</strong> if the deal relies only on lithium ore exports and has no supplier programme or technology partnership, local firm capability −1. Explain why a change in chemistry could alter demand; do not claim lithium becomes useless.</li></ul><p>Only apply the relevant card effect. Discuss that these are possible stress tests, not probabilities or predictions.</p>"
+        },
+        {
+          "title": "Source comparison: IEA outlook and Austrian question",
+          "html": "<p>The IEA's Global Critical Minerals Outlook 2025 examines minerals, processing, battery technologies and supply-chain vulnerabilities. It is a global analysis, not a project appraisal for Kalo or a forecast for one Austrian factory.</p><table><caption>Read and compare</caption><thead><tr><th>Question</th><th>Record an IEA finding</th><th>Application limit</th></tr></thead><tbody><tr><td>Where can concentration occur?</td><td>Mining, processing or downstream manufacturing?</td><td>Does a global pattern prove a local dependency?</td></tr><tr><td>Why do battery chemistries matter?</td><td>Identify one input change discussed.</td><td>Would this identify one winning chemistry forever?</td></tr><tr><td>Austria connection</td><td>Which Austrian industry or policy question would you investigate?</td><td>What local data/source would be required?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Kalo term sheet and individual response",
+          "html": "<h3>Negotiation term sheet — complete together</h3><table><tbody><tr><th>Proposed (up to 3), accepted and rejected conditions</th><td></td></tr><tr><th>Company payments / public contribution</th><td></td></tr><tr><th>Training, supplier and technology commitments</th><td></td></tr><tr><th>Water data and community process</th><td></td></tr><tr><th>Signatures / dissent</th><td></td></tr><tr><th>Separate score: skills / firm capability / resident trust / public budget / reliability / company penalties</th><td></td></tr></tbody></table><h3>Individual response (350–450 words)</h3><p>Advise Kalo to accept, reject or renegotiate. Include a chain map, one calculated fictional gross-sales share, two conditions, one distributional effect and one IEA finding with an application limit. Do not call revenue profit; discuss enforcement.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "International Energy Agency, Global Critical Minerals Outlook 2025: Executive Summary",
+          "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025/executive-summary",
+          "date": "2025; checked 6 October 2026",
+          "use": "Concentration, vulnerability and changing battery technologies; global claims only."
+        },
+        {
+          "title": "International Energy Agency, Global Critical Minerals Outlook 2025: Beyond NMC batteries",
+          "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025/beyond-nmc-batteries-supply-chain-issues-for-emerging-battery-technologies",
+          "date": "2025; checked 6 October 2026",
+          "use": "Chemistry-specific input chains and supply issues."
+        },
+        {
+          "title": "International Energy Agency, Global EV Outlook 2025: Battery supply chains",
+          "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+          "date": "2025; checked 6 October 2026",
+          "use": "Battery stages and recycling limits; extension reading."
+        }
+      ],
+      "languageSupport": "<h3>English pathway</h3><p>Austria connection: choose an Austrian battery, vehicle, recycling or energy-storage firm or policy question and locate an official Austrian/EU source. Distinguish local evidence from global IEA patterns. <strong>Original-reading extension:</strong> read the IEA 2025 Executive Summary section “Battery supply chains” and the paragraph immediately following its discussion of concentration. Record two claims in your own words and one caveat about applying them to Austria.</p>",
+      "submission": "Individual, 350–450 words: advise Kalo whether to accept, reject or renegotiate. Include a stage map, one calculated revenue share, two negotiated conditions, a distributional effect, and one IEA finding with an application limit. Success: revenue is not called profit; uncertainty and enforcement are addressed.",
+      "exit": [
+        "Which battery stage might create capabilities beyond mineral exports?",
+        "Name one reason the supply-chain map does not by itself prove a good investment."
+      ],
+      "homework": "In 20 minutes, add a 120-word note to your term sheet: what should happen if the plant misses its training or water-monitoring promise? Use the role cards and state what evidence verifies compliance.",
+      "teacher": {
+        "preparation": [
+          "Print chain cards, fictional sales table and term menu.",
+          "Open IEA report; use 2025 report as a dated source, not latest market data.",
+          "Check arithmetic: sales shares are 8%, 20%, 24%, 30%, 18%."
+        ],
+        "facilitation": [
+          "Make clear all Kalo data and company terms are invented.",
+          "Distinguish gross sales, value added, profit, tax and wages.",
+          "Do not equate mineral abundance with automatic bargaining power or development."
+        ],
+        "answers": [
+          "One valid deal: accept water monitoring (mandatory; resident trust +2), training (workers +2 skills; company cost −1), and technology partnership (workers +1, firms +1; company control −1). Combined company penalties are cost 1 and control 1, within limits; government approval and worker/resident support criteria are met. Another valid deal can combine monitoring, local suppliers and training: company cost penalties total 2; firm capability +2, worker skills +2, trust +2. A deal with monitoring + tax floor + local supplier has cost penalties 3 and the consortium must reject or renegotiate. These are examples, not the only defensible outcomes.",
+          "Fictional gross-sales shares: 8/100=8%; 20%; 24%; 30%; 18%. They sum to 100, but intermediate transactions are repeatedly counted; they are not profit shares or national value added.",
+          "IEA official findings support the idea that concentration and shocks can create vulnerability and that chemistry changes affect input chains. These global patterns do not establish Kalo's project viability."
+        ],
+        "misconceptions": [
+          "Lithium extraction is only one stage; refining, components, cells and systems can matter.",
+          "A new factory can create jobs without creating local technology ownership or supplier links.",
+          "Recycling can contribute materials but does not remove all near-term supply needs."
+        ],
+        "differentiation": [
+          "Provide a stage strip with arrows for support; extension students compare two chemistries or design a compliance indicator.",
+          "Allow group calculation rehearsal, then require each student to show their own share calculation in submission."
+        ],
+        "extension": "Compare the IEA global map with one specific Austrian company or official investment announcement. Ask what information about ownership, domestic value added and public support is disclosed."
+      }
+    },
+    "de": {
+      "title": "Batterien: Wer erhält den Wert?",
+      "question": "Kann ein Land von einer Batterielieferkette mehr gewinnen als den Verkauf von Rohstoffen?",
+      "intro": "Eine Batterie entsteht durch mehrere Schritte: Bergbau, Verarbeitung, Materialproduktion, Zellfertigung, Montage und Recycling. Länder wünschen sich Arbeit und Wissen, Unternehmen und Kundinnen verlässliche Produkte. Wir zeichnen eine Kette und verhandeln ein erfundenes Investitionsangebot.",
+      "goals": [
+        "Mehrere Schritte einer Batterielieferkette erklären und Folgen von Störungen verfolgen.",
+        "Rohstoffabbau von Verarbeitung und Herstellung unterscheiden.",
+        "Ein Angebot nach Arbeit, Umwelt, Wissen und Versorgungsrisiko beurteilen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Mit der Batterie beginnen",
+          "task": "Nutzt Batteriekarten und Arbeitsblatt. Ordnet die Stufen und gebt eine beschriftete Karte ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Aussagen prüfen",
+          "task": "Nutzt IEA-Belegkarten und Prüftabelle. Markiert Aussage, Beleg und Unsicherheit; gebt zwei geprüfte Aussagen und eine Frage ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Wertanteile vergleichen",
+          "task": "Nutzt Erfundene Wertschöpfungstabelle und Rechnung. Berechnet Anteile und erklärt, warum Umsatz nicht Gewinn bedeutet."
+        },
+        {
+          "minutes": 20,
+          "title": "Investition verhandeln",
+          "task": "Befolgt Vollständige Regeln und Rollenkarten zur Investition in Kalo. Tragt Bedingungen in Vertragsblatt Kalo und Einzelantwort ein; gebt Vertrag und getrennte Wertung ab."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 15,
+          "title": "Liefer-Schock testen",
+          "task": "Nutzt Störungskarten und Regeln für das Vertragsblatt. Gebt neue Wertung und Erklärung der Wirkungskette ab."
+        },
+        {
+          "minutes": 10,
+          "title": "Österreich und Europa",
+          "task": "Nutzt Quellenvergleich: IEA-Bericht und österreichische Frage. Findet einen Befund zu Konzentration und eine offene Frage für Österreich."
+        },
+        {
+          "minutes": 10,
+          "title": "Eigenes Urteil",
+          "task": "Nutzt Vertragsblatt Kalo und Einzelantwort für dein Urteil mit Gegenargument und Grenze des Belegs."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Kalo und die Batteriekette",
+          "html": "<h3>Erfundener Falltext (von der Lehrkraft geschrieben; etwa 300 Wörter)</h3><p>Kalo ist ein erfundenes Land. Es verkauft Lithiumerz, hat viele junge Arbeitskräfte, einen Tiefseehafen und unzuverlässigen Strom. Ein ausländisches Konsortium schlägt nahe dem Hafen eine Fabrik für Batteriematerial und Batteriezellen vor. Die Firma sagt, sie könnte Arbeitsplätze schaffen und Kalo zu einem regionalen Lieferanten machen. Die Regierung will höhere Einkommen, verlässlichen Strom, Fähigkeiten und lokale Betriebe, die an die Fabrik verkaufen können. Anwohnerinnen und Anwohner wollen sauberes Wasser, Mitsprache und einen Anteil am Nutzen.</p><p>Eine Batterielieferkette hat mehrere Schritte. Rohstoffe werden abgebaut. Erz wird konzentriert und verarbeitet. Aktivmaterialien werden hergestellt. Zellen werden gefertigt. Zellen werden zu Batteriepacks und Fahrzeugen oder Speichern zusammengebaut. Später können Batterien repariert, wiederverwendet oder recycelt werden. Jeder Schritt braucht andere Fähigkeiten, Infrastruktur, Kapital, Energie und Umweltschutz. Ein Land, das Rohstoffe verkauft, erhält Einnahmen, kontrolliert aber vielleicht kaum spätere Schritte. Eine Fabrik kann Fähigkeiten schaffen, braucht aber oft importierte Maschinen, Technik, Finanzierung und Kundschaft.</p><p>Der kritische Rohstoffbericht 2025 der Internationalen Energieagentur beschreibt Konzentration in Teilen der Verarbeitung und Batterielieferketten. Neue Batterietypen können verändern, welche Rohstoffe wichtig sind. Die Analyse gilt weltweit; sie sagt nicht voraus, was in Kalo passieren wird. In der Übung trennt ihr einen offiziellen Befund von einem Versprechen im erfundenen Angebot.</p><p>Die Teilnahme an einer globalen Lieferkette führt nicht automatisch zu breiter Entwicklung. Eine Fabrik kann viele Teile importieren, Gewinne ins Ausland überweisen oder Arbeit ohne viel lokales Lernen schaffen. Strenge Regeln für lokale Beschaffung können Kosten erhöhen, Bau verzögern oder Investitionen verhindern. Mögliche Politik umfasst Ausbildung, lokale Zulieferer, Umweltstandards, öffentliche Daten, Steuern und Wissenstransfer. Die Klasse verhandelt mit erfundenen Einheiten. Niemand kann echte Investitionen versprechen. Entscheidend ist, welche Belege und Bedingungen ein Angebot sinnvoll machen und wer Macht hat, wenn ein Land Kapital braucht und Firmen Rohstoffe wollen.</p>"
+        },
+        {
+          "title": "Batteriekarten und Arbeitsblatt",
+          "html": "<h3>Ausschneiden und ordnen; Zusammenfassungen von der Lehrkraft</h3><ol><li><strong>Bergbau:</strong> Erz oder Sole gewinnen; Fragen zu Land, Wasser und Arbeitsschutz.</li><li><strong>Aufbereitung/Verarbeitung:</strong> Rohstoff zu Batteriematerial verarbeiten; braucht Anlage, Energie, Wasser und Kontrollen.</li><li><strong>Aktivmaterial:</strong> Kathoden- und Anodenmaterial herstellen; die Chemie verändert benötigte Rohstoffe.</li><li><strong>Zellfertigung:</strong> Zellen herstellen; braucht Spezialmaschinen, Qualitätskontrolle, Kapital und verlässlichen Strom.</li><li><strong>Pack- und Gerätebau:</strong> Zellen mit Elektronik und Sicherheitssystem verbinden; Einsatz in Fahrzeugen oder Stromspeichern.</li><li><strong>Nutzung, Reparatur, Recycling:</strong> Produkte pflegen, Rohstoffe zurückgewinnen, Abfall sicher behandeln.</li></ol><p>Arbeitsblatt: Zeichnet Pfeile zwischen den Schritten. Beschriftet sie mit Material, Geld, Wissen, Energie, Abfall oder Risiko. Markiert eine Störung und eine Folge weiter unten in der Kette. Nicht alle Batterien verwenden dieselbe Chemie oder dieselben Rohstoffe.</p>"
+        },
+        {
+          "title": "IEA-Belegkarten und Prüftabelle",
+          "html": "<h3>Zusammenfassungen der offiziellen IEA-Quelle: Bericht 2025</h3><ul><li><strong>Beleg 1:</strong> Laut IEA können Lieferketten kritischer Rohstoffe anfällig sein, auch wenn die weltweite Versorgung insgesamt ausreichend erscheint: Förderung und Verarbeitung sind konzentriert und Störungen können Lieferungen beeinträchtigen.</li><li><strong>Beleg 2:</strong> Neue Batterietypen verändern, welche Rohstoffketten wichtig sind. Alternativen zu nickelbasierten Batterien benötigen andere Materialien und haben andere Risiken.</li><li><strong>Beleg 3:</strong> Batterielieferketten umfassen mehr als Bergbau. Auch spätere Schritte wie Zellen und Materialien können an wenigen Orten konzentriert sein.</li></ul><table><caption>Aussagen prüfen</caption><thead><tr><th>Aussage</th><th>Beleg dafür oder dagegen</th><th>Was bleibt unsicher?</th></tr></thead><tbody><tr><td>„Lithiumabbau reicht, damit Kalo den meisten Batteriewert erhält.“</td><td>Beleg 3 und Kettenkarte nutzen.</td><td>Umsatz, Gewinn, Eigentum und lokale Verbindungen sind verschieden.</td></tr><tr><td>„Eine Batteriefabrik macht ein Land immer unabhängiger.“</td><td>Belege 1 und 2 nutzen.</td><td>Maschinen, Können und Kundschaft können weiter von außen kommen.</td></tr><tr><td>„Recycling beseitigt Lieferprobleme.“</td><td>IEA-Quelle und ihre Grenzen prüfen.</td><td>Sammlung, Zeit, Chemie und Menge sind wichtig.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Erfundene Wertschöpfungstabelle und Rechnung",
+          "html": "<h3>Alle Werte sind erfundene Unterrichtseinheiten (UE), keine echten Preise oder Volkswirtschaftsdaten</h3><table><caption>Ein beispielhafter Batterieauftrag; Bruttoverkäufe je Stufe</caption><thead><tr><th>Stufe</th><th>Bruttoverkäufe (UE)</th></tr></thead><tbody><tr><td>Bergbau und Erzverkauf</td><td>8</td></tr><tr><td>Verarbeitetes Batteriematerial</td><td>20</td></tr><tr><td>Aktivmaterialien und Komponenten</td><td>24</td></tr><tr><td>Zellfertigung</td><td>30</td></tr><tr><td>Pack- und Systemintegration</td><td>18</td></tr><tr><td>Summe der Verkäufe über alle Stufen (Zwischenverkäufe doppelt gezählt)</td><td>100</td></tr></tbody></table><p><strong>Aufgabe:</strong> Berechnet jeden Anteil an dieser erfundenen Bruttosumme. Prüft, ob alles 100% ergibt. Ergänzt: „Diese Tabelle zeigt nicht den Gewinn jeder Stufe, weil …“ Zwischenverkäufe werden mehrfach gezählt. Die Tabelle zeigt weder den Endpreis noch echte Wertschöpfung.</p>"
+        },
+        {
+          "title": "Vollständige Regeln und Rollenkarten zur Investition in Kalo",
+          "html": "<h3>Regeln (20 Minuten)</h3><ol><li>Vier Gruppen lesen zwei Minuten ihre Rolle und wählen eine unverzichtbare sowie eine verhandelbare Bedingung.</li><li>Zehn Minuten verhandeln. Jede Seite darf bis zu drei Bedingungen vorschlagen. Das Konsortium nimmt Bedingungen an oder lehnt sie ab; höchstens drei sind möglich. Die Regierung verlangt Wasserkontrolle und mindestens zwei angenommene Bedingungen. Beschäftigte unterstützen einen Plan mit Ausbildungsfonds oder Technologiepartnerschaft. Anwohner unterstützen ihn mit Wasserkontrolle und Zulieferprogramm oder Gemeindeanteil. Bei Nichterfüllung dürfen Rollen einen Einwand unterschreiben.</li><li>Nach der Unterschrift die Wirkung und Firmenkosten jeder angenommenen Bedingung anwenden. Das Konsortium unterschreibt nur, wenn angenommene Bedingungen höchstens 23 Firmeneinheiten kosten und höchstens einen Kontrollabzug ergeben. Beiträge laut Menü addieren; die Mindeststeuer zählt als 8 Einheiten entgangene Einnahmen. Andere Rollen dürfen Einwände festhalten. Getrennte Werte berichten, nicht zu einem Gesamtwert addieren.</li><li>Vier Minuten für den Vertrag. Ohne Einigung: bestes Angebot und offenen Streit dokumentieren. Keine Bedingungen oder Punkte erfinden.</li></ol><h3>Bedingungsmenü: bis zu drei vorschlagen</h3><ul><li><strong>Ausbildungsfonds:</strong> Firma zahlt 10 erfundene Einheiten; Beschäftigte +2 Fähigkeiten.</li><li><strong>Programm für lokale Zulieferer:</strong> Firma zahlt 8 Einheiten; lokale Betriebe +2 Können.</li><li><strong>Wasserkontrolle und öffentliche Daten:</strong> Firma zahlt 5; Vertrauen der Anwohner +2; Umweltzustimmung liegt vor.</li><li><strong>Mindeststeuer auf Gewinne:</strong> erfundene Mindeststeuer von 15% (zählt als 8 Einheiten entgangener Einnahmen); öffentliches Budget +2.</li><li><strong>Technologiepartnerschaft:</strong> Firma und Fachhochschule teilen eine Pilotanlage; Firma zahlt 3 Einheiten; Beschäftigte +1 Fähigkeit, Betriebe +1 Können; ein Kontrollabzug.</li><li><strong>Vertrag für sichere Stromversorgung:</strong> Regierung reserviert Kapazität, Firma zahlt 6 Einheiten für Notstrom; Versorgung +2; öffentliches Budget −1 Einheit.</li><li><strong>Anteil für die Gemeinde:</strong> 5% der erfundenen Firmenanteile gehen an einen Gemeinschaftsfonds; Nutzen der Anwohner +2; ein Kontrollabzug.</li></ul><h3>Rollenkarten</h3><ul><li><strong>Regierung Kalo:</strong> will Arbeit, Steuern und Strom; kann höchstens 1 Einheit beitragen. Verlangt Wasserkontrolle und mindestens zwei angenommene Bedingungen. Darf ablehnen.</li><li><strong>Konsortium:</strong> will planbare Investition und Kontrolle über Technik. Akzeptiert höchstens drei Bedingungen; darf Technologiepartnerschaft oder Mindeststeuer ablehnen, doch dann kann die Regierung das Angebot zurückweisen.</li><li><strong>Beschäftigte und Fachschule:</strong> bevorzugen Ausbildungsfonds oder Technologiepartnerschaft; unterstützen eines davon. Können keine Anstellung für alle Ausgebildeten versprechen.</li><li><strong>Anwohner und Zulieferer:</strong> verlangen Wasserkontrolle; bevorzugen Gemeindeanteil oder Zulieferprogramm. Als Kompromiss reicht eine der beiden Bedingungen, aber der offene Punkt wird genannt.</li></ul><p><strong>Wertung getrennt melden:</strong> Fähigkeiten Beschäftigte (0–3), Können lokaler Betriebe (0–3), Vertrauen/Nutzen Anwohner (0–4), öffentliche Mittel (+/−), Versorgung (0–2), Kosten-/Kontrollnachteile Firma (0–3). Kein einziger Gesamtwert entscheidet, was „am besten“ ist.</p><h3>Auswertung</h3><p>Wer konnte aussteigen? Welche Bedingungen bauen Fähigkeiten auf statt nur Einnahmen zu bringen? Kann die Regierung sie durchsetzen? Welche Daten fehlen zu Wasser, Löhnen, Steuern und Eigentum? Das Spiel vereinfacht Verhandlung, setzt Kosten fest, lässt Weltmarktpreise aus und gibt Anwohnern nur eine Rolle.</p>"
+        },
+        {
+          "title": "Störungskarten und Regeln",
+          "html": "<h3>Nach der Unterschrift eine Karte ziehen</h3><ul><li><strong>Verzögerung bei Verarbeitungsmaschinen:</strong> Ohne Technologiepartnerschaft verzögert sich der Start; Versorgung −1. Mit Partnerschaft kein Punktabzug, aber das Risiko ist nur gesenkt, nicht beseitigt.</li><li><strong>Warnung bei Wasserkontrolle:</strong> Ohne Kontrollbedingung sinkt Vertrauen um 2 und die Regierung muss die Zustimmung aussetzen. Mit Kontrolle wird das Ergebnis veröffentlicht; die Karte sagt nicht, ob das Wasser sicher ist.</li><li><strong>Änderung der Batterietechnik:</strong> Beruht der Vertrag nur auf Lithiumerz und enthält weder Zulieferprogramm noch Partnerschaft, sinkt lokales Können um 1. Erklärt, warum sich Nachfrage verändern könnte; behauptet nicht, Lithium werde nutzlos.</li></ul><p>Nur die gezogene Wirkung anwenden. Es sind Belastungstests, keine Wahrscheinlichkeiten oder Vorhersagen.</p>"
+        },
+        {
+          "title": "Quellenvergleich: IEA-Bericht und österreichische Frage",
+          "html": "<p>Der IEA-Bericht 2025 untersucht Rohstoffe, Verarbeitung, Batterietechnik und Lieferkettenrisiken. Er ist eine globale Analyse, keine Prüfung des Kalo-Projekts oder Prognose für eine österreichische Fabrik.</p><table><caption>Lesen und vergleichen</caption><thead><tr><th>Frage</th><th>IEA-Befund notieren</th><th>Grenze der Anwendung</th></tr></thead><tbody><tr><td>Wo kann Konzentration entstehen?</td><td>Förderung, Verarbeitung oder spätere Fertigung?</td><td>Beweist ein weltweites Muster eine lokale Abhängigkeit?</td></tr><tr><td>Warum zählt die Batterietechnik?</td><td>Eine Veränderung bei Rohstoffen nennen.</td><td>Ergibt sich daraus eine dauerhaft beste Chemie?</td></tr><tr><td>Österreich-Bezug</td><td>Welche österreichische Industriefrage würdest du untersuchen?</td><td>Welche lokale Quelle und Daten wären nötig?</td></tr></tbody></table>"
+        },
+        {
+          "title": "Vertragsblatt Kalo und Einzelantwort",
+          "html": "<h3>Vertragsblatt — gemeinsam ausfüllen</h3><table><tbody><tr><th>Vorgeschlagene (bis 3), angenommene und abgelehnte Bedingungen</th><td></td></tr><tr><th>Firmenzahlungen / öffentlicher Beitrag</th><td></td></tr><tr><th>Ausbildungs-, Zuliefer- und Technikzusagen</th><td></td></tr><tr><th>Wasserdaten und Mitsprache</th><td></td></tr><tr><th>Unterschriften / Einwände</th><td></td></tr><tr><th>Getrennte Wertung: Fähigkeiten / Betriebe / Vertrauen / öffentliches Budget / Versorgung / Firmennachteile</th><td></td></tr></tbody></table><h3>Einzelantwort (350–450 Wörter)</h3><p>Berate Kalo, ob es zustimmen, ablehnen oder neu verhandeln soll. Füge Kettenkarte, berechneten erfundenen Umsatzanteil, zwei Bedingungen, eine Verteilungsfolge und einen IEA-Befund samt Anwendungsgrenze ein. Umsatz ist nicht Gewinn; Durchsetzung besprechen.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Internationale Energieagentur, Global Critical Minerals Outlook 2025: Executive Summary",
+          "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025/executive-summary",
+          "date": "2025; geprüft am 6. Oktober 2026",
+          "use": "Konzentration, Risiken, neue Batterietechnik; nur globale Aussagen."
+        },
+        {
+          "title": "Internationale Energieagentur, Global Critical Minerals Outlook 2025: Beyond NMC batteries",
+          "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2025/beyond-nmc-batteries-supply-chain-issues-for-emerging-battery-technologies",
+          "date": "2025; geprüft am 6. Oktober 2026",
+          "use": "Rohstoffketten und Risiken je Batterietyp."
+        },
+        {
+          "title": "Internationale Energieagentur, Global EV Outlook 2025: Batterielieferketten",
+          "url": "https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries",
+          "date": "2025; geprüft am 6. Oktober 2026",
+          "use": "Schritte und Grenzen des Recyclings; Vertiefung."
+        }
+      ],
+      "languageSupport": "<h3>Deutsch-Pfad mit kurzer englischer Brücke</h3><p><strong>Englischer Brückentext (von der Lehrkraft geschrieben, kein Zitat):</strong> “A battery supply chain has many stages. A country that mines lithium may still import refined materials, machines and battery cells. A factory can create jobs, but local training and supplier links affect who learns and earns.”</p><p>Fragen auf Deutsch: 1. Welche drei Dinge kann ein Land trotz Lithiumabbau importieren? 2. Was kann eine Fabrik schaffen? 3. Wovon hängt ab, wer Wissen und Einkommen erhält? Wörter: supply chain = Lieferkette; mine = abbauen; refined = verarbeitet; supplier = Zulieferer; earnings = Einkommen. <strong>Österreich-Bezug:</strong> Sucht eine amtliche oder Firmenquelle zu Batterie, Autoindustrie, Recycling oder Stromspeicher. Globale IEA-Daten beweisen keinen bestimmten lokalen Effekt.</p>",
+      "submission": "Einzelarbeit, 350–450 Wörter: Berate Kalo, ob es zustimmen, ablehnen oder neu verhandeln soll. Füge Kettenkarte, einen berechneten Umsatzanteil, zwei Bedingungen, eine Verteilungsfolge und einen IEA-Befund mit Anwendungsgrenze ein. Umsatz nicht als Gewinn bezeichnen; Durchsetzung berücksichtigen.",
+      "exit": [
+        "Welcher Schritt könnte Fähigkeiten über Rohstoffexport hinaus schaffen?",
+        "Warum beweist die Lieferkettenkarte allein noch keine gute Investition?"
+      ],
+      "homework": "Nimm dir 20 Minuten. Ergänze 120 Wörter zum Vertrag: Was soll passieren, wenn die Firma Ausbildung oder Wasserkontrolle nicht einhält? Nutze die Rollenkarten und nenne einen Nachweis.",
+      "teacher": {
+        "preparation": [
+          "Kettenkarten, erfundene Verkaufstabelle und Bedingungsmenü ausgeben.",
+          "IEA-Bericht öffnen; den Bericht von 2025 als datierte Quelle bezeichnen.",
+          "Rechnung prüfen: 8%, 20%, 24%, 30%, 18%."
+        ],
+        "facilitation": [
+          "Alle Daten zu Kalo und Firmenbedingungen sind erfunden.",
+          "Bruttoverkäufe, Wertschöpfung, Gewinn, Steuern und Löhne unterscheiden.",
+          "Rohstoffreichtum bedeutet nicht automatisch Verhandlungsmacht oder Entwicklung."
+        ],
+        "answers": [
+          "Ein gültiger Plan: Wasserkontrolle (verpflichtend; Vertrauen +2), Ausbildung (Beschäftigte +2; Firmenkosten −1) und Technologiepartnerschaft (Beschäftigte +1, Betriebe +1; Kontrolle −1). Firmenabzüge: Kosten 1, Kontrolle 1; innerhalb der Grenzen. Regierung, Beschäftigte und Anwohner können zustimmen. Auch Wasserkontrolle + Zulieferprogramm + Ausbildung ist möglich: Kostenabzüge 2, mehr lokales Können. Ein Plan mit Wasserkontrolle + Mindeststeuer + Zulieferern kostet 3 Punkte und muss vom Konsortium abgelehnt oder neu verhandelt werden. Beispiele, keine einzig richtigen Antworten.",
+          "Anteile: 8/100=8%; 20%; 24%; 30%; 18%. Summe 100%, aber Zwischenverkäufe sind mehrfach gezählt; kein Gewinn und keine nationale Wertschöpfung.",
+          "Die IEA stützt Aussagen zu Konzentration, Risiken und veränderten Rohstoffketten. Globale Muster belegen nicht die Tragfähigkeit des Kalo-Projekts."
+        ],
+        "misconceptions": [
+          "Lithiumabbau ist nur ein Schritt; Verarbeitung, Komponenten, Zellen und Systeme zählen ebenfalls.",
+          "Eine Fabrik kann Arbeitsplätze schaffen ohne lokales Technik-Eigentum oder Zulieferer.",
+          "Recycling kann Rohstoffe liefern, ersetzt aber kurzfristig nicht alle Primärrohstoffe."
+        ],
+        "differentiation": [
+          "Eine Kettenleiste mit Pfeilen anbieten; stärkere Lernende vergleichen zwei Chemien oder entwerfen einen Kontrollbeleg.",
+          "Rechnung gemeinsam üben lassen, dann individuelle Rechnung in der Abgabe verlangen."
+        ],
+        "extension": "Vergleicht die globale IEA-Karte mit einer österreichischen Firma oder Investitionsmeldung. Welche Informationen zu Eigentum, heimischer Wertschöpfung und öffentlicher Förderung fehlen?"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "en": {
+      "title": "Cooperate, compete, or stay flexible?",
+      "question": "Why might a country seek partnerships without choosing one powerful bloc?",
+      "intro": "Countries facing debt, energy and technology pressures choose partners. Cooperation can improve access to finance, markets or technology; dependence can reduce room to change policy. In this fictional case, the public grid programme costs 80 units. A separate private battery-plant offer cannot pay that public bill. Negotiate with this distinction clear.",
+      "goals": [
+        "Explain how trade, finance and technology ties can create both opportunity and dependence.",
+        "Distinguish cooperation from alignment and identify what a country can negotiate.",
+        "Evaluate a fictional partnership by gains, obligations, alternatives and who has voice."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Map the choices",
+          "task": "Read Case reader: Asteria's partnership decision. Draw two possible chains from investment to benefit and risk; deliver a first map."
+        },
+        {
+          "minutes": 15,
+          "title": "Read positions",
+          "task": "Use Position cards and Evidence comparison table. Identify each actor's interest and one claim needing evidence; deliver a stakeholder matrix."
+        },
+        {
+          "minutes": 15,
+          "title": "Set the negotiating mandate",
+          "task": "Use Asteria mandate and funding worksheet. Rank priorities and calculate public grid contributions and obligations; deliver the mandate."
+        },
+        {
+          "minutes": 20,
+          "title": "Three-party negotiation",
+          "task": "Follow Complete three-party negotiation rules and role cards. Record public grid funding separately from the South plant investment on Asteria signed agreement and risk map; deliver signed text and dissent."
+        },
+        {
+          "minutes": 5,
+          "title": "Break",
+          "task": "Take a five-minute break."
+        },
+        {
+          "minutes": 15,
+          "title": "Test the agreement",
+          "task": "Use Disruption cards and option-value table on Asteria signed agreement and risk map. Decide whether to review, exit or continue; deliver the revised risk map."
+        },
+        {
+          "minutes": 10,
+          "title": "Compare with historical non-alignment",
+          "task": "Read Source comparison: historical non-alignment and policy space and Phenomenal World argument card: non-alignment today. Distinguish historical principles from Sahay’s interpretation; record two similarities/differences and one question."
+        },
+        {
+          "minutes": 10,
+          "title": "Individual judgement",
+          "task": "Use Asteria signed agreement and risk map for your individual judgement: benefit, dependency, alternative and uncertainty."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Case reader: Asteria's partnership decision",
+          "html": "<h3>Fictional case reader (teacher-written; about 300 words)</h3><p>Asteria is a fictional middle-income country with a large solar-resource potential, expensive imported fuel and a government seeking more manufacturing jobs. It needs to upgrade its electricity grid and expand storage. Three partners offer different packages for two separate projects. The public grid programme costs 80 units. Partner North offers a 60-unit loan for grid technology, requiring repayment and a long-term service contract. The Regional Development Bank offers a 25-unit grant for the grid, but cannot fund the whole programme. Partner South offers 40 private units for a separate battery factory and training, in return for mineral supply and operational control. That private factory investment cannot be spent on the public grid. No offer is costless or complete.</p><p>A country can cooperate with several partners without joining a military or political bloc. But ties can still create dependence. A loan creates repayment obligations. A service contract can lock in one supplier. A guaranteed supply agreement may reduce flexibility if prices or technology change. On the other hand, refusing every agreement may delay infrastructure and leave fuel imports expensive. Bargaining power depends on alternatives, the value each side brings, financing needs, domestic capacity and the ability to enforce terms.</p><p>Historical non-alignment emerged during the Cold War, when states sought room for independent foreign policy amid rivalry between major powers. It was not simply a rule to avoid all relationships, nor did member governments always agree. The movement also called for cooperation and changes to unequal economic relations. Today, describing a country as “non-aligned” may refer to different policies and situations; a label alone does not tell us what a government actually does.</p><p>The classroom negotiation gives three fictional actors different priorities and incomplete information. Students must decide which conditions are essential, what can be traded, and how the agreement responds to a shock. They should ask who can walk away, whose interests are not represented, and whether a written safeguard can be enforced. The goal is not to choose a geopolitical camp. It is to explain how cooperation can expand options and how it can narrow them, while distinguishing documented facts from strategic claims made by an actor.</p>"
+        },
+        {
+          "title": "Position cards",
+          "html": "<ul><li><strong>Partner North:</strong> offers an LC 60-equivalent low-interest loan for grid technology. Wants a 12-year service contract for its supplier and a procurement preference. Says its equipment is reliable; ask for performance data and exit terms.</li><li><strong>Partner South:</strong> offers a joint-venture battery-material plant, worker training and a 10-year purchase agreement for a share of Asteria's minerals. Wants stable supply and majority control of operations. Says the project builds local capability; ask what technology is transferred and who owns it.</li><li><strong>Regional Development Bank:</strong> offers grant support worth 25 units and technical help for grid planning; no supply or exclusive-service clause. It cannot fund the entire expansion. Requires public procurement and environmental review.</li><li><strong>Asteria civic coalition:</strong> wants reliable electricity, local jobs, public accountability and the ability to change suppliers. It has no power to sign treaties but can publish a dissent statement and demand consultation.</li></ul>"
+        },
+        {
+          "title": "Asteria offer/budget table and Mandate worksheet",
+          "html": "<h3>Fictional units; not real offers or prices</h3><p>The public grid infrastructure and skills programme costs 80 units. The battery factory is a separate private project. Never count its private investment as public grid funding.</p><table><caption>Offers</caption><thead><tr><th>Offer</th><th>Contribution</th><th>Obligation/condition</th></tr></thead><tbody><tr><td>Partner North grid loan</td><td>60 public-programme units</td><td>Repay 72 units in 8 years; 12-year service contract; preferred procurement</td></tr><tr><td>Partner South private battery plant</td><td>40 private investment units for separate plant only</td><td>10-year purchase agreement for 40% of Asteria minerals; consortium majority operational control</td></tr><tr><td>Regional Development Bank grid grant</td><td>25 public-programme units</td><td>Open procurement and environmental review; technical assistance</td></tr><tr><td>Asteria public budget for grid programme</td><td>Up to 25 public units</td><td>Each unit used reduces contingency reserve by one</td></tr></tbody></table><p><strong>Funding test:</strong> accepted grid loan + grid grant + Asteria public budget must equal at least 80. South private plant investment is always recorded separately and contributes zero to this grid total. North plus 20 public units can reach 80. Bank grant plus maximum 25 public units reaches 50, leaving a 30-unit gap unless a compatible grid offer is negotiated. Record obligations separately from cash.</p>"
+        },
+        {
+          "title": "Evidence comparison table",
+          "html": "<table><caption>Separate actor claims from evidence</caption><thead><tr><th>Claim</th><th>What would support it?</th><th>What would challenge or limit it?</th></tr></thead><tbody><tr><td>“The loan gives Asteria energy security.”</td><td>Reliability data, grid design, fuel/import exposure.</td><td>Debt service, supplier lock-in, maintenance access.</td></tr><tr><td>“The factory creates development.”</td><td>Local wages, training, supplier contracts, tax terms, ownership.</td><td>Imported inputs, profit transfers, limited skill transfer.</td></tr><tr><td>“Diversifying partners protects autonomy.”</td><td>Real alternatives and ability to switch.</td><td>Multiple debts/contracts can add complexity and obligations.</td></tr></tbody></table><p>Mark what the fictional case states, what an actor claims, and what evidence is missing.</p>"
+        },
+        {
+          "title": "Complete three-party negotiation rules and role cards",
+          "html": "<h3>Rules (20 minutes)</h3><ol><li>Four groups take roles: Asteria government, Partner North, Partner South, Regional Development Bank. The teacher, or a pair of students assigned by the teacher, serves as civic observer and may issue one public challenge after round one; it is not an extra negotiating group.</li><li>Each role reads for two minutes. Round 1 (5 minutes): bilateral offers. Round 2 (7 minutes): multilateral negotiation. Round 3 (4 minutes): draft and sign. Use only terms in the table and menu.</li><li>A valid public-grid deal must provide 80 grid units and receive Asteria and the signature of every partner whose grid funding is counted. Count only North’s grid loan, the Bank’s grid grant and Asteria’s public budget. South’s 40 private units fund a separate battery plant and never count toward 80. Asteria may use up to 25 public units. The Bank requires open procurement, so it cannot combine with North’s procurement preference unless both renegotiate that condition. South may negotiate a separate plant memorandum, but it cannot close the grid funding gap. If no valid grid plan is agreed, record the gap; that is a valid outcome.</li><li>Partners may refuse. If no deal, record the gap and each side's best alternative. Dissent may be attached. Do not invent funding or score a fictional deal as real-world fact.</li></ol><h3>Role cards</h3><ul><li><strong>Asteria government:</strong> prioritize reliable energy and maintain choice of suppliers. You have 25 public units. You may accept one long-term/exclusive condition, not both; require a review clause after a major technology or price change.</li><li><strong>Partner North:</strong> need a service contract and procurement preference to support the 60-unit loan. You may shorten service contract to 8 years if Asteria pays 5 additional public units for training. You cannot waive loan repayment.</li><li><strong>Partner South:</strong> need 40% mineral supply for 10 years and majority operational control. You may reduce term to 6 years if Asteria grants joint governance and a published training target. The investment is private, not public grant money.</li><li><strong>Regional Development Bank:</strong> offer 25 grant units if procurement is open, environmental review is public and Asteria contributes at least 10 units. You can combine with another offer but cannot guarantee it fills the full gap.</li><li><strong>Civic observer:</strong> listen and note whose costs are invisible. After round 1, ask one question that a deal must answer. At the end, publish one dissent statement; you do not vote.</li></ul><h3>Debrief</h3><p>Which actor had credible alternatives? Did combining partners reduce or increase dependence? What happens if a contract is legally binding but hard to enforce? The exercise freezes prices, assumes offers are available, excludes many domestic groups and simplifies legal institutions. Non-alignment is a historical and political concept, not a guarantee of neutrality or autonomy.</p>"
+        },
+        {
+          "title": "Disruption cards and option-value table",
+          "html": "<h3>Draw one disruption after signing</h3><ul><li><strong>Technology shift:</strong> storage technology changes. If a contract requires one supplier for 12 years, mark flexibility “low”; with review clause, “medium”; with no exclusive contract, “higher”. No numeric score: explain why.</li><li><strong>Mineral price spike:</strong> if Asteria committed 40% output for 10 years, government receives the agreed supply benefit but loses option to sell that share elsewhere during the spike. Record both effects.</li><li><strong>Public budget squeeze:</strong> if Asteria used more than 15 public units, reduce the contingency reserve by the excess over 15. Name a public service that might face pressure; do not assume a specific cut occurs.</li></ul><table><caption>Decision after shock</caption><thead><tr><th>Clause</th><th>Choice</th><th>Consequence</th></tr></thead><tbody><tr><td>Review clause</td><td>Invoke / do not invoke</td><td>Renegotiation takes time; no guaranteed agreement.</td></tr><tr><td>Exit clause</td><td>Invoke / do not invoke</td><td>Exit may cost money and damage trust; exact cost unknown.</td></tr><tr><td>Continue</td><td>Continue with existing terms</td><td>Preserves continuity but may retain the mismatch.</td></tr></tbody></table><p>Students cannot invent a numerical penalty. Compare options and state which evidence would be needed.</p>"
+        },
+        {
+          "title": "Source comparison: historical non-alignment and policy space",
+          "html": "<p>The UN record of the Non-Aligned Movement's 1992 Jakarta conference describes members' stated commitments to independent action, development, cooperation and more equitable economic relations. This is a historical primary source presenting the movement's own position; it does not prove members always followed it. UNCTAD has argued that development strategies involve questions of policy space and industrial policy. These are arguments to assess, not neutral guarantees that any one policy succeeds.</p><table><caption>Historical claim and present case</caption><thead><tr><th>Question</th><th>Record</th></tr></thead><tbody><tr><td>What did the movement say it sought?</td><td>Paraphrase one stated principle in the 1992 document.</td></tr><tr><td>What is similar to Asteria?</td><td>Independent choice, development or cooperation?</td></tr><tr><td>What is different?</td><td>Cold War context, present institutions, actor mix or technology?</td></tr><tr><td>What evidence would test practice?</td><td>Find a concrete decision, not only a declaration.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Phenomenal World argument card: non-alignment today",
+          "html": "<h3>Argument to test (teacher paraphrase of Sahay, 9 November 2022)</h3><p>Sahay argues that developing countries' efforts to preserve room for action should not be treated as proof that they form a unified camp. Their partnerships and priorities differ; bargaining can be issue-specific. This is an interpretation to examine alongside the 1992 movement's own declaration, not a current country ranking.</p><ol><li>Does Asteria behave as one predictable bloc actor in the simulation?</li><li>What independent evidence would show whether a real government can change partners or terms?</li></ol>"
+        },
+        {
+          "title": "Asteria mandate and funding worksheet",
+          "html": "<h3>Complete before negotiating</h3><table><caption>Rank 1–5 (1 = highest priority) and calculate only funding for the 80-unit public grid programme</caption><thead><tr><th>Priority</th><th>Rank</th><th>Reason / trade-off</th></tr></thead><tbody><tr><td>Reliable grid energy</td><td></td><td></td></tr><tr><td>Jobs and skills</td><td></td><td></td></tr><tr><td>Low public debt</td><td></td><td></td></tr><tr><td>Choice of suppliers</td><td></td><td></td></tr><tr><td>Public accountability</td><td></td><td></td></tr></tbody></table><p>Public grid funding: North loan ___ + bank grant ___ + Asteria budget ___ = ___ / 80; remaining gap ___. Record each obligation separately. The South private plant investment is for the separate battery plant and never counts toward the public grid requirement.</p>"
+        },
+        {
+          "title": "Asteria signed agreement and risk map",
+          "html": "<h3>Complete during negotiation and after the disruption</h3><table><caption>Agreement record</caption><tbody><tr><th>Public grid funding sources and total / remaining gap</th><td></td></tr><tr><th>Separate private plant investment (never counted as grid cash)</th><td></td></tr><tr><th>Accepted obligations and review/exit clauses</th><td></td></tr><tr><th>Signatures and civic dissent</th><td></td></tr><tr><th>After shock: benefit, dependency, affected group, evidence needed</th><td></td></tr></tbody></table><p>Individual response: 400–500 words. Assess the deal using funding arithmetic, one benefit, one dependency, one alternative, missing voice/cost and uncertainty. Distinguish an offer from evidence and discuss enforcement.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "United Nations, Final documents of the Tenth Conference of Heads of State or Government of Non-Aligned Countries (Jakarta, 1992)",
+          "url": "https://www.un.org/unispal/document/auto-insert-179754/",
+          "date": "1992; accessed 6 October 2026",
+          "use": "Historical primary source for how the movement described its principles; not proof of practice."
+        },
+        {
+          "title": "UN Trade and Development (UNCTAD), Developing countries need sufficient policy space to advance post-2015 development agenda",
+          "url": "https://unctad.org/press-material/developing-countries-need-sufficient-policy-space-advance-post-2015-development",
+          "date": "10 September 2014; accessed 6 October 2026",
+          "use": "A dated UNCTAD argument about industrial policy and global value chains; present as an argument, not settled law or current policy."
+        },
+        {
+          "title": "UN Sustainable Development Group, Cooperation Framework",
+          "url": "https://unsdg.un.org/2030-agenda/cooperation-framework",
+          "date": "Undated; checked 6 October 2026",
+          "use": "Official example of partnership principles and country priorities; optional comparison."
+        },
+        {
+          "title": "Sahay, A New Non-Alignment",
+          "url": "https://phenomenalworld.org/analysis/non-alignment-brics/",
+          "date": "9 November 2022; accessed 6 October 2026",
+          "use": "Dated interpretation of development-country bargaining and non-alignment; compare with the historical primary source."
+        }
+      ],
+      "languageSupport": "<h3>English pathway</h3><p>Austria connection: ask how Austria, as an EU member and a small open economy, uses EU institutions and trade partnerships; use an official Austrian or EU source for a specific example. Do not equate Austria's institutional position with Asteria's. <strong>Original-reading extension:</strong> read paragraphs 1 and 2 of the “North–South Dialogue” section in the 1992 Jakarta final document. Paraphrase one goal and identify one historical context that limits direct comparison with today.</p><p><strong>Perspective extension:</strong> read the opening two paragraphs of Sahay’s “A New Non-Alignment” (9 November 2022). Paraphrase one claim about bargaining, then compare it with one statement in the 1992 Jakarta primary source.</p>",
+      "submission": "Individual, 400–500 words: assess the negotiated agreement. Include funding arithmetic; one benefit and one dependency; one realistic alternative; analysis of whose voice or cost is missing; and one uncertainty. Success requires distinguishing stated offer from evidence and discussing whether a clause can be enforced.",
+      "exit": [
+        "How can cooperation increase a country's choices and also reduce them?",
+        "What extra evidence would you need before calling a country non-aligned or autonomous?"
+      ],
+      "homework": "In 20 minutes, write a short revision clause for Asteria's agreement. State the trigger, who can request review, what evidence is considered, and what happens if parties disagree. Use the Disruption card and one Position card.",
+      "teacher": {
+        "preparation": [
+          "Print offer table, position cards and rules; assign four negotiating roles plus observer.",
+          "Check funding arithmetic: bank grant 25 plus Asteria minimum 10 = 35; the rest must be covered. North loan 60 plus public 20 can reach 80; South investment 40 plus bank 25 plus public 15 can reach 80 if conditions compatible.",
+          "Open the UN 1992 document and UNCTAD 2014 press page; date the claims clearly."
+        ],
+        "facilitation": [
+          "Avoid presenting non-alignment as a timeless label with a single definition.",
+          "Distinguish actors' claims from official source evidence; ask whose perspective an official source represents.",
+          "Keep autonomy concrete: ability to change supplier, revise policy, finance alternatives and enforce terms."
+        ],
+        "answers": [
+          "North grid loan 60 + Asteria public budget 20 = 80: valid, with repayment 72 plus 12-year service contract and procurement preference. If North shortens the service contract to 8 years, Asteria must add 5 units for training, giving 60 + 25 = 85. The Bank grant 25 + maximum public 25 = 50, so the remaining grid gap is 30. South’s 40 private plant investment is never grid cash; it may form a separate deal with its own mineral-supply/control obligations. Bank open procurement and North preference conflict unless renegotiated.",
+          "Grant, loan and private investment are different. Private investment is not public aid; a loan is cash now and repayment later; a grant need not be repaid but conditions apply.",
+          "The 1992 NAM document is a primary statement of declared principles; assessment of practice needs concrete decisions and independent evidence."
+        ],
+        "misconceptions": [
+          "Non-alignment does not mean no partnerships or automatic neutrality.",
+          "More partners do not automatically mean more autonomy; multiple obligations can compound.",
+          "Policy space is constrained by contracts, finance, institutions and domestic choices, not only by formal treaties."
+        ],
+        "differentiation": [
+          "Provide a priority-ranking frame and arithmetic scaffold; extension students analyze the tension between procurement rules and an exclusive partner clause.",
+          "Allow a short oral negotiation role, while each student completes the written individual assessment."
+        ],
+        "extension": "Choose a contemporary official agreement or financing announcement and examine its clauses for review, exit, procurement, local training and data disclosure. Treat promotional claims as claims; seek the signed document or independent evidence."
+      }
+    },
+    "de": {
+      "title": "Zusammenarbeiten, konkurrieren oder beweglich bleiben?",
+      "question": "Warum sucht ein Land Partnerschaften, ohne sich einem mächtigen Block anzuschließen?",
+      "intro": "Länder unter Druck durch Schulden, Energie und Technik wählen Partner. Zusammenarbeit kann Zugang zu Geld, Märkten und Wissen schaffen. Abhängigkeit kann Spielraum einschränken. In diesem erfundenen Fall kostet das öffentliche Netzprogramm 80 Einheiten. Ein privates Angebot für ein Batteriewerk darf diese öffentliche Rechnung nicht decken.",
+      "goals": [
+        "Erklären, wie Handel, Geld und Technik Chancen und Abhängigkeiten schaffen können.",
+        "Zusammenarbeit von politischer Bindung unterscheiden und Verhandlungsspielraum erkennen.",
+        "Ein erfundenes Abkommen nach Nutzen, Pflichten, Alternativen und Mitsprache beurteilen."
+      ],
+      "agenda": [
+        {
+          "minutes": 10,
+          "title": "Möglichkeiten abbilden",
+          "task": "Lest Falltext: Asterias Partnerschaftsentscheidung. Zeichnet zwei Ketten von Investition zu Nutzen und Risiko; gebt eine Karte ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Positionen lesen",
+          "task": "Nutzt Positionskarten und Belegvergleich. Findet Interessen und eine Aussage, die Belege braucht; gebt eine Interessenmatrix ab."
+        },
+        {
+          "minutes": 15,
+          "title": "Verhandlungsauftrag festlegen",
+          "task": "Nutzt Asterias Verhandlungsauftrag und Finanzierungsblatt. Ordnet Prioritäten und rechnet öffentliches Netzgeld samt Pflichten; gebt den Auftrag ab."
+        },
+        {
+          "minutes": 20,
+          "title": "Drei-Parteien-Verhandlung",
+          "task": "Befolgt Vollständige Regeln und Rollen für die Drei-Parteien-Verhandlung. Tragt öffentliches Netzbudget getrennt von der privaten Werkinvestition ins unterschriebene Abkommen und Risikokarte ein; gebt Text und Einwand ab."
+        },
+        {
+          "minutes": 5,
+          "title": "Pause",
+          "task": "Macht fünf Minuten Pause."
+        },
+        {
+          "minutes": 15,
+          "title": "Abkommen testen",
+          "task": "Nutzt Störungskarten und Tabelle der Wahlmöglichkeiten im Abkommen und in der Risikokarte. Entscheidet über Prüfung, Ausstieg oder Fortsetzung; gebt die neue Risikokarte ab."
+        },
+        {
+          "minutes": 10,
+          "title": "Historische Blockfreiheit vergleichen",
+          "task": "Lest Quellenvergleich: Blockfreienbewegung und politischer Spielraum und Argumentkarte Phenomenal World: Blockfreiheit heute. Unterscheidet historische Grundsätze von Sahays Deutung; notiert zwei Gemeinsamkeiten/Unterschiede und eine Frage."
+        },
+        {
+          "minutes": 10,
+          "title": "Eigenes Urteil",
+          "task": "Nutzt Asterias unterschriebenes Abkommen und Risikokarte für dein Urteil: Nutzen, Abhängigkeit, Alternative und Unsicherheit."
+        }
+      ],
+      "materials": [
+        {
+          "title": "Falltext: Asterias Partnerschaftsentscheidung",
+          "html": "<h3>Erfundener Falltext (von der Lehrkraft geschrieben; etwa 300 Wörter)</h3><p>Asteria ist ein erfundenes Land mit mittlerem Einkommen. Es hat viel Sonne, teure Brennstoffimporte und eine Regierung, die mehr Arbeitsplätze in der Herstellung schaffen will. Das Stromnetz muss erneuert und Speicher ausgebaut werden. Drei Partner bieten Pakete für zwei getrennte Projekte. Das öffentliche Netzprogramm kostet 80 Einheiten. Partner Nord bietet einen Kredit über 60 Einheiten für das Netz, verlangt aber Rückzahlung und einen langen Wartungsvertrag. Die regionale Entwicklungsbank bietet einen Zuschuss von 25 Einheiten für das Netz, kann aber nicht alles finanzieren. Partner Süd bietet 40 private Einheiten für ein getrenntes Batteriewerk und Ausbildung. Dafür verlangt es Rohstofflieferungen und Kontrolle über den Betrieb. Diese private Werkinvestition darf nicht für das öffentliche Netz ausgegeben werden. Kein Angebot ist kostenlos oder vollständig.</p><p>Ein Land kann mit mehreren Partnern zusammenarbeiten, ohne einem Militär- oder Politikblock beizutreten. Verbindungen können dennoch Abhängigkeiten schaffen. Ein Kredit muss zurückgezahlt werden. Ein Wartungsvertrag kann an einen Lieferanten binden. Eine Rohstoffgarantie kann Spielraum einschränken, wenn sich Preise oder Technik ändern. Andererseits können Ablehnung aller Angebote Infrastruktur verzögern und Brennstoffimporte teuer lassen. Verhandlungsmacht hängt von Alternativen, dem Wert des Angebots, Finanzierungsbedarf, eigenen Fähigkeiten und der Durchsetzung von Verträgen ab.</p><p>Historische Blockfreiheit entstand im Kalten Krieg. Staaten wollten eine eigenständige Außenpolitik zwischen konkurrierenden Großmächten. Sie bedeutete nicht, alle Beziehungen abzulehnen, und die Regierungen der Bewegung waren sich nicht immer einig. Die Bewegung forderte auch Zusammenarbeit und gerechtere Wirtschaftsbeziehungen. Heute kann das Wort „blockfrei“ verschiedene Situationen beschreiben. Das Etikett allein sagt nicht, was eine Regierung tatsächlich tut.</p><p>Die Verhandlung in der Klasse gibt drei erfundenen Partnern unterschiedliche Ziele und unvollständige Informationen. Ihr entscheidet, welche Bedingungen unverzichtbar sind und wie das Abkommen auf einen Schock reagiert. Fragt, wer aussteigen kann, wessen Interessen fehlen und ob eine Schutzklausel durchsetzbar ist. Ziel ist nicht die Wahl eines geopolitischen Lagers. Ihr erklärt, wie Zusammenarbeit Möglichkeiten erweitert oder einschränkt und trennt belegte Tatsachen von strategischen Behauptungen.</p>"
+        },
+        {
+          "title": "Positionskarten",
+          "html": "<ul><li><strong>Partner Nord:</strong> bietet einen zinsgünstigen Kredit im Wert von 60 Einheiten für Netztechnik. Verlangt einen Wartungsvertrag über 12 Jahre und Vorrang bei Beschaffung. Behauptet, die Technik sei zuverlässig; verlangt Leistungsdaten und Ausstiegsklauseln.</li><li><strong>Partner Süd:</strong> bietet ein gemeinsames Batteriewerk, Ausbildung und einen zehnjährigen Kaufvertrag für einen Teil der Rohstoffe. Verlangt sichere Lieferungen und Mehrheit bei der Betriebsführung. Behauptet, das Projekt schaffe lokale Fähigkeiten; fragt, welches Wissen übertragen wird und wem es gehört.</li><li><strong>Regionale Entwicklungsbank:</strong> bietet Zuschüsse über 25 Einheiten und Fachhilfe zur Netzplanung; keine Liefer- oder Exklusivklausel. Kann nicht den ganzen Ausbau finanzieren. Verlangt öffentliche Beschaffung und Umweltprüfung.</li><li><strong>Bürgerkoalition Asteria:</strong> will verlässlichen Strom, lokale Arbeit, öffentliche Kontrolle und die Möglichkeit, Lieferanten zu wechseln. Darf keine Verträge schließen, aber Einwände veröffentlichen und Mitsprache verlangen.</li></ul>"
+        },
+        {
+          "title": "Asterias Angebotstabelle und Verhandlungsblatt",
+          "html": "<h3>Erfundene Einheiten; keine echten Angebote oder Preise</h3><p>Das öffentliche Netz- und Ausbildungsprogramm kostet 80 Einheiten. Das Batteriewerk ist ein getrenntes privates Projekt. Seine Investition darf nie als öffentliches Netzgeld gerechnet werden.</p><table><caption>Angebote</caption><thead><tr><th>Angebot</th><th>Beitrag</th><th>Pflicht/Bedingung</th></tr></thead><tbody><tr><td>Netzkredit Partner Nord</td><td>60 öffentliche Programmeinheiten</td><td>72 in 8 Jahren zurückzahlen; Wartungsvertrag 12 Jahre; Vorrang bei Beschaffung</td></tr><tr><td>Privates Batteriewerk Partner Süd</td><td>40 private Einheiten nur für das Werk</td><td>10 Jahre Abnahme von 40% der Rohstoffe; Konsortium führt mehrheitlich</td></tr><tr><td>Netzzuschuss Entwicklungsbank</td><td>25 öffentliche Programmeinheiten</td><td>Offene Beschaffung, Umweltprüfung; Fachhilfe</td></tr><tr><td>Öffentliches Netzbudget Asteria</td><td>Bis zu 25 öffentliche Einheiten</td><td>Jede Einheit verringert die Notreserve um eins</td></tr></tbody></table><p><strong>Finanzierung:</strong> Netzkredit + Netzzuschuss + öffentliches Asteria-Budget müssen mindestens 80 ergeben. Süd-Investition zählt immer getrennt und null zum Netzbudget. Nordkredit plus 20 öffentliche Einheiten ergibt 80. Bankzuschuss plus höchstens 25 öffentliche Einheiten ergibt 50; es fehlen 30, solange kein passendes zusätzliches Netzangebot verhandelt wird. Pflichten getrennt vom Geld notieren.</p>"
+        },
+        {
+          "title": "Belegvergleich",
+          "html": "<table><caption>Behauptungen von Belegen unterscheiden</caption><thead><tr><th>Behauptung</th><th>Was würde sie stützen?</th><th>Was würde sie begrenzen?</th></tr></thead><tbody><tr><td>„Der Kredit schafft Energiesicherheit.“</td><td>Verfügbarkeitsdaten, Netzplanung, Brennstoffabhängigkeit.</td><td>Schuldendienst, Lieferantenbindung, Wartungszugang.</td></tr><tr><td>„Die Fabrik schafft Entwicklung.“</td><td>Löhne, Ausbildung, Zulieferer, Steuern, Eigentum.</td><td>Importteile, Gewinnabfluss, wenig Wissenstransfer.</td></tr><tr><td>„Mehr Partner schützen Selbstständigkeit.“</td><td>Echte Alternativen und Wechselmöglichkeit.</td><td>Mehrere Schulden und Verträge können neue Pflichten schaffen.</td></tr></tbody></table><p>Markiert, was der Fall vorgibt, was ein Akteur behauptet und welche Belege fehlen.</p>"
+        },
+        {
+          "title": "Vollständige Regeln und Rollen für die Drei-Parteien-Verhandlung",
+          "html": "<h3>Regeln (20 Minuten)</h3><ol><li>Vier Gruppen übernehmen Rollen: Regierung Asteria, Partner Nord, Partner Süd, Entwicklungsbank. Die Lehrkraft oder ein von ihr bestimmtes Schülerpaar übernimmt die Beobachtung und darf nach Runde 1 eine öffentliche Frage stellen; es ist keine zusätzliche Verhandlungsgruppe.</li><li>Zwei Minuten lesen. Runde 1: fünf Minuten bilaterale Angebote. Runde 2: sieben Minuten gemeinsame Verhandlung. Runde 3: vier Minuten zum Schreiben und Unterschreiben. Nur Bedingungen aus Tabelle und Menü nutzen.</li><li>Ein gültiger Netzplan braucht 80 Netzeinheiten und Unterschrift Asterias und jeder Partner, dessen Netzgeld mitgerechnet wird. Es zählen nur Nordkredit, Bankzuschuss und öffentliches Budget Asterias. Süd gibt 40 private Einheiten für ein getrenntes Batteriewerk; sie zählen nie zu den 80. Asteria kann höchstens 25 öffentliche Einheiten nutzen. Die Bank verlangt offene Beschaffung und kann daher Nord mit Beschaffungsvorrang nicht kombinieren, außer beide verhandeln diese Bedingung neu. Süd kann ein getrenntes Werkabkommen verhandeln, aber keine Netzlücke schließen. Ohne gültigen Netzplan wird die Lücke notiert; das ist ein gültiges Ergebnis.</li><li>Partner dürfen ablehnen. Ohne Abkommen Lücke und beste Alternative jeder Seite notieren. Einwände können angefügt werden. Keine Finanzierung erfinden.</li></ol><h3>Rollenkarten</h3><ul><li><strong>Regierung Asteria:</strong> verlässlicher Strom und Lieferantenwahl sind wichtig. Ihr habt 25 Einheiten. Höchstens eine langfristige/exklusive Bedingung akzeptieren; verlangt eine Prüfung bei großer Technik- oder Preisänderung.</li><li><strong>Partner Nord:</strong> braucht Wartungsvertrag und Beschaffungsvorrang für den Kredit. Kürzt auf 8 Jahre, wenn Asteria 5 öffentliche Einheiten für Ausbildung zahlt. Rückzahlung kann nicht gestrichen werden.</li><li><strong>Partner Süd:</strong> braucht 40% Rohstofflieferung für 10 Jahre und Mehrheit bei der Betriebsführung. Kürzt auf 6 Jahre bei gemeinsamer Leitung und veröffentlichtem Ausbildungsziel. Die Investition ist privat, kein Zuschuss.</li><li><strong>Entwicklungsbank:</strong> gibt 25 Zuschusseinheiten bei offener Beschaffung, öffentlicher Umweltprüfung und mindestens 10 Einheiten Beitrag von Asteria. Kombination möglich, aber keine Deckung der ganzen Lücke garantiert.</li><li><strong>Bürgerbeobachtung:</strong> notiert unsichtbare Kosten und stellt nach Runde 1 eine Frage. Veröffentlicht am Ende einen Einwand; keine Stimme.</li></ul><h3>Auswertung</h3><p>Wer hatte echte Alternativen? Verringerte oder vergrößerte die Kombination von Partnern Abhängigkeit? Was passiert bei schwer durchsetzbaren Verträgen? Das Spiel friert Preise ein, setzt Angebote voraus, lässt viele Gruppen aus und vereinfacht Recht. Blockfreiheit ist ein historischer und politischer Begriff, keine Garantie für Neutralität oder Selbstständigkeit.</p>"
+        },
+        {
+          "title": "Störungskarten und Tabelle der Wahlmöglichkeiten",
+          "html": "<h3>Nach Unterschrift eine Störung ziehen</h3><ul><li><strong>Technologiewechsel:</strong> Speichertechnik ändert sich. Bei 12 Jahren Lieferantenbindung: Flexibilität „niedrig“; mit Prüfungsklausel „mittel“; ohne Exklusivvertrag „höher“. Keine Zahl vergeben, sondern begründen.</li><li><strong>Rohstoffpreissprung:</strong> Bei 40% Liefergarantie über 10 Jahre erhält Asteria den zugesagten Versorgungsvorteil, kann diese Menge beim Preissprung aber nicht anders verkaufen. Beide Folgen notieren.</li><li><strong>Enger Staatshaushalt:</strong> Hat Asteria mehr als 15 öffentliche Einheiten verwendet, sinkt die Notreserve um den Mehrbetrag. Nennt einen möglicherweise belasteten öffentlichen Bereich, behauptet aber keine konkrete Kürzung.</li></ul><table><caption>Entscheidung nach dem Schock</caption><thead><tr><th>Klausel</th><th>Wahl</th><th>Folge</th></tr></thead><tbody><tr><td>Prüfungsklausel</td><td>Nutzen / nicht nutzen</td><td>Neuverhandlung braucht Zeit und ist nicht garantiert.</td></tr><tr><td>Ausstiegsklausel</td><td>Nutzen / nicht nutzen</td><td>Ausstieg kann Geld kosten und Vertrauen beschädigen; genaue Kosten unbekannt.</td></tr><tr><td>Fortsetzen</td><td>Vertrag weiterführen</td><td>Kontinuität bleibt, aber das Problem möglicherweise auch.</td></tr></tbody></table><p>Keine Zahlenstrafe erfinden. Optionen vergleichen und fehlende Belege nennen.</p>"
+        },
+        {
+          "title": "Quellenvergleich: Blockfreienbewegung und politischer Spielraum",
+          "html": "<p>Das UN-Dokument zur Konferenz der Blockfreien 1992 in Jakarta beschreibt eigene Grundsätze: unabhängiges Handeln, Entwicklung, Zusammenarbeit und gerechtere Wirtschaftsbeziehungen. Es ist eine historische Primärquelle zur Selbstdarstellung der Bewegung; es beweist nicht, dass Mitglieder immer danach handelten. UNCTAD hat für politischen Spielraum und Industriepolitik argumentiert. Das sind zu prüfende Positionen, keine Garantie für den Erfolg einer bestimmten Politik.</p><table><caption>Historische Aussage und heutiger Fall</caption><thead><tr><th>Frage</th><th>Notiz</th></tr></thead><tbody><tr><td>Was wollte die Bewegung laut Dokument?</td><td>Einen Grundsatz sinngemäß notieren.</td></tr><tr><td>Was ähnelt Asteria?</td><td>Eigenständige Wahl, Entwicklung oder Zusammenarbeit?</td></tr><tr><td>Was ist anders?</td><td>Kalter Krieg, heutige Institutionen oder Technik?</td></tr><tr><td>Welcher Beleg prüft die Praxis?</td><td>Eine konkrete Entscheidung suchen, nicht nur eine Erklärung.</td></tr></tbody></table>"
+        },
+        {
+          "title": "Argumentkarte Phenomenal World: Blockfreiheit heute",
+          "html": "<h3>Zu prüfende These (sinngemäße Zusammenfassung von Sahay, 9. November 2022)</h3><p>Sahay argumentiert, dass Entwicklungsländer mit dem Wunsch nach eigenem Handlungsspielraum nicht automatisch ein einheitliches Lager bilden. Ihre Partnerschaften und Prioritäten unterscheiden sich; Verhandlungen können je nach Thema anders aussehen. Das ist eine Interpretation neben der Eigendarstellung der Bewegung von 1992, keine aktuelle Rangliste der Länder.</p><ol><li>Handelt Asteria im Spiel wie ein berechenbarer Blockakteur?</li><li>Welche unabhängigen Belege zeigen, ob eine echte Regierung Partner oder Bedingungen wechseln kann?</li></ol>"
+        },
+        {
+          "title": "Asterias Verhandlungsauftrag und Finanzierungsblatt",
+          "html": "<h3>Vor der Verhandlung ausfüllen</h3><table><caption>Rang 1–5 (1 = höchste Priorität); nur Mittel für das öffentliche Netzprogramm über 80 Einheiten rechnen</caption><thead><tr><th>Priorität</th><th>Rang</th><th>Grund / Zielkonflikt</th></tr></thead><tbody><tr><td>Verlässlicher Netzstrom</td><td></td><td></td></tr><tr><td>Arbeit und Fähigkeiten</td><td></td><td></td></tr><tr><td>Wenig öffentliche Schulden</td><td></td><td></td></tr><tr><td>Lieferantenwahl</td><td></td><td></td></tr><tr><td>Öffentliche Kontrolle</td><td></td><td></td></tr></tbody></table><p>Öffentliches Netzbudget: Nordkredit ___ + Bankzuschuss ___ + Asteria-Budget ___ = ___ / 80; Restlücke ___. Pflichten extra notieren. Die private Investition Süd finanziert ein getrenntes Batteriewerk und zählt nie zum öffentlichen Netzbudget.</p>"
+        },
+        {
+          "title": "Asterias unterschriebenes Abkommen und Risikokarte",
+          "html": "<h3>Während Verhandlung und nach der Störung ausfüllen</h3><table><caption>Vertragsprotokoll</caption><tbody><tr><th>Quellen für öffentliches Netzbudget, Summe und Restlücke</th><td></td></tr><tr><th>Getrennte private Investition ins Werk (zählt nicht als Netzgeld)</th><td></td></tr><tr><th>Angenommene Pflichten sowie Prüf-/Ausstiegsklausel</th><td></td></tr><tr><th>Unterschriften und Einwand der Bürgergruppe</th><td></td></tr><tr><th>Nach dem Schock: Nutzen, Abhängigkeit, betroffene Gruppe, nötige Belege</th><td></td></tr></tbody></table><p>Einzelarbeit: 400–500 Wörter. Beurteile mit Finanzierungsrechnung, Nutzen, Abhängigkeit, Alternative, fehlender Stimme/Kostenfolge und Unsicherheit. Angebot und Beleg unterscheiden; Durchsetzung besprechen.</p>"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vereinte Nationen, Schlussdokumente der zehnten Konferenz der Blockfreien (Jakarta, 1992)",
+          "url": "https://www.un.org/unispal/document/auto-insert-179754/",
+          "date": "1992; geprüft am 6. Oktober 2026",
+          "use": "Historische Primärquelle für erklärte Grundsätze; kein Praxisbeweis."
+        },
+        {
+          "title": "UN Trade and Development (UNCTAD), Developing countries need sufficient policy space...",
+          "url": "https://unctad.org/press-material/developing-countries-need-sufficient-policy-space-advance-post-2015-development",
+          "date": "10. September 2014; geprüft am 6. Oktober 2026",
+          "use": "Datierte Argumentation zu Industriepolitik und Wertschöpfungsketten; nicht als geltendes Recht oder aktuelle Politik darstellen."
+        },
+        {
+          "title": "UN Sustainable Development Group, Cooperation Framework",
+          "url": "https://unsdg.un.org/2030-agenda/cooperation-framework",
+          "date": "Ohne Datum; geprüft am 6. Oktober 2026",
+          "use": "Offizielles Beispiel für Partnerschaft und nationale Prioritäten; optional."
+        },
+        {
+          "title": "Sahay, A New Non-Alignment",
+          "url": "https://phenomenalworld.org/analysis/non-alignment-brics/",
+          "date": "9. November 2022; geprüft am 6. Oktober 2026",
+          "use": "Datierte Deutung zu Verhandlungen und Blockfreiheit; mit der historischen Primärquelle vergleichen."
+        }
+      ],
+      "languageSupport": "<h3>Deutsch-Pfad mit kurzer englischer Brücke</h3><p><strong>Englischer Brückentext (von der Lehrkraft geschrieben, kein Zitat):</strong> “A country can work with several partners without joining a political bloc. But loans, long contracts and supply promises can limit future choices. A review clause may help, but partners must agree and the rule must be enforceable.”</p><p>Fragen: 1. Was kann ein Land tun, ohne einem Block beizutreten? 2. Welche drei Dinge können die Wahlmöglichkeiten begrenzen? 3. Wovon hängt eine Prüfungsklausel ab? Wörter: partner = Partner; loan = Kredit; contract = Vertrag; supply = Lieferung; review = Überprüfung; enforceable = durchsetzbar. <strong>Österreich-Bezug:</strong> Untersucht, wie Österreich als EU-Mitglied und kleine offene Wirtschaft EU-Institutionen und Handel nutzt. Nutzt eine offizielle österreichische oder EU-Quelle. Asterias Lage ist nicht gleich Österreichs Lage.</p><p><strong>Englische Lese-Brücke:</strong> Lest die ersten zwei Absätze von Sahays „A New Non-Alignment“ (9. November 2022). Fasst eine Aussage zu Verhandlungen auf Deutsch zusammen und vergleicht sie mit einer Stelle im UN-Dokument von 1992.</p>",
+      "submission": "Einzelarbeit, 400–500 Wörter: Beurteile das Abkommen. Füge Finanzierungsrechnung, einen Nutzen und eine Abhängigkeit, eine Alternative, eine fehlende Stimme oder Kostenfolge und eine Unsicherheit ein. Unterscheide Angebot und Beleg und bespreche Durchsetzung.",
+      "exit": [
+        "Wie kann Zusammenarbeit die Möglichkeiten eines Landes zugleich vergrößern und verkleinern?",
+        "Welche Belege brauchst du, bevor du ein Land blockfrei oder autonom nennst?"
+      ],
+      "homework": "Nimm dir 20 Minuten. Schreibe eine Prüfungsklausel für Asteria: Auslöser, wer eine Prüfung verlangt, welche Belege zählen und was bei Uneinigkeit geschieht. Nutze eine Störungskarte und eine Positionskarte.",
+      "teacher": {
+        "preparation": [
+          "Angebotstabelle, Positionskarten und Regeln ausgeben; vier Verhandlungsrollen plus Beobachtung zuteilen.",
+          "Rechnung prüfen: Bankzuschuss 25 plus mindestens 10 von Asteria = 35; Rest muss gedeckt werden. Nordkredit 60 plus 20 öffentliche Mittel = 80. Süd-Investition 40 + Bank 25 + öffentliche 15 = 80, wenn Bedingungen passen.",
+          "UN-Dokument von 1992 und UNCTAD-Seite von 2014 öffnen; Aussagen datieren."
+        ],
+        "facilitation": [
+          "Blockfreiheit nicht als zeitloses Etikett mit einer einzigen Bedeutung darstellen.",
+          "Behauptungen von Akteuren und Belegen trennen; fragen, wessen Perspektive eine offizielle Quelle zeigt.",
+          "Selbstständigkeit konkret prüfen: Lieferantenwechsel, Politikänderung, Alternativfinanzierung und Vertragsdurchsetzung."
+        ],
+        "answers": [
+          "Netzkredit Nord 60 + öffentliches Budget Asteria 20 = 80: gültig, aber mit Rückzahlung 72, 12-jährigem Wartungsvertrag und Beschaffungsvorrang. Verkürzt Nord den Wartungsvertrag auf 8 Jahre, zahlt Asteria 5 Einheiten extra für Ausbildung: 60 + 25 = 85. Bankzuschuss 25 plus höchstens 25 öffentlich ergibt 50; Netzerlücke 30. Die 40 privaten Einheiten Süd finanzieren niemals das Netz; ein separates Werkabkommen hat eigene Rohstoff- und Kontrollpflichten. Offene Beschaffung der Bank und Nord-Vorrang widersprechen sich, sofern sie nicht neu verhandelt werden.",
+          "Zuschuss, Kredit und private Investition sind verschieden. Privates Kapital ist keine öffentliche Hilfe; Kredit heute bedeutet Rückzahlung später; Zuschuss hat Bedingungen, aber keine Rückzahlung.",
+          "Das UN-Dokument ist eine Primärquelle für erklärte Grundsätze. Für Praxis braucht es konkrete Entscheidungen und unabhängige Belege."
+        ],
+        "misconceptions": [
+          "Blockfreiheit bedeutet weder keine Partnerschaften noch automatische Neutralität.",
+          "Mehr Partner bedeuten nicht automatisch mehr Selbstständigkeit; Pflichten können sich summieren.",
+          "Verträge, Geld, Institutionen und nationale Entscheidungen begrenzen politischen Spielraum."
+        ],
+        "differentiation": [
+          "Prioritätenblatt und Rechenhilfe anbieten; stärkere Lernende untersuchen den Konflikt zwischen Beschaffungsregeln und Exklusivvertrag.",
+          "Eine mündliche Verhandlungsrolle ist möglich; die individuelle schriftliche Leistung bleibt erforderlich."
+        ],
+        "extension": "Wählt eine aktuelle offizielle Vereinbarung oder Finanzierungsankündigung. Prüft Regeln zu Überprüfung, Ausstieg, Beschaffung, Ausbildung und veröffentlichten Daten. Werbeaussagen als Behauptungen behandeln und Vertragsdokumente oder unabhängige Belege suchen."
+      }
+    }
+  }
+]
