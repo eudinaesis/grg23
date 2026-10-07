@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Password strength tester – GRG 23</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+  <link rel="stylesheet" href="tester.css">
+  <script src="tester.js" defer></script>
+</head>
+<body>
+  <main class="site-shell">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="../">pnorthup.me/grg23</a> → <a href="./">Passwords</a> → Tester</nav>
+    <header class="site-header"><h1>Password strength tester</h1><p>English + German + common passwords</p></header>
+    <section class="tester-panel" aria-labelledby="input-label">
+      <label id="input-label" for="password">Try an invented password</label>
+      <p id="input-help">Do not enter a real password. What you type is visible on screen.</p>
+      <input id="password" type="text" maxlength="256" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-describedby="input-help" placeholder="Type a test password…" disabled>
+      <p id="status" role="status">Loading the tester…</p>
+      <noscript><p>Please enable JavaScript to use the tester.</p></noscript>
+    </section>
+    <section id="results" class="tester-panel" aria-labelledby="result-title" hidden>
+      <h2 id="result-title">Estimated strength</h2>
+      <p id="score" class="score"></p>
+      <meter id="strength" min="0" max="4" low="2" high="3" optimum="4" aria-label="Password strength out of 4"></meter>
+      <p id="warning"></p>
+      <ul id="suggestions"></ul>
+      <h3>Estimated time to guess</h3>
+      <dl class="crack-times">
+        <div><dt>Online: 100 guesses / hour</dt><dd id="online-slow"></dd></div>
+        <div><dt>Online: 10 guesses / second</dt><dd id="online-fast"></dd></div>
+        <div><dt>Offline: 10,000 guesses / second</dt><dd id="offline-slow"></dd></div>
+        <div><dt>Offline: 10 billion guesses / second</dt><dd id="offline-fast"></dd></div>
+      </dl>
+      <p class="fine-print">These are estimates, not a guarantee of safety.</p>
+    </section>
+    <footer class="fine-print">
+      <p>Powered by <a href="https://zxcvbn-ts.github.io/zxcvbn/">zxcvbn-ts</a>. English, German and common dictionaries, keyboard patterns, spelling variations and breached-password checking are enabled. Results update after a short typing pause.</p>
+      <p>Strength estimation runs in your browser; this page does not save your input. The breach check sends only the first five characters of a SHA-1 hash to Have I Been Pwned, not your password or its full hash. This check needs an internet connection.</p>
+    </footer>
+  </main>
+</body>
+</html>
