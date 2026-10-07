@@ -13,8 +13,8 @@ export const options = {
   useLevenshteinDistance: true,
 };
 
-export function createTester(fetchApi) {
-  return new ZxcvbnFactory(options, { pwned: matcherPwnedFactory(fetchApi) });
+export function createTester(fetchApi, language = 'en') {
+  return new ZxcvbnFactory({ ...options, translations: language === 'de' ? de.translations : en.translations }, { pwned: matcherPwnedFactory(fetchApi) });
 }
 
 if (typeof document !== 'undefined') {
@@ -39,28 +39,34 @@ if (typeof document !== 'undefined') {
       clearTimeout(timeout);
     }
   };
-  const tester = createTester(fetchApi);
-  const labels = ['Very weak', 'Weak', 'Fair', 'Strong', 'Very strong'];
+  const language = window.PasswordLanguage;
+  const testers = new Map();
+  const getTester = () => {
+    const code = language.get();
+    if (!testers.has(code)) testers.set(code, createTester(fetchApi, code));
+    return testers.get(code);
+  };
   const setText = (id, text) => { document.getElementById(id).textContent = text; };
 
   input.disabled = false;
-  status.textContent = 'Ready. Use invented passwords only.';
-  input.addEventListener('input', () => {
+  status.removeAttribute('data-i18n');
+  status.textContent = language.t('ready');
+  const check = () => {
     clearTimeout(timer);
     const current = ++version;
     results.hidden = true;
     if (!input.value) {
-      status.textContent = 'Ready. Use invented passwords only.';
+      status.textContent = language.t('ready');
       return;
     }
-    status.textContent = 'Checking…';
+    status.textContent = language.t('checking');
     timer = setTimeout(async () => {
       lookupFailed = false;
       try {
         // No userInputs field or personal data is provided to the estimator.
-        const result = await tester.checkAsync(input.value);
+        const result = await getTester().checkAsync(input.value);
         if (current !== version) return;
-        setText('score', `${labels[result.score]} — ${result.score} / 4`);
+        setText('score', `${language.t('scores')[result.score]} — ${result.score} / 4`);
         document.querySelector('#strength').value = result.score;
         setText('warning', result.feedback.warning || '');
         const suggestions = document.querySelector('#suggestions');
@@ -76,12 +82,14 @@ if (typeof document !== 'undefined') {
         setText('offline-fast', times.offlineFastHashingXPerSecond.display);
         results.hidden = false;
         status.textContent = lookupFailed
-          ? 'Strength estimated. Breach lookup unavailable; try again when connected.'
-          : 'Check complete.';
+          ? language.t('unavailable')
+          : language.t('complete');
       } catch (error) {
         if (current !== version) return;
-        status.textContent = 'The check could not finish. Please try another test password or reload.';
+        status.textContent = language.t('error');
       }
     }, 200);
-  });
+  };
+  input.addEventListener('input', check);
+  document.addEventListener('password-languagechange', check);
 }

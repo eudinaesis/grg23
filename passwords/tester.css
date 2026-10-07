@@ -14,4 +14,7 @@ meter { width: 100%; height: 1.3rem; margin: 0.5rem 0; }
 .crack-times dt { color: var(--muted); }
 .crack-times dd { margin: 0; font-weight: 700; text-align: right; }
 .fine-print { color: var(--muted); font-size: 0.85rem; }
+.breadcrumb { padding-right: 4.5rem; }
+.how-it-works summary { cursor: pointer; font-weight: 700; }
+.how-it-works p:last-child { margin-bottom: 0; }
 @media (max-width: 420px) { .tester-panel { padding: 1rem; } .crack-times div { display: block; } .crack-times dd { text-align: left; } }

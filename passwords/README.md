@@ -1,7 +1,11 @@
 # Password tester
 
 `index.html` is the section landing page; its only activity is `tester.html`.
-The checked options in the zxcvbn-ts demo are fixed on: English translations,
+The interface, feedback and time estimates are available in English and German.
+The initial language follows the browser's language (English fallback). A manual
+choice is kept for the current tab session. The expandable explanation also
+switches language. Both dictionaries stay active regardless of display language.
+The checked options in the zxcvbn-ts demo are fixed on: translated feedback,
 common keyboard graphs, common/English/German dictionaries, Levenshtein matching,
 200 ms input debounce, and the Pwned Passwords matcher. No option controls or
 user-inputs field are rendered. Other library settings retain their defaults.

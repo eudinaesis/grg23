@@ -6,38 +6,50 @@
   <title>Password strength tester – GRG 23</title>
   <link rel="stylesheet" href="../assets/styles.css">
   <link rel="stylesheet" href="tester.css">
+  <script src="language.js" defer></script>
   <script src="tester.js" defer></script>
 </head>
 <body>
+  <div class="language-switch" role="group" aria-label="Language" data-i18n-aria="language">
+    <button type="button" data-password-lang="en" aria-pressed="true">EN</button>
+    <button type="button" data-password-lang="de" aria-pressed="false">DE</button>
+  </div>
   <main class="site-shell">
-    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="../">pnorthup.me/grg23</a> → <a href="./">Passwords</a> → Tester</nav>
-    <header class="site-header"><h1>Password strength tester</h1><p>English + German + common passwords</p></header>
+    <nav class="breadcrumb" aria-label="Breadcrumb" data-i18n-aria="breadcrumb"><a href="../">pnorthup.me/grg23</a> → <a href="./" data-i18n="section">Passwords</a> → <span data-i18n="tester">Password strength tester</span></nav>
+    <header class="site-header"><h1 data-i18n="tester">Password strength tester</h1><p data-i18n="dictionaries">English + German + common passwords</p></header>
     <section class="tester-panel" aria-labelledby="input-label">
-      <label id="input-label" for="password">Try an invented password</label>
-      <p id="input-help">Do not enter a real password. What you type is visible on screen.</p>
-      <input id="password" type="text" maxlength="256" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-describedby="input-help" placeholder="Type a test password…" disabled>
-      <p id="status" role="status">Loading the tester…</p>
-      <noscript><p>Please enable JavaScript to use the tester.</p></noscript>
+      <label id="input-label" for="password" data-i18n="inputLabel">Try an invented password</label>
+      <p id="input-help" data-i18n="inputHelp">Do not enter a real password. What you type is visible on screen.</p>
+      <input id="password" type="text" maxlength="256" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-describedby="input-help" placeholder="Type a test password…" data-i18n-placeholder="placeholder" disabled>
+      <p id="status" role="status" data-i18n="loading">Loading the tester…</p>
+      <noscript><p>Please enable JavaScript to use the tester. / Bitte aktiviere JavaScript, um den Test zu verwenden.</p></noscript>
     </section>
     <section id="results" class="tester-panel" aria-labelledby="result-title" hidden>
-      <h2 id="result-title">Estimated strength</h2>
+      <h2 id="result-title" data-i18n="resultTitle">Estimated strength</h2>
       <p id="score" class="score"></p>
-      <meter id="strength" min="0" max="4" low="2" high="3" optimum="4" aria-label="Password strength out of 4"></meter>
+      <meter id="strength" min="0" max="4" low="2" high="3" optimum="4" aria-label="Password strength out of 4" data-i18n-aria="strengthLabel"></meter>
       <p id="warning"></p>
       <ul id="suggestions"></ul>
-      <h3>Estimated time to guess</h3>
+      <h3 data-i18n="times">Estimated time to guess</h3>
       <dl class="crack-times">
-        <div><dt>Online: 100 guesses / hour</dt><dd id="online-slow"></dd></div>
-        <div><dt>Online: 10 guesses / second</dt><dd id="online-fast"></dd></div>
-        <div><dt>Offline: 10,000 guesses / second</dt><dd id="offline-slow"></dd></div>
-        <div><dt>Offline: 10 billion guesses / second</dt><dd id="offline-fast"></dd></div>
+        <div><dt data-i18n="onlineSlow">Online: 100 guesses / hour</dt><dd id="online-slow"></dd></div>
+        <div><dt data-i18n="onlineFast">Online: 10 guesses / second</dt><dd id="online-fast"></dd></div>
+        <div><dt data-i18n="offlineSlow">Offline: 10,000 guesses / second</dt><dd id="offline-slow"></dd></div>
+        <div><dt data-i18n="offlineFast">Offline: 10 billion guesses / second</dt><dd id="offline-fast"></dd></div>
       </dl>
-      <p class="fine-print">These are estimates, not a guarantee of safety.</p>
+      <p class="fine-print" data-i18n="estimateNote">These are estimates, not a guarantee of safety.</p>
     </section>
-    <footer class="fine-print">
-      <p>Powered by <a href="https://zxcvbn-ts.github.io/zxcvbn/">zxcvbn-ts</a>. English, German and common dictionaries, keyboard patterns, spelling variations and breached-password checking are enabled. Results update after a short typing pause.</p>
-      <p>Strength estimation runs in your browser; this page does not save your input. The breach check sends only the first five characters of a SHA-1 hash to Have I Been Pwned, not your password or its full hash. This check needs an internet connection.</p>
-    </footer>
+    <details class="tester-panel how-it-works">
+      <summary data-i18n="how">How does this work?</summary>
+      <p data-i18n="howGuess">A computer tries common passwords and familiar patterns before guessing at random.</p>
+      <p data-i18n="howPatterns">The tester looks for English and German words, names, common passwords, dates and keyboard patterns.</p>
+      <p data-i18n="howScore">It estimates how many guesses are needed and gives a score from 0 to 4.</p>
+      <p data-i18n="howTimes">Online guesses happen at a website. Offline guesses use stolen password data on the attacker's computer.</p>
+      <p data-i18n="howPrivacy">The strength calculation runs in your browser. The breach check sends only a short hash prefix, not your password, to Have I Been Pwned.</p>
+      <p data-i18n="howBreach">Your browser checks the returned results locally. No match does not prove that a password is safe.</p>
+      <p data-i18n="howSafe">Use invented passwords here. Keep real passwords in a password manager.</p>
+    </details>
+    <footer class="fine-print"><p><span data-i18n="powered">Powered by</span> <a href="https://zxcvbn-ts.github.io/zxcvbn/">zxcvbn-ts</a>. <span data-i18n="enabled">English, German and common dictionaries, keyboard patterns, spelling variations and breached-password checking are enabled. Results update after a short typing pause.</span></p></footer>
   </main>
 </body>
 </html>
