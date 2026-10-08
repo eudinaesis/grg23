@@ -1,0 +1,38 @@
+.guide-address {margin: 0 0 .7rem; font-weight: 700; overflow-wrap: anywhere;}
+.site-header {padding-right: 5rem;}
+.step-copy {overflow-wrap:anywhere;}
+.step-copy p + p {margin-top:.65rem;}
+.guide-actions {display:flex;gap:.75rem;flex-wrap:wrap;margin:1rem 0;}
+.guide-actions button {border:0;border-radius:.5rem;background:var(--navy);color:white;padding:.7rem 1rem;font:inherit;cursor:pointer;}
+.image-pair {display:grid;grid-template-columns:1fr 1fr;gap:.5rem;padding:.5rem;border-top:1px solid var(--line);}
+.image-pair img {width:100%;max-height:180px;object-fit:contain;}
+.first-login {margin:1rem 0;border:2px solid var(--navy);padding:1rem;border-radius:.7rem;}
+.first-login h2 {margin:0 0 .4rem;font-size:1.2rem;}
+.first-login p {margin:.4rem 0;}
+.guide-footer {margin-top:1rem;}
+.source-link {font-size:.85rem;}
+@page {size:A4 portrait;margin:14mm;}
+@media print {
+  body {font-size:11pt;line-height:1.35;color:#000;background:#fff;}
+  .site-shell {width:100%;margin:0;padding:0;}
+  .language-switch,.breadcrumb,.guide-actions,.guide-nav,.source-link {display:none!important;}
+  .site-header {background:none;color:#000;border-radius:0;padding:0 0 3mm;margin:0 0 4mm;border-bottom:1pt solid #000;}
+  .site-header h1 {font-size:20pt;line-height:1.15;}
+  .site-header p {color:#000;margin-top:2mm;}
+  .guide-address {font-size:10pt;margin:0 0 3mm;}
+  .tutorial {display:block;}
+  .tutorial-step {border:1pt solid #aaa;border-radius:0;box-shadow:none;margin:0 0 3mm;break-inside:avoid;overflow:visible;}
+  .step-copy {padding:3mm;}
+  .step-copy h2 {font-size:12pt;}
+  .note {color:#000;background:none;border-left:2pt solid #000;padding:2mm 3mm;}
+  .screenshot {max-height:85mm;object-fit:contain;}
+  .image-pair {padding:2mm;}
+  .image-pair img {max-height:27mm;width:100%;}
+  .first-login {padding:3mm;margin:4mm 0;border:1pt solid #000;break-inside:avoid;}
+  .first-login h2 {font-size:12pt;}
+  .guide-footer {font-size:10pt;margin-top:3mm;}
+  a {color:#000;text-decoration:none;}
+  .login-guide .screen-only {display:none!important;}
+  .login-guide .tutorial-step {margin-bottom:2.5mm;}
+  .login-guide .step-copy {padding:2.5mm 3mm;}
+}
