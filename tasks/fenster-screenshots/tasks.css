@@ -39,3 +39,8 @@ summary { cursor:pointer; font-weight:700; }
 .version-links a { border:1px solid var(--line); border-radius:.4rem; flex:1 1 9rem; min-height:0; text-align:center; }
 
 .onenote-opening-image { width: min(100%, 440px); margin-inline: auto; }
+
+/* Keep repeated OneNote opening help compact until requested. */
+details.onenote-opening { margin: 0; padding: 0; }
+details.onenote-opening > summary { padding: 1rem 1.25rem; font-size: 1.15rem; }
+details.onenote-opening[open] > summary { border-bottom: 1px solid var(--line); }
