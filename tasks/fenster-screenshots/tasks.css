@@ -37,3 +37,5 @@ summary { cursor:pointer; font-weight:700; }
 .task-choice h3 { margin:0 0 .5rem; font-size:1.15rem; }
 .version-links { display:flex; gap:.5rem; flex-wrap:wrap; }
 .version-links a { border:1px solid var(--line); border-radius:.4rem; flex:1 1 9rem; min-height:0; text-align:center; }
+
+.onenote-opening-image { width: min(100%, 440px); margin-inline: auto; }
