@@ -7,6 +7,7 @@
   <!-- Beim Kopieren in einen Klassenordner funktionieren diese Pfade unverändert. -->
   <link rel="stylesheet" href="../assets/styles.css">
   <script src="../assets/language.js" defer></script>
+<link rel="stylesheet" href="../assets/breadcrumbs.css">
 </head>
 <body>
   <div class="language-switch" role="group" aria-label="Sprache / Language">
@@ -14,7 +15,7 @@
     <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
   </div>
   <main class="site-shell">
-    <p class="breadcrumb"><a href="index.html"><span data-lang="de">← Zurück zur Klasse</span><span data-lang="en">← Back to class</span></a></p>
+<!-- site-breadcrumb:start --><nav class="breadcrumb site-breadcrumb" aria-label="Brotkrumen / Breadcrumbs"><ol><li><a href="../index.html">GRG 23</a></li><li><span aria-current="page"><span data-lang="de">Titel der Anleitung</span><span data-lang="en">Tutorial title</span></span></li></ol></nav><!-- site-breadcrumb:end -->
     <header class="site-header">
       <h1 data-lang="de">Titel der Anleitung</h1>
       <h1 data-lang="en">Tutorial title</h1>

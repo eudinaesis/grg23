@@ -1,0 +1,11 @@
+/* Shared, static breadcrumbs: readable without JavaScript; never printed. */
+nav.site-breadcrumb { margin: 0 0 1rem; padding: .5rem 4.5rem .5rem 0; font-size: .9rem; line-height: 1.6; overflow-wrap: anywhere; }
+nav.site-breadcrumb ol { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem 0; list-style: none; padding: 0; margin: 0; }
+nav.site-breadcrumb ol > li { display: inline; margin: 0; padding: 0; min-width: 0; }
+nav.site-breadcrumb li + li::before { content: '›'; padding: 0 .5rem; color: #5e6b7a; }
+nav.site-breadcrumb a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
+nav.site-breadcrumb a:focus-visible { outline: 3px solid #1769aa; outline-offset: 3px; }
+nav.site-breadcrumb [aria-current="page"] { font-weight: 600; }
+html[lang="de"] nav.site-breadcrumb [data-lang="en"],
+html[lang="en"] nav.site-breadcrumb [data-lang="de"] { display: none !important; }
+@media print { nav.site-breadcrumb { display: none !important; } }
