@@ -40,6 +40,6 @@ Sortierung: **Leicht → Mittel → Schwer** gemäß der 5–6-Bewertung (`einfa
 - `downloads/Biber-5-6-2023-2025.pdf`: **83 unveränderte Originalseiten**, jede Aufgabe unmittelbar mit ihren Lösungsseiten; auf gemeinsamen Originalseiten stehen Aufgabe und Lösungsbeginn zusammen. PDF-Lesezeichen nennen Schwierigkeit, Jahr und Aufgabentitel. Das PDF enthält ausdrücklich **auch die Lösungen**.
 - `tasks.json`: Website-Daten mit getrennten Aufgaben- und Lösungsbildern sowie automatisch extrahierten Textversionen.
 - `selection.json`: Prüfprotokoll mit Bewertungen, Auswahlentscheidungen, Original-Dateiseiten, Druckseiten, Seiten im kombinierten PDF, Bildzuschnitt-Grenzen und SHA-256-Prüfsummen der Quellen.
-- 20 Aufgaben haben einen Lösungsbeginn auf derselben Originalseite; die Website trennt diesen an der Oberkante des blauen Lösungsfelds. Die Lösung wird erst nach Klick eingeblendet. Die Diagramme selbst sind nicht interaktiv; Antworten werden auf Papier überlegt/notiert.
+- 20 Aufgaben haben einen Lösungsbeginn auf derselben Originalseite; die Website trennt diesen an der Oberkante des blauen Lösungsfelds. Die Lösung wird erst nach Klick eingeblendet. Die Diagramme selbst sind nicht interaktiv. Antworten müssen nicht aufgeschrieben werden; notiert wird nur, welche Aufgaben versucht und welche richtig gelöst wurden.
 
 Die Bewertungen wurden aus den Kopfzeilen der **Aufgabenseiten** gelesen (nicht versehentlich von Druckseitenzahlen auf PDF-Dateiseiten geschlossen). Unterschiede der gedruckten Seitenzahlen sind im Protokoll ausdrücklich getrennt dokumentiert.
