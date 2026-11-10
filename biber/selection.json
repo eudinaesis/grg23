@@ -1,0 +1,3376 @@
+{
+  "title": "Biber der Informatik – Auswahl für Schulstufen 5–6",
+  "license": "CC BY-SA 4.0",
+  "rule": "Pro Jahr die Aufgabenliste in ihrer Reihenfolge prüfen; nach der ersten Aufgabe ohne 3–4- und 5–6-Bewertung noch genau zehn weitere Einträge prüfen, dann stoppen. Aufgaben mit 5–6-Bewertung einschließen; Aufgaben mit 3–4-Bewertung ohne 5–6-Bewertung als leichte Aufwärmaufgaben einschließen (auch wenn zusätzlich höhere Stufen bewertet sind).",
+  "order": "Leicht → Mittel → Schwer; innerhalb einer Stufe Jahr aufsteigend, dann Reihenfolge der jeweiligen Aufgabenliste. Keine jahrgangsübergreifende Feinschwierigkeit behauptet.",
+  "pdf": {
+    "path": "downloads/Biber-5-6-2023-2025.pdf",
+    "pageCount": 83,
+    "sha256": "266c5d56f3eb8f2825512c6872d32a25bc3122adceaea0902941c248b766c4fa",
+    "note": "Unveränderte vollständige Originalseiten, einschließlich Lösungen. Manche Aufgaben und Lösungen teilen sich eine Originalseite."
+  },
+  "counts": {
+    "total": 45,
+    "warmups": 15,
+    "easy": 26,
+    "medium": 11,
+    "hard": 8
+  },
+  "sources": [
+    {
+      "year": 2023,
+      "filename": "Biberheft_2023oldOesterreich_0.pdf",
+      "sha256": "f9c6cd55442c2b11f30c87e701c4e6a45608ac6f5cb69b64a5c9392f11389be7",
+      "tocFilePage": 5,
+      "firstTooHardOrder": 13,
+      "firstTooHardTitle": "Schatzkisten",
+      "checkedThroughTocOrder": 23,
+      "checkedEntries": [
+        {
+          "year": 2023,
+          "tocOrder": 1,
+          "title": "Äpfel halbieren",
+          "printedPage": 9,
+          "problemPage": 8,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-01",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            8,
+            9
+          ],
+          "solutionPages": [
+            9
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 2,
+          "title": "Foto",
+          "printedPage": 28,
+          "problemPage": 27,
+          "ratings": {
+            "3-4": null,
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-02",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            27,
+            28
+          ],
+          "solutionPages": [
+            28
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 3,
+          "title": "Ein besonderer Baum",
+          "printedPage": 25,
+          "problemPage": 24,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": "mittel",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-03",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            24
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2023,
+          "tocOrder": 4,
+          "title": "Blumenstrauß",
+          "printedPage": 15,
+          "problemPage": 14,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-04",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            14,
+            15
+          ],
+          "solutionPages": [
+            15
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 5,
+          "title": "Wasser – Land",
+          "printedPage": 62,
+          "problemPage": 61,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-05",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            61,
+            62
+          ],
+          "solutionPages": [
+            62
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 6,
+          "title": "Riccas",
+          "printedPage": 50,
+          "problemPage": 49,
+          "ratings": {
+            "3-4": null,
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-06",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            49,
+            50
+          ],
+          "solutionPages": [
+            50
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 7,
+          "title": "Noahs Sägerei",
+          "printedPage": 42,
+          "problemPage": 41,
+          "ratings": {
+            "3-4": null,
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-07",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            41,
+            42
+          ],
+          "solutionPages": [
+            42
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 8,
+          "title": "Aylas Regenschirm",
+          "printedPage": 11,
+          "problemPage": 10,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-08",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            10,
+            11
+          ],
+          "solutionPages": [
+            11
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 9,
+          "title": "Karlas Traumhaus",
+          "printedPage": 34,
+          "problemPage": 33,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-09",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            33
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2023,
+          "tocOrder": 10,
+          "title": "Neue Hüte",
+          "printedPage": 41,
+          "problemPage": 40,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-10",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            40
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2023,
+          "tocOrder": 11,
+          "title": "Spaß im Zoo",
+          "printedPage": 56,
+          "problemPage": 55,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-11",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            55,
+            56
+          ],
+          "solutionPages": [
+            56
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 12,
+          "title": "Schatzsuche",
+          "printedPage": 54,
+          "problemPage": 53,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2023-12",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            53,
+            54
+          ],
+          "solutionPages": [
+            54
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 13,
+          "title": "Schatzkisten",
+          "printedPage": 52,
+          "problemPage": 51,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-13",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            51,
+            52
+          ],
+          "solutionPages": [
+            52
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 14,
+          "title": "Brunnen",
+          "printedPage": 19,
+          "problemPage": 18,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": "mittel",
+            "11-13": null
+          },
+          "id": "2023-14",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            18,
+            19
+          ],
+          "solutionPages": [
+            19
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 15,
+          "title": "Zug entladen",
+          "printedPage": 69,
+          "problemPage": 68,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2023-15",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            68,
+            69
+          ],
+          "solutionPages": [
+            69
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 16,
+          "title": "Gemüsebeet",
+          "printedPage": 30,
+          "problemPage": 29,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2023-16",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            29,
+            30
+          ],
+          "solutionPages": [
+            30
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 17,
+          "title": "Karotten pflanzen",
+          "printedPage": 35,
+          "problemPage": 34,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2023-17",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            34,
+            35
+          ],
+          "solutionPages": [
+            35
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 18,
+          "title": "Martinas Dorf",
+          "printedPage": 39,
+          "problemPage": 38,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2023-18",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            38,
+            39
+          ],
+          "solutionPages": [
+            39
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 19,
+          "title": "Ogham",
+          "printedPage": 44,
+          "problemPage": 43,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": "mittel",
+            "11-13": "einfach"
+          },
+          "id": "2023-19",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            43,
+            44
+          ],
+          "solutionPages": [
+            44
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 20,
+          "title": "Sprachkurse",
+          "printedPage": 58,
+          "problemPage": 57,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": null,
+            "11-13": "einfach"
+          },
+          "id": "2023-20",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            57,
+            58
+          ],
+          "solutionPages": [
+            58
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 21,
+          "title": "Postfix-Notation",
+          "printedPage": 46,
+          "problemPage": 45,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": null,
+            "9-10": "schwer",
+            "11-13": "mittel"
+          },
+          "id": "2023-21",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            45,
+            46
+          ],
+          "solutionPages": [
+            46
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 22,
+          "title": "Zerobots Mission",
+          "printedPage": 64,
+          "problemPage": 63,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": null,
+            "9-10": "schwer",
+            "11-13": "mittel"
+          },
+          "id": "2023-22",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            63,
+            64
+          ],
+          "solutionPages": [
+            64
+          ]
+        },
+        {
+          "year": 2023,
+          "tocOrder": 23,
+          "title": "Go-Bots",
+          "printedPage": 32,
+          "problemPage": 31,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": "mittel",
+            "11-13": "einfach"
+          },
+          "id": "2023-23",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            31,
+            32
+          ],
+          "solutionPages": [
+            32
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "filename": "Biberheft_2024_web_komplett.pdf",
+      "sha256": "698e210dc54bcc6cf3004065fcb648c784ec5b7d9ab6fedc686cefbbf5a09185",
+      "tocFilePage": 3,
+      "firstTooHardOrder": 14,
+      "firstTooHardTitle": "Zettel",
+      "checkedThroughTocOrder": 24,
+      "checkedEntries": [
+        {
+          "year": 2024,
+          "tocOrder": 1,
+          "title": "Passendes Fach?",
+          "printedPage": 44,
+          "problemPage": 41,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-01",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            41
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2024,
+          "tocOrder": 2,
+          "title": "Zeichnung",
+          "printedPage": 76,
+          "problemPage": 73,
+          "ratings": {
+            "3-4": null,
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-02",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            73
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2024,
+          "tocOrder": 3,
+          "title": "Im Park",
+          "printedPage": 35,
+          "problemPage": 32,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-03",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            32,
+            33
+          ],
+          "solutionPages": [
+            33
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 4,
+          "title": "Pizza-Party",
+          "printedPage": 47,
+          "problemPage": 44,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-04",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            44,
+            45
+          ],
+          "solutionPages": [
+            45
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 5,
+          "title": "Ricca-Karten 1",
+          "printedPage": 49,
+          "problemPage": 46,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-05",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            46,
+            47
+          ],
+          "solutionPages": [
+            47
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 6,
+          "title": "Ballon-Maschine 1",
+          "printedPage": 9,
+          "problemPage": 6,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-06",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            6,
+            7
+          ],
+          "solutionPages": [
+            7
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 7,
+          "title": "Faktencheck",
+          "printedPage": 27,
+          "problemPage": 24,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-07",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            24,
+            25
+          ],
+          "solutionPages": [
+            25
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 8,
+          "title": "Nebeneinander",
+          "printedPage": 41,
+          "problemPage": 38,
+          "ratings": {
+            "3-4": null,
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-08",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            38,
+            39
+          ],
+          "solutionPages": [
+            39
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 9,
+          "title": "Berukone",
+          "printedPage": 19,
+          "problemPage": 16,
+          "ratings": {
+            "3-4": null,
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-09",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            16,
+            17
+          ],
+          "solutionPages": [
+            17
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 10,
+          "title": "Olivers Rassel",
+          "printedPage": 43,
+          "problemPage": 40,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-10",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            40
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2024,
+          "tocOrder": 11,
+          "title": "Leuchttürme",
+          "printedPage": 39,
+          "problemPage": 36,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-11",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            36,
+            37
+          ],
+          "solutionPages": [
+            37
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 12,
+          "title": "Ricca-Karten 2",
+          "printedPage": 51,
+          "problemPage": 48,
+          "ratings": {
+            "3-4": null,
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-12",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            48,
+            49
+          ],
+          "solutionPages": [
+            49
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 13,
+          "title": "Robertas Roboter",
+          "printedPage": 53,
+          "problemPage": 50,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-13",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            50,
+            51
+          ],
+          "solutionPages": [
+            51
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 14,
+          "title": "Zettel",
+          "printedPage": 77,
+          "problemPage": 74,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": null,
+            "9-10": "einfach",
+            "11-13": "einfach"
+          },
+          "id": "2024-14",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            74,
+            75
+          ],
+          "solutionPages": [
+            75
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 15,
+          "title": "Sonnige Tage",
+          "printedPage": 63,
+          "problemPage": 60,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": null,
+            "9-10": "schwer",
+            "11-13": "mittel"
+          },
+          "id": "2024-15",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            60,
+            61
+          ],
+          "solutionPages": [
+            61
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 16,
+          "title": "Scotts Armbänder",
+          "printedPage": 59,
+          "problemPage": 56,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": "mittel",
+            "11-13": null
+          },
+          "id": "2024-16",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            56,
+            57
+          ],
+          "solutionPages": [
+            57
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 17,
+          "title": "Röhre",
+          "printedPage": 55,
+          "problemPage": 52,
+          "ratings": {
+            "3-4": null,
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-17",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            52,
+            53
+          ],
+          "solutionPages": [
+            53
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 18,
+          "title": "Baustein-Maschine 1",
+          "printedPage": 15,
+          "problemPage": 12,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-18",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            12,
+            13
+          ],
+          "solutionPages": [
+            13
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 19,
+          "title": "Superbebras",
+          "printedPage": 67,
+          "problemPage": 64,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2024-19",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            64,
+            65
+          ],
+          "solutionPages": [
+            65
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 20,
+          "title": "Wunderblume",
+          "printedPage": 74,
+          "problemPage": 71,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": "mittel",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-20",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            71,
+            72
+          ],
+          "solutionPages": [
+            72
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 21,
+          "title": "Segelboot",
+          "printedPage": 61,
+          "problemPage": 58,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2024-21",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            58,
+            59
+          ],
+          "solutionPages": [
+            59
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 22,
+          "title": "Der Nächste bitte!",
+          "printedPage": 23,
+          "problemPage": 20,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2024-22",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            20,
+            21
+          ],
+          "solutionPages": [
+            21
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 23,
+          "title": "Baumtouren",
+          "printedPage": 13,
+          "problemPage": 10,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2024-23",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            10,
+            11
+          ],
+          "solutionPages": [
+            11
+          ]
+        },
+        {
+          "year": 2024,
+          "tocOrder": 24,
+          "title": "Stern-Mobiles",
+          "printedPage": 65,
+          "problemPage": 62,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": "mittel"
+          },
+          "id": "2024-24",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            62,
+            63
+          ],
+          "solutionPages": [
+            63
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "filename": "Biberheft_2025_web_komplett.pdf",
+      "sha256": "f7ab558ad3746931bc70349ec045d7f53b4ad783a1ae2c12a2189d029b75c968",
+      "tocFilePage": 3,
+      "firstTooHardOrder": 7,
+      "firstTooHardTitle": "Bauklötze 2",
+      "checkedThroughTocOrder": 17,
+      "checkedEntries": [
+        {
+          "year": 2025,
+          "tocOrder": 1,
+          "title": "Fingerfarben",
+          "printedPage": 37,
+          "problemPage": 34,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-01",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            34
+          ],
+          "solutionPages": []
+        },
+        {
+          "year": 2025,
+          "tocOrder": 2,
+          "title": "Flugzeuge",
+          "printedPage": 38,
+          "problemPage": 35,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-02",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            35,
+            36
+          ],
+          "solutionPages": [
+            36
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 3,
+          "title": "Hivobu",
+          "printedPage": 42,
+          "problemPage": 39,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-03",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            39,
+            40
+          ],
+          "solutionPages": [
+            40
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 4,
+          "title": "Bauklötze 1",
+          "printedPage": 9,
+          "problemPage": 6,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-04",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            6,
+            7
+          ],
+          "solutionPages": [
+            7
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 5,
+          "title": "Obstkörbe",
+          "printedPage": 62,
+          "problemPage": 59,
+          "ratings": {
+            "3-4": "einfach",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-05",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            59,
+            60
+          ],
+          "solutionPages": [
+            60
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 6,
+          "title": "Nach Hause",
+          "printedPage": 60,
+          "problemPage": 57,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": "einfach",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-06",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "easy",
+          "sourcePages": [
+            57,
+            58
+          ],
+          "solutionPages": [
+            58
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 7,
+          "title": "Bauklötze 2",
+          "printedPage": 11,
+          "problemPage": 8,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-07",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            8,
+            9
+          ],
+          "solutionPages": [
+            9
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 8,
+          "title": "Tag im Nebel",
+          "printedPage": 74,
+          "problemPage": 71,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2025-08",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            71,
+            72
+          ],
+          "solutionPages": [
+            72
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 9,
+          "title": "Zahlenmaschine",
+          "printedPage": 78,
+          "problemPage": 75,
+          "ratings": {
+            "3-4": null,
+            "5-6": "mittel",
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-09",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            75,
+            76
+          ],
+          "solutionPages": [
+            76
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 10,
+          "title": "Blätter im Wind",
+          "printedPage": 26,
+          "problemPage": 23,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "einfach",
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-10",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            23,
+            24,
+            25
+          ],
+          "solutionPages": [
+            24,
+            25
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 11,
+          "title": "Verrückte Lampe",
+          "printedPage": 76,
+          "problemPage": 73,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": "mittel",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-11",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            73,
+            74
+          ],
+          "solutionPages": [
+            74
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 12,
+          "title": "Lefty 1",
+          "printedPage": 50,
+          "problemPage": 47,
+          "ratings": {
+            "3-4": "mittel",
+            "5-6": null,
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-12",
+          "checked": true,
+          "included": true,
+          "warmup": true,
+          "difficulty": "easy",
+          "sourcePages": [
+            47,
+            48
+          ],
+          "solutionPages": [
+            48
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 13,
+          "title": "Biberholz",
+          "printedPage": 19,
+          "problemPage": 16,
+          "ratings": {
+            "3-4": null,
+            "5-6": "schwer",
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2025-13",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "hard",
+          "sourcePages": [
+            16,
+            17
+          ],
+          "solutionPages": [
+            17
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 14,
+          "title": "Holz für den Damm",
+          "printedPage": 44,
+          "problemPage": 41,
+          "ratings": {
+            "3-4": "schwer",
+            "5-6": "mittel",
+            "7-8": null,
+            "9-10": null,
+            "11-13": null
+          },
+          "id": "2025-14",
+          "checked": true,
+          "included": true,
+          "warmup": false,
+          "difficulty": "medium",
+          "sourcePages": [
+            41,
+            42
+          ],
+          "solutionPages": [
+            42
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 15,
+          "title": "Brennende Kerzen",
+          "printedPage": 31,
+          "problemPage": 28,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "schwer",
+            "9-10": "mittel",
+            "11-13": "einfach"
+          },
+          "id": "2025-15",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            28,
+            29
+          ],
+          "solutionPages": [
+            29
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 16,
+          "title": "Mehltransport",
+          "printedPage": 56,
+          "problemPage": 53,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": null,
+            "9-10": "mittel",
+            "11-13": "einfach"
+          },
+          "id": "2025-16",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            53,
+            54
+          ],
+          "solutionPages": [
+            54
+          ]
+        },
+        {
+          "year": 2025,
+          "tocOrder": 17,
+          "title": "Stammbaum",
+          "printedPage": 72,
+          "problemPage": 69,
+          "ratings": {
+            "3-4": null,
+            "5-6": null,
+            "7-8": "mittel",
+            "9-10": "einfach",
+            "11-13": null
+          },
+          "id": "2025-17",
+          "checked": true,
+          "included": false,
+          "warmup": false,
+          "difficulty": null,
+          "sourcePages": [
+            69,
+            70
+          ],
+          "solutionPages": [
+            70
+          ]
+        }
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "year": 2023,
+      "tocOrder": 1,
+      "title": "Äpfel halbieren",
+      "printedPage": 9,
+      "problemPage": 8,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-01",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        8,
+        9
+      ],
+      "solutionPages": [
+        9
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        1,
+        2
+      ],
+      "printedPages": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 2,
+      "title": "Foto",
+      "printedPage": 28,
+      "problemPage": 27,
+      "ratings": {
+        "3-4": null,
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-02",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "solutionPages": [
+        28
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 851,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        3,
+        4
+      ],
+      "printedPages": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 4,
+      "title": "Blumenstrauß",
+      "printedPage": 15,
+      "problemPage": 14,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-04",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        14,
+        15
+      ],
+      "solutionPages": [
+        15
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 947,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        5,
+        6
+      ],
+      "printedPages": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 5,
+      "title": "Wasser – Land",
+      "printedPage": 62,
+      "problemPage": 61,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-05",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        61,
+        62
+      ],
+      "solutionPages": [
+        62
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 936,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        7,
+        8
+      ],
+      "printedPages": [
+        62,
+        63
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 8,
+      "title": "Aylas Regenschirm",
+      "printedPage": 11,
+      "problemPage": 10,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-08",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "solutionPages": [
+        11
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 922,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        9,
+        10
+      ],
+      "printedPages": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 10,
+      "title": "Neue Hüte",
+      "printedPage": 41,
+      "problemPage": 40,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-10",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        40
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 482,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        11
+      ],
+      "printedPages": [
+        41
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 11,
+      "title": "Spaß im Zoo",
+      "printedPage": 56,
+      "problemPage": 55,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-11",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        55,
+        56
+      ],
+      "solutionPages": [
+        56
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 761,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        12,
+        13
+      ],
+      "printedPages": [
+        56,
+        57
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 17,
+      "title": "Karotten pflanzen",
+      "printedPage": 35,
+      "problemPage": 34,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": null,
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-17",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        34,
+        35
+      ],
+      "solutionPages": [
+        35
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        14,
+        15
+      ],
+      "printedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 1,
+      "title": "Passendes Fach?",
+      "printedPage": 44,
+      "problemPage": 41,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-01",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        41
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 607,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        16
+      ],
+      "printedPages": [
+        44
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 2,
+      "title": "Zeichnung",
+      "printedPage": 76,
+      "problemPage": 73,
+      "ratings": {
+        "3-4": null,
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-02",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        73
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 570,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        17
+      ],
+      "printedPages": [
+        76
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 3,
+      "title": "Im Park",
+      "printedPage": 35,
+      "problemPage": 32,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-03",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        32,
+        33
+      ],
+      "solutionPages": [
+        33
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        18,
+        19
+      ],
+      "printedPages": [
+        35,
+        36
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 4,
+      "title": "Pizza-Party",
+      "printedPage": 47,
+      "problemPage": 44,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": null,
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-04",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        44,
+        45
+      ],
+      "solutionPages": [
+        45
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 1018,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        20,
+        21
+      ],
+      "printedPages": [
+        47,
+        48
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 5,
+      "title": "Ricca-Karten 1",
+      "printedPage": 49,
+      "problemPage": 46,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-05",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        46,
+        47
+      ],
+      "solutionPages": [
+        47
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        22,
+        23
+      ],
+      "printedPages": [
+        49,
+        50
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 6,
+      "title": "Ballon-Maschine 1",
+      "printedPage": 9,
+      "problemPage": 6,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-06",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "solutionPages": [
+        7
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        24,
+        25
+      ],
+      "printedPages": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 10,
+      "title": "Olivers Rassel",
+      "printedPage": 43,
+      "problemPage": 40,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-10",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        40
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 434,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        26
+      ],
+      "printedPages": [
+        43
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 11,
+      "title": "Leuchttürme",
+      "printedPage": 39,
+      "problemPage": 36,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-11",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        36,
+        37
+      ],
+      "solutionPages": [
+        37
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 926,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        27,
+        28
+      ],
+      "printedPages": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 13,
+      "title": "Robertas Roboter",
+      "printedPage": 53,
+      "problemPage": 50,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": null,
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-13",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        50,
+        51
+      ],
+      "solutionPages": [
+        51
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 845,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        29,
+        30
+      ],
+      "printedPages": [
+        53,
+        54
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 17,
+      "title": "Röhre",
+      "printedPage": 55,
+      "problemPage": 52,
+      "ratings": {
+        "3-4": null,
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-17",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        52,
+        53
+      ],
+      "solutionPages": [
+        53
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        31,
+        32
+      ],
+      "printedPages": [
+        55,
+        56
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 21,
+      "title": "Segelboot",
+      "printedPage": 61,
+      "problemPage": 58,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-21",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        58,
+        59
+      ],
+      "solutionPages": [
+        59
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 639,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        33,
+        34
+      ],
+      "printedPages": [
+        61,
+        62
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 1,
+      "title": "Fingerfarben",
+      "printedPage": 37,
+      "problemPage": 34,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-01",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        34
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 530,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        35
+      ],
+      "printedPages": [
+        37
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 2,
+      "title": "Flugzeuge",
+      "printedPage": 38,
+      "problemPage": 35,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-02",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        35,
+        36
+      ],
+      "solutionPages": [
+        36
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        36,
+        37
+      ],
+      "printedPages": [
+        38,
+        39
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 3,
+      "title": "Hivobu",
+      "printedPage": 42,
+      "problemPage": 39,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-03",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        39,
+        40
+      ],
+      "solutionPages": [
+        40
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        38,
+        39
+      ],
+      "printedPages": [
+        42,
+        43
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 4,
+      "title": "Bauklötze 1",
+      "printedPage": 9,
+      "problemPage": 6,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-04",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        6,
+        7
+      ],
+      "solutionPages": [
+        7
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        40,
+        41
+      ],
+      "printedPages": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 5,
+      "title": "Obstkörbe",
+      "printedPage": 62,
+      "problemPage": 59,
+      "ratings": {
+        "3-4": "einfach",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-05",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        59,
+        60
+      ],
+      "solutionPages": [
+        60
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 726,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        42,
+        43
+      ],
+      "printedPages": [
+        62,
+        63
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 6,
+      "title": "Nach Hause",
+      "printedPage": 60,
+      "problemPage": 57,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": "einfach",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-06",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "easy",
+      "sourcePages": [
+        57,
+        58
+      ],
+      "solutionPages": [
+        58
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        44,
+        45
+      ],
+      "printedPages": [
+        60,
+        61
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 12,
+      "title": "Lefty 1",
+      "printedPage": 50,
+      "problemPage": 47,
+      "ratings": {
+        "3-4": "mittel",
+        "5-6": null,
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-12",
+      "checked": true,
+      "included": true,
+      "warmup": true,
+      "difficulty": "easy",
+      "sourcePages": [
+        47,
+        48
+      ],
+      "solutionPages": [
+        48
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        46,
+        47
+      ],
+      "printedPages": [
+        50,
+        51
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 3,
+      "title": "Ein besonderer Baum",
+      "printedPage": 25,
+      "problemPage": 24,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": "mittel",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-03",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        24
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 701,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        48
+      ],
+      "printedPages": [
+        25
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 6,
+      "title": "Riccas",
+      "printedPage": 50,
+      "problemPage": 49,
+      "ratings": {
+        "3-4": null,
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-06",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        49,
+        50
+      ],
+      "solutionPages": [
+        50
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        49,
+        50
+      ],
+      "printedPages": [
+        50,
+        51
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 7,
+      "title": "Noahs Sägerei",
+      "printedPage": 42,
+      "problemPage": 41,
+      "ratings": {
+        "3-4": null,
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-07",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        41,
+        42
+      ],
+      "solutionPages": [
+        42
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 723,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        51,
+        52
+      ],
+      "printedPages": [
+        42,
+        43
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 9,
+      "title": "Karlas Traumhaus",
+      "printedPage": 34,
+      "problemPage": 33,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2023-09",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        33
+      ],
+      "solutionPages": [],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 588,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        53
+      ],
+      "printedPages": [
+        34
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 8,
+      "title": "Nebeneinander",
+      "printedPage": 41,
+      "problemPage": 38,
+      "ratings": {
+        "3-4": null,
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-08",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        38,
+        39
+      ],
+      "solutionPages": [
+        39
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        54,
+        55
+      ],
+      "printedPages": [
+        41,
+        42
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 9,
+      "title": "Berukone",
+      "printedPage": 19,
+      "problemPage": 16,
+      "ratings": {
+        "3-4": null,
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-09",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "solutionPages": [
+        17
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        56,
+        57
+      ],
+      "printedPages": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 12,
+      "title": "Ricca-Karten 2",
+      "printedPage": 51,
+      "problemPage": 48,
+      "ratings": {
+        "3-4": null,
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-12",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        48,
+        49
+      ],
+      "solutionPages": [
+        49
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        58,
+        59
+      ],
+      "printedPages": [
+        51,
+        52
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 20,
+      "title": "Wunderblume",
+      "printedPage": 74,
+      "problemPage": 71,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": "mittel",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-20",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        71,
+        72
+      ],
+      "solutionPages": [
+        72
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        60,
+        61
+      ],
+      "printedPages": [
+        74,
+        75
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 9,
+      "title": "Zahlenmaschine",
+      "printedPage": 78,
+      "problemPage": 75,
+      "ratings": {
+        "3-4": null,
+        "5-6": "mittel",
+        "7-8": "einfach",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-09",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        75,
+        76
+      ],
+      "solutionPages": [
+        76
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        62,
+        63
+      ],
+      "printedPages": [
+        78,
+        79
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 11,
+      "title": "Verrückte Lampe",
+      "printedPage": 76,
+      "problemPage": 73,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": "mittel",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-11",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        73,
+        74
+      ],
+      "solutionPages": [
+        74
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        64,
+        65
+      ],
+      "printedPages": [
+        76,
+        77
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 14,
+      "title": "Holz für den Damm",
+      "printedPage": 44,
+      "problemPage": 41,
+      "ratings": {
+        "3-4": "schwer",
+        "5-6": "mittel",
+        "7-8": null,
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2025-14",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "medium",
+      "sourcePages": [
+        41,
+        42
+      ],
+      "solutionPages": [
+        42
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 899,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        66,
+        67
+      ],
+      "printedPages": [
+        44,
+        45
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 12,
+      "title": "Schatzsuche",
+      "printedPage": 54,
+      "problemPage": 53,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2023-12",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        53,
+        54
+      ],
+      "solutionPages": [
+        54
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        68,
+        69
+      ],
+      "printedPages": [
+        54,
+        55
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 15,
+      "title": "Zug entladen",
+      "printedPage": 69,
+      "problemPage": 68,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2023-15",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        68,
+        69
+      ],
+      "solutionPages": [
+        69
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        70,
+        71
+      ],
+      "printedPages": [
+        69,
+        70
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 16,
+      "title": "Gemüsebeet",
+      "printedPage": 30,
+      "problemPage": 29,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2023-16",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        29,
+        30
+      ],
+      "solutionPages": [
+        30
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        72,
+        73
+      ],
+      "printedPages": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 2023,
+      "tocOrder": 18,
+      "title": "Martinas Dorf",
+      "printedPage": 39,
+      "problemPage": 38,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2023-18",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        38,
+        39
+      ],
+      "solutionPages": [
+        39
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 987,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        74,
+        75
+      ],
+      "printedPages": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 7,
+      "title": "Faktencheck",
+      "printedPage": 27,
+      "problemPage": 24,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": null,
+        "11-13": null
+      },
+      "id": "2024-07",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "solutionPages": [
+        25
+      ],
+      "solutionStartsOnProblemPage": true,
+      "splitPixelY": 990,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        76,
+        77
+      ],
+      "printedPages": [
+        27,
+        28
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 19,
+      "title": "Superbebras",
+      "printedPage": 67,
+      "problemPage": 64,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2024-19",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        64,
+        65
+      ],
+      "solutionPages": [
+        65
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        78,
+        79
+      ],
+      "printedPages": [
+        67,
+        68
+      ]
+    },
+    {
+      "year": 2024,
+      "tocOrder": 22,
+      "title": "Der Nächste bitte!",
+      "printedPage": 23,
+      "problemPage": 20,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2024-22",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        20,
+        21
+      ],
+      "solutionPages": [
+        21
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        80,
+        81
+      ],
+      "printedPages": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 2025,
+      "tocOrder": 13,
+      "title": "Biberholz",
+      "printedPage": 19,
+      "problemPage": 16,
+      "ratings": {
+        "3-4": null,
+        "5-6": "schwer",
+        "7-8": "mittel",
+        "9-10": "einfach",
+        "11-13": null
+      },
+      "id": "2025-13",
+      "checked": true,
+      "included": true,
+      "warmup": false,
+      "difficulty": "hard",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "solutionPages": [
+        17
+      ],
+      "solutionStartsOnProblemPage": false,
+      "splitPixelY": null,
+      "renderWidth": 990,
+      "renderHeight": 1400,
+      "combinedPdfPages": [
+        82,
+        83
+      ],
+      "printedPages": [
+        19,
+        20
+      ]
+    }
+  ]
+}

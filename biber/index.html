@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Biber der Informatik: Aufgaben üben und Lösungen ansehen.">
+  <title>Biber der Informatik – Üben</title>
+  <link rel="stylesheet" href="../assets/styles.css">
+  <link rel="stylesheet" href="practice.css">
+  <script src="../assets/language.js" defer></script>
+  <script src="practice.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#inhalt">Zum Inhalt / Skip to content</a>
+  <a class="address-banner" href="../">pnorthup.me/grg23 → Biber der Informatik</a>
+  <div class="language-switch" role="group" aria-label="Sprache / Language">
+    <button type="button" data-set-lang="de" aria-pressed="true">DE</button>
+    <button type="button" data-set-lang="en" aria-pressed="false">EN</button>
+  </div>
+  <main class="site-shell" id="inhalt">
+    <p class="breadcrumb"><a href="../">← <span data-lang="de">GRG 23</span><span data-lang="en">GRG 23</span></a></p>
+    <header class="site-header">
+      <p class="eyebrow">GRG 23 · Informatik</p>
+      <h1>Biber der Informatik</h1>
+      <p data-lang="de">Aufgaben auswählen, knobeln und Lösungen erst danach öffnen.</p>
+      <p data-lang="en">Choose a task, have a go, and reveal the solution afterwards.</p>
+    </header>
+
+    <section class="controls card" aria-label="Aufgabenauswahl">
+      <fieldset class="difficulty">
+        <legend><span data-lang="de">Schwierigkeit</span><span data-lang="en">Difficulty</span></legend>
+        <div class="choice-row">
+          <button type="button" class="difficulty-choice" data-difficulty="easy" aria-pressed="false"><span data-lang="de">Leicht</span><span data-lang="en">Easy</span><span class="count" data-count="easy">0</span></button>
+          <button type="button" class="difficulty-choice" data-difficulty="medium" aria-pressed="false"><span data-lang="de">Mittel</span><span data-lang="en">Medium</span><span class="count" data-count="medium">0</span></button>
+          <button type="button" class="difficulty-choice" data-difficulty="hard" aria-pressed="false"><span data-lang="de">Schwer</span><span data-lang="en">Hard</span><span class="count" data-count="hard">0</span></button>
+        </div>
+      </fieldset>
+      <label class="task-label" for="task-select"><span data-lang="de">Aufgabe wählen</span><span data-lang="en">Choose a task</span></label>
+      <select id="task-select" data-testid="task-select" disabled><option>Aufgaben werden geladen …</option></select>
+      <p id="task-count" class="muted" aria-live="polite"></p>
+    </section>
+
+    <aside class="note">
+      <p data-lang="de"><strong>Schulstufen 5–6:</strong> Wähle eine Schwierigkeit und eine Aufgabe. Überlege zuerst selbst. Notiere oder zeichne deine Antwort auf Papier. Die Bilder sind nicht verschiebbar. Öffne danach die Lösung und vergleiche.</p>
+      <p data-lang="en"><strong>Grades 5–6:</strong> Choose a difficulty and a task. Think first, then write or draw your answer on paper. The pictures cannot be dragged. Afterwards, reveal the solution and compare.</p>
+      <p data-lang="de"><strong>Aufwärmaufgaben</strong> stammen aus den Schulstufen 3–4 und haben keine eigene Bewertung für 5–6.</p>
+      <p data-lang="en"><strong>Warm-ups</strong> are tasks rated for grades 3–4 with no separate rating for grades 5–6.</p>
+    </aside>
+    <p class="source-note"><span data-lang="de">Die Originalaufgaben sind auf Deutsch; die Sprachwahl übersetzt nur die Navigation und Bedienelemente.</span><span data-lang="en">Original tasks are in German; the language switch translates navigation and controls only.</span></p>
+    <div id="status" class="empty-state" role="status" aria-live="polite" data-testid="status"><span data-lang="de">Aufgaben werden geladen …</span><span data-lang="en">Loading tasks …</span></div>
+    <article id="task-panel" class="task-panel" hidden data-testid="task-panel" aria-labelledby="task-title">
+      <header class="task-heading">
+        <div><p id="task-meta" class="task-meta"></p><h2 id="task-title"></h2></div>
+        <span id="warmup-badge" class="warmup-badge" hidden><span data-lang="de">Aufwärmaufgabe</span><span data-lang="en">Warm-up</span></span>
+      </header>
+      <section class="page-section" aria-labelledby="problem-heading">
+        <h3 id="problem-heading"><span data-lang="de">Aufgabe</span><span data-lang="en">Problem</span></h3>
+        <div id="problem-pages" class="pages"></div>
+      </section>
+      <details id="solution-details" class="solution" data-testid="solution-details">
+        <summary><span data-lang="de">Lösung anzeigen</span><span data-lang="en">Show solution</span></summary>
+        <div id="solution-pages" class="pages"></div>
+      </details>
+      <nav class="task-navigation" aria-label="Aufgaben-Navigation">
+        <button type="button" id="previous-task" disabled><span aria-hidden="true">← </span><span data-lang="de">Vorherige</span><span data-lang="en">Previous</span></button>
+        <button type="button" id="next-task" disabled><span data-lang="de">Nächste</span><span data-lang="en">Next</span><span aria-hidden="true"> →</span></button>
+      </nav>
+    </article>
+    <footer class="downloads">
+      <a href="downloads/Biber-5-6-2023-2025.pdf" download><span data-lang="de">Alle Aufgaben &amp; Lösungen als PDF (83 Seiten)</span><span data-lang="en">All problems &amp; solutions as PDF (83 pages)</span></a>
+      <a href="selection.json"><span data-lang="de">Auswahl und Seitenverzeichnis</span><span data-lang="en">Selection and page index</span></a>
+      <a href="SOURCES.md">Quellen &amp; Lizenz / Sources &amp; license</a>
+    </footer>
+    <p class="source-note">© BWINF – GI e.V. · Österreichische Hefte: OCG / TU Wien · 2023–2025 · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. <span data-lang="de">Originalseiten für diese Übung zugeschnitten; Zusammenstellung: GRG 23. Das PDF enthält auch die Lösungen.</span><span data-lang="en">Original pages cropped for this practice; selection by GRG 23. The PDF also contains solutions.</span></p>
+    <noscript><p>Bitte aktiviere JavaScript, um Aufgaben auszuwählen. Ohne JavaScript kannst du das Aufgaben- und Lösungs-PDF herunterladen. / Enable JavaScript to choose tasks, or download the PDF above.</p></noscript>
+  </main>
+</body>
+</html>
