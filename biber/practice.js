@@ -45,11 +45,6 @@
       figure.className = 'page-card';
       figure.dataset.pageIndex = String(index);
       figure.dataset.imageKind = kind;
-      const link = document.createElement('a');
-      link.href = page.src;
-      link.target = '_blank';
-      link.rel = 'noopener';
-      link.setAttribute('aria-label', `${text('Bild in voller Größe öffnen', 'Open image full size')} (${index + 1})`);
       const image = document.createElement('img');
       image.src = page.src;
       image.width = Number(page.width) || 800;
@@ -66,10 +61,9 @@
         error.textContent = text('Bild konnte nicht geladen werden.', 'Image could not be loaded.');
         if (!figure.querySelector('.image-error-message')) figure.append(error);
       }, { once: true });
-      link.append(image);
       const caption = document.createElement('figcaption');
-      caption.textContent = text(`Seite ${index + 1} · Bild anklicken für Originalgröße`, `Page ${index + 1} · click image for full size`);
-      figure.append(link, caption);
+      caption.textContent = text(`Seite ${index + 1}`, `Page ${index + 1}`);
+      figure.append(image, caption);
       if (page.text) {
         const details = document.createElement('details');
         details.className = 'transcription';

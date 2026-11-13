@@ -24,7 +24,6 @@
 .page-section h3 { margin: 0 0 .75rem; font-size: 1.2rem; }
 .pages { display: grid; gap: 1rem; }
 .page-card { margin: 0; overflow: hidden; border: 1px solid var(--line); border-radius: .65rem; background: #f8fafc; }
-.page-card a { display: block; cursor: zoom-in; }
 .page-card img { width: 100%; height: auto; }
 .page-card figcaption { padding: .65rem .8rem; color: var(--muted); font-size: .9rem; }
 .transcription { border-top: 1px solid var(--line); padding: .65rem .8rem; background: white; }
