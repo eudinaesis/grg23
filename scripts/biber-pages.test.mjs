@@ -34,6 +34,19 @@ for (const [file, count] of lessons) {
   });
 }
 
+test('shared Biber guide: reject password saving immediately after login in both languages', () => {
+  const html = read('general/Biber-Wettbewerb.html');
+  for (const lang of ['de', 'en']) {
+    const list = html.match(new RegExp(`<ol data-lang="${lang}">([\\s\\S]*?)<\\/ol>`));
+    assert.ok(list, `${lang} login steps exist`);
+    const items = [...list[1].matchAll(/<li>([\s\S]*?)<\/li>/g)].map(match => match[1]);
+    assert.match(items[0], /Anmelden/);
+    assert.match(items[1], lang === 'de' ? /Speichere das Passwort nicht/ : /Do not save the password/);
+    assert.match(items[1], lang === 'de' ? /Nein/ : /Not this time/);
+    assert.match(items[2], /Wettbewerbe/);
+  }
+});
+
 test('shared Biber guide: actual confirmation screenshot, captions, and delayed results', () => {
   const html = read('general/Biber-Wettbewerb.html');
   assert.doesNotMatch(html, legacy);
