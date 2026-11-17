@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Arbeitsblatt: Passwörter Teil 1 – 1D</title>
+  <style>
+    @page { size: A4 portrait; margin: 12mm; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: #111; font-size: 10.2pt; line-height: 1.25; }
+    .page { min-height: 273mm; break-after: page; page-break-after: always; }
+    .page:last-child { break-after: auto; page-break-after: auto; }
+    h1 { margin: 0; font-size: 20pt; }
+    h2 { margin: 12pt 0 5pt; padding-bottom: 2pt; border-bottom: 1.5pt solid #111; font-size: 13pt; }
+    h3 { margin: 8pt 0 3pt; font-size: 10.5pt; }
+    p { margin: 4pt 0; }
+    .meta { display: flex; gap: 20pt; margin: 12pt 0 8pt; font-size: 11pt; }
+    .fill { display: inline-block; min-width: 220pt; border-bottom: 1px solid #111; height: 15pt; vertical-align: bottom; }
+    .fill.short { min-width: 90pt; }
+    .box { border: 1px solid #111; padding: 7pt; margin: 6pt 0; }
+    .lines { min-height: 54pt; background: repeating-linear-gradient(to bottom, transparent 0, transparent 17pt, #aaa 17.5pt, transparent 18pt); }
+    .lines.tall { min-height: 78pt; }
+    .lines.short { min-height: 35pt; }
+    .calc { width: 100%; border-collapse: collapse; margin-top: 7pt; }
+    .calc th, .calc td { border: 1px solid #111; padding: 5pt; vertical-align: top; }
+    .calc th { background: #e8e8e8; text-align: left; }
+    .calc td { height: 43pt; }
+    .warning { border-left: 5px solid #b91c1c; padding: 5pt 8pt; background: #fef2f2; }
+    .footer { margin-top: 8pt; font-size: 8.5pt; text-align: right; }
+    @media print { a { color: inherit; text-decoration: none; } }
+  </style>
+</head>
+<body>
+  <section class="page">
+    <header>
+      <h1>Passwörter Teil 1 <span style="font-size:12pt; font-weight:normal;">/ Passwords part 1</span></h1>
+      <p>1D · Digitale Grundbildung / Digital Education</p>
+    </header>
+    <div class="meta">
+      <div><strong>Name / Name:</strong> <span class="fill"></span></div>
+      <div><strong>Datum / Date:</strong> <span class="fill short"></span></div>
+    </div>
+    <p class="warning"><strong>Schreibe niemals ein echtes Passwort auf dieses Blatt.</strong> / <strong>Never write a real password on this sheet.</strong></p>
+
+    <h2>1. Was macht ein gutes Passwort aus? / What makes a good password?</h2>
+    <p>Schreibe deine Ideen auf. / Write your ideas.</p>
+    <div class="box lines tall"></div>
+
+    <h2>2. Video: anhalten und antworten / Video: stop and answer</h2>
+    <h3>2a. ca. 1:00 / about 1:00</h3>
+    <p>Was ist laut Video der wichtigste Unterschied zwischen einem Zahlenschloss und einem Computerpasswort?<br>According to the video, what is the main difference between a combination lock and a computer password?</p>
+    <div class="box lines"></div>
+
+    <h3>2b. ca. 1:22 / about 1:22</h3>
+    <p>Ordne von <strong>langsam</strong> bis <strong>schnell</strong>: PIN eines Smartphones ausprobieren; Passwörter für ein Online-Konto wie Google testen; eine gestohlene Datenbank mit verschlüsselten Konten und Passwörtern testen.</p>
+    <p>Put from <strong>slowest</strong> to <strong>fastest</strong>: trying a smartphone PIN; testing passwords for an online account such as Google; testing a stolen database of encrypted accounts and passwords.</p>
+    <div class="box">
+      <p><strong>Langsam / Slowest:</strong> __________________________________________________________________</p>
+      <p><strong>Mittel / Medium:</strong> ___________________________________________________________________</p>
+      <p><strong>Schnell / Fastest:</strong> ___________________________________________________________________</p>
+      <p><strong>Warum? / Why?</strong></p>
+      <div class="lines short"></div>
+    </div>
+
+    <h3>3. ca. 1:50 / about 1:50</h3>
+    <p>Was ist ein Brute-Force- (Rohe-Gewalt-) Angriff? Was versuchen Angreifer zu erraten, bevor sie Brute Force benutzen?<br>What is a brute-force attack? What do attackers try to guess before using brute force?</p>
+    <div class="box lines"></div>
+    <p class="footer">Vorderseite / Front · Passwörter Teil 1 · 1D</p>
+  </section>
+
+  <section class="page">
+    <header>
+      <h1>Passwörter Teil 1: Zahlenschlösser <span style="font-size:12pt; font-weight:normal;">/ Combination locks</span></h1>
+      <p><strong>Name / Name:</strong> <span class="fill"></span></p>
+    </header>
+    <p>Stell dir vor: Jede Stelle eines Passworts ist eine Scheibe eines Zahlenschlosses. Zeige immer deine Rechnung. / Imagine: every password character is one disc of a combination lock. Always show your calculation.</p>
+
+    <h2>4. Würfel: nur 1, 2, 3, 4, 5 oder 6 / Dice: only 1, 2, 3, 4, 5 or 6</h2>
+    <table class="calc"><thead><tr><th>Scheiben / Discs</th><th>Rechnung / Calculation</th><th>Möglichkeiten / Possibilities</th></tr></thead><tbody>
+      <tr><td>2</td><td></td><td></td></tr><tr><td>3</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td></tr>
+    </tbody></table>
+
+    <h2>5. Ziffern: 0, 1, 2, 3, 4, 5, 6, 7, 8 oder 9 / Digits: 0–9</h2>
+    <table class="calc"><thead><tr><th>Scheiben / Discs</th><th>Rechnung / Calculation</th><th>Möglichkeiten / Possibilities</th></tr></thead><tbody>
+      <tr><td>2</td><td></td><td></td></tr><tr><td>3</td><td></td><td></td></tr>
+    </tbody></table>
+
+    <h2>6. Ziffern + Kleinbuchstaben / Digits + lowercase letters</h2>
+    <p>Du kannst 0–9 <strong>und</strong> a–z verwenden. Schreibe nur die Rechnung: Das Ergebnis musst du nicht ausrechnen.<br>You can use 0–9 <strong>and</strong> a–z. Write only the calculation: you do not need to calculate the answer.</p>
+    <table class="calc"><thead><tr><th>Scheiben / Discs</th><th>Rechnung / Calculation only</th></tr></thead><tbody>
+      <tr><td>1</td><td></td></tr><tr><td>2</td><td></td></tr>
+    </tbody></table>
+
+    <h2>7. ca. 3:05 / about 3:05</h2>
+    <p>Das Video nennt <strong>Dreißiggeteiltdurch10=3</strong> mit 23 Zeichen. Ist das wirklich wie ein Schloss mit 23 Scheiben — oder eher wie 7 oder 8? Warum?</p>
+    <p>The video gives <strong>Dreißiggeteiltdurch10=3</strong> as an example with 23 characters. Is it really like a lock with 23 discs — or more like 7 or 8? Why?</p>
+    <div class="box lines tall"></div>
+    <p class="footer">Rückseite / Back · Passwörter Teil 1 · 1D · pnorthup.me/grg23/1d-dgb/Passwoerter-Teil-1.html</p>
+  </section>
+</body>
+</html>
