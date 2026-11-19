@@ -61,9 +61,9 @@ Wenn du mit einem Smartphone ein Foto machst: Was sind Eingabe, Verarbeitung und
 
 ## Activity 2 / Aufgabe 2: Sort the parts / Teile zuordnen
 
-Open [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Sort the cards. Click “Zuordnung prüfen” (check). Hints: “Was ist das?”.
+Open [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Sort the cards. Click “Zuordnung prüfen” (check). Hints: “Was ist das?”
 
-Öffne [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Ordne die Karten zu. Klicke auf „Zuordnung prüfen“. Hilfe: „Was ist das?“.
+Öffne [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Ordne die Karten zu. Klicke auf „Zuordnung prüfen“. Hilfe: „Was ist das?“
 
 **How many of the 16 did you get right? / Wie viele von 16 waren richtig?** ______ / 16
 
