@@ -6,17 +6,21 @@ const root=path.resolve(import.meta.dir,'..');
 const read=f=>fs.readFileSync(path.join(root,f),'utf8');
 const url='https://pnorthup.me/grg23/tasks/eva-prinzip/';
 const docs=['1a-dgb/EVA-Prinzip.html','1a-dgb/EVA-Prinzip-Arbeitsblatt.html','1a-dgb/EVA-Prinzip-Arbeitsblatt.md','1c-dgb/EVA-Prinzip.html','1c-dgb/EVA-Prinzip-Arbeitsblatt.html','1c-dgb/EVA-Prinzip-Arbeitsblatt.md','1d-dgb/EVA-Prinzip-Teil-2.html','1d-dgb/EVA-Prinzip-Teil-2-Arbeitsblatt.html'];
-test('every EVA assignment and worksheet launches the hosted exercise and correct check button',()=>{
+const english='https://learningapps.org/display?v=posy2fyyk24';
+test('German hosted exercise remains; 1C/1D also offer labelled English LearningApps choices',()=>{
  for(const file of docs){
   const doc=read(file);expect(doc).toContain(url);expect(doc).toContain('Zuordnung prüfen');
-  expect(doc).not.toContain('is.gd/evalearnapp');expect(doc).not.toContain('learningapps.org/');
-  expect(doc).not.toContain('Häkchen');expect(doc).not.toContain('checkbox');
+  expect(doc).not.toContain('is.gd/evalearnapp');
+  if(file.startsWith('1a-')) {expect(doc).not.toContain('learningapps.org/');expect(doc).not.toContain('Häkchen');}
+  else {expect(doc).toContain(english);expect(doc).toContain('English');expect(doc).toContain('Deutsch');expect(doc).toContain('✓');}
   if(file.endsWith('.html'))expect(doc).toContain('href="'+url+'"');
  }
 });
 test('all three PDFs contain the actual clickable hosted exercise URI',()=>{
  for(const file of ['1a-dgb/EVA-Prinzip-Arbeitsblatt.pdf','1c-dgb/EVA-Prinzip-Arbeitsblatt.pdf','1d-dgb/EVA-Prinzip-Teil-2-Arbeitsblatt.pdf']){
-  const pdf=fs.readFileSync(path.join(root,file)).toString('latin1');expect(pdf).toContain('/URI ('+url+')');expect(pdf).not.toContain('is.gd/evalearnapp');expect(pdf).not.toContain('learningapps.org/display');
+  const pdf=fs.readFileSync(path.join(root,file)).toString('latin1');expect(pdf).toContain('/URI ('+url+')');expect(pdf).not.toContain('is.gd/evalearnapp');
+  if(file.startsWith('1a-'))expect(pdf).not.toContain('learningapps.org/display');
+  else expect(pdf).toContain('/URI ('+english+')');
  }
 });
 test('hosted exercise has local assets, breadcrumbs, 16 explained cards and preserved SCORM download',()=>{
