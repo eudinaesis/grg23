@@ -61,9 +61,9 @@ Wenn du mit einem Smartphone ein Foto machst: Was sind Eingabe, Verarbeitung und
 
 ## Activity 2 / Aufgabe 2: Sort the parts / Teile zuordnen
 
-Type is.gd/evalearnapp into the address bar at the top of your browser. Drag each computer part into the correct category. Click the checkbox icon ✓ to check your work.
+Open [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Sort the cards. Click “Zuordnung prüfen” (check). Hints: “Was ist das?”.
 
-Tippe is.gd/evalearnapp in die Adressleiste ganz oben im Browser. Ziehe jedes Computerteil in die richtige Kategorie. Klicke auf das Häkchen-Symbol ✓, um deine Antworten zu prüfen.
+Öffne [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Ordne die Karten zu. Klicke auf „Zuordnung prüfen“. Hilfe: „Was ist das?“.
 
 **How many of the 16 did you get right? / Wie viele von 16 waren richtig?** ______ / 16
 

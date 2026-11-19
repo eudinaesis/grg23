@@ -53,7 +53,7 @@ Lautsprecher (speaker): __________________
 
 ## Aufgabe 2: Teile zuordnen
 
-Tippe is.gd/evalearnapp in die Adressleiste ganz oben im Browser. Ziehe jedes Computerteil in die richtige Kategorie. Klicke auf das Häkchen-Symbol ✓, um deine Antworten zu prüfen.
+Öffne [pnorthup.me/grg23/tasks/eva-prinzip/](https://pnorthup.me/grg23/tasks/eva-prinzip/). Ordne die Karten zu. Klicke auf „Zuordnung prüfen“. Hilfe: „Was ist das?“.
 
 **Wie viele von 16 waren richtig?** ______ / 16
 

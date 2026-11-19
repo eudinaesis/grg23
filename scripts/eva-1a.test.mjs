@@ -28,7 +28,7 @@ test('same seven questions, three activities, score and two-way observation bonu
  expect([...print.matchAll(/class="question"/g)].length).toBe(7);
  for(const doc of [print,md]) {
   for(const title of ['Aufgabe 1: Während der Präsentation','Aufgabe 2: Teile zuordnen','Aufgabe 3: Teile des iPads'])expect(doc).toContain(title);
-  for(const term of ['QR-Code','AUSGABE','Smartphone ein Foto','is.gd/evalearnapp','/ 16','Computer vor dir NICHT hat','iPad aber NICHT hat','Ziehe keine Kabel ab'])expect(doc).toContain(term);
+  for(const term of ['QR-Code','AUSGABE','Smartphone ein Foto','pnorthup.me/grg23/tasks/eva-prinzip/','/ 16','Computer vor dir NICHT hat','iPad aber NICHT hat','Ziehe keine Kabel ab'])expect(doc).toContain(term);
  }
  expect(print.match(/<table class="ipad-table"[\s\S]*?<\/table>/)[0].match(/<td><\/td>/g).length).toBe(5);
 });

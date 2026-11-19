@@ -22,7 +22,7 @@ test('sorting is activity 2, iPad table is activity 3, no old Teams or teardown 
   for(const doc of [print,md]) {
     expect(doc).toContain('Activity 2 / Aufgabe 2: Sort the parts');
     expect(doc).toContain('Activity 3 / Aufgabe 3: iPad parts');
-    expect(doc).toContain('is.gd/evalearnapp');
+    expect(doc).toContain('pnorthup.me/grg23/tasks/eva-prinzip/');
     expect(doc).toContain('/ 16');
     expect(doc).toContain(ipad);
     expect(doc).not.toContain('Inside a computer');
