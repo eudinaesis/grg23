@@ -6,7 +6,7 @@ const read=file=>fs.readFileSync(path.join(root,file),'utf8');
 const lesson=read('1c-dgb/EVA-Prinzip.html');
 const print=read('1c-dgb/EVA-Prinzip-Arbeitsblatt.html');
 const md=read('1c-dgb/EVA-Prinzip-Arbeitsblatt.md');
-const ipad='https://pnorthup.me/grg23/1d-dgb/iPad-11-EVA-Spezifikationen.html?v=flat-list';
+const ipad='https://pnorthup.me/grg23/1c-dgb/iPad-11-EVA-Spezifikationen.html?v=flat-list';
 
 test('1C presentation preserves seven prompts and revised QR/photo questions',()=>{
   expect([...print.matchAll(/class="question"/g)].length).toBe(7);
@@ -43,6 +43,23 @@ test('bonus covers both directions using observation, without giving solutions',
     expect(doc).toContain('Hint: look behind the computer');
     expect(doc).toContain('Do not unplug any cables');
   }
+});
+
+test('1C iPad copy keeps all terms and links back to 1C, including in the PDF',()=>{
+  const copy=read('1c-dgb/iPad-11-EVA-Spezifikationen.html');
+  const original=read('1d-dgb/iPad-11-EVA-Spezifikationen.html');
+  const terms=doc=>doc.match(/<ul class="spec-list">[\s\S]*?<\/ul>/)[0];
+  expect(terms(copy)).toBe(terms(original));
+  expect(copy).toContain('<a href="index.html">1C · DGB</a>');
+  expect(copy).not.toContain('1D');
+  expect(copy).not.toContain('1d-dgb');
+  for(const doc of [lesson,print,md]) {
+    expect(doc).toContain(ipad);
+    expect(doc).not.toContain('/1d-dgb/');
+  }
+  const pdf=fs.readFileSync(path.join(root,'1c-dgb/EVA-Prinzip-Arbeitsblatt.pdf')).toString('latin1');
+  expect(pdf).toContain(`/URI (${ipad})`);
+  expect(pdf).not.toContain('/1d-dgb/');
 });
 
 test('class index and worksheet downloads linked; activity links open in new tabs',()=>{

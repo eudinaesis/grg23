@@ -81,7 +81,7 @@ Open the current iPad-parts page. Read the whole list, including Wi-Fi, Bluetoot
 
 Öffne die aktuelle iPad-Teile-Seite. Lies die ganze Liste, auch WLAN, Bluetooth, Touch ID und die Sensoren. Fahre über einen Begriff oder klicke darauf für eine Erklärung. Trage jedes Teil in die richtige Spalte unten ein. Nutze „Eingabe + Ausgabe“ für Teile, die beides tun. Vergiss Tastatur, Pencil und RAM nicht.
 
-https://pnorthup.me/grg23/1d-dgb/iPad-11-EVA-Spezifikationen.html?v=flat-list
+https://pnorthup.me/grg23/1c-dgb/iPad-11-EVA-Spezifikationen.html?v=flat-list
 
 | Input / Eingabe | Output / Ausgabe | Input + output / Eingabe + Ausgabe | Processing / Verarbeitung | Storage / Speicher |
 |---|---|---|---|---|
