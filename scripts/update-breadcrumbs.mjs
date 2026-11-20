@@ -25,6 +25,7 @@ const directories = {
   'polycrisis/de': ['Deutscher Kurs', 'German course'],
   'polycrisis/en': ['Bilingualer Kurs (EN)', 'Bilingual course (EN)'],
   '3b-dgb/faktencheck-mit-ki': ['Faktencheck mit KI', 'Fact-checking with AI'],
+  '2e-dgb/faktencheck-mit-ki': ['Faktencheck mit KI', 'Fact-checking with AI'],
 };
 for (const folder of ['1a-dgb','1c-dgb','1d-dgb','2e-dgb','3b-dgb','5d-gpb']) {
   const [cls,subject] = folder.toUpperCase().split('-');
