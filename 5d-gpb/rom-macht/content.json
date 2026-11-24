@@ -1,0 +1,1355 @@
+{
+  "lessons": [
+    {
+      "id": "republik",
+      "title": {
+        "de": "Republik: Wer hat wirklich Macht?",
+        "en": "Republic: who really holds power?"
+      },
+      "pdf": "republik-arbeitsblatt.pdf",
+      "pages": [
+        [
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Ziel:** Erkläre, wie Rom formale Macht aufteilte, aber nicht gleichen Einfluss gewährte. Wir untersuchen die entwickelte Republik vor den Bürgerkriegen des 1. Jahrhunderts v. Chr. Nutze **Buch S. 30–31**; gemeint sind die gedruckten Seitenzahlen, nicht der PDF-Zähler. **Wahlrecht:** Wählen durften männliche Bürger, nicht alle Einwohnerinnen und Einwohner; Frauen und versklavte Menschen durften nicht wählen.",
+              "en": "**Aim:** explain how Rome shared formal power, but not equal influence. We study the mature Republic before the civil wars of the first century BCE. Use **book pp. 30–31**; page numbers printed in your book, not the PDF counter. **Voting boundary:** voting was for citizen men, not all residents; women and enslaved people could not vote."
+            }
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 1 · Rückblick vor dem Öffnen des Buches",
+              "en": "Activity 1 · Recall before opening the book"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Angenommen, ein politischer Anführer tut etwas sehr Schlimmes. Kann er gestoppt oder abgesetzt werden? Schreibe ja oder nein; wenn ja, erkläre wie. Denke an politische/rechtliche Wege, nicht an Gewalt.",
+              "en": "Assume a political leader does something very bad. Can he be stopped or removed? Write yes or no; if yes, explain how. Think of political/legal ways, not violence."
+            }
+          },
+          {
+            "kind": "table",
+            "headers": [
+              {
+                "de": "System / Anführer",
+                "en": "System / leader"
+              },
+              {
+                "de": "Ja / nein",
+                "en": "Yes / no"
+              },
+              {
+                "de": "Wie? (bei „nein“ leer lassen)",
+                "en": "How? (blank if “no”)"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "de": "USA (Präsident)",
+                  "en": "USA (President)"
+                },
+                {
+                  "blank": 1.1
+                },
+                {
+                  "blank": 1.1
+                }
+              ],
+              [
+                {
+                  "de": "Österreich (Bundeskanzler)",
+                  "en": "Austria (Chancellor)"
+                },
+                {
+                  "blank": 1.1
+                },
+                {
+                  "blank": 1.1
+                }
+              ],
+              [
+                {
+                  "de": "Athen (Feldherr, Amtsträger oder einflussreicher Redner)",
+                  "en": "Athens (general or office-holder or influential speaker)"
+                },
+                {
+                  "blank": 1.1
+                },
+                {
+                  "blank": 1.1
+                }
+              ],
+              [
+                {
+                  "de": "Hellenistisches Königreich (König)",
+                  "en": "Hellenistic kingdom (king)"
+                },
+                {
+                  "blank": 1.1
+                },
+                {
+                  "blank": 1.1
+                }
+              ]
+            ],
+            "widths": [
+              1.6,
+              0.65,
+              4.75
+            ]
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 2 · Beobachte das vorgeführte Beispiel",
+              "en": "Activity 2 · Watch the teacher model"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Gedachter Fall:** Ein gewöhnlicher Konsul möchte sein Amt unbegrenzt behalten. **Annuität** begrenzt die normale Amtszeit auf ein Jahr. Das beschränkt die Zeit im Amt, beseitigt aber nicht seinen Reichtum, seine Klienten oder jeden späteren Einfluss. **Frage:** Was folgt daraus? A: Alle Ämter enden nach einem Jahr. B: Die gewöhnliche Amtszeit des Konsuls endet, Einfluss kann bleiben. C: Reichtum verschwindet. D: Alle haben gleich viel politische Macht. Wähle einen Buchstaben und begründe.",
+              "en": "**Hypothetical case:** an ordinary consul wants to keep that office indefinitely. **Annuität** limits the normal term to one year. This checks time in office, but does not remove the person’s wealth, clients or all later influence. **Question:** What follows? A: all offices end after one year. B: an ordinary consul’s term ends, but influence can remain. C: wealth disappears. D: everyone has equal political power. Choose a letter and give a reason."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 1.4
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 3 · Vier Institutionen: gemeinsames Macht-Schaubild",
+              "en": "Activity 3 · Four institutions: guided power map"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Öffne das **Schaubild auf S. 31**. Lass die anderen Ämter zunächst weg. Lies die vier genannten Kästen. Erklärt abwechselnd eine Zeile; **beide** vervollständigen jede Zeile. Die Senatszeile ist unser Beispiel. Eine Machtbegrenzung ist eine konkrete Einschränkung, nicht nur „Es gibt auch andere Menschen“.",
+              "en": "Open the **chart on p. 31**. Ignore the other offices for now. Read the four named boxes. Take turns explaining a row; **both** complete every row. The Senate row is our model. A check is a specific restriction, not simply “other people exist”."
+            }
+          },
+          {
+            "kind": "table",
+            "headers": [
+              {
+                "de": "Institution",
+                "en": "Institution"
+              },
+              {
+                "de": "Hauptaufgabe",
+                "en": "Main role"
+              },
+              {
+                "de": "Kontrolle oder wichtige Grenze",
+                "en": "Check or important limit"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "de": "Senat",
+                  "en": "Senat / Senate"
+                },
+                {
+                  "de": "Beratung, Finanzen und außenpolitischer Einfluss; langfristig bestehendes Gremium der Elite.",
+                  "en": "Advice, finance and foreign-policy influence; long-term elite body."
+                },
+                {
+                  "de": "Kein König; für Handlungen waren auch Amtsträger und öffentliche Institutionen nötig, nicht der Senat allein.",
+                  "en": "Not a king; action depended on magistrates and public institutions, not the Senate alone."
+                }
+              ],
+              [
+                {
+                  "de": "Konsuln",
+                  "en": "Konsuln / consuls"
+                },
+                {
+                  "blank": 2.4
+                },
+                {
+                  "blank": 2.4
+                }
+              ],
+              [
+                {
+                  "de": "Volksversammlungen",
+                  "en": "Volksversammlungen / citizen assemblies"
+                },
+                {
+                  "blank": 2.4
+                },
+                {
+                  "blank": 2.4
+                }
+              ],
+              [
+                {
+                  "de": "Volkstribunen",
+                  "en": "Volkstribunen / tribunes of the plebs"
+                },
+                {
+                  "blank": 2.4
+                },
+                {
+                  "blank": 2.4
+                }
+              ]
+            ],
+            "widths": [
+              1.4,
+              2.3,
+              2.3
+            ]
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Wort-Hilfe:** Annuität = jährliche Amtszeit; Kollegialität = mehrere Kollegen teilen ein Amt; Veto = Einspruch, der eine Handlung blockieren kann; Einfluss = Entscheidungen anderer mitprägen. Es gab mehrere Volksversammlungen mit unterschiedlichen Regeln.",
+              "en": "**Word help:** Annuität = yearly term; Kollegialität = colleagues sharing an office; Veto = objection that can block an action; Einfluss = influence. “Citizen assemblies” is plural: different assemblies had different rules."
+            }
+          }
+        ],
+        [
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 4 · Eine Stimme bedeutet nicht gleichen Einfluss",
+              "en": "Activity 4 · A vote is not the same as equal influence"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Lies **S. 30, rechte Spalte**: die Sätze über Klient und Patron in „Die Geburt bestimmt den Menschen“ und den Absatz über die Gewichtung nach Vermögen in „Der Ständekampf in Rom“. Danach **S. 31, links**, den Absatz ab „In Rom wurden …“ über unbezahlte Ämter und wohlhabende Plebejer.",
+              "en": "Read **p. 30 right column**: the client/patron sentences in “Die Geburt bestimmt den Menschen” and the paragraph about wealth-weighted voting in “Der Ständekampf in Rom”. Then **p. 31 left**, paragraph beginning “In Rom wurden …” about unpaid office and wealthy plebeians."
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Gedachter Klient:** Ein freier männlicher Bürger ist für Unterstützung und Rechtshilfe auf einen reichen Patron angewiesen. Er darf wählen. Erkläre, wie der Patron ihn beeinflussen könnte. Nenne einen weiteren Grund, warum formale Beteiligung keinen gleichen Einfluss schuf. Nicht jeder Plebejer war arm.",
+              "en": "**Hypothetical client:** a free male citizen depends on a wealthy patron for support and legal help. He can vote. Explain one way the patron may influence him. Give one further reason formal participation did not create equal influence. Do not assume every plebeian was poor."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 2.4
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Frage:** Welche Aussage passt zu den Belegen? A: Alle Einwohner hatten gleichwertige Stimmen. B: Vermögen beeinflusste in einer Versammlung das Stimmgewicht und den Zugang zu Ämtern. C: Alle Plebejer waren arm. D: Wahlen beseitigten den Einfluss der Elite. Wähle und begründe.",
+              "en": "**Question:** Which claim fits the evidence? A: all residents had equal votes. B: wealth affected voting weight in one assembly and access to office. C: all plebeians were poor. D: elections eliminated elite influence. Choose and explain."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 1.2
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 5 · Wie die Machtteilung unter Druck geriet",
+              "en": "Activity 5 · How shared power came under pressure"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Erklärtext der Lehrkraft, kein Zitat:** Die Expansion brachte Reichtum und Gebiete, aber ungleiche Gewinne und soziale Spannungen. Im Wettbewerb der Eliten nahmen Regelbrüche und Gewalt zu. Manche Soldaten waren für Belohnungen und spätere Unterstützung auf ihre Befehlshaber angewiesen; das stärkte mächtige Feldherren. Bürgerkriege folgten; Caesars Ermordung 44 v. Chr. stellte keinen stabilen republikanischen Wettbewerb wieder her. Diese Entwicklungen wirkten zusammen; es war weder eine zwangsläufige Kette noch die Reform eines einzigen Mannes. Hintergrund im Buch: **S. 36–37**.",
+              "en": "**Teacher fact bank, not a quotation:** Expansion brought wealth and territory but uneven gains and social tensions. Competition among elites involved increasing rule-breaking and violence. Some soldiers depended on commanders for rewards and future support, strengthening powerful generals. Civil wars followed; Caesar’s murder in 44 BCE did not restore stable republican competition. These were interacting developments, not one inevitable chain or a reform by one man. Book background: **pp. 36–37**."
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Wählt zu zweit zwei Entwicklungen und erklärt einen Zusammenhang mit **weil**. Welche Art republikanischer Machtbegrenzung konnte dadurch geschwächt werden?",
+              "en": "With your partner, select two developments and explain a connection using **because**. Which kind of republican limit could be weakened?"
+            }
+          },
+          {
+            "kind": "box",
+            "h": 2
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 6 · Erkläre selbstständig",
+              "en": "Activity 6 · Explain independently"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**„Rom teilte Macht auf, aber nicht gleichmäßig.“** Erkläre das in etwa 50–70 Wörtern. Verwende **zwei Institutionen**, **eine konkrete Machtbegrenzung** und **einen Mechanismus ungleichen Einflusses**. Erkläre den Zusammenhang; zähle nicht nur Namen auf. Arbeite allein; das Buch darf offen bleiben. Diesmal gibt es keinen Satzrahmen.",
+              "en": "**“Rome shared power, but not equally.”** Explain in about 50–70 words. Include **two institutions**, **one actual check**, and **one mechanism of unequal influence**. Explain the connection; do not just list names. Work alone; the book may stay open. No sentence frame this time."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 6
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 7 · Abschluss — Buch geschlossen",
+              "en": "Activity 7 · Exit — book closed"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Die jährliche Amtszeit eines Amtsträgers endet, aber er bleibt reich und hat viele Klienten. Ist seine gesamte politische Macht verschwunden? Erkläre einen Mechanismus.",
+              "en": "An office-holder’s yearly term ends, but he still has wealth and many clients. Has all his political power disappeared? Explain with one mechanism."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 2
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Früher fertig?** Prüfe Aufgabe 6 auf Institutionen + Mechanismus + Erklärung; wähle danach freiwillig Bonus 1 oder Bonus 2. Zusatzaufgaben sind für den Abschluss nicht erforderlich.",
+              "en": "**Ready early?** Check Activity 6 for institutions + mechanism + explanation; then ask for optional Bonus 1 or Bonus 2. Bonus work is not required to finish this lesson."
+            }
+          }
+        ]
+      ],
+      "help": [
+        {
+          "kind": "h",
+          "text": {
+            "de": "Hilfe zu Einheit 1 · dasselbe Lernziel",
+            "en": "Lesson 1 help · keep the same intellectual goal"
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "**Lies nur:** S. 30, die abschließende Liste republikanischer Grundsätze; S. 31, die vier Kästen im Schaubild. Für Aufgabe 4 die genannten Stellen zu Klienten, Wahlen und unbezahlten Ämtern. Eine Partnerin oder ein Partner darf einen Satz vorlesen; beide erklären und schreiben ihre eigene Antwort.",
+            "en": "**Read only:** p. 30 final list of republican principles; p. 31 four boxes in the chart. For Activity 4, read the named client/voting/unpaid-office passages. A partner may read a sentence aloud, but both pupils must explain and write their own answer."
+          }
+        },
+        {
+          "kind": "table",
+          "headers": [
+            {
+              "de": "Begriff",
+              "en": "German term"
+            },
+            {
+              "de": "Kurze Erklärung",
+              "en": "Short English help"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "de": "Konsul / Magistrat",
+                "en": "Konsul / Magistrat"
+              },
+              {
+                "de": "Konsul / Amtsträger; ein gewöhnlicher Konsul hatte einen Kollegen und eine begrenzte Amtszeit.",
+                "en": "Consul / office-holder; an ordinary consul had a colleague and a limited term."
+              }
+            ],
+            [
+              {
+                "de": "Senat / Volksversammlung",
+                "en": "Senat / Volksversammlung"
+              },
+              {
+                "de": "Senat / Versammlung von Bürgern; das sind unterschiedliche Institutionen.",
+                "en": "Senate / citizen assembly; these are not identical institutions."
+              }
+            ],
+            [
+              {
+                "de": "Volkstribun / Veto",
+                "en": "Volkstribun / Veto"
+              },
+              {
+                "de": "Vertreter zum Schutz der Plebejer / Einspruch gegen eine bestimmte Handlung.",
+                "en": "Tribune of the plebs / an objection that can block a specified act."
+              }
+            ],
+            [
+              {
+                "de": "Annuität / Kollegialität",
+                "en": "Annuität / Kollegialität"
+              },
+              {
+                "de": "Jährliche Amtszeit / mehrere Kollegen teilen ein Amt.",
+                "en": "Yearly term / office shared with colleagues."
+              }
+            ],
+            [
+              {
+                "de": "Patron / Klient",
+                "en": "Patron / Klient"
+              },
+              {
+                "de": "Mächtiger Unterstützer / abhängiger freier Mensch; Schutz und Verpflichtungen konnten Einfluss schaffen.",
+                "en": "Powerful supporter / dependent free person; protection and obligations could generate influence."
+              }
+            ],
+            [
+              {
+                "de": "Patrizier / Plebejer",
+                "en": "Patrizier / Plebejer"
+              },
+              {
+                "de": "Historische Statusgruppen; manche Plebejer wurden reich und politisch einflussreich.",
+                "en": "Historical status groups; some plebeians became wealthy and politically influential."
+              }
+            ],
+            [
+              {
+                "de": "Befugnis / Einfluss",
+                "en": "Befugnis / Einfluss"
+              },
+              {
+                "de": "Formale Berechtigung zu handeln / Möglichkeit, Entscheidungen anderer mitzuprägen.",
+                "en": "Formal power to act / ability to shape other people’s decisions."
+              }
+            ]
+          ],
+          "widths": [
+            2,
+            4
+          ]
+        },
+        {
+          "kind": "h",
+          "text": {
+            "de": "Lese- und Erklärungshilfe — gemeinsame Übung",
+            "en": "Reading and explanation scaffold — guided work"
+          }
+        },
+        {
+          "kind": "list",
+          "items": [
+            {
+              "de": "Zeige auf die Institution und das Verb: Was kann sie tatsächlich tun?",
+              "en": "Point to the institution and its verb: what can it actually do?"
+            },
+            {
+              "de": "Finde eine konkrete Grenze: Wer oder was kann diese Handlung beschränken?",
+              "en": "Identify a specific restriction: who or what can limit that action?"
+            },
+            {
+              "de": "Suche bei Ungleichheit nach einer Ressource oder Hürde: Geld, Klienten, Abstimmungsregeln, Teilnahmeberechtigung.",
+              "en": "For inequality, find a resource or barrier: money, clients, voting arrangement, eligibility."
+            },
+            {
+              "de": "Satzhilfe bei Bedarf: „Die Institution kann …; … begrenzt das, weil …“. „Eine Person darf formal …, aber … beeinflusst ihren tatsächlichen Einfluss.“",
+              "en": "Sentence help if needed: “The institution can …; … limits this because …”. “A person may formally …, but … affects their influence.”"
+            }
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Nutze den Rahmen bei Aufgabe 3/Aufgabe 4; versuche Aufgabe 6 ohne ihn. Eine kurze richtige Erklärung ist besser als ein abgeschriebener Absatz. Deutsche Antworten sind möglich.",
+            "en": "Use the frame during Activity 3/Activity 4; try Activity 6 without it. A short accurate explanation is better than copying a paragraph. German answers are fine."
+          }
+        },
+        {
+          "kind": "h",
+          "text": {
+            "de": "Bonus 1 · Eine freiwillige Herausforderung",
+            "en": "Bonus 1 · One challenge for early finishers"
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Lies Polybios auf **S. 31**. Wie können seine Darstellung einer Mischverfassung und die Aussage „Der Einfluss war ungleich“ beide begründbar sein? Nenne eine Institution und einen sozialen Mechanismus. Antworte im Heft.",
+            "en": "Read Polybius on **p. 31**. How can his mixed-constitution account and the claim “influence was unequal” both be defensible? Give one institution and one social mechanism. Answers in the exercise book."
+          }
+        },
+        {
+          "kind": "h",
+          "text": {
+            "de": "Bonus 2 · Eine weitere Wahlmöglichkeit, keine zweite Pflichtaufgabe",
+            "en": "Bonus 2 · Another choice, not a second requirement"
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "**Gedachter Vergleich:** Ein Befehlshaber für Notfälle hat eine streng begrenzte Amtszeit; ein anderer erhält lebenslange Macht. Welche Sicherung unterscheidet sich? Nenne einen möglichen Vorteil und eine Gefahr von Notstandsvollmachten. Das ist ein vereinfachter Vergleich, kein Zitat und keine Behauptung, dass alle römischen Diktatoren moderne Diktatoren waren.",
+            "en": "**Hypothetical comparison:** an emergency commander has a strictly limited term; another receives power for life. Which safeguard differs? Give one potential benefit and one danger of emergency powers. This is a simplified comparison, not a quotation or a claim that all Roman dictators were modern dictators."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Wähle nur **eine** Herausforderung, nachdem du Aufgabe 6 geprüft hast. Du brauchst weder Internet noch zusätzliche Quellen oder neue Namen.",
+            "en": "Choose **one** challenge only after checking Activity 6. No internet, extra source or new names required."
+          }
+        }
+      ]
+    },
+    {
+      "id": "augustus",
+      "title": {
+        "de": "Augustus: alte Namen, neue Macht?",
+        "en": "Augustus: old names, new power?"
+      },
+      "pdf": "augustus-arbeitsblatt.pdf",
+      "pages": [
+        [
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Ziel:** Prüfe die Behauptung, Augustus habe die Republik wiederhergestellt. Eine **Behauptung** ist das, was eine Quelle sagt; eine **Schlussfolgerung** ziehen wir aus Belegen. Beides ist nicht automatisch die ganze Wahrheit.",
+              "en": "**Aim:** test the claim that Augustus restored the Republic. A **claim** is what a source says; an **inference** is what we conclude from evidence. Neither is automatically the whole truth."
+            }
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 1 · Rückblick auf die letzte Einheit — Buch geschlossen",
+              "en": "Activity 1 · Retrieve from last lesson — book closed"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Nenne **(a)** eine republikanische Machtbegrenzung, **(b)** einen Mechanismus ungleichen Einflusses und **(c)** eine Entwicklung, die die gemeinsame Herrschaft schwächte. Erkläre kurz; nenne nicht nur drei Namen.",
+              "en": "Give: **(a)** one republican check; **(b)** one mechanism of unequal influence; **(c)** one development that weakened shared government. Explain briefly, not just three names."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 2.2
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Zeitliche Brücke:** Caesar ermordet, **44 v. Chr.** → weitere Bürgerkriege → Octavian erhält den Namen Augustus, **27 v. Chr.** Das sind Orientierungspunkte, nicht die Behauptung eines schlagartigen Wandels. Rom beherrschte bereits in der Republik eroberte Gebiete.",
+              "en": "**Timeline bridge:** Caesar killed, **44 BCE** → further civil wars → Octavian receives the name Augustus, **27 BCE**. These are anchors, not a claim that political change happened in one instant. Rome already ruled conquered territories during the Republic."
+            }
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 2 · Beobachte ein Beispiel zur Quellenarbeit",
+              "en": "Activity 2 · Watch one source-reading model"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Buch S. 38**, Anfang von Augustus’ Bericht: Er sagt, er habe die Diktatur abgelehnt. Die Lehrkraft zeigt **Behauptung → Beleg → Schlussfolgerung → Grenze**. Die Ablehnung dieses Titels allein beweist keine ausgewogene Verteilung anderer Machtmittel.",
+              "en": "**Book p. 38**, opening of Augustus’s account: he says he refused the dictatorship. The teacher models **claim → evidence → inference → limit**. A refusal of that title does not by itself prove that other powers were balanced."
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Frage:** Welche Schlussfolgerung ist gerechtfertigt? A: Seine Ablehnung beweist gleiche Macht. B: Er stellt sich als Bewahrer republikanischer Grenzen dar; andere Belege müssen seine Macht prüfen. C: Er kontrollierte keine Soldaten. D: Sein Bericht ist wegen seiner Absicht unbrauchbar. Wähle einen Buchstaben und begründe.",
+              "en": "**Question:** Which conclusion is justified? A: his refusal proves equal power. B: he presents himself as respecting republican limits; other evidence must test his powers. C: he controlled no soldiers. D: his account is useless because it has a purpose. Choose a letter and explain."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 1.4
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 3 · Prüft die Behauptung gemeinsam",
+              "en": "Activity 3 · Test the claim together"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Lies **S. 38**: Augustus’ **letzten Absatz**, ab „Nachdem ich den Bürgerkriegen …“; danach **Dios ersten Absatz**, von „Augustus … erklärte jedoch …“ bis „… allein Waffen führen und Truppen unterhalten“. Lies zuerst still; erklärt anschließend abwechselnd beide Berichte. Beide schreiben.",
+              "en": "Read **p. 38**: Augustus’s **last paragraph**, beginning “Nachdem ich den Bürgerkriegen …”; then **Dio’s first paragraph**, from “Augustus … erklärte jedoch …” to “… allein Waffen führen und Truppen unterhalten”. Read silently first; then alternate explaining the two accounts. Both write."
+            }
+          },
+          {
+            "kind": "table",
+            "headers": [
+              {
+                "de": "Quelle / Stimme",
+                "en": "Source / voice"
+              },
+              {
+                "de": "Behauptung oder Beleg",
+                "en": "Claim or evidence"
+              },
+              {
+                "de": "Was folgt daraus — und wo liegt eine Grenze?",
+                "en": "What it suggests — and one limit"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "de": "Augustus: Beteiligter und Herrscher, der seine Leistungen darstellt.",
+                  "en": "Augustus: participant and ruler presenting his achievements."
+                },
+                {
+                  "de": "Er sagt, er habe den Staat Senat und Volk zurückgegeben. Er betont seine Autorität, ohne größere Amtsgewalt als die Kollegen in einem einzelnen Amt zu beanspruchen.",
+                  "en": "He says he returned the state to Senate and people. He stresses authority without greater power than colleagues in an individual office."
+                },
+                {
+                  "blank": 3.5
+                }
+              ],
+              [
+                {
+                  "de": "Cassius Dio: späterer Historiker, der ungefähr zwei Jahrhunderte nach Augustus schreibt.",
+                  "en": "Cassius Dio: later historian, writing roughly two centuries after Augustus."
+                },
+                {
+                  "blank": 3.5
+                },
+                {
+                  "blank": 3.5
+                }
+              ]
+            ],
+            "widths": [
+              1.4,
+              2.4,
+              2.2
+            ]
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Beleg:** Nenne eine konkrete Handlung oder Formulierung, nicht nur „S. 38“. Du darfst in eigenen Worten zusammenfassen. Auch ein späterer kritischer Autor liefert Hinweise, ist aber weder Augenzeuge noch automatisch unparteiisch.",
+              "en": "**Evidence:** refer to a specific action or wording, not only “p. 38”. You may paraphrase. A later critical author is evidence too, but not an eyewitness or automatically impartial."
+            }
+          }
+        ],
+        [
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 4 · Vergleicht Institutionen und tatsächliche Macht",
+              "en": "Activity 4 · Compare formal institutions and practical power"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "Lies **S. 39**, „Alle Macht dem Prinzeps“ und den **ersten Absatz** von „Das kaiserliche Verwaltungssystem“. Nutze die Vergleichstabelle als Macht-Schaubild. Lass Senat und Amtsträger sichtbar; erkläre, wie Augustus neben den fortbestehenden Institutionen zum dominierenden Zentrum wurde. Ergänze die zwei Zeilen.",
+              "en": "Read **p. 39**, “Alle Macht dem Prinzeps” and the **first paragraph** of “Das kaiserliche Verwaltungssystem”. Use this comparison table as your power map. Keep the Senate and magistrates visible; explain how Augustus became a dominant centre alongside the surviving institutions. Complete the two rows below."
+            }
+          },
+          {
+            "kind": "table",
+            "headers": [
+              {
+                "de": "Institution / Machtmittel",
+                "en": "Institution/resource"
+              },
+              {
+                "de": "Republik: unser vereinfachtes Modell",
+                "en": "Republic: our simplified model"
+              },
+              {
+                "de": "Unter Augustus: Was änderte sich?",
+                "en": "Under Augustus: what changed?"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "de": "Senat und öffentliche Ämter",
+                  "en": "Senate and public offices"
+                },
+                {
+                  "de": "Mehrere Institutionen wirkten an der Regierung mit.",
+                  "en": "Several institutions had roles in government."
+                },
+                {
+                  "de": "Senat und Ämter bestanden weiter; Augustus’ gebündelte Ressourcen und Autorität begrenzten ihre Unabhängigkeit.",
+                  "en": "Senate and offices continued; Augustus’s combined resources and authority limited their independence."
+                }
+              ],
+              [
+                {
+                  "de": "Heer / militärische Provinzen",
+                  "en": "Army / military provinces"
+                },
+                {
+                  "de": "Konsuln und andere Befehlshaber übten militärische Kommandos aus.",
+                  "en": "Consuls and other commanders exercised military commands."
+                },
+                {
+                  "blank": 2.5
+                }
+              ],
+              [
+                {
+                  "de": "Zivile Vollmachten / Beamte",
+                  "en": "Civil powers / officials"
+                },
+                {
+                  "de": "Gewöhnliche Ämter waren meist zeitlich begrenzt und wurden mit Kollegen geteilt.",
+                  "en": "Ordinary magistracies generally had limited terms and colleagues."
+                },
+                {
+                  "blank": 2.5
+                }
+              ]
+            ],
+            "widths": [
+              1.4,
+              2.4,
+              2.2
+            ]
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 5 · Frieden für wen?",
+              "en": "Activity 5 · Peace for whom?"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**S. 40:** erster Absatz von „Frieden und Wohlstand haben ihren Preis“; danach die **ersten fünf Zeilen** von Augustus’ Expansionsbericht unter „Friedenskaiser Augustus vergrößert das Reich“. Notiere **einen versprochenen/erlebten Vorteil** und **ein Zeichen für fortgesetzte Eroberungen oder deren Kosten**. Warum ist „Pax Romana = kein Krieg“ irreführend?",
+              "en": "**p. 40:** first paragraph of “Frieden und Wohlstand haben ihren Preis”; then the **first five lines** of Augustus’s expansion report under “Friedenskaiser Augustus vergrößert das Reich”. Note **one promised/experienced benefit** and **one sign that conquest or its costs continued**. Why is “Pax Romana = no war” misleading?"
+            }
+          },
+          {
+            "kind": "box",
+            "h": 2
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 6 · Selbstständiges Urteil",
+              "en": "Activity 6 · Independent judgment"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**„Augustus stellte die Republik wieder her.“ Wie gut beschreibt das die Machtverteilung?** Schreibe allein etwa 60–80 Wörter. Verwende **eine Kontinuität**, **zwei konkrete Machtmechanismen** und **eine Grenze einer Quelle**. Beziehe einen konkreten Beleg von S. 38 oder 39 ein. Das Buch darf offen bleiben; schreibe keinen Musterabsatz ab.",
+              "en": "**“Augustus restored the Republic.” How far does that describe the distribution of power?** Write about 60–80 words alone. Use **one continuity**, **two concrete power mechanisms** and **one source limitation**. Include specific evidence from p. 38 or p. 39. The book may stay open; do not copy a model paragraph."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 6
+          },
+          {
+            "kind": "h",
+            "text": {
+              "de": "Aufgabe 7 · Abschluss — Buch geschlossen",
+              "en": "Activity 7 · Exit — book closed"
+            }
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Neuer gedachter Fall:** Ein Senat tagt und stimmt weiterhin ab, während ein einzelner Anführer die meisten Truppen und wichtige Finanzmittel kontrolliert. Beweisen die Sitzungen allein eine ausgewogene Machtverteilung? Begründe.",
+              "en": "**New hypothetical case:** a Senate still meets and votes, while one leader controls most troops and major financial resources. Do the meetings alone prove balanced power? Explain why or why not."
+            }
+          },
+          {
+            "kind": "box",
+            "h": 2
+          },
+          {
+            "kind": "p",
+            "text": {
+              "de": "**Wort-Hilfe:** Prinzipat = frühe Kaiserherrschaft mit republikanischen Formen; princeps = „erster/führender Bürger“; Provinz = Gebiet unter römischer Herrschaft; auctoritas = Autorität/Ansehen; Amtsgewalt = formale Befugnisse eines Amtes. **Früher fertig?** Verbessere Aufgabe 6; wähle danach Bonus 1 oder Bonus 2.",
+              "en": "**Word help:** Prinzipat / principate = early imperial rule retaining republican forms; princeps = “first/leading citizen”; Provinz / province = territory governed as part of Rome’s empire; auctoritas = authority/prestige; Amtsgewalt = formal powers of an office. **Ready early?** Improve Activity 6, then choose Bonus 1 or Bonus 2."
+            }
+          }
+        ]
+      ],
+      "help": [
+        {
+          "kind": "h",
+          "text": {
+            "de": "Hilfe zu Einheit 2 · Quellen in kleinen Schritten vergleichen",
+            "en": "Lesson 2 help · source comparison in small steps"
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "**Finde:** S. 38, Augustus’ letzten Absatz; danach Dios ersten Absatz bis zur Kontrolle der Truppen. Auf S. 39 nur die Machtliste oben links und den ersten Absatz zur kaiserlichen Verwaltung. Keine Dynastienliste nötig.",
+            "en": "**Find:** p. 38, Augustus’s last paragraph; then Dio’s first paragraph ending with control of troops. On p. 39 use only the top-left power list and first paragraph about imperial administration. No dynasty reading is needed."
+          }
+        },
+        {
+          "kind": "table",
+          "headers": [
+            {
+              "de": "Begriff",
+              "en": "German term"
+            },
+            {
+              "de": "Kurze Erklärung",
+              "en": "Short English help"
+            }
+          ],
+          "rows": [
+            [
+              {
+                "de": "Prinzipat / Princeps",
+                "en": "Prinzipat / Princeps"
+              },
+              {
+                "de": "Frühe Kaiserherrschaft mit republikanischen Formen / führender Bürger.",
+                "en": "Early imperial government retaining republican forms / leading citizen."
+              }
+            ],
+            [
+              {
+                "de": "Bürgerkrieg / Provinz",
+                "en": "Bürgerkrieg / Provinz"
+              },
+              {
+                "de": "Krieg innerhalb eines Gemeinwesens / Gebiet unter römischer Herrschaft.",
+                "en": "Civil war / territory governed within Rome’s empire."
+              }
+            ],
+            [
+              {
+                "de": "Amtsgewalt / Autorität",
+                "en": "Amtsgewalt / Autorität"
+              },
+              {
+                "de": "Formale Befugnisse eines Amtes / Ansehen oder Prestige; verschiedene Begriffe.",
+                "en": "Formal powers of an office / authority or prestige; different concepts."
+              }
+            ],
+            [
+              {
+                "de": "Heer / Truppen / Befehl",
+                "en": "Heer / Truppen / Befehl"
+              },
+              {
+                "de": "Armee / Soldateneinheiten / Anweisung oder Kommando.",
+                "en": "Army / troops / command."
+              }
+            ],
+            [
+              {
+                "de": "Finanzen / Einkünfte",
+                "en": "Finanzen / Einkünfte"
+              },
+              {
+                "de": "Finanzmittel / Einnahmen.",
+                "en": "Finance / revenues."
+              }
+            ],
+            [
+              {
+                "de": "Amtsgenosse / Beamter",
+                "en": "Amtsgenosse / Beamter"
+              },
+              {
+                "de": "Kollege im Amt / Person mit Verwaltungsaufgaben.",
+                "en": "Colleague in office / official."
+              }
+            ],
+            [
+              {
+                "de": "Darstellung / Beleg / Schlussfolgerung",
+                "en": "Darstellung / Beleg / Schlussfolgerung"
+              },
+              {
+                "de": "Bericht / konkreter Nachweis / begründete Folgerung.",
+                "en": "Account / specific evidence / inference."
+              }
+            ]
+          ],
+          "widths": [
+            2,
+            4
+          ]
+        },
+        {
+          "kind": "h",
+          "text": {
+            "de": "Vier Fragen an jede Quelle",
+            "en": "Four questions to ask each source"
+          }
+        },
+        {
+          "kind": "list",
+          "items": [
+            {
+              "de": "Wer hat diesen Bericht verfasst, und wann?",
+              "en": "Who produced this account, and when?"
+            },
+            {
+              "de": "Was behauptet oder beschreibt der Autor? Zeige eine konkrete Formulierung oder Handlung.",
+              "en": "What does the author claim or describe? Point to a specific phrase/action."
+            },
+            {
+              "de": "Was legt das über die Verteilung der Macht nahe?",
+              "en": "What does this suggest about where power lies?"
+            },
+            {
+              "de": "Was kann diese Quelle allein NICHT zeigen? Eine Absicht ist ein Grund zur Prüfung, nicht zum Wegwerfen einer Quelle.",
+              "en": "What can this source alone NOT establish? A purpose is a reason to test a source, not to throw it away."
+            }
+          ]
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Satzrahmen für die gemeinsame Übung: „Augustus stellt … dar; Dio beschreibt … . Das stützt …, kann aber allein nicht … beweisen.“ Nutze das beim Einüben des Vergleichs; versuche Aufgabe 6 ohne vorgegebenen Absatz. Falls das Lesen schwierig ist, hilft diese **Zusammenfassung der Lehrkraft, kein antikes Zitat**: Augustus betont wiederhergestellte republikanische Institutionen; Dio beschreibt eine Regelung, die militärische Mittel bei Augustus konzentrierte. Finde trotzdem den Beleg im Buch.",
+            "en": "Guided-work frame: “Augustus presents …; Dio describes … . This supports …, but cannot by itself prove …”. Use this while learning the comparison; attempt Activity 6 without a supplied paragraph. If reading is difficult, use the following **teacher paraphrase, not an ancient quotation**: Augustus stresses restored republican institutions; Dio describes an arrangement that left military resources concentrated with Augustus. Still locate the evidence in the book."
+          }
+        },
+        {
+          "kind": "h",
+          "text": {
+            "de": "Bonus 1 · Freiwillige Erweiterung der Quellenarbeit",
+            "en": "Bonus 1 · Optional source extension"
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Lies **Tacitus auf S. 38**, ab „Als die Republik …“. Finde eine Erklärung für die Unterstützung des Augustus und einen Kritikpunkt. Warum sollte man auch diesen späteren Historiker prüfen?",
+            "en": "Read **Tacitus on p. 38**, beginning “Als die Republik …”. Identify one way he explains support for Augustus and one criticism. What is one reason to test this later historian too?"
+          }
+        },
+        {
+          "kind": "h",
+          "text": {
+            "de": "Bonus 2 · Freiwillige sprachliche Herausforderung",
+            "en": "Bonus 2 · Optional wording challenge"
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Schreibe mit den beiden Stellen von **S. 40** aus Aufgabe 5 eine Bildunterschrift von 30–40 Wörtern, die „Pax Romana bedeutet überall keinen Krieg“ korrigiert. Nenne einen Vorteil und Kosten oder Grenzen. Ersetze die Aussage nicht durch das entgegengesetzte pauschale Urteil.",
+            "en": "Using the two **p. 40** selections from Activity 5, write a 30–40-word caption correcting “Pax Romana means no wars anywhere”. Include a benefit and a cost or limit. Do not replace it with the opposite absolute claim."
+          }
+        },
+        {
+          "kind": "p",
+          "text": {
+            "de": "Wähle nur **eine** Aufgabe nach der Verbesserung von Aufgabe 6. Die umfassendere Krisen- und Reformgeschichte folgt später; sie ist jetzt keine zusätzliche Pflichtlektüre.",
+            "en": "Choose **one** only after improving Activity 6. Save the broader crisis/reform story for the next lesson, not as compulsory extra reading now."
+          }
+        }
+      ]
+    }
+  ],
+  "slides": [
+    [
+      {
+        "kind": "h",
+        "text": {
+          "de": "Einheit 1 · Einstieg",
+          "en": "Lesson 1 · Opening"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Wer hat wirklich Macht?**",
+          "en": "**Who really holds power?**"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Angenommen, ein politischer Anführer tut etwas sehr Schlimmes. Kann er gestoppt oder abgesetzt werden? Schreibe ja oder nein; wenn ja, erkläre wie. Denke an politische/rechtliche Wege, nicht an Gewalt.",
+          "en": "Assume a political leader does something very bad. Can he be stopped or removed? Write yes or no; if yes, explain how. Think of political/legal ways, not violence."
+        }
+      },
+      {
+        "kind": "table",
+        "headers": [
+          {
+            "de": "System / Anführer",
+            "en": "System / leader"
+          },
+          {
+            "de": "Ja / nein",
+            "en": "Yes / no"
+          },
+          {
+            "de": "Wie? (bei „nein“ leer lassen)",
+            "en": "How? (blank if “no”)"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "de": "USA (Präsident)",
+              "en": "USA (President)"
+            },
+            {
+              "blank": 1.1
+            },
+            {
+              "blank": 1.1
+            }
+          ],
+          [
+            {
+              "de": "Österreich (Bundeskanzler)",
+              "en": "Austria (Chancellor)"
+            },
+            {
+              "blank": 1.1
+            },
+            {
+              "blank": 1.1
+            }
+          ],
+          [
+            {
+              "de": "Athen (Feldherr, Amtsträger oder einflussreicher Redner)",
+              "en": "Athens (general or office-holder or influential speaker)"
+            },
+            {
+              "blank": 1.1
+            },
+            {
+              "blank": 1.1
+            }
+          ],
+          [
+            {
+              "de": "Hellenistisches Königreich (König)",
+              "en": "Hellenistic kingdom (king)"
+            },
+            {
+              "blank": 1.1
+            },
+            {
+              "blank": 1.1
+            }
+          ]
+        ],
+        "widths": [
+          1.6,
+          0.65,
+          4.75
+        ]
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Schreibe zuerst, vergleicht danach. Bei nein bleibt Wie leer. Erkläre einen politischen Mechanismus.",
+          "en": "Write first; then compare. If you write no, leave How blank. Be ready to explain a political mechanism."
+        }
+      },
+      {
+        "kind": "h",
+        "text": {
+          "de": "Heutige Frage",
+          "en": "Today’s question"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Wie konnte Rom formale Macht aufteilen, ohne gleichen Einfluss zu schaffen?",
+          "en": "How could Rome share formal power without sharing influence equally?"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Buch **S. 30–31**. Nur vier Institutionen: Konsuln, Senat, Volksversammlungen, Volkstribunen. Die Republik veränderte sich; dies ist ein ausgewähltes Modell.",
+          "en": "Book **pp. 30–31**. Four institutions only: consuls; Senate; citizen assemblies; tribunes of the plebs. The Republic changed over time; this is a selective model."
+        }
+      }
+    ],
+    [
+      {
+        "kind": "h",
+        "text": {
+          "de": "Einheit 1 · Beispiel und erste Verständnisfrage",
+          "en": "Lesson 1 · Model and first check"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Beispiel:** gewöhnliches Konsulat → einjährige Amtszeit → Zeit im Amt begrenzt → Reichtum und Klienten können bleiben.",
+          "en": "**Model:** ordinary consulship → one-year term → time in office limited → wealth and clients may remain."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Frage. Was folgt aus der Annuität?**",
+          "en": "**Question. What follows from Annuität?**"
+        }
+      },
+      {
+        "kind": "list",
+        "items": [
+          {
+            "de": "A. Jedes Amt endet nach einem Jahr.",
+            "en": "A. Every office ends after one year."
+          },
+          {
+            "de": "B. Die gewöhnliche Amtszeit des Konsuls endet, Einfluss kann bleiben.",
+            "en": "B. An ordinary consul’s term ends, but influence may remain."
+          },
+          {
+            "de": "C. Der ehemalige Konsul verliert seinen gesamten Reichtum.",
+            "en": "C. The former consul loses all wealth."
+          },
+          {
+            "de": "D. Alle Einwohner haben nun gleich viel politische Macht.",
+            "en": "D. All residents now have equal political power."
+          }
+        ]
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Wähle zunächst allein; zeigt gemeinsam A–D; schreibe eine Begründung. Warte vor der nächsten Aufgabe auf Rückmeldung.",
+          "en": "Choose privately; show A–D together; write one reason. Wait for feedback before the next task."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Gemeinsamer nächster Schritt:** Buch S. 31, vier Kästen im Schaubild. Beide ergänzen Aufgabe 3.",
+          "en": "**Guided next step:** book p. 31, four chart boxes. Both partners complete Activity 3."
+        }
+      }
+    ],
+    [
+      {
+        "kind": "h",
+        "text": {
+          "de": "Einheit 1 · Ungleichheit und selbstständiger Abschluss",
+          "en": "Lesson 1 · Inequality check and independent finish"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Frage. Welche Aussage passt zu den Belegen?**",
+          "en": "**Question. Which claim fits the evidence?**"
+        }
+      },
+      {
+        "kind": "list",
+        "items": [
+          {
+            "de": "A. Alle Einwohner hatten gleichwertige Stimmen.",
+            "en": "A. All residents had equal votes."
+          },
+          {
+            "de": "B. Vermögen beeinflusste das Stimmgewicht in einer Versammlung und den Zugang zu Ämtern.",
+            "en": "B. Wealth affected voting weight in one assembly and access to office."
+          },
+          {
+            "de": "C. Jeder Plebejer war arm.",
+            "en": "C. Every plebeian was poor."
+          },
+          {
+            "de": "D. Wahlen beseitigten den Einfluss der Elite.",
+            "en": "D. Elections eliminated elite influence."
+          }
+        ]
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Danach **Aufgabe 6 allein**: „Rom teilte Macht auf, aber nicht gleichmäßig.“ Zwei Institutionen, eine Machtbegrenzung, ein Mechanismus ungleichen Einflusses. Erkläre, statt nur aufzuzählen.",
+          "en": "Then **Activity 6 alone**: “Rome shared power, but not equally.” Two institutions; one check; one mechanism of unequal influence. Explain, do not merely list."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Abschluss, Buch geschlossen:** Eine jährliche Amtszeit endet, aber Reichtum und Klienten bleiben. Ist alle politische Macht verschwunden? Begründe.",
+          "en": "**Exit, book closed:** a yearly term ends, but wealth and clients remain. Has all political power disappeared? Explain."
+        }
+      }
+    ],
+    [
+      {
+        "kind": "h",
+        "text": {
+          "de": "Einheit 2 · Rückblick",
+          "en": "Lesson 2 · Retrieve"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Aus dem Gedächtnis: **eine Machtbegrenzung + ein Mechanismus der Ungleichheit + ein Krisenfaktor**. Erkläre jeweils kurz.",
+          "en": "From memory: **one check + one inequality mechanism + one crisis factor**. Explain each briefly."
+        }
+      },
+      {
+        "kind": "h",
+        "text": {
+          "de": "Heutiges Rätsel",
+          "en": "Today’s puzzle"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Wenn Augustus die Republik wiederherstellte: Warum nennen Historiker ihn dann Kaiser?",
+          "en": "If Augustus restored the Republic, why do historians describe him as an emperor?"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**44 v. Chr.:** Caesar ermordet → weitere Bürgerkriege → **27 v. Chr.:** Regelung unter Augustus.",
+          "en": "**44 BCE:** Caesar killed → further civil wars → **27 BCE:** Augustus settlement."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Eroberungen und ein großes Herrschaftsgebiet gab es bereits in der Republik. Heute untersuchen wir den Wandel der Regierungsform.",
+          "en": "Conquests and a territorial empire already existed under the Republic. Today we study the change in government."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Buch **S. 38–40**; nutze die genauen Stellen des Arbeitsblatts, nicht alle Kapitelaufgaben.",
+          "en": "Book **pp. 38–40**; use the precise selections on your worksheet, not all the chapter questions."
+        }
+      }
+    ],
+    [
+      {
+        "kind": "h",
+        "text": {
+          "de": "Einheit 2 · Beispiel → prüfen → vergleichen",
+          "en": "Lesson 2 · Model → check → compare"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Quellenmethode: **Behauptung → Beleg → Schlussfolgerung → Grenze**.",
+          "en": "Source method: **claim → evidence → inference → limit**."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Augustus sagt, er habe die Diktatur abgelehnt. Beweist das allein ausgewogene Macht?",
+          "en": "Augustus says he refused dictatorship. Does this alone establish balanced power?"
+        }
+      },
+      {
+        "kind": "list",
+        "items": [
+          {
+            "de": "A. Ja: Der Titel beweist Gleichheit.",
+            "en": "A. Yes: the title proves equality."
+          },
+          {
+            "de": "B. Nein: Es zeigt seine Selbstdarstellung als maßvoll; prüfe seine anderen Machtmittel.",
+            "en": "B. No: it shows his presentation of restraint; test his other powers."
+          },
+          {
+            "de": "C. Ja: Es beweist, dass er keine Soldaten hatte.",
+            "en": "C. Yes: it proves he had no soldiers."
+          },
+          {
+            "de": "D. Sein Bericht ist wegen seiner Absicht unbrauchbar.",
+            "en": "D. His account is useless because it has a purpose."
+          }
+        ]
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Alle wählen zunächst allein, zeigen gemeinsam und erklären. Lest dann die ausgewählten Stellen von Augustus und Dio auf **S. 38**. Beide erklären und schreiben.",
+          "en": "All choose privately, show together, explain. Then read the selected Augustus and Dio passages on **p. 38**. Both partners explain and write."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Nimm nicht an, dass der spätere kritische Autor automatisch recht hat.",
+          "en": "Do not assume the critical later author is automatically right."
+        }
+      }
+    ],
+    [
+      {
+        "kind": "h",
+        "text": {
+          "de": "Einheit 2 · Selbstständiges Urteil und Abschluss",
+          "en": "Lesson 2 · Independent judgment and exit"
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Aufgabe 6, allein:** „Augustus stellte die Republik wieder her.“ Wie gut beschreibt das die Machtverteilung?",
+          "en": "**Activity 6, alone:** “Augustus restored the Republic.” How far does this describe the distribution of power?"
+        }
+      },
+      {
+        "kind": "list",
+        "items": [
+          {
+            "de": "Eine fortbestehende Institution oder Funktion.",
+            "en": "One institutional continuity."
+          },
+          {
+            "de": "Zwei konkrete Mechanismen dominierender Macht.",
+            "en": "Two concrete mechanisms of dominant power."
+          },
+          {
+            "de": "Konkreter Quellenbeleg und eine Grenze.",
+            "en": "Specific source evidence and one limitation."
+          }
+        ]
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Buch offen; kein Partner- oder Musterabsatz. Etwa 60–80 Wörter, Deutsch oder Englisch.",
+          "en": "Book open; no partner/model paragraph. About 60–80 words, English or German."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "**Aufgabe 7, Buch geschlossen:** Ein Senat tagt und stimmt ab, während ein Anführer die meisten Truppen und wichtige Finanzmittel kontrolliert. Beweisen die Sitzungen allein ausgewogene Macht? Begründe.",
+          "en": "**Activity 7, book closed:** a Senate meets and votes while one leader controls most troops and major financial resources. Do the meetings alone prove balanced power? Explain."
+        }
+      },
+      {
+        "kind": "p",
+        "text": {
+          "de": "Nächste Einheit: Was verändert sich weiter, und was bleibt bestehen?",
+          "en": "Next lesson: what changes further, and what survives?"
+        }
+      }
+    ]
+  ]
+}
