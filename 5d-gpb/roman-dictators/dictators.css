@@ -839,3 +839,5 @@
 .site-breadcrumb{margin-bottom:1rem;font-size:.9rem}.site-breadcrumb a{color:var(--crimson)}
 @media print{.site-breadcrumb,.tooltip,.controls-card,.spotlight-bar{display:none!important}.table-wrap{max-height:none;overflow:visible}.container{padding:0}.card{box-shadow:none;break-inside:avoid}}
 .address-banner{display:block;margin:0 0 16px;color:var(--ink-muted);font-size:13px;text-decoration:none}
+
+.language-switch{position:fixed;z-index:20;right:.6rem;top:.6rem;display:flex;gap:.2rem;background:var(--bg);padding:.2rem;border-radius:8px;border:1px solid var(--border)}.language-switch button{min-width:2.2rem;min-height:2.2rem;border:0;border-radius:5px;background:transparent;font-weight:700;color:var(--ink)}.language-switch button[aria-pressed="true"]{background:var(--crimson);color:white}.search-input{min-width:0;flex:1}.reset-btn{flex-shrink:0}.source-chip{max-width:100%;overflow-wrap:anywhere}.container{padding-top:56px}@media print{.language-switch{display:none}}

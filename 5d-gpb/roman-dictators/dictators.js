@@ -1,3 +1,45 @@
+import {DE_TEXT, DE_NOTES} from "./de.js";
+// Only the language preference is stored, never search terms or selected records.
+let language = "en";
+const staticTexts = [], staticAttributes = [];
+function t(value, vars = {}) {
+  let text = language === "de" && Object.hasOwn(DE_TEXT, value) ? DE_TEXT[value] : value;
+  if (language === "de" && text.startsWith("Livy, Book ")) text = text.replace("Livy, Book ", "Livius, Buch ");
+  return text.replace(/\{(\w+)\}/g, (_, key) => String(vars[key] ?? "{" + key + "}"));
+}
+function yearText(value) { return language === "de" ? value.replace(/^c\. /, "ca. ").replace(/\bBC\b/g, "v. Chr.") : value; }
+function noteText(d) { return language === "de" ? DE_NOTES[d.id] : d.note; }
+function captureStaticTranslations() {
+  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  let node;
+  while ((node = walker.nextNode())) {
+    if (node.parentElement?.closest("script,style,noscript,.language-switch,.site-footer em")) continue;
+    const raw = node.nodeValue, key = raw.trim().replace(/\s+/g, " ");
+    if (key) staticTexts.push({node, raw, key});
+  }
+  for (const element of document.querySelectorAll("[aria-label],[placeholder],[title]")) {
+    if (element.closest(".language-switch")) continue;
+    for (const name of ["aria-label", "placeholder", "title"]) if (element.hasAttribute(name)) staticAttributes.push({element, name, value: element.getAttribute(name)});
+  }
+}
+function applyStaticLanguage() {
+  for (const {node, raw, key} of staticTexts) node.nodeValue = language === "en" ? raw : raw.match(/^\s*/)[0] + t(key) + raw.match(/\s*$/)[0];
+  for (const {element, name, value} of staticAttributes) element.setAttribute(name, t(value));
+  document.title = t("Dictators of the Roman Republic (501–44 BC)");
+}
+function setLanguage(next, persist = true, redraw = true) {
+  language = next === "de" ? "de" : "en";
+  document.documentElement.lang = language;
+  for (const button of document.querySelectorAll("[data-set-lang]")) button.setAttribute("aria-pressed", String(button.dataset.setLang === language));
+  if (persist) { try { localStorage.setItem("grg23-language", language); } catch { /* Works without storage. */ } }
+  applyStaticLanguage();
+  if (redraw) {
+    renderKPIs(); renderFilterPills(); renderDossier(); renderTimeline(); renderCenturyChart(); renderTable(); hideTooltip();
+    const toggle = document.getElementById("toggleTableBtn");
+    toggle.textContent = t(state.tableVisible ? "Hide Table" : "Show Table");
+  }
+}
+
 
 // =========================================================================
 // COMPLETE DATASET: ALL 90 RECORDED DICTATORSHIPS (70 DISTINCT MEN)
@@ -1516,17 +1558,17 @@ function renderKPIs() {
 
   document.getElementById("headerTotal").textContent = String(total);
   document.getElementById("kpiTotal").textContent = String(total);
-  document.getElementById("kpiUniqueMen").textContent = `${uniqueMen} distinct men`;
+  document.getElementById("kpiUniqueMen").textContent = t("{n} distinct men", {n: uniqueMen});
   document.getElementById("kpiFourthPeak").textContent = String(fourthCentury);
 
   document.getElementById("kpiQuietCount").textContent = String(quietCount);
   document.getElementById("kpiQuietPct").textContent = `${quietPct}%`;
 
   document.getElementById("kpiDisputedCount").textContent = String(disputedTotal);
-  document.getElementById("kpiDisputedDetail").textContent = `${forcedCount} forced • ${extendedCount + diedCount} ext/died`;
+  document.getElementById("kpiDisputedDetail").textContent = t("{forced} forced • {other} ext/died", {forced: forcedCount, other: extendedCount + diedCount});
 
   document.getElementById("kpiBrokeMen").textContent = String(brokeMen);
-  document.getElementById("kpiBrokeTerms").textContent = `${brokeMen} men, ${brokeList.length} terms`;
+  document.getElementById("kpiBrokeTerms").textContent = t("{men} men, {terms} terms", {men: brokeMen, terms: brokeList.length});
 }
 
 // =========================================================================
@@ -1540,7 +1582,7 @@ function getFilteredDictators() {
     if (state.causa && d.causa !== state.causa) return false;
     if (state.exit && d.exit !== state.exit) return false;
     if (q) {
-      const hay = `${d.name} ${d.magister} ${d.yearLabel} ${d.causaLatin} ${d.note} ${d.exitLabel}`.toLowerCase();
+      const hay = `${d.name} ${d.magister} ${d.yearLabel} ${d.causaLatin} ${d.note} ${d.exitLabel} ${DE_NOTES[d.id]} ${t(CAUSA_META[d.causa].label)} ${t(EXIT_META[d.exit].label)}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
     return true;
@@ -1569,7 +1611,7 @@ function renderFilterPills() {
     btn.appendChild(sw);
 
     const lbl = document.createElement("span");
-    lbl.textContent = meta.label;
+    lbl.textContent = t(meta.label);
     btn.appendChild(lbl);
 
     const cnt = document.createElement("span");
@@ -1595,7 +1637,7 @@ function renderFilterPills() {
     btn.appendChild(buildMiniShapeIcon(meta.shape, iconColor));
 
     const lbl = document.createElement("span");
-    lbl.textContent = meta.label;
+    lbl.textContent = t(meta.label);
     btn.appendChild(lbl);
 
     const cnt = document.createElement("span");
@@ -1631,7 +1673,7 @@ function renderTimeline() {
   const filtered = getFilteredDictators();
   const filteredIds = new Set(filtered.map(d => d.id));
 
-  document.getElementById("visibleCountPill").textContent = `Showing ${filtered.length} of ${DICTATORS.length}`;
+  document.getElementById("visibleCountPill").textContent = t("Showing {n} of {total}", {n: filtered.length, total: DICTATORS.length});
 
   // Marker radius & collision-free vertical stacking
   const r = state.era === "all" ? (compact ? 5.2 : 6.4) : (compact ? 6.8 : 8.5);
@@ -1661,7 +1703,7 @@ function renderTimeline() {
     class: "timeline-svg",
     viewBox: `0 0 ${width} ${height}`,
     role: "img",
-    "aria-label": "Interactive timeline of Roman Republic dictatorships"
+    "aria-label": t("Interactive timeline of Roman Republic dictatorships")
   });
 
   const g = svgEl("g", { transform: `translate(${margin.left}, ${margin.top})` });
@@ -1691,7 +1733,7 @@ function renderTimeline() {
       "font-weight": 700,
       "letter-spacing": "0.05em"
     });
-    peakLabel.textContent = `4TH-CENTURY PEAK (${peakCount} TERMS)`;
+    peakLabel.textContent = t(compact && language === "de" ? "4th-c. peak ({n})" : "4TH-CENTURY PEAK ({n} TERMS)", {n: peakCount});
     g.appendChild(peakLabel);
 
     // 120-year hiatus band (202–82 BC)
@@ -1715,7 +1757,7 @@ function renderTimeline() {
       "font-weight": 700,
       "letter-spacing": "0.07em"
     });
-    hiatusTitle.textContent = "120-YEAR HIATUS";
+    hiatusTitle.textContent = t(compact && language === "de" ? "120-year pause" : "120-YEAR HIATUS");
     g.appendChild(hiatusTitle);
 
     const hiatusSub = svgEl("text", {
@@ -1725,7 +1767,7 @@ function renderTimeline() {
       fill: "#78716c",
       "font-size": compact ? 8.5 : 10.5
     });
-    hiatusSub.textContent = "No dictators (202–82 BC)";
+    hiatusSub.textContent = t(compact && language === "de" ? "202–82 BC" : "No dictators (202–82 BC)");
     g.appendChild(hiatusSub);
   }
 
@@ -1760,7 +1802,7 @@ function renderTimeline() {
       "font-size": compact ? 10 : 11.5,
       "font-weight": 600
     });
-    lbl.textContent = `${Math.abs(yr)} BC`;
+    lbl.textContent = yearText(`${Math.abs(yr)} BC`);
     g.appendChild(lbl);
   }
 
@@ -1810,7 +1852,7 @@ function renderTimeline() {
       "font-weight": 700,
       "pointer-events": "none"
     });
-    calloutTxt.textContent = c.text;
+    calloutTxt.textContent = t(c.text);
     g.appendChild(calloutTxt);
   }
 
@@ -1837,7 +1879,7 @@ function renderTimeline() {
       opacity: isVisible ? "1" : "0.14",
       tabindex: "0",
       role: "button",
-      "aria-label": `${d.name}, ${d.yearLabel}`
+      "aria-label": `${d.name}, ${yearText(d.yearLabel)}`
     });
 
     // Transparent hit target ensures reliable clicking/tapping on all shapes across browsers
@@ -1904,7 +1946,7 @@ function showTooltip(evt, d) {
 
   const yrEl = document.createElement("div");
   yrEl.className = "tooltip-year";
-  yrEl.textContent = `${d.yearLabel} • ${d.causaLatin}`;
+  yrEl.textContent = `${yearText(d.yearLabel)} • ${t(d.causaLatin)}`;
   tooltip.appendChild(yrEl);
 
   const causaRow = document.createElement("div");
@@ -1914,13 +1956,13 @@ function showTooltip(evt, d) {
   sw.style.backgroundColor = cMeta.color;
   causaRow.appendChild(sw);
   const cTxt = document.createElement("span");
-  cTxt.textContent = cMeta.label;
+  cTxt.textContent = t(cMeta.label);
   causaRow.appendChild(cTxt);
   tooltip.appendChild(causaRow);
 
   const exitRow = document.createElement("div");
   exitRow.className = "tooltip-row";
-  exitRow.textContent = `Exit: ${d.exitLabel}`;
+  exitRow.textContent = t("Exit: {status}", {status: t(d.exitLabel)});
   tooltip.appendChild(exitRow);
 
   tooltip.style.opacity = "1";
@@ -1959,7 +2001,7 @@ function renderDossier() {
   const cMeta = CAUSA_META[d.causa];
   const eMeta = EXIT_META[d.exit];
 
-  document.getElementById("dossierYearBadge").textContent = d.yearLabel;
+  document.getElementById("dossierYearBadge").textContent = yearText(d.yearLabel);
   const body = document.getElementById("dossierBody");
   body.replaceChildren();
 
@@ -1970,9 +2012,9 @@ function renderDossier() {
 
   const metaEl = document.createElement("p");
   metaEl.className = "dossier-meta";
-  metaEl.append(document.createTextNode("Master of Horse ("));
-  const latin = document.createElement("em"); latin.textContent = "Magister Equitum";
-  const master = document.createElement("strong"); master.textContent = d.magister;
+  metaEl.append(document.createTextNode(t("Master of Horse (")));
+  const latin = document.createElement("em"); latin.textContent = t("Magister Equitum");
+  const master = document.createElement("strong"); master.textContent = t(d.magister);
   metaEl.append(latin, document.createTextNode("): "), master);
   body.appendChild(metaEl);
 
@@ -1985,7 +2027,7 @@ function renderDossier() {
   cBox.style.borderLeft = `4px solid ${cMeta.color}`;
   const cLbl = document.createElement("span");
   cLbl.className = "dossier-box-label";
-  cLbl.textContent = "Reason Appointed (Causa)";
+  cLbl.textContent = t("Reason Appointed (Causa)");
   cBox.appendChild(cLbl);
 
   const cVal = document.createElement("div");
@@ -1995,13 +2037,13 @@ function renderDossier() {
   sw.style.backgroundColor = cMeta.color;
   cVal.appendChild(sw);
   const cTxt = document.createElement("span");
-  cTxt.textContent = cMeta.label;
+  cTxt.textContent = t(cMeta.label);
   cVal.appendChild(cTxt);
   cBox.appendChild(cVal);
 
   const cLat = document.createElement("p");
   cLat.className = "dossier-latin";
-  cLat.textContent = d.causaLatin;
+  cLat.textContent = t(d.causaLatin);
   cBox.appendChild(cLat);
   badges.appendChild(cBox);
 
@@ -2011,14 +2053,14 @@ function renderDossier() {
   eBox.style.borderLeft = `4px solid ${eMeta.accent}`;
   const eLbl = document.createElement("span");
   eLbl.className = "dossier-box-label";
-  eLbl.textContent = "Exit Status";
+  eLbl.textContent = t("Exit Status");
   eBox.appendChild(eLbl);
 
   const eVal = document.createElement("div");
   eVal.className = "dossier-box-val";
   eVal.appendChild(buildMiniShapeIcon(eMeta.shape, eMeta.accent));
   const eTxt = document.createElement("span");
-  eTxt.textContent = d.exitLabel;
+  eTxt.textContent = t(d.exitLabel);
   eVal.appendChild(eTxt);
   eBox.appendChild(eVal);
   badges.appendChild(eBox);
@@ -2028,7 +2070,7 @@ function renderDossier() {
   // Historical note
   const noteBox = document.createElement("div");
   noteBox.className = "dossier-note-box";
-  noteBox.textContent = d.note;
+  noteBox.textContent = noteText(d);
   body.appendChild(noteBox);
 
   // Clickable Sources & References
@@ -2036,7 +2078,7 @@ function renderDossier() {
   sourcesWrap.className = "dossier-sources";
   const srcLabel = document.createElement("span");
   srcLabel.className = "dossier-box-label";
-  srcLabel.textContent = "Sources & Further Reading";
+  srcLabel.textContent = t("Sources & Further Reading");
   sourcesWrap.appendChild(srcLabel);
 
   const linksRow = document.createElement("div");
@@ -2047,7 +2089,7 @@ function renderDossier() {
     a.href = safeSourceURL(src.url);
     a.target = "_blank";
     a.rel = "noopener noreferrer";
-    a.textContent = `${src.label} ↗`;
+    a.textContent = `${t(src.label)} ↗`;
     linksRow.appendChild(a);
   }
   sourcesWrap.appendChild(linksRow);
@@ -2060,7 +2102,7 @@ function renderDossier() {
   const prevBtn = document.createElement("button");
   prevBtn.type = "button";
   prevBtn.className = "nav-btn";
-  prevBtn.textContent = "← Previous";
+  prevBtn.textContent = t("← Previous");
   prevBtn.addEventListener("click", () => {
     const prevIdx = (idx - 1 + DICTATORS.length) % DICTATORS.length;
     selectDictator(DICTATORS[prevIdx].id);
@@ -2068,12 +2110,12 @@ function renderDossier() {
 
   const pos = document.createElement("span");
   pos.className = "nav-pos";
-  pos.textContent = `#${idx + 1} of ${DICTATORS.length}`;
+  pos.textContent = t("#{n} of {total}", {n: idx + 1, total: DICTATORS.length});
 
   const nextBtn = document.createElement("button");
   nextBtn.type = "button";
   nextBtn.className = "nav-btn";
-  nextBtn.textContent = "Next →";
+  nextBtn.textContent = t("Next →");
   nextBtn.addEventListener("click", () => {
     const nextIdx = (idx + 1) % DICTATORS.length;
     selectDictator(DICTATORS[nextIdx].id);
@@ -2125,7 +2167,7 @@ function renderCenturyChart() {
     class: "timeline-svg",
     viewBox: `0 0 ${width} ${height}`,
     role: "img",
-    "aria-label": "Stacked bar chart of Roman dictatorships by century"
+    "aria-label": t("Stacked bar chart of Roman dictatorships by century")
   });
 
   const g = svgEl("g", { transform: `translate(${margin.left}, ${margin.top})` });
@@ -2188,7 +2230,7 @@ function renderCenturyChart() {
       "font-size": 11.5,
       "font-weight": 700
     });
-    totTxt.textContent = row.total === 0 ? "0 (Hiatus)" : String(row.total);
+    totTxt.textContent = row.total === 0 ? t("0 (Hiatus)") : String(row.total);
     g.appendChild(totTxt);
 
     // X-axis two-line label
@@ -2200,7 +2242,7 @@ function renderCenturyChart() {
       "font-size": width < 420 ? 9.5 : 11,
       "font-weight": 700
     });
-    l1.textContent = row.line1;
+    l1.textContent = t(row.line1);
     g.appendChild(l1);
 
     const l2 = svgEl("text", {
@@ -2225,7 +2267,7 @@ function renderCenturyChart() {
     sw.style.backgroundColor = meta.color;
     item.appendChild(sw);
     const txt = document.createElement("span");
-    txt.textContent = meta.label;
+    txt.textContent = t(meta.label);
     item.appendChild(txt);
     legendWrap.appendChild(item);
   }
@@ -2248,7 +2290,7 @@ function renderTable() {
     td.style.textAlign = "center";
     td.style.padding = "20px";
     td.style.color = "#78716c";
-    td.textContent = "No dictators match the current filters.";
+    td.textContent = t("No dictators match the current filters.");
     tr.appendChild(td);
     tbody.appendChild(tr);
     return;
@@ -2260,7 +2302,7 @@ function renderTable() {
 
     const tdYear = document.createElement("td");
     tdYear.className = "td-year";
-    tdYear.textContent = d.yearLabel;
+    tdYear.textContent = yearText(d.yearLabel);
     tr.appendChild(tdYear);
 
     const tdName = document.createElement("td");
@@ -2276,7 +2318,7 @@ function renderTable() {
     sw.className = "swatch";
     sw.style.backgroundColor = cMeta.color;
     cTag.appendChild(sw);
-    cTag.appendChild(document.createTextNode(cMeta.label));
+    cTag.appendChild(document.createTextNode(t(cMeta.label)));
     tdCausa.appendChild(cTag);
     tr.appendChild(tdCausa);
 
@@ -2285,7 +2327,7 @@ function renderTable() {
     const eTag = document.createElement("span");
     eTag.className = "tag";
     eTag.appendChild(buildMiniShapeIcon(eMeta.shape, eMeta.accent));
-    eTag.appendChild(document.createTextNode(d.exitLabel));
+    eTag.appendChild(document.createTextNode(t(d.exitLabel)));
     tdExit.appendChild(eTag);
     tr.appendChild(tdExit);
 
@@ -2300,8 +2342,8 @@ function renderTable() {
       bioLink.href = safeSourceURL(bioSrc.url);
       bioLink.target = "_blank";
       bioLink.rel = "noopener noreferrer";
-      bioLink.textContent = "Bio ↗";
-      bioLink.title = `Open Wikipedia biography for ${d.name}`;
+      bioLink.textContent = t("Bio ↗");
+      bioLink.title = t("Open Wikipedia biography for {name}", {name: d.name});
       bioLink.addEventListener("click", evt => evt.stopPropagation());
       linkGroup.appendChild(bioLink);
     }
@@ -2312,7 +2354,7 @@ function renderTable() {
       pLink.href = safeSourceURL(primarySrc.url);
       pLink.target = "_blank";
       pLink.rel = "noopener noreferrer";
-      pLink.textContent = `${primarySrc.label} ↗`;
+      pLink.textContent = `${t(primarySrc.label)} ↗`;
       pLink.addEventListener("click", evt => evt.stopPropagation());
       linkGroup.appendChild(pLink);
     }
@@ -2404,7 +2446,7 @@ function bindEvents() {
   toggleBtn.addEventListener("click", () => {
     state.tableVisible = !state.tableVisible;
     tableWrap.classList.toggle("collapsed", !state.tableVisible);
-    toggleBtn.textContent = state.tableVisible ? "Hide Table" : "Show Table";
+    toggleBtn.textContent = t(state.tableVisible ? "Hide Table" : "Show Table");
   });
 
   // Responsive redraw on resize
@@ -2422,6 +2464,11 @@ function bindEvents() {
 // INITIALIZATION
 // =========================================================================
 function init() {
+  captureStaticTranslations();
+  let saved = "en";
+  try { saved = localStorage.getItem("grg23-language") || "en"; } catch { /* Storage is optional. */ }
+  setLanguage(saved, false, false);
+  for (const button of document.querySelectorAll("[data-set-lang]")) button.addEventListener("click", () => setLanguage(button.dataset.setLang));
   renderKPIs();
   renderFilterPills();
   renderDossier();
