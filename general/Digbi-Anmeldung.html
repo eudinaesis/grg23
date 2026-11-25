@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bei pro.digbi anmelden und Meine Kurse öffnen – GRG 23</title>
+  <title>Digbi im Browser und in der Moodle-App – GRG 23</title>
   <link rel="stylesheet" href="../assets/styles.css">
   <link rel="stylesheet" href="guides.css">
   <style>
@@ -18,6 +18,10 @@
     .step-copy li + li { margin-top: .6rem; }
     .step-copy p + p { margin-top: .7rem; }
     .guide-address { display: block; color: var(--navy); }
+    .way-nav { display: flex; flex-wrap: wrap; gap: .75rem; margin: 1rem 0; }
+    .way-nav a { display: block; padding: .75rem 1rem; border: 1px solid var(--line); border-radius: .6rem; background: white; font-weight: 700; }
+    .way-heading { margin: 2rem 0 1rem; scroll-margin-top: 1rem; }
+    @media print { .way-nav { display: none; } .way-heading { break-after: avoid; } }
     a, strong { overflow-wrap: anywhere; }
     @media print { figure .screenshot { max-height: 65mm; object-fit: contain; } .account-image { max-height: 65mm; } figcaption { font-size: 9pt; padding: 2mm; } .start-link { background: none; color: #000; border: 1px solid; } }
   </style>
@@ -25,15 +29,17 @@
 </head>
 <body>
   <main class="site-shell">
-<!-- site-breadcrumb:start --><nav class="breadcrumb site-breadcrumb" aria-label="Brotkrumen / Breadcrumbs"><ol><li><a href="../index.html">GRG 23</a></li><li><a href="index.html"><span data-lang="de">Allgemeine Anleitungen</span><span data-lang="en">General guides</span></a></li><li><span aria-current="page">Bei pro.digbi anmelden</span></li></ol></nav><!-- site-breadcrumb:end -->
+<!-- site-breadcrumb:start --><nav class="breadcrumb site-breadcrumb" aria-label="Brotkrumen / Breadcrumbs"><ol><li><a href="../index.html">GRG 23</a></li><li><a href="index.html"><span data-lang="de">Allgemeine Anleitungen</span><span data-lang="en">General guides</span></a></li><li><span aria-current="page">Digbi im Browser und in der Moodle-App</span></li></ol></nav><!-- site-breadcrumb:end -->
     <a class="guide-address" href="index.html">pnorthup.me/grg23 → General → Digbi</a>
     <header class="site-header">
-      <h1>Bei pro.digbi anmelden</h1>
+      <h1>Digbi im Browser und in der Moodle-App</h1>
       <p>Mit dem Microsoft-Schulkonto zu „Meine Kurse“.</p>
     </header>
-    <p><a class="start-link" href="https://pro.digbi.net/" target="_blank" rel="noopener noreferrer">pro.digbi.net öffnen ↗</a></p>
+    <nav class="way-nav" aria-label="Anleitung auswählen"><a href="#browser">A · Im Browser anmelden</a><a href="#moodle">B · Moodle am Schul-iPad installieren und anmelden</a></nav>
     <aside class="note"><strong>Du brauchst dein Schulkonto:</strong> Verwende dieselbe Schul-E-Mail-Adresse und dasselbe Passwort wie für Teams. Erstelle kein neues Digbi-Konto. Teile dein Passwort mit niemandem.</aside>
-    <section class="tutorial" aria-label="Schritt für Schritt">
+    <h2 class="way-heading" id="browser">A · Im Browser anmelden</h2>
+    <p><a class="start-link" href="https://pro.digbi.net/" target="_blank" rel="noopener noreferrer">pro.digbi.net öffnen ↗</a></p>
+    <section class="tutorial" aria-label="Anmeldung im Browser">
       <article class="tutorial-step" id="anmelden">
         <div class="step-copy">
           <h2>1. Digbi öffnen und „Anmelden“ wählen</h2>
@@ -82,6 +88,74 @@
       </article>
     </section>
     <aside class="note"><strong>Fertig?</strong> Du hast die Seite <strong>Meine Kurse</strong> geöffnet. Fehlt der gesuchte Kurs oder ist die Liste leer, frage die Lehrkraft. Die Anmeldung allein bedeutet nicht, dass du schon in jedem Kurs eingeschrieben bist.</aside>
+    <h2 class="way-heading" id="moodle">B · Moodle am Schul-iPad installieren und anmelden</h2>
+    <p>Du kannst Digbi auch in der <strong>Moodle-App</strong> verwenden. Die folgenden Schritte sind für das Schul-iPad.</p>
+    <section class="tutorial" aria-label="Moodle-App installieren und anmelden">
+      <article class="tutorial-step" id="moodle-installieren">
+        <div class="step-copy">
+          <h2>1. Moodle aus dem schulischen App Store installieren</h2>
+          <ol>
+            <li>Öffne auf dem iPad den <strong>schulischen App Store</strong> – dort findest du die von der Schule bereitgestellten Apps.</li>
+            <li>Suche nach <strong>Moodle</strong>. Öffne den Eintrag und starte die Installation. Die Schaltfläche kann je nach Schul-App-Store anders heißen, zum Beispiel <strong>Installieren</strong>.</li>
+            <li>Warte, bis die Installation fertig ist. Öffne danach die App <strong>Moodle</strong> auf deinem iPad.</li>
+          </ol>
+          <div class="note"><strong>Moodle ist schon installiert?</strong> Öffne die App direkt. Findest du Moodle im schulischen App Store nicht oder wird eine private Apple-ID verlangt, frage die Lehrkraft. Nutze für diese Anleitung den schulischen Installationsweg.</div>
+        </div>
+      </article>
+      <article class="tutorial-step" id="moodle-website">
+        <div class="step-copy">
+          <h2>2. Die Website in der Moodle-App eingeben</h2>
+          <p>Beim ersten Start fragt Moodle nach deiner Website. Tippe in das Feld <strong>Your site</strong> (deine Website) und gib <strong>pro.digbi.net</strong> ein.</p>
+          <p>Die Beispieladresse <strong>https://campus.example.edu</strong> ist nur ein Platzhalter. Gib nicht die Schul-E-Mail-Adresse in dieses Feld ein.</p>
+        </div>
+        <figure>
+          <a href="images/digbi/04-moodle-website.webp" target="_blank" rel="noopener" aria-label="Screenshot zum Website-Feld vergrößern"><img class="screenshot" src="images/digbi/04-moodle-website.webp" alt="Erster Start der Moodle-App: Das Feld Your site fragt nach der Adresse der Lernplattform." width="2266" height="1488" loading="lazy"></a>
+          <figcaption>In dieses Feld gehört <strong>pro.digbi.net</strong>, nicht die Beispieladresse.</figcaption>
+        </figure>
+      </article>
+      <article class="tutorial-step" id="moodle-verbinden">
+        <div class="step-copy">
+          <h2>3. Mit pro.digbi.net verbinden</h2>
+          <p>Tippe unter <strong>Connect to your site</strong> (mit deiner Website verbinden) auf den Eintrag <strong>pro.digbi.net</strong>.</p>
+          <p>Wähle nicht eine der anderen vorgeschlagenen Schulen oder Plattformen. Prüfe die Adresse genau.</p>
+        </div>
+        <figure>
+          <a href="images/digbi/05-moodle-verbinden.webp" target="_blank" rel="noopener" aria-label="Screenshot zur Auswahl von pro.digbi.net vergrößern"><img class="screenshot" src="images/digbi/05-moodle-verbinden.webp" alt="Moodle-App mit eingegebener Adresse pro.digbi.net. Die Markierung zeigt auf den passenden Eintrag unter Connect to your site." width="1857" height="1220" loading="lazy"></a>
+          <figcaption>Erst die Adresse eingeben, dann den dazugehörigen Eintrag antippen.</figcaption>
+        </figure>
+      </article>
+      <article class="tutorial-step" id="moodle-microsoft">
+        <div class="step-copy">
+          <h2>4. „Schulkonto (Microsoft)“ wählen</h2>
+          <p>Auf der Anmeldeseite steht <strong>pro.digbi</strong> mit der Adresse <strong>https://pro.digbi.net</strong>. Tippe darunter auf <strong>Schulkonto (Microsoft)</strong>.</p>
+          <p><strong>Die Felder „Username“ und „Password“ lässt du leer.</strong> Unser Schulkonto wird über die Microsoft-Schaltfläche angemeldet.</p>
+          <p>Falls Microsoft nachfragt, wähle dein Schulkonto oder gib <strong>vorname.nachname@grg23vbs.ac.at</strong> und anschließend bei Microsoft dein <strong>Schulpasswort</strong> ein. Verwende dasselbe Konto wie für Teams, kein privates Microsoft-Konto.</p>
+        </div>
+        <figure>
+          <a href="images/digbi/06-moodle-microsoft.webp" target="_blank" rel="noopener" aria-label="Screenshot zur Microsoft-Anmeldung in Moodle vergrößern"><img class="screenshot" src="images/digbi/06-moodle-microsoft.webp" alt="Digbi-Anmeldung in der Moodle-App: Unter den leeren Feldern Username und Password steht Schulkonto (Microsoft)." width="2266" height="1488" loading="lazy"></a>
+          <figcaption>Nutze <strong>Schulkonto (Microsoft)</strong>, nicht die normalen Moodle-Anmeldefelder.</figcaption>
+        </figure>
+      </article>
+      <article class="tutorial-step" id="moodle-zurueck">
+        <div class="step-copy">
+          <h2>5. Zurück zur Moodle-App wechseln</h2>
+          <p>Die Microsoft-Anmeldung kann im Browser weitergehen. Wenn danach die Frage <strong>Open this page in “Moodle”?</strong> (diese Seite in Moodle öffnen?) erscheint, bestätige mit <strong>Öffnen / Open</strong>.</p>
+          <p>Dadurch kehrst du nach der Anmeldung zur Moodle-App zurück. Bestätige die Rückkehr nur im gerade selbst gestarteten Anmeldevorgang.</p>
+        </div>
+        <figure>
+          <a href="images/digbi/07-moodle-oeffnen.webp" target="_blank" rel="noopener" aria-label="Screenshot zur Rückkehr in die Moodle-App vergrößern"><img class="screenshot" src="images/digbi/07-moodle-oeffnen.webp" alt="Bestätigungsfrage des iPads: Open this page in Moodle? Die Auswahl Öffnen führt zurück zur Moodle-App." width="1386" height="740" loading="lazy"></a>
+          <figcaption>Die Rückkehr zu <strong>Moodle</strong> erlauben.</figcaption>
+        </figure>
+      </article>
+      <article class="tutorial-step" id="moodle-kurse">
+        <div class="step-copy">
+          <h2>6. Deine Kurse in der App öffnen</h2>
+          <p>Öffne in der App den Bereich <strong>Meine Kurse</strong> beziehungsweise <strong>My courses</strong>, wenn die App auf Englisch eingestellt ist. Die Navigation kann anders aussehen als auf der Browserseite oben.</p>
+          <p>Wähle den Kurs, den die Lehrkraft nennt. Fehlt er, frage die Lehrkraft. Erstelle kein zweites Konto und melde dich nicht bei einer anderen Moodle-Website an.</p>
+        </div>
+      </article>
+    </section>
+    <aside class="note"><strong>Die App-Anmeldung klappt nicht?</strong> Prüfe zuerst die Website <strong>pro.digbi.net</strong> und dein Microsoft-Schulkonto. Melde dich bei der Lehrkraft, wenn du nicht weiterkommst. Bis dahin kannst du <a href="#browser">Digbi im Browser verwenden</a>.</aside>
     <p class="guide-footer"><a href="index.html">← Zurück zu den allgemeinen Anleitungen</a></p>
   </main>
 </body>
