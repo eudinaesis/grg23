@@ -6,9 +6,9 @@
   <meta name="description" content="Biber der Informatik: Aufgaben üben und Lösungen ansehen.">
   <title>Biber der Informatik – Üben</title>
   <link rel="stylesheet" href="../assets/styles.css">
-  <link rel="stylesheet" href="practice.css?v=20261113">
+  <link rel="stylesheet" href="practice.css?v=20261125-all-grades">
   <script src="../assets/language.js" defer></script>
-  <script src="practice.js?v=20261113" defer></script>
+  <script src="practice.js?v=20261125-all-grades" defer></script>
 <link rel="stylesheet" href="../assets/breadcrumbs.css">
 </head>
 <body>
@@ -28,7 +28,9 @@
     </header>
 
     <section class="controls card" aria-label="Aufgabenauswahl">
-      <fieldset class="difficulty">
+      <label class="grade-label" for="grade-select"><span data-lang="de">Schulstufe</span><span data-lang="en">Grade group</span></label>
+      <select id="grade-select" disabled aria-label="Schulstufe / Grade group"><option>Aufgaben werden geladen …</option></select>
+      <fieldset class="difficulty" disabled>
         <legend><span data-lang="de">Schwierigkeit</span><span data-lang="en">Difficulty</span></legend>
         <div class="choice-row">
           <button type="button" class="difficulty-choice" data-difficulty="easy" aria-pressed="false"><span data-lang="de">Leicht</span><span data-lang="en">Easy</span><span class="count" data-count="easy">0</span></button>
@@ -42,17 +44,14 @@
     </section>
 
     <aside class="note">
-      <p data-lang="de"><strong>Schulstufen 5–6:</strong> Wähle eine Schwierigkeit und eine Aufgabe. Überlege zuerst selbst. Du musst deine Antworten nirgends aufschreiben. Die Bilder sind nicht verschiebbar. Öffne danach die Lösung und vergleiche. Notiere, welche Aufgaben du versucht und welche du richtig gelöst hast.</p>
-      <p data-lang="en"><strong>Grades 5–6:</strong> Choose a difficulty and a task. Think first. You don't have to write your answers anywhere. The pictures cannot be dragged. Afterwards, reveal the solution and compare. Note down which tasks you tried and which you got right.</p>
-      <p data-lang="de"><strong>Aufwärmaufgaben</strong> stammen aus den Schulstufen 3–4 und haben keine eigene Bewertung für 5–6.</p>
-      <p data-lang="en"><strong>Warm-ups</strong> are tasks rated for grades 3–4 with no separate rating for grades 5–6.</p>
+      <p data-lang="de"><strong>Übe für deine Schulstufe:</strong> Wähle deine Schulstufe, eine Schwierigkeit und eine Aufgabe. Du siehst nur Aufgaben, die für deine Schulstufe bewertet sind. Überlege zuerst selbst. Du musst deine Antworten nirgends aufschreiben. Die Bilder sind nicht verschiebbar. Öffne danach die Lösung und vergleiche. Notiere, welche Aufgaben du versucht und welche du richtig gelöst hast.</p>
+      <p data-lang="en"><strong>Practise for your grade:</strong> Choose your grade group, difficulty and task. Only tasks with a rating for your grade group are shown. Think first. You don't have to write your answers anywhere. The pictures cannot be dragged. Afterwards, reveal the solution and compare. Note down which tasks you tried and which you got right.</p>
     </aside>
     <p class="source-note"><span data-lang="de">Die Originalaufgaben sind auf Deutsch; die Sprachwahl übersetzt nur die Navigation und Bedienelemente.</span><span data-lang="en">Original tasks are in German; the language switch translates navigation and controls only.</span></p>
     <div id="status" class="empty-state" role="status" aria-live="polite" data-testid="status"><span data-lang="de">Aufgaben werden geladen …</span><span data-lang="en">Loading tasks …</span></div>
     <article id="task-panel" class="task-panel" hidden data-testid="task-panel" aria-labelledby="task-title">
       <header class="task-heading">
         <div><p id="task-meta" class="task-meta"></p><h2 id="task-title"></h2></div>
-        <span id="warmup-badge" class="warmup-badge" hidden><span data-lang="de">Aufwärmaufgabe</span><span data-lang="en">Warm-up</span></span>
       </header>
       <section class="page-section" aria-labelledby="problem-heading">
         <h3 id="problem-heading"><span data-lang="de">Aufgabe</span><span data-lang="en">Problem</span></h3>
@@ -68,7 +67,8 @@
       </nav>
     </article>
     <footer class="downloads">
-      <a href="downloads/Biber-5-6-2023-2025.pdf" download><span data-lang="de">Alle Aufgaben &amp; Lösungen als PDF (83 Seiten)</span><span data-lang="en">All problems &amp; solutions as PDF (83 pages)</span></a>
+      <a href="downloads/Biber-alle-Schulstufen-2023-2025.pdf" download><span data-lang="de">Alle Aufgaben &amp; Lösungen (Schulstufen 3–13)</span><span data-lang="en">All problems &amp; solutions (grade groups 3–13)</span></a>
+      <a href="downloads/Biber-5-6-2023-2025.pdf" download><span data-lang="de">Frühere Auswahl: Schulstufe 5–6 mit Aufwärmaufgaben</span><span data-lang="en">Previous selection: grades 5–6 with warm-ups</span></a>
       <a href="selection.json"><span data-lang="de">Auswahl und Seitenverzeichnis</span><span data-lang="en">Selection and page index</span></a>
       <a href="SOURCES.md">Quellen &amp; Lizenz / Sources &amp; license</a>
     </footer>

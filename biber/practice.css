@@ -19,7 +19,6 @@
 .task-heading { display: flex; align-items: start; justify-content: space-between; gap: 1rem; padding: 1.25rem; border-radius: 1rem; background: white; box-shadow: var(--shadow); }
 .task-heading h2 { margin: .1rem 0 0; font-size: clamp(1.4rem, 4vw, 2rem); line-height: 1.2; }
 .task-meta { margin: 0; color: var(--muted); font-size: .95rem; }
-.warmup-badge { flex: none; padding: .35rem .65rem; border-radius: 99px; background: #e8f6e9; color: #155b20; font-size: .85rem; font-weight: 750; }
 .page-section { padding: 1rem; border: 1px solid var(--line); border-radius: 1rem; background: white; }
 .page-section h3 { margin: 0 0 .75rem; font-size: 1.2rem; }
 .pages { display: grid; gap: 1rem; }
@@ -33,7 +32,9 @@
 .solution[open] summary { border-bottom: 1px solid var(--line); }
 .solution .pages { padding: 1rem; }
 .task-navigation { display: flex; justify-content: space-between; gap: .75rem; }
-.task-navigation button:disabled { cursor: not-allowed; opacity: .5; }
+.task-navigation button:disabled, .difficulty-choice:disabled { cursor: not-allowed; opacity: .5; }
 .downloads { display: flex; flex-wrap: wrap; gap: .6rem 1rem; margin-top: 1.6rem; font-size: .95rem; }
 [hidden] { display: none !important; }
 @media (max-width: 520px) { .site-shell { width: min(100% - 1rem, 920px); } .task-heading { display: grid; } .page-section { padding: .65rem; } }
+.grade-label { font-weight: 750; }
+#grade-select { width: 100%; min-height: 3rem; padding: .55rem .75rem; border: 1px solid var(--line); border-radius: .6rem; background: white; color: var(--ink); font: inherit; }

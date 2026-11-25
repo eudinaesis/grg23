@@ -14,32 +14,32 @@ Originaltexte, Aufgaben und Lösungen: **BWINF – Bundesweite Informatikwettbew
 
 Lizenz der Aufgaben: **CC BY-SA 4.0**, <https://creativecommons.org/licenses/by-sa/4.0/>. Die Quellseiten enthalten die ursprünglichen Copyright- und Lizenzzeilen. Auswahl, zugeschnittene Abbildungen und Zusammenstellung dieser Übung durch GRG 23 werden ebenfalls unter CC BY-SA 4.0 bereitgestellt. Änderungen: Seiten ausgewählt und neu angeordnet; für die Website in verlustfreie WebP-Bilder umgewandelt und Aufgabe/Lösung bei gemeinsamen Seiten getrennt. Der Inhalt wurde nicht umgeschrieben oder übersetzt. Textversionen sind automatisch extrahiert und können Darstellungsfehler enthalten; für Abbildungen und die genaue Gestaltung sind die Originalbilder maßgeblich.
 
-## Auswahlregel
+## Vollständige Sammlung und Schulstufenfilter (Stand: 25. November 2026)
 
-Pro Heft wird die **Aufgabenliste** in deren ungefähr ansteigender Schwierigkeitsreihenfolge gelesen, nicht die Druckreihenfolge. Sie steht 2023 auf PDF-Dateiseite **5**, 2024 und 2025 auf PDF-Dateiseite **3** (jeweils Druckseite 6).
+Die Website enthält jetzt **alle 108 Aufgaben**: 34 aus 2023, 37 aus 2024 und 37 aus 2025, einschließlich der Aufgaben für höhere Schulstufen. Die frühere Suchgrenze nach der ersten zu schweren Aufgabe entfällt vollständig.
 
-1. Aufgaben mit einer Bewertung für **5–6** aufnehmen.
-2. Aufgaben mit einer Bewertung für **3–4**, aber ohne Bewertung für **5–6**, als **leichte Aufwärmaufgaben** aufnehmen, auch wenn zusätzlich höhere Altersstufen bewertet sind.
-3. „Zu schwer“ bedeutet: weder 3–4 noch 5–6 bewertet, aber eine höhere Altersstufe bewertet.
-4. Nach der **ersten** solchen Aufgabe noch **genau zehn weitere Einträge** prüfen, danach aufhören; der Zähler wird nicht zurückgesetzt.
+Die Bewertungen stammen aus der Kopfzeile jeder **Aufgabenseite**. Fünf Schulstufengruppen stehen zur Wahl: **3–4, 5–6, 7–8, 9–10, 11–13**. Angezeigt werden ausschließlich Aufgaben mit einer ausdrücklichen Bewertung für die gewählte Gruppe. Ein Strich bedeutet „für diese Gruppe nicht bewertet“ und schließt die Aufgabe aus. Es werden keine unbewerteten Aufwärmaufgaben automatisch hinzugefügt.
 
-| Heft | Erster zu schwerer Eintrag | Letzter geprüfter Eintrag | Enthalten |
-|---|---|---|---:|
-| 2023 | 13: Schatzkisten | 23: Go-Bots | 16 |
-| 2024 | 14: Zettel | 24: Stern-Mobiles | 18 |
-| 2025 | 7: Bauklötze 2 | 17: Stammbaum | 11 |
+Die Schwierigkeit gilt immer für die **gewählte Schulstufengruppe**: `einfach` bzw. `leicht` → Leicht, `mittel` → Mittel, `schwer` → Schwer. Dieselbe Aufgabe kann für eine andere Schulstufengruppe eine andere Schwierigkeit haben.
 
-**45 Aufgaben**: 26 leicht (davon 15 Aufwärmaufgaben), 11 mittel, 8 schwer.
+| Schulstufen | Leicht | Mittel | Schwer | Gesamt |
+|---|---:|---:|---:|---:|
+| 3–4 | 10 | 8 | 10 | 28 |
+| 5–6 | 11 | 12 | 12 | 35 |
+| 7–8 | 15 | 15 | 14 | 44 |
+| 9–10 | 15 | 14 | 15 | 44 |
+| 11–13 | 14 | 15 | 15 | 44 |
 
-Die Beschränkung auf diese Suchfenster ist beabsichtigt: spätere Aufgaben mit einer Bewertung für 5–6 gehören daher nicht zu dieser Auswahl, z. B. Ballon-Maschine 2 (2024) sowie Bebrasien, Lefty 2, Momos Spiel und Bibimbap (2025).
-
-Sortierung: **Leicht → Mittel → Schwer** gemäß der 5–6-Bewertung (`einfach` = leicht). Innerhalb einer Stufe: **2023 → 2024 → 2025**, dann die Reihenfolge der jeweiligen Aufgabenliste. Eine exakte jahrgangsübergreifende Feinschwierigkeit wird nicht behauptet.
+Die Gruppen überschneiden sich; eine Aufgabe kann für mehrere Gruppen bewertet sein. Die Voreinstellung bleibt 5–6. Innerhalb einer gewählten Schwierigkeit: Jahr aufsteigend, dann Reihenfolge der jeweiligen **Aufgabenliste**. Die Aufgabenliste steht 2023 auf PDF-Dateiseite 5, 2024 und 2025 auf PDF-Dateiseite 3 (jeweils Druckseite 6). Eine exakte jahrgangsübergreifende Feinschwierigkeit wird nicht behauptet.
 
 ## PDF und Website
 
-- `downloads/Biber-5-6-2023-2025.pdf`: **83 unveränderte Originalseiten**, jede Aufgabe unmittelbar mit ihren Lösungsseiten; auf gemeinsamen Originalseiten stehen Aufgabe und Lösungsbeginn zusammen. PDF-Lesezeichen nennen Schwierigkeit, Jahr und Aufgabentitel. Das PDF enthält ausdrücklich **auch die Lösungen**.
-- `tasks.json`: Website-Daten mit getrennten Aufgaben- und Lösungsbildern sowie automatisch extrahierten Textversionen.
-- `selection.json`: Prüfprotokoll mit Bewertungen, Auswahlentscheidungen, Original-Dateiseiten, Druckseiten, Seiten im kombinierten PDF, Bildzuschnitt-Grenzen und SHA-256-Prüfsummen der Quellen.
-- 20 Aufgaben haben einen Lösungsbeginn auf derselben Originalseite; die Website trennt diesen an der Oberkante des blauen Lösungsfelds. Die Lösung wird erst nach Klick eingeblendet. Die Diagramme selbst sind nicht interaktiv. Antworten müssen nicht aufgeschrieben werden; notiert wird nur, welche Aufgaben versucht und welche richtig gelöst wurden.
+- `downloads/Biber-alle-Schulstufen-2023-2025.pdf`: **212 unveränderte Originalseiten** mit allen 108 Aufgaben und ihren Lösungen. Sortiert nach Jahr und danach nach Reihenfolge der Aufgabenliste; jede Aufgabe unmittelbar mit ihren zugehörigen Lösungsseiten. Eine gemeinsame Schwierigkeitssortierung wäre ohne gewählte Schulstufe nicht eindeutig. PDF-Lesezeichen nennen Jahr und Aufgabentitel.
+- `downloads/Biber-5-6-2023-2025.pdf`: unveränderte **frühere Auswahl** mit 45 Aufgaben auf 83 Seiten einschließlich Aufwärmaufgaben und damaliger Suchgrenze. Sie ist zur weiteren Verwendung alter Links erhalten und ausdrücklich **nicht identisch** mit den nun streng gefilterten 35 Aufgaben für 5–6.
+- Beide PDFs enthalten ausdrücklich **auch die Lösungen**. Auf manchen Originalseiten stehen Aufgabe und Lösungsbeginn gemeinsam.
+- `tasks.json`: vollständige Website-Daten mit Bewertungen aller fünf Gruppen, getrennten Aufgaben- und Lösungsbildern sowie automatisch extrahierten Textversionen.
+- `selection.json` (Version 2): Prüfprotokoll mit vollständiger Auswahlregel, Bewertungen, Original-Dateiseiten, Druckseiten, Seiten im vollständigen PDF, Bildzuschnitt-Grenzen und SHA-256-Prüfsummen der Quellen. Alte globale Schwierigkeits- und Aufwärmkennzeichen wurden durch Bewertungen pro Schulstufengruppe ersetzt.
+- **52 Aufgaben** haben einen Lösungsbeginn auf derselben Originalseite. Die Website trennt diese an der Oberkante des blauen Lösungsfelds. Insgesamt gibt es **264 verlustfreie WebP-Abbildungen**: 108 Aufgabenbilder und 156 Lösungsbilder. Lösungen werden erst nach Klick geladen und eingeblendet; bei Aufgaben-, Schulstufen- oder Schwierigkeitswechsel werden sie wieder geschlossen.
+- Die Diagramme sind nicht interaktiv. Antworten müssen nicht aufgeschrieben werden; notiert wird nur, welche Aufgaben versucht und welche richtig gelöst wurden.
 
 Die Bewertungen wurden aus den Kopfzeilen der **Aufgabenseiten** gelesen (nicht versehentlich von Druckseitenzahlen auf PDF-Dateiseiten geschlossen). Unterschiede der gedruckten Seitenzahlen sind im Protokoll ausdrücklich getrennt dokumentiert.
