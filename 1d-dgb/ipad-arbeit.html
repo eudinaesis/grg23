@@ -12,8 +12,10 @@
     .qr-start .qr { width:100%; max-width:260px; margin:auto; image-rendering:pixelated; }
     .scan-frame { position:relative; width:100%; max-width:420px; }
     .scan-example { display:block; width:100%; border:1px solid var(--line); border-radius:.7rem; }
-    .scan-frame::after { content:"QR-Beispiel"; position:absolute; left:31.5%; top:21%; width:29%; height:39.5%; display:grid; place-items:center; background:#facc15; color:#111827; font-size:.78rem; font-weight:700; text-align:center; border-radius:.2rem; }
-    .share-example { width:100%; max-width:640px; border:1px solid var(--line); border-radius:.7rem; }
+    .share-example { width:100%; border:1px solid var(--line); border-radius:.7rem; }
+    .save-gallery { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:1rem; margin:1rem 0; }
+    .save-gallery figure { margin:0; }
+    @media(max-width:600px){.save-gallery{grid-template-columns:1fr}}
     .step-copy li + li { margin-top:.55rem; }
     .single-window { padding:.9rem; border-left:5px solid #2563eb; background:#eff6ff; border-radius:.45rem; }
     @media(max-width:600px){.qr-start{grid-template-columns:1fr}.qr-start .qr{max-width:220px}}
@@ -43,7 +45,7 @@
             <a href="images/ipad-arbeit/ipad-regeln-qr.png" target="_blank" rel="noopener"><img class="qr" src="images/ipad-arbeit/ipad-regeln-qr.png" width="800" height="800" alt="QR-Code zu den iPad-Regeln."></a>
             <div>
               <ol data-lang="de"><li>Öffne die <strong>Kamera</strong> auf deinem iPad.</li><li>Halte den QR-Code in das Bild.</li><li>Unten in der Mitte erscheint eine <strong>gelbe Blase mit Safari-Zeichen und pnorthup.me</strong>.</li><li><strong>Tippe auf diese Blase.</strong> So öffnest du unsere Regeln.</li></ol>
-              <ol data-lang="en"><li>Open <strong>Camera</strong> on your iPad.</li><li>Hold the QR code in view.</li><li>At the bottom in the middle, a <strong>yellow bubble with the Safari icon and pnorthup.me</strong> appears.</li><li><strong>Tap the bubble.</strong> It opens our rules.</li></ol>
+              <ol data-lang="en"><li>Open <strong>Camera (Kamera)</strong> on your iPad.</li><li>Hold the QR code in view.</li><li>At the bottom in the middle, a <strong>yellow bubble with the Safari icon and pnorthup.me</strong> appears.</li><li><strong>Tap the bubble.</strong> It opens our rules.</li></ol>
               <p class="single-window" data-lang="de"><strong>Bleibe danach auf der Regeln-Seite.</strong> Sie ist dein einziges Browserfenster für den Moment.</p>
               <p class="single-window" data-lang="en"><strong>Stay on the rules page afterwards.</strong> It is your only browser window for now.</p>
             </div>
@@ -62,25 +64,44 @@
 
       <article class="tutorial-step" id="arbeitsblatt">
         <div class="step-copy">
-          <h2><span data-lang="de">3. Dein Arbeitsblatt herunterladen und ausfüllen</span><span data-lang="en">3. Download and complete your worksheet</span></h2>
+          <h2><span data-lang="de">3. Dein Arbeitsblatt herunterladen und speichern</span><span data-lang="en">3. Download and save your worksheet</span></h2>
           <div class="qr-start">
             <a href="images/ipad-arbeit/arbeitsblatt-qr.png" target="_blank" rel="noopener"><img class="qr" src="images/ipad-arbeit/arbeitsblatt-qr.png" width="800" height="800" alt="QR-Code zum Arbeitsblatt als PDF."></a>
             <div>
-              <ol data-lang="de"><li>Öffne wieder die <strong>Kamera</strong>, scanne den zweiten QR-Code und tippe auf die gelbe Link-Blase.</li><li>Das Arbeitsblatt-PDF öffnet sich. <strong>Schreibe noch nicht hinein.</strong> Tippe oben auf <strong>Teilen</strong> (Quadrat mit Pfeil nach oben).</li><li>Tippe im Menü auf <strong>In Dateien sichern</strong>. Siehst du es nicht? Scrolle im Menü ein Stück nach unten.</li><li>Wähle bei <strong>Speichern in</strong>: <strong>Auf meinem iPad → Downloads</strong>. Tippe auf <strong>Sichern</strong>.</li><li>Öffne <strong>Dateien → Downloads</strong> und tippe auf dein gespeichertes Arbeitsblatt.</li><li>Tippe auf <strong>Markieren</strong> (Stift-Symbol). Schreibe mit dem <strong>Pencil</strong> deinen Namen und beide Antworten. Danach: <strong>Fertig</strong>.</li></ol>
-              <ol data-lang="en"><li>Open <strong>Camera</strong> again, scan the second QR code and tap the yellow link bubble.</li><li>The worksheet PDF opens. <strong>Do not write in it yet.</strong> At the top, tap <strong>Share</strong> (square with upward arrow).</li><li>In the menu, tap <strong>Save to Files</strong>. Do not see it? Scroll down a little in the menu.</li><li>For <strong>Save to</strong>, choose <strong>On My iPad → Downloads</strong>. Tap <strong>Save</strong>.</li><li>Open <strong>Files → Downloads</strong> and tap your saved worksheet.</li><li>Tap <strong>Markup</strong> (pen icon). Use the <strong>Pencil</strong> to write your name and both answers. Then tap <strong>Done</strong>.</li></ol>
+              <ol data-lang="de"><li>Öffne wieder die <strong>Kamera</strong>, scanne den zweiten QR-Code und tippe auf die gelbe Link-Blase.</li><li>Die PDF öffnet sich. <strong>Schreibe noch nicht hinein.</strong> Tippe oben auf <strong>Teilen</strong> (Quadrat mit Pfeil nach oben).</li><li>Im Menü: <strong>Mehr anzeigen</strong> → <strong>In Dateien sichern</strong>.</li><li>Tippe auf <strong>Downloads</strong>, dann ins Namensfeld. Tippe <strong>1d-ipad-vorname-nachname</strong> mit deinem eigenen Vor- und Nachnamen. Die Endung <strong>.pdf</strong> bleibt. Tippe auf <strong>Sichern</strong>.</li></ol>
+              <ol data-lang="en"><li>Open <strong>Camera (Kamera)</strong> again, scan the second QR code and tap the yellow link bubble.</li><li>The PDF opens. <strong>Do not write in it yet.</strong> At the top, tap <strong>Share (Teilen)</strong> — a square with an upward arrow.</li><li>In the menu: <strong>Show More (Mehr anzeigen)</strong> → <strong>Save to Files (In Dateien sichern)</strong>.</li><li>Tap <strong>Downloads</strong>, then the name field. Type <strong>1d-ipad-vorname-nachname</strong>, replacing <em>vorname</em> with your first name and <em>nachname</em> with your surname. Keep the <strong>.pdf</strong> extension. Tap <strong>Save (Sichern)</strong>.</li></ol>
               <p class="single-window" data-lang="de"><strong>Ein Fenster nach dem anderen:</strong> Kamera → PDF → Dateien. Öffne nie zwei Apps nebeneinander.</p>
-              <p class="single-window" data-lang="en"><strong>One window at a time:</strong> Camera → PDF → Files. Never open two apps side by side.</p>
+              <p class="single-window" data-lang="en"><strong>One window at a time:</strong> Camera (Kamera) → PDF → Files (Dateien). Never open two apps side by side.</p>
               <p data-lang="de"><a href="ipad-arbeit-Arbeitsblatt.pdf" target="_blank" rel="noopener">Arbeitsblatt-PDF direkt öffnen ↗</a></p>
               <p data-lang="en"><a href="ipad-arbeit-Arbeitsblatt.pdf" target="_blank" rel="noopener">Open the worksheet PDF directly ↗</a></p>
             </div>
           </div>
-          <figure><img class="share-example" src="images/ipad-arbeit/arbeitsblatt-teilen.jpg" width="1200" height="900" loading="lazy" alt="Das geöffnete Arbeitsblatt im Safari-Browser. Das Teilen-Symbol oben zeigt, wo du tippen musst."><figcaption><span data-lang="de">Hier auf <strong>Teilen</strong> tippen: Quadrat mit Pfeil nach oben.</span><span data-lang="en">Tap <strong>Share</strong> here: a square with an upward arrow.</span></figcaption></figure>
+          <div class="save-gallery"><figure><img class="share-example" src="images/ipad-arbeit/arbeitsblatt-teilen.jpg" width="1200" height="900" loading="lazy" alt="Das geöffnete Arbeitsblatt im Safari-Browser. Das Teilen-Symbol oben zeigt, wo du tippen musst."><figcaption><span data-lang="de"><strong>2.</strong> Teilen antippen.</span><span data-lang="en"><strong>2.</strong> Tap Share (Teilen).</span></figcaption></figure><figure><img class="share-example" src="images/ipad-arbeit/arbeitsblatt-mehr-anzeigen.jpg" width="1200" height="900" loading="lazy" alt="Im Teilen-Menü Mehr anzeigen öffnen und In Dateien sichern antippen."><figcaption><span data-lang="de"><strong>3.</strong> Mehr anzeigen → In Dateien sichern.</span><span data-lang="en"><strong>3.</strong> Show More (Mehr anzeigen) → Save to Files (In Dateien sichern).</span></figcaption></figure><figure><img class="share-example" src="images/ipad-arbeit/arbeitsblatt-downloads-speichern.jpg" width="1200" height="900" loading="lazy" alt="Downloads auswählen, Dateiname eingeben und Sichern antippen."><figcaption><span data-lang="de"><strong>4.</strong> Downloads → Name → Sichern.</span><span data-lang="en"><strong>4.</strong> Downloads → name → Save (Sichern).</span></figcaption></figure></div>
           <p data-lang="de"><strong>Fragen auf dem Arbeitsblatt:</strong> Was passiert bei vergessenem oder leerem iPad? In welcher Position soll dein iPad beim Arbeiten liegen?</p>
           <p data-lang="en"><strong>Worksheet questions:</strong> What happens if an iPad is forgotten or has an empty battery? In which position should your iPad lie while working?</p>
           <p data-lang="de"><a href="ipad-arbeit-Anleitung.pdf" target="_blank" rel="noopener">Zweiseitige Druckanleitung öffnen (PDF) ↗</a></p>
           <p data-lang="en"><a href="ipad-arbeit-Anleitung.pdf" target="_blank" rel="noopener">Open the two-sided print instructions (PDF) ↗</a></p>
         </div>
       </article>
+      <article class="tutorial-step" id="dateien-dock"><div class="step-copy">
+        <h2><span data-lang="de">4. Dateien ins Dock ziehen und PDF öffnen</span><span data-lang="en">4. Put Files (Dateien) in the Dock and open your PDF</span></h2>
+        <p data-lang="en"><strong>Your iPad uses German:</strong> follow the German labels in brackets.</p>
+        <ol data-lang="de"><li>Wische vom unteren Rand nach oben zum <strong>Home-Bildschirm</strong>. Suche <strong>Dateien</strong> (blauer Ordner). Falls nötig: Wische in der Mitte des Home-Bildschirms nach unten und suche nach <strong>Dateien</strong>.</li><li>Halte das App-Symbol gedrückt und ziehe es in die Leiste unten: das <strong>Dock</strong>. Lass los. Ist Dateien schon im Dock? Lass es dort.</li><li>Tippe auf <strong>Dateien</strong> im Dock und links auf <strong>Downloads</strong>. Falls nötig zuerst die Seitenleiste öffnen.</li><li>Tippe auf deine Datei <strong>1d-ipad-deinvorname-deinnachname.pdf</strong>. Lade keine neue leere Kopie herunter.</li></ol>
+        <ol data-lang="en"><li>Swipe up from the bottom edge to the <strong>Home Screen (Home-Bildschirm)</strong>. Find <strong>Files (Dateien)</strong>, the blue folder. If needed, swipe down in the middle of the Home Screen and search for <strong>Dateien</strong>.</li><li>Touch and hold the app icon, then drag it into the bottom app bar: the <strong>Dock</strong>. Release it. Already in the Dock? Leave it there.</li><li>Tap <strong>Files (Dateien)</strong> in the Dock, then <strong>Downloads</strong> on the left. Open the sidebar first if needed.</li><li>Tap your file <strong>1d-ipad-yourfirstname-yoursurname.pdf</strong>, using your actual name. Do not download a new empty copy.</li></ol>
+        <div class="save-gallery" style="grid-template-columns:repeat(2,minmax(0,1fr))">
+          <figure><a href="images/ipad-arbeit/dateien-dock.jpg"><img class="share-example" src="images/ipad-arbeit/dateien-dock.jpg" width="1400" height="1050" alt="IMG 0036: Dateien ins Dock ziehen."></a><figcaption><span data-lang="de">Dateien in die App-Leiste unten ziehen.</span><span data-lang="en">Drag Files (Dateien) into the bottom app bar (Dock).</span></figcaption></figure>
+          <figure><a href="images/ipad-arbeit/downloads-oeffnen.jpg"><img class="share-example" src="images/ipad-arbeit/downloads-oeffnen.jpg" width="1400" height="1050" alt="IMG 0037: Downloads und die gespeicherte PDF öffnen."></a><figcaption><span data-lang="de">Downloads → deine gespeicherte PDF.</span><span data-lang="en">Downloads → your saved PDF.</span></figcaption></figure>
+        </div>
+        <p class="single-window" data-lang="de">Das Dock ist nur eine Abkürzung zum Öffnen von Apps. Wir arbeiten weiterhin mit <strong>einer App auf einmal</strong>.</p>
+        <p class="single-window" data-lang="en">The Dock is just a shortcut for opening apps. Keep working in <strong>one app at a time</strong>.</p>
+      </div></article>
+      <article class="tutorial-step" id="ausfuellen"><div class="step-copy">
+        <h2><span data-lang="de">5. Name und zwei Antworten schreiben</span><span data-lang="en">5. Write your name and both answers</span></h2>
+        <p data-lang="de">Die PDF öffnet sich in <strong>Dateien</strong> oder <strong>Vorschau</strong>. Tippe auf <strong>Markieren</strong> (Stiftspitze), wähle einen Stift und schreibe mit dem <strong>Pencil</strong> deinen Namen und beide Antworten in die Kästen. Zum Scrollen nimmst du die Finger. Fehler? <strong>Rückgängig</strong> (gebogener Pfeil).</p>
+        <p data-lang="en">The PDF opens in <strong>Files (Dateien)</strong> or <strong>Preview (Vorschau)</strong>. Tap <strong>Markup (Markieren)</strong>, the pen-tip icon, choose a pen and use the <strong>Pencil</strong> to write your name and both answers in the boxes. Scroll with your fingers. Made a mistake? Tap <strong>Undo (Rückgängig)</strong>, the curved arrow.</p>
+        <p data-lang="de"><strong>Fertig</strong> antippen, falls angezeigt, sonst zurück zur Dateiliste. Öffne dieselbe Datei erneut: Sind Name und beide Antworten gespeichert?</p>
+        <p data-lang="en">Tap <strong>Done (Fertig)</strong> if shown; otherwise return to the file list. Reopen the same file: have your name and both answers been saved?</p>
+      </div></article>
     </section>
   </main>
 </body>

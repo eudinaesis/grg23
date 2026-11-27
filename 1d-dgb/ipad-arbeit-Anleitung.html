@@ -24,10 +24,11 @@
     .qr { width:52mm; height:52mm; display:block; margin:auto; image-rendering:pixelated; }
     .scan { display:block; width:100%; max-height:52mm; object-fit:contain; border:1pt solid #b8c5d4; border-radius:2mm; }
     .scan-wrap { position:relative; }
-    .scan-wrap::after { content:"QR-Beispiel"; position:absolute; left:31.5%; top:21%; width:29%; height:39.5%; display:grid; place-items:center; background:#facc15; color:#111827; font-size:7.5pt; font-weight:700; text-align:center; border-radius:1mm; }
     .scan-grid { display:grid; grid-template-columns:1fr 67mm; gap:5mm; align-items:center; }
-    .share-detail { display:grid; grid-template-columns:67mm 1fr; gap:5mm; align-items:center; margin-top:3mm; }
-    .share-detail img { width:100%; border:1pt solid #b8c5d4; border-radius:2mm; }
+    .save-screens { display:grid; grid-template-columns:repeat(3,1fr); gap:3mm; margin-top:3mm; }
+    .save-screens figure { margin:0; font-size:8.5pt; }
+    .save-screens img { width:100%; border:1pt solid #b8c5d4; border-radius:2mm; }
+    .save-screens figcaption { margin-top:1mm; }
     .tip { padding:3mm 4mm; margin-top:3mm; border-left:4pt solid #f2bf18; background:#fffbe8; }
     .single { padding:3mm 4mm; margin-top:3mm; border-left:4pt solid #2563eb; background:#eff6ff; }
     .icons { display:grid; grid-template-columns:repeat(3,1fr); gap:3mm; margin:3mm 0; }
@@ -37,6 +38,28 @@
     footer { margin-top:auto; display:flex; justify-content:space-between; padding-top:3mm; border-top:.5pt solid #9aa8b8; font-size:8.5pt; color:#526173; }
     @media screen { body { padding:6mm; background:#dce5ee; }.sheet { width:210mm; height:297mm; margin:0 auto 6mm; padding:10mm; background:#fff; box-shadow:0 2px 12px #789; } }
     @media print { .site-breadcrumb { display: none !important; } }
+    .sheet { display:block; padding-bottom:8mm; }
+    footer { position:absolute; bottom:0; left:0; right:0; }
+    .step { padding:3mm; break-inside:avoid; }
+    .step + .step { margin-top:3mm; }
+    .grid { grid-template-columns:45mm 1fr; gap:4mm; }
+    .qr { width:40mm; height:40mm; }
+    .scan-grid { grid-template-columns:1fr 55mm; gap:4mm; }
+    .scan { max-height:42mm; }
+    .compact-scan { display:grid; grid-template-columns:35mm 1fr 62mm; gap:4mm; align-items:center; margin-top:2mm; }
+    .compact-scan .qr { width:33mm; height:33mm; }
+    .compact-scan img:not(.qr) { width:100%; height:auto; border:1pt solid #b8c5d4; border-radius:2mm; }
+    .pair { display:grid; grid-template-columns:repeat(2,1fr); gap:4mm; margin-top:2mm; }
+    .pair figure { margin:0; }
+    .pair img { display:block; width:100%; height:49mm; object-fit:contain; border:1pt solid #b8c5d4; border-radius:2mm; }
+    .pair figcaption { font-size:10pt; margin-top:1.5mm; }
+    .pair p { font-size:10pt; }
+    .small { font-size:9pt; }
+    .subtitle { margin-bottom:3mm; font-size:10.5pt; }
+    li+li { margin-top:1mm; }
+    .tip,.single { margin-top:2mm; padding:2mm 3mm; }
+    h2 { font-size:14pt; }
+    @media screen { footer { left:10mm;right:10mm;bottom:10mm; } }
   </style>
 </head>
 <body>
@@ -74,43 +97,39 @@
       </ol>
       <p class="tip"><strong>So wissen wir, dass du bereit bist:</strong> Dein iPad ist zu und du wartest leise.</p>
     </article>
+    <article class="step">
+      <h2>3 · Zweiter QR-Code: Arbeitsblatt speichern</h2>
+      <div class="compact-scan">
+        <img class="qr" src="images/ipad-arbeit/arbeitsblatt-qr.png" width="800" height="800" alt="QR-Code zum Arbeitsblatt als PDF">
+        <div><ol><li>Öffne wieder die <strong>Kamera</strong>. Scanne diesen zweiten QR-Code und tippe auf die gelbe Link-Blase.</li><li>Die PDF öffnet sich. <strong>Schreibe noch nicht hinein.</strong> Tippe oben auf <strong>Teilen</strong> (Quadrat mit Pfeil nach oben) — siehe Bild.</li></ol></div>
+        <img src="images/ipad-arbeit/arbeitsblatt-teilen.jpg" width="1200" height="900" alt="IMG 0031: Oben das Teilen-Symbol antippen.">
+      </div>
+      <p class="small"><strong>Weiter auf der Rückseite:</strong> Dort speicherst du deine eigene Kopie.</p>
+    </article>
     <footer><span>1D · iPad-Anleitung</span><span>Seite 1 / 2</span></footer>
   </section>
-
   <section class="sheet">
-    <h1>Arbeitsblatt auf dem iPad ausfüllen</h1>
-    <p class="subtitle"><strong>Ein Fenster nach dem anderen:</strong> Kamera → PDF → Dateien → Arbeitsblatt.</p>
-
+    <h1>Speichern, öffnen, ausfüllen</h1>
+    <p class="subtitle">Ein Fenster nach dem anderen. Deine Antworten kommen in deine eigene PDF-Datei.</p>
     <article class="step">
-      <h2>3 · Dein Arbeitsblatt herunterladen</h2>
-      <div class="grid">
-        <img class="qr" src="images/ipad-arbeit/arbeitsblatt-qr.png" width="800" height="800" alt="QR-Code zum Arbeitsblatt als PDF">
-        <div><ol><li>Öffne wieder die <strong>Kamera</strong>.</li><li>Scanne diesen zweiten QR-Code und tippe auf die gelbe Link-Blase.</li></ol></div>
-      </div>
-      <div class="share-detail">
-        <img src="images/ipad-arbeit/arbeitsblatt-teilen.jpg" width="1200" height="900" alt="Das geöffnete Arbeitsblatt im Safari-Browser. Das Teilen-Symbol oben zeigt, wo du tippen musst.">
-        <div>
-          <ol start="3"><li>Das <strong>Arbeitsblatt als PDF</strong> öffnet sich in Safari. <strong>Schreibe noch nicht hinein.</strong> Tippe oben auf <strong>Teilen</strong> — Quadrat mit Pfeil nach oben. Das Bild zeigt dir das Symbol.</li><li>Im Menü tippst du auf <strong>In Dateien sichern</strong>. Siehst du es nicht? Scrolle im Menü ein Stück nach unten.</li><li>Bei <strong>Speichern in</strong> wählst du <strong>Auf meinem iPad → Downloads</strong>. Tippe dann auf <strong>Sichern</strong>.</li></ol>
-          <p class="tip"><strong>Jetzt ist es deine Datei:</strong> Deine Antworten gehören in die gespeicherte Datei in <strong>Dateien</strong> — nicht in die Webseite.</p>
-        </div>
+      <h2>3 · Speichern — weiter von der Vorderseite</h2>
+      <div class="pair">
+        <figure><img src="images/ipad-arbeit/arbeitsblatt-mehr-anzeigen.jpg" width="1200" height="900" alt="IMG 0032: Mehr anzeigen und In Dateien sichern."><figcaption><strong>3.</strong> Im Teilen-Menü: <strong>Mehr anzeigen</strong> öffnen, dann <strong>In Dateien sichern</strong> antippen.</figcaption></figure>
+        <figure><img src="images/ipad-arbeit/arbeitsblatt-downloads-speichern.jpg" width="1200" height="900" alt="IMG 0033: Downloads, Dateiname und Sichern."><figcaption><strong>4.</strong> Tippe auf <strong>Downloads</strong>, dann ins Namensfeld. Tippe <strong>1d-ipad-vorname-nachname</strong> mit deinem eigenen Vor- und Nachnamen. Die Endung <strong>.pdf</strong> bleibt. Tippe auf <strong>Sichern</strong>.</figcaption></figure>
       </div>
     </article>
-
     <article class="step">
-      <h2>4 · Name und Antworten schreiben</h2>
-      <ol>
-        <li>Öffne die App <strong>Dateien</strong> und dann <strong>Downloads</strong>.</li>
-        <li>Tippe auf dein gespeichertes Arbeitsblatt.</li>
-        <li>Tippe auf <strong>Markieren</strong> (das Stift-Symbol).</li>
-        <li>Schreibe mit dem <strong>Pencil</strong> deinen Namen und die Antworten auf beide Fragen.</li>
-        <li>Bei einem Fehler: Tippe auf den gebogenen Pfeil <strong>Rückgängig</strong>. Wenn du fertig bist: Tippe auf <strong>Fertig</strong>.</li>
-      </ol>
-      <div class="icons" aria-label="Symbole auf dem iPad">
-        <div class="icon"><img src="../general/images/ipad-symbols/teilen.svg" alt=""><strong>Teilen</strong><br>Quadrat + Pfeil</div>
-        <div class="icon"><img src="../general/images/ipad-symbols/ordner.svg" alt=""><strong>Dateien</strong><br>Downloads öffnen</div>
-        <div class="icon"><img src="../general/images/ipad-symbols/markieren.svg" alt=""><strong>Markieren</strong><br>mit Pencil schreiben</div>
+      <h2>4 · Dateien ins Dock ziehen und PDF öffnen</h2>
+      <div class="pair">
+        <figure><img src="images/ipad-arbeit/dateien-dock.jpg" width="1400" height="1050" alt="IMG 0036: Die App Dateien in die App-Leiste unten, das Dock, ziehen."><figcaption><strong>1.</strong> Wische vom unteren Rand nach oben zum <strong>Home-Bildschirm</strong>. Suche <strong>Dateien</strong> (blauer Ordner). Halte das App-Symbol gedrückt und ziehe es in die Leiste unten: das <strong>Dock</strong>. Lass los. Schon im Dock? Lass es dort.</figcaption></figure>
+        <figure><img src="images/ipad-arbeit/downloads-oeffnen.jpg" width="1400" height="1050" alt="IMG 0037: In Dateien Downloads öffnen und die gespeicherte PDF antippen."><figcaption><strong>2.</strong> Tippe auf <strong>Dateien</strong> im Dock. Links auf <strong>Downloads</strong> tippen (falls nötig zuerst die Seitenleiste öffnen). Tippe auf <strong>1d-ipad-deinvorname-deinnachname.pdf</strong> — nicht noch einmal herunterladen.</figcaption></figure>
       </div>
-      <p class="check">☐ Mein Name steht auf dem Arbeitsblatt. &nbsp; ☐ Ich habe beide Fragen beantwortet. &nbsp; ☐ Ich habe auf „Fertig“ getippt.</p>
+      <p class="small">Dateien nicht gefunden? Wische in der Mitte des Home-Bildschirms nach unten und suche <strong>Dateien</strong>. Ziehe das gefundene App-Symbol ins Dock. Öffne nur eine App auf einmal.</p>
+    </article>
+    <article class="step">
+      <h2>5 · Name und zwei Antworten schreiben</h2>
+      <p>Die PDF öffnet sich in <strong>Dateien</strong> oder <strong>Vorschau</strong>. Tippe auf <strong>Markieren</strong> (Stiftspitze), wähle einen Stift und schreibe mit dem <strong>Pencil</strong> deinen Namen und beide Antworten in die Kästen. Zum Scrollen nimmst du die Finger. Fehler? <strong>Rückgängig</strong> (gebogener Pfeil).</p>
+      <p><strong>Fertig</strong> antippen, falls angezeigt, sonst zurück zur Dateiliste. Öffne dieselbe Datei erneut und prüfe: <strong>Name und beide Antworten gespeichert?</strong></p>
     </article>
     <footer><span>1D · iPad-Anleitung</span><span>Seite 2 / 2</span></footer>
   </section>
