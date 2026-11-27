@@ -26,6 +26,8 @@
     .scan-wrap { position:relative; }
     .scan-wrap::after { content:"QR-Beispiel"; position:absolute; left:31.5%; top:21%; width:29%; height:39.5%; display:grid; place-items:center; background:#facc15; color:#111827; font-size:7.5pt; font-weight:700; text-align:center; border-radius:1mm; }
     .scan-grid { display:grid; grid-template-columns:1fr 67mm; gap:5mm; align-items:center; }
+    .share-detail { display:grid; grid-template-columns:67mm 1fr; gap:5mm; align-items:center; margin-top:3mm; }
+    .share-detail img { width:100%; border:1pt solid #b8c5d4; border-radius:2mm; }
     .tip { padding:3mm 4mm; margin-top:3mm; border-left:4pt solid #f2bf18; background:#fffbe8; }
     .single { padding:3mm 4mm; margin-top:3mm; border-left:4pt solid #2563eb; background:#eff6ff; }
     .icons { display:grid; grid-template-columns:repeat(3,1fr); gap:3mm; margin:3mm 0; }
@@ -83,14 +85,13 @@
       <h2>3 · Dein Arbeitsblatt herunterladen</h2>
       <div class="grid">
         <img class="qr" src="images/ipad-arbeit/arbeitsblatt-qr.png" width="800" height="800" alt="QR-Code zum Arbeitsblatt als PDF">
+        <div><ol><li>Öffne wieder die <strong>Kamera</strong>.</li><li>Scanne diesen zweiten QR-Code und tippe auf die gelbe Link-Blase.</li></ol></div>
+      </div>
+      <div class="share-detail">
+        <img src="images/ipad-arbeit/arbeitsblatt-teilen.jpg" width="1200" height="900" alt="Das geöffnete Arbeitsblatt im Safari-Browser. Das Teilen-Symbol oben zeigt, wo du tippen musst.">
         <div>
-          <ol>
-            <li>Öffne wieder die <strong>Kamera</strong>.</li>
-            <li>Scanne diesen zweiten QR-Code und tippe auf die gelbe Link-Blase.</li>
-            <li>Das <strong>Arbeitsblatt als PDF</strong> öffnet sich. Tippe auf <strong>Teilen</strong> (Quadrat mit Pfeil nach oben).</li>
-            <li>Tippe auf <strong>In Dateien sichern</strong>. Wähle <strong>Auf meinem iPad → Downloads</strong> und tippe auf <strong>Sichern</strong>.</li>
-          </ol>
-          <p class="tip"><strong>Merke dir:</strong> Deine Antworten gehören in deine gespeicherte Datei — nicht in die Webseite.</p>
+          <ol start="3"><li>Das <strong>Arbeitsblatt als PDF</strong> öffnet sich in Safari. <strong>Schreibe noch nicht hinein.</strong> Tippe oben auf <strong>Teilen</strong> — Quadrat mit Pfeil nach oben. Das Bild zeigt dir das Symbol.</li><li>Im Menü tippst du auf <strong>In Dateien sichern</strong>. Siehst du es nicht? Scrolle im Menü ein Stück nach unten.</li><li>Bei <strong>Speichern in</strong> wählst du <strong>Auf meinem iPad → Downloads</strong>. Tippe dann auf <strong>Sichern</strong>.</li></ol>
+          <p class="tip"><strong>Jetzt ist es deine Datei:</strong> Deine Antworten gehören in die gespeicherte Datei in <strong>Dateien</strong> — nicht in die Webseite.</p>
         </div>
       </div>
     </article>
