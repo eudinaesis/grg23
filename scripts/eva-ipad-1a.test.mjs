@@ -39,6 +39,27 @@ test('answers are a named PDF with typed and Pencil sections, then attachment an
  expect((sheet.match(/class="sheet"/g)||[]).length).toBe(2);
  const pdf=fs.readFileSync(path.join(root,'1a-dgb/EVA-iPad-Teams-Arbeitsblatt.pdf')).toString('latin1');expect(pdf).toContain('/URI (https://pnorthup.me/grg23/1a-dgb/EVA-iPad-Teams.html)');
 });
+test('the worksheet labels Aufgabe 2 as last week, explicitly bold',()=>{
+ expect(sheet).toContain('<h2>A · Aufgabe 2 <strong>von letzter Woche</strong>: Teile zuordnen</h2>');
+ expect(sheet).not.toContain('<h2>A · Aufgabe 2: Teile zuordnen</h2>');
+});
+test('key controls have labelled local image references, not fabricated screenshots',()=>{
+ for(const doc of [lesson,guide]){
+  expect(doc).toContain('../assets/ipad-controls.css');expect(doc).toContain('aria-labelledby="symbolhilfe"');
+  expect(doc).toContain('Symbolskizzen, keine Bildschirmfotos');
+  for(const name of ['teilen','ordner','markieren','plus','rueckgaengig','anfuegen'])expect(doc).toContain(`../general/images/ipad-symbols/${name}.svg`);
+  expect(doc).toMatch(/<img[^>]+teilen\.svg[^>]+alt=""[^>]*><strong>Teilen<\/strong>/);
+  expect(doc).toMatch(/<img[^>]+markieren\.svg[^>]+alt=""[^>]*><strong>Markieren<\/strong>/);
+  for(const m of doc.matchAll(/<img\b[^>]*>/g)){expect(m[0]).toContain('alt=');expect(m[0]).toContain('width=');expect(m[0]).toContain('height=');}
+ }
+});
+test('all six original symbol drawings are local passive SVGs',()=>{
+ for(const name of ['teilen','ordner','markieren','plus','rueckgaengig','anfuegen']){
+  const svg=read(`general/images/ipad-symbols/${name}.svg`);expect(svg).toContain('viewBox="0 0 48 48"');expect(svg).toContain('<title>Symbolskizze:');
+  expect(svg).not.toMatch(/<script|<foreignObject|<image|\son\w+=|\bhref=/i);
+ }
+ expect(read('assets/ipad-controls.css')).toContain('.ui-icon');
+});
 test('shared guide is class-neutral and distinguishes save, upload and turn in',()=>{
  for(const text of ['1A','1C','1D'])expect(guide).not.toContain(text);
  for(const text of ['Speichern','Hochladen','Abgeben','keine Aufgabe in Teams','Dateien','Vorschau','ausgefüllte PDF','Schulkonto','Abgabezeit'])expect(guide).toContain(text);
