@@ -9,11 +9,11 @@ test('shared touch-only assignment preserves setup, gesture, evidence and submis
  expect((h.match(/class="questions"/g)||[]).length).toBe(2);
  for(const id of ['vorbereitung','nebeneinander','slide-over','verstecken','meine-arbeit','abgeben'])expect(h).toContain(`id="${id}"`);
 });
-test('1A routes through lesson 7 bonus; 1D and General retain direct assignment links',()=>{
+test('1A routes through lesson 7 bonus; General retains its shared assignment link',()=>{
  expect(read('1a-dgb/index.html')).toContain('href="EVA-iPad-Teams.html"');
  expect(read('1a-dgb/EVA-iPad-Teams.html')).toContain('href="../general/iPad-Multitasking.html"');
- for(const p of ['1d-dgb/index.html','general/index.html'])expect(read(p)).toContain('iPad-Multitasking.html');
- expect(read('1d-dgb/index.html')).toContain('iPad-Multitasking.html?lang=en');
+ expect(read('general/index.html')).toContain('iPad-Multitasking.html');
+ // 1D now has a separate single-window iPad lesson; do not require its obsolete direct multitasking link.
 });
 for(const name of ['iPad-Multitasking-OneNote.html','iPad-Multitasking-OneNote-EN.html'])test(name+': copy-ready without scripts, class labels or external content styles',()=>{
  const h=read('general/'+name);
