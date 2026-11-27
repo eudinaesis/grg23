@@ -10,7 +10,9 @@
   <style>
     .qr-start { display:grid; grid-template-columns:minmax(10rem,18rem) minmax(0,1fr); gap:1.25rem; align-items:center; padding:1rem; border:2px solid var(--navy); border-radius:1rem; background:white; }
     .qr-start .qr { width:100%; max-width:260px; margin:auto; image-rendering:pixelated; }
-    .scan-example { width:100%; max-width:420px; border:1px solid var(--line); border-radius:.7rem; }
+    .scan-frame { position:relative; width:100%; max-width:420px; }
+    .scan-example { display:block; width:100%; border:1px solid var(--line); border-radius:.7rem; }
+    .scan-frame::after { content:"QR-Beispiel"; position:absolute; left:31.5%; top:21%; width:29%; height:39.5%; display:grid; place-items:center; background:#facc15; color:#111827; font-size:.78rem; font-weight:700; text-align:center; border-radius:.2rem; }
     .step-copy li + li { margin-top:.55rem; }
     .single-window { padding:.9rem; border-left:5px solid #2563eb; background:#eff6ff; border-radius:.45rem; }
     @media(max-width:600px){.qr-start{grid-template-columns:1fr}.qr-start .qr{max-width:220px}}
@@ -45,7 +47,7 @@
               <p class="single-window" data-lang="en"><strong>Stay on the rules page afterwards.</strong> It is your only browser window for now.</p>
             </div>
           </div>
-          <figure><img class="scan-example" src="images/ipad-arbeit/qr-code-scan.png" width="2160" height="1620" loading="lazy" alt="iPad-Kamera beim Scannen: gelbe Klammern um den QR-Code; unten eine gelbe Blase mit Safari-Symbol und pnorthup.me."><figcaption><span data-lang="de">So sieht es aus: Warte auf die gelbe Blase unten und tippe darauf.</span><span data-lang="en">This is what it looks like: wait for the yellow bubble at the bottom and tap it.</span></figcaption></figure>
+          <figure class="scan-frame"><img class="scan-example" src="images/ipad-arbeit/qr-code-scan.png" width="1000" height="750" loading="lazy" alt="iPad-Kamera beim Scannen: gelbe Klammern um den QR-Code; unten eine gelbe Blase mit Safari-Symbol und pnorthup.me."><figcaption><span data-lang="de">So sieht es aus: Warte auf die gelbe Blase unten und tippe darauf.</span><span data-lang="en">This is what it looks like: wait for the yellow bubble at the bottom and tap it.</span></figcaption></figure>
         </div>
       </article>
 
@@ -57,11 +59,24 @@
         </div>
       </article>
 
-      <article class="tutorial-step" id="naechste-schritte">
+      <article class="tutorial-step" id="arbeitsblatt">
         <div class="step-copy">
-          <h2><span data-lang="de">Weitere Schritte</span><span data-lang="en">Next steps</span></h2>
-          <p data-lang="de">Die weiteren Einzel-Fenster-Schritte kommen auf das gedruckte Blatt. Du bleibst dabei immer bei einer geöffneten App oder Webseite.</p>
-          <p data-lang="en">The remaining single-window steps go on the printed sheet. You will always stay with one open app or webpage.</p>
+          <h2><span data-lang="de">3. Dein Arbeitsblatt herunterladen und ausfüllen</span><span data-lang="en">3. Download and complete your worksheet</span></h2>
+          <div class="qr-start">
+            <a href="images/ipad-arbeit/arbeitsblatt-qr.png" target="_blank" rel="noopener"><img class="qr" src="images/ipad-arbeit/arbeitsblatt-qr.png" width="800" height="800" alt="QR-Code zum Arbeitsblatt als PDF."></a>
+            <div>
+              <ol data-lang="de"><li>Öffne wieder die <strong>Kamera</strong>, scanne den zweiten QR-Code und tippe auf die gelbe Link-Blase.</li><li>Das Arbeitsblatt-PDF öffnet sich. Tippe auf <strong>Teilen</strong> (Quadrat mit Pfeil nach oben) → <strong>In Dateien sichern</strong> → <strong>Auf meinem iPad → Downloads</strong> → <strong>Sichern</strong>.</li><li>Öffne <strong>Dateien → Downloads</strong> und tippe auf dein gespeichertes Arbeitsblatt.</li><li>Tippe auf <strong>Markieren</strong> (Stift-Symbol). Schreibe mit dem <strong>Pencil</strong> deinen Namen und beide Antworten. Danach: <strong>Fertig</strong>.</li></ol>
+              <ol data-lang="en"><li>Open <strong>Camera</strong> again, scan the second QR code and tap the yellow link bubble.</li><li>The worksheet PDF opens. Tap <strong>Share</strong> (square with upward arrow) → <strong>Save to Files</strong> → <strong>On My iPad → Downloads</strong> → <strong>Save</strong>.</li><li>Open <strong>Files → Downloads</strong> and tap your saved worksheet.</li><li>Tap <strong>Markup</strong> (pen icon). Use the <strong>Pencil</strong> to write your name and both answers. Then tap <strong>Done</strong>.</li></ol>
+              <p class="single-window" data-lang="de"><strong>Ein Fenster nach dem anderen:</strong> Kamera → PDF → Dateien. Öffne nie zwei Apps nebeneinander.</p>
+              <p class="single-window" data-lang="en"><strong>One window at a time:</strong> Camera → PDF → Files. Never open two apps side by side.</p>
+              <p data-lang="de"><a href="ipad-arbeit-Arbeitsblatt.pdf" target="_blank" rel="noopener">Arbeitsblatt-PDF direkt öffnen ↗</a></p>
+              <p data-lang="en"><a href="ipad-arbeit-Arbeitsblatt.pdf" target="_blank" rel="noopener">Open the worksheet PDF directly ↗</a></p>
+            </div>
+          </div>
+          <p data-lang="de"><strong>Fragen auf dem Arbeitsblatt:</strong> Was passiert bei vergessenem oder leerem iPad? In welcher Position soll dein iPad beim Arbeiten liegen?</p>
+          <p data-lang="en"><strong>Worksheet questions:</strong> What happens if an iPad is forgotten or has an empty battery? In which position should your iPad lie while working?</p>
+          <p data-lang="de"><a href="ipad-arbeit-Anleitung.pdf" target="_blank" rel="noopener">Zweiseitige Druckanleitung öffnen (PDF) ↗</a></p>
+          <p data-lang="en"><a href="ipad-arbeit-Anleitung.pdf" target="_blank" rel="noopener">Open the two-sided print instructions (PDF) ↗</a></p>
         </div>
       </article>
     </section>
